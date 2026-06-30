@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>343 Monitor</title>
+  <link rel="stylesheet" href="assets/styles.css?v=20260630c">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="mark"><strong>DELL</strong><span>TECHNOLOGIES</span></div>
+      <div>
+        <div class="kicker">CSG ONLY</div>
+        <h1>343 Monitor</h1>
+        <p class="dek">A live CSG-only view of the media, YouTube and X Watch signals behind the newsletters, built for quick mobile scanning and deeper follow-up.</p>
+      </div>
+    </div>
+    <div class="edition-tag">WEB APP</div>
+  </header>
+
+  <main class="shell">
+    <section class="controls" aria-label="Filters">
+      <div class="search-wrap">
+        <input id="search" type="search" placeholder="Search stories, products, outlets">
+      </div>
+      <div class="tabs" id="tabs">
+        <button type="button" class="active" data-filter="all">All</button>
+        <button type="button" data-filter="dell">Dell</button>
+        <button type="button" data-filter="competitor">Competitors</button>
+        <button type="button" data-filter="market">Market</button>
+        <button type="button" data-filter="deals">Deals</button>
+        <button type="button" data-filter="review">Reviews</button>
+        <button type="button" data-filter="youtube">YouTube</button>
+        <button type="button" data-filter="x">X Watch</button>
+        <button type="button" data-filter="br">Brazilian Outlets</button>
+      </div>
+      <div class="status" id="meta">Loading latest export...</div>
+    </section>
+
+    <section class="section-head">
+      <span></span>
+      <h2>Latest High-Signal Coverage</h2>
+    </section>
+    <section class="highlights" id="highlights"></section>
+
+    <section class="section-head">
+      <span></span>
+      <h2>Chronological Stream</h2>
+    </section>
+    <section class="feed" id="feed"></section>
+    <button type="button" class="load-more" id="loadMore">Load more</button>
+  </main>
+
+  <script src="data/feed.js?v=20260630c"></script>
+  <script src="assets/app.js?v=20260630c"></script>
+</body>
+</html>
