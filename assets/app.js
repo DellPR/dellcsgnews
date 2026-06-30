@@ -39,6 +39,35 @@
     }).format(date);
   }
 
+  function formatRelativeTime(value, prefix = "Published") {
+    if (!value) return "";
+    const date = new Date(value);
+    if (Number.isNaN(date.getTime())) return "";
+    const diffMs = Date.now() - date.getTime();
+    if (diffMs < 0) return `${prefix} just now`;
+
+    const minute = 60 * 1000;
+    const hour = 60 * minute;
+    const day = 24 * hour;
+    const week = 7 * day;
+
+    if (diffMs < minute) return `${prefix} just now`;
+    if (diffMs < hour) {
+      const minutes = Math.max(1, Math.round(diffMs / minute));
+      return `${prefix} ${minutes}m ago`;
+    }
+    if (diffMs < day) {
+      const hours = Math.max(1, Math.round(diffMs / hour));
+      return `${prefix} ${hours}h ago`;
+    }
+    if (diffMs < week) {
+      const days = Math.max(1, Math.round(diffMs / day));
+      return `${prefix} ${days}d ago`;
+    }
+    const weeks = Math.max(1, Math.round(diffMs / week));
+    return `${prefix} ${weeks}w ago`;
+  }
+
   function displayTitle(item) {
     return item.display_title || item.title || item.original_title || "";
   }
@@ -135,7 +164,7 @@
         <h2><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${escapeHtml(item.source || "X Watch post")}</a></h2>
         <div class="x-post">${escapeHtml(displaySummary(item) || displayTitle(item)).replace(/\n/g, "<br>")}</div>
         ${item.why_it_matters ? `<p class="x-reason">${escapeHtml(item.why_it_matters)}</p>` : ""}
-        <div class="foot"><span>X Watch</span><span>${formatDate(item.published_at || item.captured_at, true)}</span>${scoreText(item)}</div>
+        <div class="foot"><span>X Watch</span><span>${formatRelativeTime(item.published_at || item.captured_at, "Posted")}</span>${scoreText(item)}</div>
       </div>
     </article>`;
   }
@@ -153,7 +182,7 @@
         <p>${escapeHtml(displaySummary(item))}</p>
         <div class="foot">
           <span>${escapeHtml(item.section || item.kind || "")}</span>
-          <span>${formatDate(item.published_at || item.captured_at, true)}</span>
+          <span>${formatRelativeTime(item.published_at || item.captured_at)}</span>
           ${scoreText(item)}
         </div>
       </div>
@@ -169,7 +198,7 @@
         <div class="label">${escapeHtml(item.section || item.kind)}</div>
         <h2>${escapeHtml(displayTitle(item))}</h2>
         <p>${escapeHtml(displaySummary(item))}</p>
-        <div class="foot"><span>${formatDate(item.published_at || item.captured_at, true)}</span>${scoreText(item)}</div>
+        <div class="foot"><span>${formatRelativeTime(item.published_at || item.captured_at)}</span>${scoreText(item)}</div>
       </div>
     </a>`;
   }
@@ -198,8 +227,8 @@
       const data = window.MONITOR_HUB_DATA || {items: []};
       state.items = (data.items || []).sort((a, b) => itemTime(b) - itemTime(a));
       state.filtered = state.items;
-      const updated = data.generated_at ? formatDate(data.generated_at, true) : "latest local export";
-      metaEl.textContent = `Last updated ${updated}. Showing newsletter-ready Media Monitor, YouTube Monitor and X Watch signals in reverse chronological order.`;
+      const updated = data.generated_at ? formatRelativeTime(data.generated_at, "Updated") : "latest local export";
+      metaEl.textContent = `${updated}. Showing newsletter-ready Media Monitor, YouTube Monitor and X Watch signals in reverse chronological order.`;
       render();
     } catch (error) {
       feedEl.innerHTML = `<div class="empty">Could not load monitor data yet. Run the hub exporter once.</div>`;
