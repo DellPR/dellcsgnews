@@ -51,7 +51,7 @@
     const blob = itemBlob(item);
     if (item.kind === "x") return "accent-x";
     if (item.kind === "youtube") return "accent-youtube";
-    if (item.is_dell_story || /dell|xps|alienware/i.test(blob)) return "accent-dell";
+    if (item.has_dell_mention) return "accent-dell";
     if (isDeal(item)) return "accent-deals";
     if (/competitor|apple|lenovo|hp|asus|acer|msi|framework|samsung|surface|positivo|lg/i.test(blob)) return "accent-competitor";
     if (/market|ecosystem|industry|signal|brief/i.test(blob)) return "accent-market";
@@ -69,7 +69,7 @@
   function matchesFilter(item) {
     const blob = itemBlob(item);
     if (state.filter === "all") return true;
-    if (state.filter === "dell") return item.is_dell_story || /dell|xps|alienware/i.test(blob);
+    if (state.filter === "dell") return Boolean(item.has_dell_mention);
     if (state.filter === "competitor") return /competitor|apple|lenovo|hp|asus|acer|msi|framework|samsung|surface|positivo|lg/i.test(blob);
     if (state.filter === "market") return /market|ecosystem|industry|signal|brief/i.test(blob) && !isDeal(item);
     if (state.filter === "deals") return isDeal(item);
