@@ -5,6 +5,8 @@
     filter: "all",
     query: "",
     visible: 30,
+    generatedAt: "",
+    refreshing: false,
   };
 
   const feedEl = document.getElementById("feed");
@@ -13,6 +15,7 @@
   const loadMore = document.getElementById("loadMore");
   const search = document.getElementById("search");
   const tabs = document.getElementById("tabs");
+  const refreshFeed = document.getElementById("refreshFeed");
 
   function escapeHtml(value) {
     return String(value ?? "").replace(/[&<>"']/g, ch => ({
@@ -222,14 +225,40 @@
     loadMore.style.display = state.visible < state.filtered.length ? "block" : "none";
   }
 
+  function setData(data, source = "local export") {
+    state.items = (data.items || []).sort((a, b) => itemTime(b) - itemTime(a));
+    state.generatedAt = data.generated_at || "";
+    const updated = data.generated_at ? formatRelativeTime(data.generated_at, "Updated") : source;
+    metaEl.textContent = `${updated}. Showing newsletter-ready Media Monitor, YouTube Monitor and X Watch signals in reverse chronological order.`;
+    applyFilters();
+  }
+
+  async function refreshLatest() {
+    if (state.refreshing) return;
+    state.refreshing = true;
+    refreshFeed.disabled = true;
+    refreshFeed.textContent = "Refreshing";
+    const previousMeta = metaEl.textContent;
+    metaEl.textContent = "Checking for latest export...";
+    try {
+      const response = await fetch(`data/feed.json?ts=${Date.now()}`, {cache: "no-store"});
+      if (!response.ok) throw new Error(`Feed request failed: ${response.status}`);
+      const data = await response.json();
+      setData(data, "latest export");
+    } catch (error) {
+      metaEl.textContent = previousMeta || "Could not refresh yet. Try again in a moment.";
+    } finally {
+      state.refreshing = false;
+      refreshFeed.disabled = false;
+      refreshFeed.textContent = "Refresh";
+    }
+  }
+
   function boot() {
     try {
       const data = window.MONITOR_HUB_DATA || {items: []};
-      state.items = (data.items || []).sort((a, b) => itemTime(b) - itemTime(a));
-      state.filtered = state.items;
-      const updated = data.generated_at ? formatRelativeTime(data.generated_at, "Updated") : "latest local export";
-      metaEl.textContent = `${updated}. Showing newsletter-ready Media Monitor, YouTube Monitor and X Watch signals in reverse chronological order.`;
-      render();
+      setData(data, "latest local export");
+      refreshLatest();
     } catch (error) {
       feedEl.innerHTML = `<div class="empty">Could not load monitor data yet. Run the hub exporter once.</div>`;
       metaEl.textContent = "Waiting for export.";
@@ -255,6 +284,21 @@
     state.visible += 30;
     render();
   });
+
+  refreshFeed.addEventListener("click", refreshLatest);
+
+  let touchStartY = 0;
+  let pullStartedAtTop = false;
+  window.addEventListener("touchstart", event => {
+    touchStartY = event.touches[0]?.clientY || 0;
+    pullStartedAtTop = window.scrollY <= 4;
+  }, {passive: true});
+
+  window.addEventListener("touchend", event => {
+    if (!pullStartedAtTop || state.refreshing) return;
+    const endY = event.changedTouches[0]?.clientY || 0;
+    if (endY - touchStartY > 85) refreshLatest();
+  }, {passive: true});
 
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", boot);

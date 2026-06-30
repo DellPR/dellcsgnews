@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>343 Monitor</title>
-  <link rel="stylesheet" href="assets/styles.css?v=20260630g">
+  <link rel="stylesheet" href="assets/styles.css?v=20260630h">
 </head>
 <body>
   <header class="topbar">
@@ -35,7 +35,10 @@
         <button type="button" data-filter="x">X Watch</button>
         <button type="button" data-filter="br">Brazilian Outlets</button>
       </div>
-      <div class="status" id="meta">Loading latest export...</div>
+      <div class="status-row">
+        <div class="status" id="meta">Loading latest export...</div>
+        <button type="button" class="refresh-button" id="refreshFeed" aria-label="Refresh latest news">Refresh</button>
+      </div>
     </section>
 
     <section class="section-head">
@@ -52,7 +55,7 @@
     <button type="button" class="load-more" id="loadMore">Load more</button>
   </main>
 
-  <script src="data/feed.js?v=20260630g"></script>
-  <script src="assets/app.js?v=20260630g"></script>
+  <script src="data/feed.js?v=20260630h"></script>
+  <script src="assets/app.js?v=20260630h"></script>
 </body>
 </html>
