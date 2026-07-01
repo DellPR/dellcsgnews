@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-01T18:21:10.972767+00:00",
+  "generated_at": "2026-07-01T18:24:48.057236+00:00",
   "trigger": "manual",
-  "total": 2069,
+  "total": 2070,
   "counts": {
     "media": 1772,
-    "youtube": 270,
+    "youtube": 271,
     "x": 27
   },
   "section_counts": {
     "Ecosystem": 1087,
     "Competitor Coverage": 487,
     "Market Trends": 425,
-    "Dell Coverage": 43,
+    "Dell Coverage": 44,
     "X Watch": 27
   },
   "items": [
@@ -645,6 +645,45 @@
       "is_competitor_story": false,
       "is_market_story": true,
       "market_interest": "high"
+    },
+    {
+      "id": "youtube:48385",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "title": "Crimson Tech reviews Dell XPS 14 as a premium Windows MacBook alternative",
+      "display_title": "Crimson Tech reviews Dell XPS 14 as a premium Windows MacBook alternative",
+      "original_title": "Dell XPS 14 (2026) REVIEW - The BEST 14\" Work / School Laptop...?",
+      "url": "https://www.youtube.com/watch?v=4xZlCeT1eIo",
+      "published_at": "2026-07-01T08:00:36+00:00",
+      "captured_at": "2026-07-01T18:24:03.484653+00:00",
+      "section": "Dell Coverage",
+      "company": "Dell",
+      "product": "Dell XPS 14",
+      "score": 96,
+      "summary": "Crimson Tech gives the 2026 Dell XPS 14 a full premium-laptop review, calling the XPS line the closest Windows equivalent to a MacBook. The review praises the aluminum build, thin/light chassis, 3K 120 Hz OLED touchscreen, strong speakers, high-quality webcam, Force Touch-style glass trackpad, and the ability to keep CPU/GPU performance consistent on battery. The main criticisms are the USB-C-only port selection, keyboard learning curve, limited upgradeability, high pricing, and GPU performance that trails the fastest AMD integrated graphics, while still being capable of lighter gaming and work/school use.",
+      "why_it_matters": "",
+      "thumbnail": "https://i.ytimg.com/vi/4xZlCeT1eIo/maxresdefault.jpg",
+      "tags": [
+        "Crimson Tech",
+        "US",
+        "Dell",
+        "Dell XPS 14",
+        "Review",
+        "Dell Coverage"
+      ],
+      "is_review": true,
+      "is_short": false,
+      "is_sponsored": false,
+      "sponsor_brand": "",
+      "is_dell_story": true,
+      "has_dell_mention": true,
+      "is_competitor_story": false,
+      "is_market_story": false,
+      "also_competitor_story": false,
+      "review_type": "review",
+      "tone": "positive"
     },
     {
       "id": "media:73788",
