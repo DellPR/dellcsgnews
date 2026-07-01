@@ -104,7 +104,10 @@
   }
 
   function isDeal(item) {
-    return /deal|deals|offer|coupon|discount|promo|oferta|cupom|desconto/i.test(itemBlob(item));
+    const url = String(item.url || "");
+    const blob = itemBlob(item);
+    return /\/deals?\b|\/offers?\b|\/coupons?\b/i.test(url)
+      || /\b(deal|deals|offer|offers|coupon|coupons|discount|discounts|promo|promos|sale|sales|oferta|ofertas|cupom|cupons|desconto|descontos)\b/i.test(blob);
   }
 
   function isBrief(item) {
@@ -213,10 +216,18 @@
 
   function highlight(item, topStory = false) {
     const img = item.kind === "youtube" ? youtubeThumb(item) : "";
+    const sourceChips = [
+      chip(item.source || "Source", "source", item.source_icon),
+      item.kind === "youtube" ? chip("YouTube", "youtube") : "",
+      item.country ? chip(item.country) : "",
+      item.is_review ? chip("Review", "review") : "",
+      item.is_sponsored ? chip("Sponsored", "sponsored") : "",
+      item.is_short ? chip("Shorts", "short") : "",
+    ].join("");
     return `<a class="highlight ${topStory ? "top-story-card" : ""} ${accentClass(item)} ${img ? "with-image" : ""}" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">
       ${img}
       <div class="highlight-body">
-        <div class="highlight-source">${chip(item.source || "Source", "source", item.source_icon)}</div>
+        <div class="highlight-source">${sourceChips}</div>
         <div class="label">${escapeHtml(item.section || item.kind)}</div>
         <h2>${escapeHtml(displayTitle(item))}</h2>
         <p>${escapeHtml(displaySummary(item))}</p>
