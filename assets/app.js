@@ -231,7 +231,7 @@
     const topStory = [...state.items]
       .filter(item => item.kind !== "x")
       .filter(item => Number(item.score || 0) >= 90)
-      .sort((a, b) => itemTime(b) - itemTime(a) || Number(b.score || 0) - Number(a.score || 0))[0];
+      .sort((a, b) => Number(b.score || 0) - Number(a.score || 0) || itemTime(b) - itemTime(a))[0];
     highlightsEl.innerHTML = topStory ? highlight(topStory) : "";
   }
 
