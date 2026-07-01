@@ -79,14 +79,26 @@
     return `${item.kind} ${item.section} ${item.company} ${item.product} ${displayTitle(item)} ${item.summary} ${item.source} ${(item.tags || []).join(" ")}`;
   }
 
+  function normalizedSection(item) {
+    return String(item.section || "").trim().toLowerCase();
+  }
+
+  function isCompetitorStory(item) {
+    return Boolean(item.is_competitor_story) || normalizedSection(item) === "competitor coverage";
+  }
+
+  function isMarketStory(item) {
+    const section = normalizedSection(item);
+    return Boolean(item.is_market_story) || section === "market trends" || section === "ecosystem";
+  }
+
   function accentClass(item) {
-    const blob = itemBlob(item);
     if (item.kind === "x") return "accent-x";
-    if (item.kind === "youtube") return "accent-youtube";
     if (item.has_dell_mention) return "accent-dell";
     if (isDeal(item)) return "accent-deals";
-    if (/competitor|apple|lenovo|hp|asus|acer|msi|framework|samsung|surface|positivo|lg/i.test(blob)) return "accent-competitor";
-    if (/market|ecosystem|industry|signal|brief/i.test(blob)) return "accent-market";
+    if (isCompetitorStory(item)) return "accent-competitor";
+    if (isMarketStory(item)) return "accent-market";
+    if (item.kind === "youtube") return "accent-youtube";
     return "accent-default";
   }
 
@@ -102,8 +114,8 @@
     const blob = itemBlob(item);
     if (state.filter === "all") return true;
     if (state.filter === "dell") return Boolean(item.has_dell_mention);
-    if (state.filter === "competitor") return /competitor|apple|lenovo|hp|asus|acer|msi|framework|samsung|surface|positivo|lg/i.test(blob);
-    if (state.filter === "market") return /market|ecosystem|industry|signal|brief/i.test(blob) && !isDeal(item);
+    if (state.filter === "competitor") return isCompetitorStory(item);
+    if (state.filter === "market") return isMarketStory(item) && !isDeal(item);
     if (state.filter === "deals") return isDeal(item);
     if (state.filter === "review") return Boolean(item.is_review);
     if (state.filter === "youtube") return item.kind === "youtube";
