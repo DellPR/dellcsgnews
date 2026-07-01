@@ -1,20 +1,59 @@
 {
-  "generated_at": "2026-07-01T02:13:41.550221+00:00",
-  "trigger": "manual",
-  "total": 2031,
+  "generated_at": "2026-07-01T12:02:44.301511+00:00",
+  "trigger": "youtube",
+  "total": 2032,
   "counts": {
     "media": 1736,
-    "youtube": 268,
+    "youtube": 269,
     "x": 27
   },
   "section_counts": {
     "Ecosystem": 1066,
-    "Competitor Coverage": 477,
+    "Competitor Coverage": 478,
     "Market Trends": 418,
     "Dell Coverage": 43,
     "X Watch": 27
   },
   "items": [
+    {
+      "id": "youtube:47035",
+      "kind": "youtube",
+      "source": "Hardware Canucks",
+      "source_icon": "https://yt3.googleusercontent.com/C-HUUT9dZSMpImqVMDuDOJEr_5b1j2_5v5TwXZhEED8qt958ndFDd0mEmdTVs7EaIlK24N3h=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "title": "Lenovo Legion 5i processor comparison: Aerolake vs. Panther Lake",
+      "display_title": "Lenovo Legion 5i processor comparison: Aerolake vs. Panther Lake",
+      "original_title": "A CPU Choice that Transforms a Gaming Laptop 🤯",
+      "url": "https://www.youtube.com/watch?v=9PD1zjC_wUs",
+      "published_at": "2026-07-01T02:16:46+00:00",
+      "captured_at": "2026-07-01 12:00:06",
+      "section": "Competitor Coverage",
+      "company": "Lenovo",
+      "product": "Lenovo Legion 5i (Core Ultra 9 290HX Plus vs. Core Ultra 9 386H)",
+      "score": 72,
+      "summary": "The video compares two Intel Core Ultra 9 processors in the Lenovo Legion 5i: the 290HX Plus (Aerolake) and the 386H (Panther Lake). Aerolake offers 24 cores, 83W power, and better CPU performance in tasks like Blender and Houdini, while Panther Lake provides 16 cores, 58W power, and significantly better battery life. Gaming performance is nearly identical, but Panther Lake's efficiency makes it ideal for portability, while Aerolake suits CPU-heavy workflows.",
+      "why_it_matters": "",
+      "thumbnail": "https://i2.ytimg.com/vi/9PD1zjC_wUs/hqdefault.jpg",
+      "tags": [
+        "Hardware Canucks",
+        "CA",
+        "Lenovo",
+        "Lenovo Legion 5i (Core Ultra 9 290HX Plus vs. Core Ultra 9 386H)",
+        "Review",
+        "Competitor Coverage"
+      ],
+      "is_review": true,
+      "is_short": false,
+      "is_sponsored": false,
+      "sponsor_brand": "",
+      "is_dell_story": false,
+      "has_dell_mention": false,
+      "is_competitor_story": true,
+      "is_market_story": false,
+      "also_competitor_story": true,
+      "review_type": "comparison",
+      "tone": "mixed"
+    },
     {
       "id": "youtube:46525",
       "kind": "youtube",
@@ -164,7 +203,7 @@
       "published_at": "2026-06-30T21:00:23+00:00",
       "captured_at": "2026-06-30 23:30:12",
       "section": "Dell Coverage",
-      "company": "Dell",
+      "company": "Apple",
       "product": "Dell XPS 14",
       "score": 100,
       "summary": "Lipe Mal Estar frames the Dell XPS 14 as one of the closest things to an ideal Windows notebook and a direct MacBook Pro alternative. The review highlights the 2.8K OLED 120 Hz touchscreen, premium CNC aluminum build, Intel Ultra X7/Panther Lake platform, strong webcam/audio setup, and a thin chassis that still aims at creator and professional performance. The main trade-offs called out are the high price and the port-light design, with USB-C adapters needed for HDMI, RJ45, or USB-A workflows.",
@@ -173,10 +212,11 @@
       "tags": [
         "Lipe Mal Estar",
         "BR",
-        "Dell",
+        "Apple",
         "Dell XPS 14",
         "Review",
-        "Dell Coverage"
+        "Dell Coverage",
+        "Dell"
       ],
       "is_review": true,
       "is_short": false,
