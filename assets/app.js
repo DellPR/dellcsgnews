@@ -111,7 +111,7 @@
   }
 
   function isMiniSignal(item) {
-    return item.score > 0 && item.score < 30 && !item.is_dell_story && !item.is_review && !item.is_sponsored;
+    return Number(item.score || 0) < 50;
   }
 
   function matchesFilter(item) {
