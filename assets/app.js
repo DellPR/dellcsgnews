@@ -228,15 +228,11 @@
       highlightsEl.innerHTML = "";
       return;
     }
-    const now = Date.now();
-    const recentWindow = 7 * 24 * 60 * 60 * 1000;
-    const top = [...state.items]
+    const topStory = [...state.items]
       .filter(item => item.kind !== "x")
-      .filter(item => itemTime(item) && now - itemTime(item) <= recentWindow)
-      .filter(item => item.score >= 65 || item.is_dell_story || item.is_review)
-      .sort((a, b) => (b.score || 0) - (a.score || 0) || itemTime(b) - itemTime(a))
-      .slice(0, 3);
-    highlightsEl.innerHTML = top.map(highlight).join("");
+      .filter(item => Number(item.score || 0) >= 90)
+      .sort((a, b) => itemTime(b) - itemTime(a) || Number(b.score || 0) - Number(a.score || 0))[0];
+    highlightsEl.innerHTML = topStory ? highlight(topStory) : "";
   }
 
   function render() {
