@@ -219,6 +219,10 @@
   }
 
   function renderHighlights() {
+    if (state.filter !== "all" || state.query.trim()) {
+      highlightsEl.innerHTML = "";
+      return;
+    }
     const now = Date.now();
     const recentWindow = 7 * 24 * 60 * 60 * 1000;
     const top = [...state.items]
