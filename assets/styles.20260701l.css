@@ -218,12 +218,13 @@ h1 {
 }
 .card.no-thumb, .compact-card { grid-template-columns: 1fr; }
 .card.has-thumb {
-  grid-template-columns: 360px 1fr;
+  grid-template-columns: minmax(320px, 38%) minmax(0, 1fr);
+  column-gap: 18px;
   min-height: 203px;
   align-items: stretch;
 }
 .card.has-thumb .body {
-  padding-top: 12px;
+  padding: 14px 18px 15px 0;
   max-height: none;
   overflow: visible;
 }
@@ -257,6 +258,7 @@ h1 {
 .card.has-thumb .thumb {
   height: 100%;
   aspect-ratio: 16 / 10;
+  border-right: 1px solid #d8e5ef;
 }
 .card.has-thumb .media-thumb img {
   aspect-ratio: 16 / 10;
@@ -394,8 +396,8 @@ h1 {
   .brand { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
   .mark { border-right: 0; padding-right: 0; }
   .highlights { grid-template-columns: 1fr; }
-  .card.has-thumb { grid-template-columns: 1fr; }
-  .card.has-thumb .body { max-height: none; }
+  .card.has-thumb { grid-template-columns: 1fr; column-gap: 0; }
+  .card.has-thumb .body { max-height: none; padding: 14px 16px 15px; }
   .card.has-thumb p { -webkit-line-clamp: unset; display: block; }
   .top-story-card .highlight-body { height: auto; max-height: none; }
   .top-story-card p { -webkit-line-clamp: unset; display: block; }
