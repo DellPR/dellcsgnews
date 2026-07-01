@@ -120,6 +120,42 @@ h1 { margin: 0; font-size: clamp(34px, 6vw, 56px); line-height: .98; letter-spac
   overflow: hidden;
 }
 .highlight { border-top: 4px solid var(--green); min-height: 170px; }
+.top-story-card {
+  border-color: #0b5f91;
+  border-top-color: var(--dell-blue);
+  box-shadow: 0 12px 28px rgba(0, 125, 184, .18);
+}
+.top-story-card .highlight-body {
+  background: #073b5f;
+  color: #fff;
+  border-top: 4px solid var(--gold);
+}
+.top-story-card .label {
+  color: #b6e2c6;
+}
+.top-story-card h2 {
+  color: #fff;
+  font-size: 23px;
+  line-height: 1.14;
+}
+.top-story-card p {
+  color: #dbeaf4;
+  font-size: 15px;
+}
+.top-story-card .foot {
+  color: #b9d3e5;
+}
+.top-story-card .score-text {
+  color: #d4e6f2;
+}
+.top-story-card .chip {
+  background: rgba(255, 255, 255, .14);
+  color: #fff;
+}
+.top-story-card .chip.source {
+  background: #fff;
+  color: #073b5f;
+}
 .highlight.accent-dell { border-top-color: var(--dell-blue); }
 .highlight.accent-youtube { border-top-color: var(--youtube-red); }
 .highlight.accent-market { border-top-color: var(--market-green); }

@@ -11,6 +11,7 @@
 
   const feedEl = document.getElementById("feed");
   const highlightsEl = document.getElementById("highlights");
+  const topStoryHead = document.getElementById("topStoryHead");
   const metaEl = document.getElementById("meta");
   const loadMore = document.getElementById("loadMore");
   const search = document.getElementById("search");
@@ -209,9 +210,9 @@
     </article>`;
   }
 
-  function highlight(item) {
+  function highlight(item, topStory = false) {
     const img = item.kind === "youtube" ? youtubeThumb(item) : "";
-    return `<a class="highlight ${accentClass(item)} ${img ? "with-image" : ""}" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">
+    return `<a class="highlight ${topStory ? "top-story-card" : ""} ${accentClass(item)} ${img ? "with-image" : ""}" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">
       ${img}
       <div class="highlight-body">
         <div class="highlight-source">${chip(item.source || "Source", "source", item.source_icon)}</div>
@@ -226,13 +227,15 @@
   function renderHighlights() {
     if (state.filter !== "all" || state.query.trim()) {
       highlightsEl.innerHTML = "";
+      if (topStoryHead) topStoryHead.style.display = "none";
       return;
     }
+    if (topStoryHead) topStoryHead.style.display = "";
     const topStory = [...state.items]
       .filter(item => item.kind !== "x")
       .filter(item => Number(item.score || 0) >= 90)
       .sort((a, b) => Number(b.score || 0) - Number(a.score || 0) || itemTime(b) - itemTime(a))[0];
-    highlightsEl.innerHTML = topStory ? highlight(topStory) : "";
+    highlightsEl.innerHTML = topStory ? highlight(topStory, true) : "";
   }
 
   function render() {
