@@ -19,23 +19,25 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   color: var(--ink);
-  background: #edf2f7;
+  background: #eaf3f8;
 }
 a { color: inherit; text-decoration: none; }
 .topbar {
-  background: var(--dell-blue);
-  color: #fff;
-  padding: 22px clamp(18px, 4vw, 46px);
+  background: #fff;
+  color: var(--ink);
+  padding: 18px clamp(18px, 4vw, 46px);
   display: flex;
   justify-content: center;
   align-items: center;
-  border-bottom: 4px solid rgba(184, 146, 53, .9);
+  border-top: 5px solid var(--dell-blue);
+  border-bottom: 1px solid #c8d8e6;
+  box-shadow: 0 8px 24px rgba(16, 32, 51, .06);
 }
 .brand {
-  width: 100%;
+  width: min(1120px, 100%);
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);
-  gap: clamp(24px, 4vw, 52px);
+  gap: clamp(28px, 5vw, 72px);
   align-items: center;
   min-width: 0;
 }
@@ -46,42 +48,58 @@ a { color: inherit; text-decoration: none; }
   letter-spacing: 0;
   white-space: nowrap;
   margin-top: 0;
-  font-size: clamp(20px, 2.2vw, 28px);
+  font-size: clamp(18px, 1.8vw, 24px);
+  color: #24364a;
 }
 .mark strong { font-weight: 800; margin-right: 0; }
 .mark span { font-weight: 400; }
-h1 { margin: 0; font-size: clamp(32px, 4vw, 52px); line-height: 1; letter-spacing: 0; }
+h1 {
+  margin: 0;
+  color: var(--dell-blue);
+  font-size: clamp(30px, 3.6vw, 46px);
+  line-height: 1;
+  letter-spacing: 0;
+}
 .dek {
   max-width: 780px;
-  margin: 9px 0 0;
-  color: rgba(255,255,255,.9);
+  margin: 8px 0 0;
+  color: #526174;
   font-size: 14px;
   line-height: 1.45;
 }
 .dek strong {
-  color: #fff;
+  color: #1f6f9e;
   font-weight: 900;
   letter-spacing: .04em;
 }
-.shell { max-width: 1120px; margin: 0 auto; padding: 18px clamp(14px, 3vw, 28px) 44px; }
-.controls { display: grid; gap: 11px; margin-bottom: 18px; }
+.shell { max-width: 1120px; margin: 0 auto; padding: 20px clamp(14px, 3vw, 28px) 48px; }
+.controls {
+  display: grid;
+  gap: 12px;
+  margin-bottom: 20px;
+  background: rgba(255,255,255,.74);
+  border: 1px solid #d8e5ef;
+  border-radius: 8px;
+  padding: 14px;
+  box-shadow: 0 8px 22px rgba(16, 32, 51, .04);
+}
 .search-wrap input {
   width: 100%;
-  min-height: 44px;
-  border: 1px solid var(--line);
+  min-height: 42px;
+  border: 1px solid #cbd9e6;
   border-radius: 6px;
   padding: 0 14px;
-  font-size: 16px;
+  font-size: 15px;
   background: #fff;
 }
 .tabs { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 2px; }
 .tabs button, .load-more {
-  border: 1px solid var(--line);
+  border: 1px solid #d2dde8;
   background: #fff;
   color: var(--ink);
-  border-radius: 6px;
-  min-height: 36px;
-  padding: 0 12px;
+  border-radius: 5px;
+  min-height: 34px;
+  padding: 0 11px;
   font-weight: 700;
   white-space: nowrap;
   cursor: pointer;
@@ -108,7 +126,7 @@ h1 { margin: 0; font-size: clamp(32px, 4vw, 52px); line-height: 1; letter-spacin
 .refresh-button:disabled { color: #98a2b3; cursor: wait; }
 .section-head { display: flex; gap: 10px; align-items: center; margin: 18px 0 10px; }
 .section-head span { width: 5px; height: 22px; background: var(--green); border-right: 3px solid var(--gold); }
-.section-head h2 { margin: 0; font-size: 15px; text-transform: uppercase; letter-spacing: .04em; }
+.section-head h2 { margin: 0; font-size: 14px; text-transform: uppercase; letter-spacing: .05em; color: #172235; }
 .highlights {
   display: grid;
   grid-template-columns: 1fr;
@@ -125,10 +143,10 @@ h1 { margin: 0; font-size: clamp(32px, 4vw, 52px); line-height: 1; letter-spacin
 .top-story-card {
   border-color: #9cc9e6;
   border-top-color: var(--dell-blue);
-  box-shadow: 0 10px 24px rgba(0, 125, 184, .12);
+  box-shadow: 0 10px 24px rgba(0, 125, 184, .10);
 }
 .top-story-card .highlight-body {
-  background: #eef7fc;
+  background: #f3f9fd;
   color: #102033;
   border-top: 3px solid var(--gold);
 }
@@ -182,7 +200,11 @@ h1 { margin: 0; font-size: clamp(32px, 4vw, 52px); line-height: 1; letter-spacin
 .highlight h2 { margin: 8px 0; font-size: 18px; line-height: 1.18; letter-spacing: 0; }
 .highlight p { margin: 0; color: var(--muted); font-size: 14px; line-height: 1.35; }
 .feed { display: grid; gap: 10px; }
-.card { display: grid; min-height: 118px; }
+.card {
+  display: grid;
+  min-height: 118px;
+  box-shadow: 0 4px 14px rgba(16, 32, 51, .035);
+}
 .card.no-thumb, .compact-card { grid-template-columns: 1fr; }
 .card.has-thumb { grid-template-columns: 154px 1fr; }
 .compact-card { min-height: 88px; }
@@ -210,7 +232,7 @@ h1 { margin: 0; font-size: clamp(32px, 4vw, 52px); line-height: 1; letter-spacin
   object-fit: cover;
   display: block;
 }
-.body { padding: 13px 14px 14px; min-width: 0; }
+.body { padding: 14px 16px 15px; min-width: 0; }
 .mini-card .body { padding: 10px 12px; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; align-items: center; }
 .mini-card .chips { margin-bottom: 5px; }
@@ -243,7 +265,7 @@ h1 { margin: 0; font-size: clamp(32px, 4vw, 52px); line-height: 1; letter-spacin
   font-weight: 500;
   letter-spacing: 0;
 }
-.card h2 { margin: 0 0 7px; font-size: 19px; line-height: 1.2; letter-spacing: 0; }
+.card h2 { margin: 0 0 7px; font-size: 18px; line-height: 1.22; letter-spacing: 0; }
 .compact-card h2 { font-size: 16px; }
 .mini-card h2 { margin-bottom: 0; font-size: 15px; line-height: 1.22; }
 .card p { margin: 0; color: var(--muted); line-height: 1.42; font-size: 14px; }
@@ -278,6 +300,48 @@ h1 { margin: 0; font-size: clamp(32px, 4vw, 52px); line-height: 1; letter-spacin
   background: #fff;
   border: 1px solid var(--line);
   border-radius: 8px;
+}
+
+@media (min-width: 900px) {
+  .top-story-card.with-image {
+    display: grid;
+    grid-template-columns: minmax(0, 46%) minmax(0, 54%);
+    align-items: stretch;
+    min-height: 330px;
+  }
+  .top-story-card.with-image .thumb {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: auto;
+    border-right: 1px solid #d2e7f5;
+  }
+  .top-story-card.with-image .thumb img {
+    height: 100%;
+    object-fit: cover;
+  }
+  .top-story-card .highlight-body {
+    border-top: 0;
+    border-left: 4px solid var(--gold);
+    padding: 22px 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .top-story-card h2 {
+    font-size: clamp(25px, 2.8vw, 34px);
+    line-height: 1.08;
+    margin: 10px 0 12px;
+  }
+  .top-story-card p {
+    font-size: 15.5px;
+    line-height: 1.48;
+  }
+  .feed {
+    gap: 12px;
+  }
+  .card {
+    border-radius: 7px;
+  }
 }
 
 @media (max-width: 760px) {
