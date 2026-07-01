@@ -203,7 +203,6 @@
       <div class="body">
         <div class="chips">${itemChips(item)}</div>
         <h2><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${escapeHtml(displayTitle(item))}</a></h2>
-        ${item.original_title && item.original_title !== displayTitle(item) ? `<div class="original-title">${escapeHtml(item.original_title)}</div>` : ""}
         ${mini ? "" : `<p>${escapeHtml(displaySummary(item))}</p>`}
         <div class="foot">
           <span>${escapeHtml(item.section || item.kind || "")}</span>

@@ -218,13 +218,13 @@ h1 {
 }
 .card.no-thumb, .compact-card { grid-template-columns: 1fr; }
 .card.has-thumb {
-  grid-template-columns: 340px 1fr;
-  min-height: 191px;
+  grid-template-columns: 360px 1fr;
+  min-height: 203px;
 }
 .card.has-thumb .body {
   padding-top: 12px;
-  max-height: 191px;
-  overflow: hidden;
+  max-height: none;
+  overflow: visible;
 }
 .compact-card { min-height: 88px; }
 .mini-card { min-height: 64px; }
@@ -293,13 +293,9 @@ h1 {
 .mini-card h2 { margin-bottom: 0; font-size: 15px; line-height: 1.22; }
 .card p { margin: 0; color: var(--muted); line-height: 1.42; font-size: 14px; }
 .card.has-thumb p {
-  display: -webkit-box;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+  display: block;
+  overflow: visible;
 }
-.original-title { margin: -2px 0 8px; color: #98a2b3; font-size: 12px; font-style: italic; }
-.mini-card .original-title { display: none; }
 .foot { margin-top: 10px; color: #7b8794; font-size: 12px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
 .mini-card .foot { margin-top: 6px; font-size: 11px; }
 .x-card { grid-template-columns: 54px 1fr; }
@@ -336,7 +332,7 @@ h1 {
     display: grid;
     grid-template-columns: minmax(0, 50%) minmax(0, 50%);
     align-items: stretch;
-    aspect-ratio: 32 / 9;
+    aspect-ratio: auto;
     min-height: 0;
     background: #f3f9fd;
   }
@@ -360,24 +356,20 @@ h1 {
     justify-content: flex-start;
     height: 100%;
     max-height: none;
-    overflow: hidden;
+    overflow: visible;
   }
   .top-story-card h2 {
     font-size: clamp(22px, 2.3vw, 29px);
     line-height: 1.08;
     margin: 9px 0 10px;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    display: block;
+    overflow: visible;
   }
   .top-story-card p {
     font-size: 14.5px;
     line-height: 1.45;
-    display: -webkit-box;
-    -webkit-line-clamp: 5;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    display: block;
+    overflow: visible;
   }
   .top-story-card .foot {
     margin-top: auto;
