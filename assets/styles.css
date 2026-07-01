@@ -147,6 +147,7 @@ h1 { margin: 0; font-size: clamp(34px, 6vw, 56px); line-height: .98; letter-spac
 .card.no-thumb, .compact-card { grid-template-columns: 1fr; }
 .card.has-thumb { grid-template-columns: 154px 1fr; }
 .compact-card { min-height: 88px; }
+.mini-card { min-height: 64px; }
 .card { border-left: 4px solid #d9e4ef; }
 .card.accent-dell { border-left-color: var(--dell-blue); }
 .card.accent-youtube { border-left-color: var(--youtube-red); }
@@ -171,7 +172,9 @@ h1 { margin: 0; font-size: clamp(34px, 6vw, 56px); line-height: .98; letter-spac
   display: block;
 }
 .body { padding: 13px 14px 14px; min-width: 0; }
+.mini-card .body { padding: 10px 12px; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; align-items: center; }
+.mini-card .chips { margin-bottom: 5px; }
 .chip {
   display: inline-flex;
   gap: 5px;
@@ -203,9 +206,12 @@ h1 { margin: 0; font-size: clamp(34px, 6vw, 56px); line-height: .98; letter-spac
 }
 .card h2 { margin: 0 0 7px; font-size: 19px; line-height: 1.2; letter-spacing: 0; }
 .compact-card h2 { font-size: 16px; }
+.mini-card h2 { margin-bottom: 0; font-size: 15px; line-height: 1.22; }
 .card p { margin: 0; color: var(--muted); line-height: 1.42; font-size: 14px; }
 .original-title { margin: -2px 0 8px; color: #98a2b3; font-size: 12px; font-style: italic; }
+.mini-card .original-title { display: none; }
 .foot { margin-top: 10px; color: #7b8794; font-size: 12px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.mini-card .foot { margin-top: 6px; font-size: 11px; }
 .x-card { grid-template-columns: 54px 1fr; }
 .x-rail {
   background: #111827;

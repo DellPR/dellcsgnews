@@ -110,6 +110,10 @@
     return item.score > 0 && item.score < 50 && !item.is_dell_story && !item.is_review && !item.is_sponsored;
   }
 
+  function isMiniSignal(item) {
+    return item.score > 0 && item.score < 30 && !item.is_dell_story && !item.is_review && !item.is_sponsored;
+  }
+
   function matchesFilter(item) {
     const blob = itemBlob(item);
     if (state.filter === "all") return true;
@@ -187,14 +191,15 @@
   function card(item) {
     if (item.kind === "x") return xCard(item);
     const compact = isDeal(item) || isBrief(item);
+    const mini = isMiniSignal(item);
     const withThumb = item.kind === "youtube" && !compact;
-    return `<article class="card ${accentClass(item)} ${compact ? "compact-card" : ""} ${withThumb ? "has-thumb" : "no-thumb"}">
+    return `<article class="card ${accentClass(item)} ${compact ? "compact-card" : ""} ${mini ? "mini-card" : ""} ${withThumb ? "has-thumb" : "no-thumb"}">
       ${withThumb ? youtubeThumb(item) : ""}
       <div class="body">
         <div class="chips">${itemChips(item)}</div>
         <h2><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${escapeHtml(displayTitle(item))}</a></h2>
         ${item.original_title && item.original_title !== displayTitle(item) ? `<div class="original-title">${escapeHtml(item.original_title)}</div>` : ""}
-        <p>${escapeHtml(displaySummary(item))}</p>
+        ${mini ? "" : `<p>${escapeHtml(displaySummary(item))}</p>`}
         <div class="foot">
           <span>${escapeHtml(item.section || item.kind || "")}</span>
           <span>${formatRelativeTime(item.published_at || item.captured_at)}</span>
