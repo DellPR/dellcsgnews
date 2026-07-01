@@ -19,44 +19,50 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   color: var(--ink);
-  background: #eaf3f8;
+  background:
+    linear-gradient(180deg, #dff0f8 0, #eef6fb 250px, #eef6fb 100%);
 }
 a { color: inherit; text-decoration: none; }
 .topbar {
-  background: #fff;
+  background: transparent;
   color: var(--ink);
-  padding: 18px clamp(18px, 4vw, 46px);
+  padding: 18px clamp(18px, 4vw, 46px) 10px;
   display: flex;
   justify-content: center;
   align-items: center;
-  border-top: 5px solid var(--dell-blue);
-  border-bottom: 1px solid #c8d8e6;
-  box-shadow: 0 8px 24px rgba(16, 32, 51, .06);
 }
 .brand {
   width: min(1120px, 100%);
+  min-height: 96px;
+  background: #fff;
+  border: 1px solid #cfe0ec;
+  border-top: 5px solid var(--dell-blue);
+  border-radius: 10px;
+  box-shadow: 0 14px 34px rgba(16, 32, 51, .09);
+  padding: 18px 22px;
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);
-  gap: clamp(28px, 5vw, 72px);
+  gap: clamp(22px, 3vw, 38px);
   align-items: center;
   min-width: 0;
 }
 .mark {
   border: 0;
-  padding: 0;
+  padding-right: clamp(22px, 3vw, 38px);
+  border-right: 1px solid #dce7f0;
   line-height: 1;
   letter-spacing: 0;
   white-space: nowrap;
   margin-top: 0;
-  font-size: clamp(18px, 1.8vw, 24px);
+  font-size: clamp(18px, 1.7vw, 23px);
   color: #24364a;
 }
 .mark strong { font-weight: 800; margin-right: 0; }
 .mark span { font-weight: 400; }
 h1 {
   margin: 0;
-  color: var(--dell-blue);
-  font-size: clamp(30px, 3.6vw, 46px);
+  color: #0d2438;
+  font-size: clamp(32px, 3.5vw, 44px);
   line-height: 1;
   letter-spacing: 0;
 }
@@ -72,7 +78,7 @@ h1 {
   font-weight: 900;
   letter-spacing: .04em;
 }
-.shell { max-width: 1120px; margin: 0 auto; padding: 20px clamp(14px, 3vw, 28px) 48px; }
+.shell { max-width: 1120px; margin: 0 auto; padding: 12px clamp(14px, 3vw, 28px) 48px; }
 .controls {
   display: grid;
   gap: 12px;
@@ -206,7 +212,8 @@ h1 {
   box-shadow: 0 4px 14px rgba(16, 32, 51, .035);
 }
 .card.no-thumb, .compact-card { grid-template-columns: 1fr; }
-.card.has-thumb { grid-template-columns: 154px 1fr; }
+.card.has-thumb { grid-template-columns: 190px 1fr; }
+.card.has-thumb .body { padding-top: 12px; }
 .compact-card { min-height: 88px; }
 .mini-card { min-height: 64px; }
 .card { border-left: 4px solid #d9e4ef; }
@@ -218,7 +225,9 @@ h1 {
 .card.accent-x { border-left-color: var(--x-ink); }
 .thumb {
   background: var(--soft);
-  min-height: 118px;
+  min-height: 0;
+  aspect-ratio: 16 / 9;
+  align-self: start;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -229,6 +238,7 @@ h1 {
 .media-thumb img {
   width: 100%;
   height: 100%;
+  aspect-ratio: 16 / 9;
   object-fit: cover;
   display: block;
 }
@@ -305,14 +315,14 @@ h1 {
 @media (min-width: 900px) {
   .top-story-card.with-image {
     display: grid;
-    grid-template-columns: minmax(0, 46%) minmax(0, 54%);
-    align-items: stretch;
-    min-height: 330px;
+    grid-template-columns: minmax(0, 44%) minmax(0, 56%);
+    align-items: start;
+    min-height: 0;
   }
   .top-story-card.with-image .thumb {
     width: 100%;
-    height: 100%;
-    aspect-ratio: auto;
+    height: auto;
+    aspect-ratio: 16 / 9;
     border-right: 1px solid #d2e7f5;
   }
   .top-story-card.with-image .thumb img {
@@ -322,10 +332,11 @@ h1 {
   .top-story-card .highlight-body {
     border-top: 0;
     border-left: 4px solid var(--gold);
-    padding: 22px 24px;
+    padding: 20px 24px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
+    min-height: 100%;
   }
   .top-story-card h2 {
     font-size: clamp(25px, 2.8vw, 34px);
@@ -335,6 +346,10 @@ h1 {
   .top-story-card p {
     font-size: 15.5px;
     line-height: 1.48;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
   .feed {
     gap: 12px;
@@ -346,7 +361,8 @@ h1 {
 
 @media (max-width: 760px) {
   .topbar { align-items: flex-start; justify-content: flex-start; }
-  .brand { grid-template-columns: 1fr; gap: 12px; }
+  .brand { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+  .mark { border-right: 0; padding-right: 0; }
   .highlights { grid-template-columns: 1fr; }
   .card.has-thumb { grid-template-columns: 1fr; }
   .thumb { aspect-ratio: 16 / 9; min-height: 0; }
