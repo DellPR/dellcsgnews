@@ -161,6 +161,7 @@
     const parts = [];
     parts.push(chip(item.source || "Source", "source", item.source_icon));
     if (item.country) parts.push(chip(item.country));
+    if (item.kind === "youtube") parts.push(chip("YouTube", "youtube"));
     if (item.is_review) parts.push(chip("Review", "review"));
     if (item.is_sponsored) parts.push(chip("Sponsored", "sponsored"));
     if (item.is_short) parts.push(chip("Shorts", "short"));
