@@ -114,7 +114,7 @@
     const focused = `${item.title || ""} ${item.product || ""} ${item.summary || ""}`.toLowerCase();
     if (/\bxps\b/.test(blob)) return "xps";
     if (/\balienware\b/.test(blob)) {
-      const monitorSignal = /\b(monitor|monitors|ultrawide|oled monitor|qd-oled monitor|gaming monitor|refresh rate|aw\d{2,5}[a-z0-9-]*)\b/.test(focused);
+      const monitorSignal = /\b(monitor|monitors|display|ultrawide|qd-oled|oled monitor|gaming monitor|refresh rate|\d{2,3}\s*hz|aw\d{2,5}[a-z0-9-]*)\b/.test(focused);
       const desktopSignal = /\b(desktop|aurora|tower|r16|r17|area-51 desktop)\b/.test(focused);
       const laptopSignal = /\b(laptop|notebook|mobile workstation|gaming laptop|alienware\s+(?:x|m)?\d{2}|m16|m18|x14|x16|area-51m|area-51\s+(?:laptop|notebook)|alienware\s+16|alienware\s+18)\b/.test(focused);
       if (monitorSignal) return "alienware-monitors";
