@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>343 Monitor</title>
-  <link rel="stylesheet" href="assets/styles.20260701o.css">
+  <link rel="stylesheet" href="assets/styles.20260702a.css">
 </head>
 <body>
   <header class="topbar">
@@ -33,6 +33,15 @@
         <button type="button" data-filter="x">X Watch</button>
         <button type="button" data-filter="br">Brazilian Outlets</button>
       </div>
+      <div class="product-filter" id="productFilter" aria-label="Dell product filters" hidden>
+        <span>Dell products</span>
+        <button type="button" class="active" data-product-filter="all">All Dell</button>
+        <button type="button" data-product-filter="xps">XPS</button>
+        <button type="button" data-product-filter="alienware-laptops">Alienware laptops</button>
+        <button type="button" data-product-filter="alienware-monitors">Alienware monitors</button>
+        <button type="button" data-product-filter="alienware-desktops">Alienware desktops</button>
+        <button type="button" data-product-filter="dell-laptops">Dell laptops</button>
+      </div>
       <div class="status-row">
         <div class="status" id="meta">Loading latest export...</div>
         <button type="button" class="refresh-button" id="refreshFeed" aria-label="Refresh latest news">Refresh</button>
@@ -47,13 +56,13 @@
 
     <section class="section-head">
       <span></span>
-      <h2>Chronological Stream</h2>
+      <h2>CSG NEWS FEED</h2>
     </section>
     <section class="feed" id="feed"></section>
     <button type="button" class="load-more" id="loadMore">Load more</button>
   </main>
 
-  <script src="data/feed.js?v=20260701o"></script>
-  <script src="assets/app.20260701k.js"></script>
+  <script src="data/feed.js?v=20260702a"></script>
+  <script src="assets/app.20260702a.js"></script>
 </body>
 </html>
