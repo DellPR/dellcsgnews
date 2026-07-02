@@ -1,20 +1,59 @@
 {
-  "generated_at": "2026-07-02T00:42:48.015448+00:00",
-  "trigger": "manual",
-  "total": 2129,
+  "generated_at": "2026-07-02T12:02:55.440271+00:00",
+  "trigger": "youtube",
+  "total": 2130,
   "counts": {
     "media": 1815,
-    "youtube": 287,
+    "youtube": 288,
     "x": 27
   },
   "section_counts": {
     "Ecosystem": 1110,
     "Competitor Coverage": 503,
-    "Market Trends": 437,
+    "Market Trends": 438,
     "Dell Coverage": 52,
     "X Watch": 27
   },
   "items": [
+    {
+      "id": "youtube:49288",
+      "kind": "youtube",
+      "source": "CNET",
+      "source_icon": "https://yt3.googleusercontent.com/SGoD0SodPuysPRUSFI8jd_eqR-ZCgvxhZk905338O1NUYI5eUqMZ1lQaekFNiDggJh0lA_5kQg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "title": "Unboxing Valve's $1,428 Steam Machine Bundle",
+      "display_title": "Unboxing Valve's $1,428 Steam Machine Bundle",
+      "original_title": "Unboxing Valve's $1,428 Steam Machine Bundle",
+      "url": "https://www.youtube.com/shorts/nkL0HtuW0Oo",
+      "published_at": "2026-07-02T06:09:29+00:00",
+      "captured_at": "2026-07-02 12:00:07",
+      "section": "Market Trends",
+      "company": "Valve",
+      "product": "Steam Machine Bundle",
+      "score": 60,
+      "summary": "Unboxing Valve's $1,428 Steam Machine Bundle",
+      "why_it_matters": "",
+      "thumbnail": "https://i3.ytimg.com/vi/nkL0HtuW0Oo/hqdefault.jpg",
+      "tags": [
+        "CNET",
+        "US",
+        "Valve",
+        "Steam Machine Bundle",
+        "Shorts",
+        "Market Trends"
+      ],
+      "is_review": false,
+      "is_short": true,
+      "is_sponsored": false,
+      "sponsor_brand": "",
+      "is_dell_story": false,
+      "has_dell_mention": false,
+      "is_competitor_story": false,
+      "is_market_story": true,
+      "also_competitor_story": true,
+      "review_type": "shorts",
+      "tone": ""
+    },
     {
       "id": "youtube:48732",
       "kind": "youtube",
@@ -598,7 +637,7 @@
       "published_at": "2026-07-01T19:36:27+00:00",
       "captured_at": "2026-07-01 23:30:09",
       "section": "Competitor Coverage",
-      "company": "Chuwi",
+      "company": "Apple",
       "product": "Chuwi CoreBook Air",
       "score": 72,
       "summary": "Andrew Marc David reviews the Chuwi CoreBook Air, a more affordable 14-inch laptop with a 2.8K IPS display, Wi-Fi 6E, Intel Core Ultra 5 226V/Lunar Lake processor, 16GB of memory, 512GB of storage and Windows 11 Pro. The review frames it as a lower-cost alternative at a moment when MacBooks, Surface laptops and Galaxy Book models are getting more expensive, while noting the value positioning, metal build, port selection and early hands-on impressions.",
@@ -607,7 +646,7 @@
       "tags": [
         "Andrew Marc David",
         "US",
-        "Chuwi",
+        "Apple",
         "Chuwi CoreBook Air",
         "Review",
         "Competitor Coverage"
@@ -2189,7 +2228,7 @@
       "published_at": "2026-07-01T08:00:36+00:00",
       "captured_at": "2026-07-01T18:24:03.484653+00:00",
       "section": "Dell Coverage",
-      "company": "Dell",
+      "company": "Apple",
       "product": "Dell XPS 14",
       "score": 96,
       "summary": "Crimson Tech gives the 2026 Dell XPS 14 a full premium-laptop review, calling the XPS line the closest Windows equivalent to a MacBook. The review praises the aluminum build, thin/light chassis, 3K 120 Hz OLED touchscreen, strong speakers, high-quality webcam, Force Touch-style glass trackpad, and the ability to keep CPU/GPU performance consistent on battery. The main criticisms are the USB-C-only port selection, keyboard learning curve, limited upgradeability, high pricing, and GPU performance that trails the fastest AMD integrated graphics, while still being capable of lighter gaming and work/school use.",
@@ -2198,10 +2237,11 @@
       "tags": [
         "Crimson Tech",
         "US",
-        "Dell",
+        "Apple",
         "Dell XPS 14",
         "Review",
-        "Dell Coverage"
+        "Dell Coverage",
+        "Dell"
       ],
       "is_review": true,
       "is_short": false,
@@ -2864,7 +2904,7 @@
       "published_at": "2026-06-30T21:00:23+00:00",
       "captured_at": "2026-06-30 23:30:12",
       "section": "Dell Coverage",
-      "company": "Dell",
+      "company": "Apple",
       "product": "Dell XPS 14",
       "score": 100,
       "summary": "Lipe Mal Estar frames the Dell XPS 14 as one of the closest things to an ideal Windows notebook and a direct MacBook Pro alternative. The review highlights the 2.8K OLED 120 Hz touchscreen, premium CNC aluminum build, Intel Ultra X7/Panther Lake platform, strong webcam/audio setup, and a thin chassis that still aims at creator and professional performance. The main trade-offs called out are the high price and the port-light design, with USB-C adapters needed for HDMI, RJ45, or USB-A workflows.",
@@ -2873,10 +2913,11 @@
       "tags": [
         "Lipe Mal Estar",
         "BR",
-        "Dell",
+        "Apple",
         "Dell XPS 14",
         "Review",
-        "Dell Coverage"
+        "Dell Coverage",
+        "Dell"
       ],
       "is_review": true,
       "is_short": false,
@@ -8570,7 +8611,7 @@
       "published_at": "2026-06-29T14:09:59+00:00",
       "captured_at": "2026-06-29 18:00:05",
       "section": "Dell Coverage",
-      "company": "Dell",
+      "company": "Apple",
       "product": "Dell XPS 13; MacBook Neo",
       "score": 75,
       "summary": "The MacBook Neo's $100 price increase raises questions about its value, especially compared to the Dell XPS 13. While the Neo starts at $599 for students, the XPS 13 matches its $699 base price with a larger touchscreen, better I/O, double the storage, and a thinner/lighter design. The review highlights the XPS 13 as a more compelling budget option despite Apple's price hike, though the Neo remains viable for students prioritizing the Apple ecosystem.",
@@ -8579,10 +8620,11 @@
       "tags": [
         "Tom's Guide",
         "US",
-        "Dell",
+        "Apple",
         "Dell XPS 13; MacBook Neo",
         "Shorts",
-        "Dell Coverage"
+        "Dell Coverage",
+        "Dell"
       ],
       "is_review": false,
       "is_short": true,
@@ -69376,7 +69418,7 @@
       "published_at": "2026-04-21T21:20:50+00:00",
       "captured_at": "2026-06-30 18:00:08",
       "section": "Dell Coverage",
-      "company": "Dell",
+      "company": "Apple",
       "product": "Dell XPS 16",
       "score": 95,
       "summary": "TechRax's Al reviews the Dell XPS 16, highlighting its premium build quality, 16-inch OLED display, and Intel Panther Lake performance. The review notes the laptop's return of physical function keys, 32GB RAM/1TB SSD configuration, and 12-hour battery life, while comparing it to the MacBook Pro and Alienware. Key criticisms include fingerprint pickup on the chassis and the absence of a dedicated GPU, though the reviewer recommends it for creatives and premium users.",
@@ -69385,10 +69427,11 @@
       "tags": [
         "Techaeris",
         "US",
-        "Dell",
+        "Apple",
         "Dell XPS 16",
         "Review",
-        "Dell Coverage"
+        "Dell Coverage",
+        "Dell"
       ],
       "is_review": true,
       "is_short": false,
@@ -69533,7 +69576,7 @@
       "published_at": "2026-04-08T21:05:33+00:00",
       "captured_at": "2026-06-30 18:00:08",
       "section": "Dell Coverage",
-      "company": "Dell",
+      "company": "Apple",
       "product": "Dell XPS 14 2026",
       "score": 95,
       "summary": "The Dell XPS 14 2026 returns to its premium identity with an all-aluminum/glass unibody, a 14.6-inch tandem OLED display (120Hz, 100% DCI-P3), and Intel Ultra X 7358H Panther Lake chipset. The review highlights its 32GB RAM, 1TB SSD, and lack of a dedicated GPU, which still handles creative work and casual gaming. The zero-lattice keyboard is noted as uncomfortable for some, and the dark variant has fingerprint issues. Priced at $2,499, it's positioned as a Windows alternative to the MacBook Pro.",
@@ -69542,10 +69585,11 @@
       "tags": [
         "Techaeris",
         "US",
-        "Dell",
+        "Apple",
         "Dell XPS 14 2026",
         "Review",
-        "Dell Coverage"
+        "Dell Coverage",
+        "Dell"
       ],
       "is_review": true,
       "is_short": false,
