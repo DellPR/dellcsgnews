@@ -1,20 +1,58 @@
 {
-  "generated_at": "2026-07-03T00:57:36.482934+00:00",
-  "trigger": "manual",
-  "total": 2228,
+  "generated_at": "2026-07-03T12:03:28.251452+00:00",
+  "trigger": "youtube",
+  "total": 2229,
   "counts": {
     "media": 1909,
-    "youtube": 291,
+    "youtube": 292,
     "x": 28
   },
   "section_counts": {
     "Ecosystem": 1172,
-    "Competitor Coverage": 522,
+    "Competitor Coverage": 523,
     "Market Trends": 454,
     "Dell Coverage": 52,
     "X Watch": 28
   },
   "items": [
+    {
+      "id": "youtube:51897",
+      "kind": "youtube",
+      "source": "Gamers Nexus",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_n50Rj8oqwUnusv4I6_DllKflZrSdSxmXhYvpHs0hOEj5o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "title": "Security vulnerability found in MSI Center software patched by MSI",
+      "display_title": "Security vulnerability found in MSI Center software patched by MSI",
+      "original_title": "MSI Trades Security for RGB",
+      "url": "https://www.youtube.com/watch?v=Eck8NnoaD4M",
+      "published_at": "2026-07-03T00:30:50+00:00",
+      "captured_at": "2026-07-03 12:00:16",
+      "section": "Competitor Coverage",
+      "company": "MSI",
+      "product": "MSI Center software (Notebook Foundation service)",
+      "score": 72,
+      "summary": "A security researcher discovered a critical vulnerability in MSI Center's Notebook Foundation service, allowing authenticated users to execute arbitrary code with high privileges and disable Windows Defender. MSI released a patch (version 2.0.70.0) to address the issue, which was reported through their PSIRT program. The video highlights the vulnerability's risks and the response timeline, though it notes MSI's mailbox was temporarily full during reporting.",
+      "why_it_matters": "",
+      "thumbnail": "https://i2.ytimg.com/vi/Eck8NnoaD4M/hqdefault.jpg",
+      "tags": [
+        "Gamers Nexus",
+        "US",
+        "MSI",
+        "MSI Center software (Notebook Foundation service)",
+        "Competitor Coverage"
+      ],
+      "is_review": false,
+      "is_short": false,
+      "is_sponsored": false,
+      "sponsor_brand": "",
+      "is_dell_story": false,
+      "has_dell_mention": false,
+      "is_competitor_story": true,
+      "is_market_story": false,
+      "also_competitor_story": true,
+      "review_type": "",
+      "tone": ""
+    },
     {
       "id": "media:79347",
       "kind": "media",
