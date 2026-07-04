@@ -250,22 +250,20 @@ h1 {
 .section-chip {
   display: inline-flex;
   align-items: center;
-  min-height: 22px;
-  padding: 4px 8px;
+  min-height: 20px;
+  padding: 3px 7px;
   border-radius: 5px;
   background: #64748b;
   color: #fff !important;
-  font-weight: 900;
+  font-weight: 800;
   font-size: 11px;
   line-height: 1;
-  letter-spacing: .01em;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, .22);
-  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .14);
+  letter-spacing: 0;
 }
 .accent-dell .section-chip { background: var(--dell-blue); }
 .accent-youtube .section-chip { background: var(--youtube-red); }
-.accent-market .section-chip { background: #1f7a4d; }
-.accent-competitor .section-chip { background: #a65f00; }
+.accent-market .section-chip { background: var(--market-green); }
+.accent-competitor .section-chip { background: var(--competitor-amber); }
 .accent-deals .section-chip { background: var(--deal-pink); }
 .accent-x .section-chip { background: var(--x-ink); }
 .highlight .section-chip {
