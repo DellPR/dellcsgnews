@@ -358,13 +358,6 @@
     applyFilters();
   }
 
-
-  function reloadWholeApp() {
-    const url = new URL(window.location.href);
-    url.searchParams.set("fresh", String(Date.now()));
-    window.location.replace(url.toString());
-  }
-
   async function refreshLatest(options = {}) {
     if (state.refreshing) return;
     state.refreshing = true;
@@ -468,7 +461,7 @@
     render();
   });
 
-  refreshFeed.addEventListener("click", reloadWholeApp);
+  refreshFeed.addEventListener("click", () => refreshLatest({forcePageRefresh: true}));
 
   let touchStartY = 0;
   let pullStartedAtTop = false;
