@@ -212,33 +212,7 @@ h1 {
 .top-story-card .foot {
   color: #6c7a89;
 }
-.top-story-card 
-.section-chip {
-  display: inline-flex;
-  align-items: center;
-  min-height: 20px;
-  padding: 3px 7px;
-  border-radius: 5px;
-  background: #64748b;
-  color: #fff !important;
-  font-weight: 800;
-  font-size: 11px;
-  line-height: 1;
-  letter-spacing: 0;
-}
-.accent-dell .section-chip { background: var(--dell-blue); }
-.accent-youtube .section-chip { background: var(--youtube-red); }
-.accent-market .section-chip { background: var(--market-green); }
-.accent-competitor .section-chip { background: var(--competitor-amber); }
-.accent-deals .section-chip { background: var(--deal-pink); }
-.accent-x .section-chip { background: var(--x-ink); }
-.highlight .section-chip {
-  width: fit-content;
-  margin-top: 2px;
-  text-transform: uppercase;
-}
-
-.score-text {
+.top-story-card .score-text {
   color: #7f8c99;
 }
 .top-story-card .chip {

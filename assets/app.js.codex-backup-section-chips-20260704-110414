@@ -298,7 +298,7 @@
         <h2><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${escapeHtml(displayTitle(item))}</a></h2>
         ${mini ? "" : `<p>${escapeHtml(displaySummary(item))}</p>`}
         <div class="foot">
-          <span class="section-chip">${escapeHtml(item.section || item.kind || "")}</span>
+          <span>${escapeHtml(item.section || item.kind || "")}</span>
           <span>${formatRelativeTime(item.published_at || item.captured_at)}</span>
           ${scoreText(item)}
         </div>
@@ -320,7 +320,7 @@
       ${img}
       <div class="highlight-body">
         <div class="highlight-source">${sourceChips}</div>
-        <div class="label section-chip">${escapeHtml(item.section || item.kind)}</div>
+        <div class="label">${escapeHtml(item.section || item.kind)}</div>
         <h2>${escapeHtml(displayTitle(item))}</h2>
         <p>${escapeHtml(displaySummary(item))}</p>
         <div class="foot"><span>${formatRelativeTime(item.published_at || item.captured_at)}</span>${scoreText(item)}</div>
