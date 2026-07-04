@@ -411,24 +411,14 @@
     }
   }
 
-
-  function hideSplash() {
-    const splash = document.getElementById("splashScreen");
-    if (!splash) return;
-    splash.classList.add("is-hidden");
-    setTimeout(() => splash.remove(), 450);
-  }
-
   function boot() {
     try {
       const data = window.MONITOR_HUB_DATA || {items: []};
       setData(data, "latest local export");
-      hideSplash();
       refreshLatest();
     } catch (error) {
       feedEl.innerHTML = `<div class="empty">Could not load monitor data yet. Run the hub exporter once.</div>`;
       metaEl.textContent = "Waiting for export.";
-      hideSplash();
     }
   }
 

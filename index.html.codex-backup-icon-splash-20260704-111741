@@ -7,21 +7,9 @@
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Expires" content="0">
   <title>343 Monitor</title>
-  <meta name="theme-color" content="#0672CB">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-title" content="343 Monitor">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <link rel="manifest" href="manifest.json?v=20260704c">
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/icon-32.png?v=20260704c">
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/icon-16.png?v=20260704c">
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/icon-180.png?v=20260704c">
-  <link rel="apple-touch-startup-image" href="assets/icons/splash-1170x2532.png?v=20260704c" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3)">
-  <link rel="apple-touch-startup-image" href="assets/icons/splash-1290x2796.png?v=20260704c" media="(device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3)">
-  <link rel="apple-touch-startup-image" href="assets/icons/splash-2048x2732.png?v=20260704c" media="(min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2)">
-  <link rel="stylesheet" href="assets/styles.20260704c.css">
+  <link rel="stylesheet" href="assets/styles.20260704a.css">
 </head>
 <body>
-  <div class="splash-screen" id="splashScreen" aria-hidden="true"><div><strong>343</strong><span>MONITOR</span></div></div>
   <header class="topbar">
     <div class="brand">
       <div class="mark"><strong>DELL</strong><span>TECHNOLOGIES</span></div>
@@ -93,7 +81,7 @@
     <button type="button" class="load-more" id="loadMore">Load more</button>
   </main>
 
-  <script src="data/feed.js?v=20260704c"></script>
-  <script src="assets/app.20260704c.js"></script>
+  <script src="data/feed.js?v=20260704b"></script>
+  <script src="assets/app.20260704b.js"></script>
 </body>
 </html>

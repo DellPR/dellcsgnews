@@ -1,0 +1,25 @@
+{
+  "name": "343 Monitor",
+  "short_name": "343 Monitor",
+  "description": "CSG only live view of media, YouTube and X Watch signals.",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0672CB",
+  "theme_color": "#0672CB",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
