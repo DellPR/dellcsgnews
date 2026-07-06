@@ -22,7 +22,7 @@
   const productFilter = document.getElementById("productFilter");
   const competitorFilter = document.getElementById("competitorFilter");
   const RAW_FEED_URL = "https://raw.githubusercontent.com/DellPR/dellcsgnews/main/data/feed.json";
-  const TOP_STORY_URL = "https://www.youtube.com/watch?v=KUoPyTBRzxM";
+  const TOP_STORY_URL = "https://www.techradar.com/pro/dell-27-plus-qhd-usb-c-s2725dc-business-monitor-review";
   const controlsEl = document.querySelector(".controls");
 
   function escapeHtml(value) {
