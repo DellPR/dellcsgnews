@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-10T18:10:49.256081+00:00",
-  "total_items": 2313,
+  "generated_at": "2026-07-10T19:17:51.576365+00:00",
+  "total_items": 2320,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 529,
-      "media": 516,
+      "total": 531,
+      "media": 518,
       "youtube": 13,
       "reviews": 14,
       "sponsored": 0,
@@ -15,11 +15,11 @@
       "top_sources": [
         {
           "source": "Windows Central",
-          "count": 98
+          "count": 99
         },
         {
           "source": "WinFuture",
-          "count": 71
+          "count": 72
         },
         {
           "source": "TechRadar",
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 460
+          "count": 462
         },
         {
           "section": "Competitor Coverage",
@@ -60,7 +60,7 @@
           "count": 11
         }
       ],
-      "avg_score": 35.5
+      "avg_score": 35.4
     },
     {
       "brand": "Apple",
@@ -249,8 +249,8 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 167,
-      "media": 160,
+      "total": 168,
+      "media": 161,
       "youtube": 7,
       "reviews": 8,
       "sponsored": 0,
@@ -283,7 +283,7 @@
         },
         {
           "source": "HotHardware",
-          "count": 7
+          "count": 8
         },
         {
           "source": "TechRadar",
@@ -293,7 +293,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 152
+          "count": 153
         },
         {
           "section": "Competitor Coverage",
@@ -304,13 +304,13 @@
           "count": 5
         }
       ],
-      "avg_score": 42.9
+      "avg_score": 43.1
     },
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 157,
-      "media": 142,
+      "total": 158,
+      "media": 143,
       "youtube": 15,
       "reviews": 6,
       "sponsored": 0,
@@ -353,7 +353,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 151
+          "count": 152
         },
         {
           "section": "Market Trends",
@@ -364,13 +364,13 @@
           "count": 1
         }
       ],
-      "avg_score": 36.6
+      "avg_score": 36.8
     },
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 139,
-      "media": 130,
+      "total": 140,
+      "media": 131,
       "youtube": 9,
       "reviews": 5,
       "sponsored": 0,
@@ -379,7 +379,7 @@
       "top_sources": [
         {
           "source": "Wccftech",
-          "count": 32
+          "count": 33
         },
         {
           "source": "Tom's Hardware",
@@ -413,7 +413,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 126
+          "count": 127
         },
         {
           "section": "Competitor Coverage",
@@ -424,7 +424,7 @@
           "count": 4
         }
       ],
-      "avg_score": 53.0
+      "avg_score": 52.9
     },
     {
       "brand": "Lenovo",
@@ -489,8 +489,8 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 102,
-      "media": 53,
+      "total": 104,
+      "media": 55,
       "youtube": 49,
       "reviews": 46,
       "sponsored": 2,
@@ -499,7 +499,7 @@
       "top_sources": [
         {
           "source": "Adrenaline",
-          "count": 11
+          "count": 12
         },
         {
           "source": "Tech BR",
@@ -514,15 +514,15 @@
           "count": 6
         },
         {
+          "source": "Wccftech",
+          "count": 6
+        },
+        {
           "source": "LaptopMedia",
           "count": 5
         },
         {
           "source": "TechRadar",
-          "count": 5
-        },
-        {
-          "source": "Wccftech",
           "count": 5
         },
         {
@@ -533,18 +533,18 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 90
+          "count": 91
         },
         {
           "section": "Ecosystem",
-          "count": 6
+          "count": 7
         },
         {
           "section": "Market Trends",
           "count": 6
         }
       ],
-      "avg_score": 57.9
+      "avg_score": 57.8
     },
     {
       "brand": "Samsung",
@@ -1397,15 +1397,15 @@
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 166,
+        "Microsoft": 168,
         "Apple": 53,
-        "Intel": 51,
+        "Intel": 52,
         "Valve": 50,
         "Dell": 48,
-        "NVIDIA": 44,
-        "AMD": 36,
+        "NVIDIA": 45,
+        "AMD": 37,
         "Samsung": 36,
-        "Asus": 32,
+        "Asus": 34,
         "Lenovo": 29,
         "Alienware": 23,
         "MSI": 11,
@@ -1417,6 +1417,118 @@
     }
   ],
   "recent": [
+    {
+      "id": "media:99440",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "WinFuture",
+      "country": "DE",
+      "section": "Ecosystem",
+      "title": "Microsoft explains Windows 11 update types and distribution strategy",
+      "url": "https://winfuture.de/news,159909.html",
+      "published_at": "2026-07-10T18:49:00+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:99421",
+      "kind": "media",
+      "brand": "Asus",
+      "family": "PC competitors",
+      "source": "Wccftech",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Colorful achieves 8600 MT/s with CXMT DDR5 memory, surpassing MSI and ASUS",
+      "url": "https://wccftech.com/colorful-smashes-cxmt-ddr5-record-at-8600-mt-s-beating-msi-and-asus-as-chinas-memory-matures/",
+      "published_at": "2026-07-10T18:33:08+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:99422",
+      "kind": "media",
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "source": "Wccftech",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "China's helium export ban could disrupt semiconductor fabrication",
+      "url": "https://wccftech.com/intel-ceolip-bu-tan-warned-helium-could-choke-ai-chips-in-june-and-chinas-export-ban-might-prove-him-right/",
+      "published_at": "2026-07-10T18:27:44+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:98937",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "Windows Central",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Bethesda union members protest Xbox layoffs at ZeniMax studios",
+      "url": "https://www.windowscentral.com/gaming/zenimax-bethesda/bethesda-union-members-are-protesting-xboxs-layoffs-with-a-save-our-devs-march-next-week-after-440-zenimax-cuts",
+      "published_at": "2026-07-10T18:20:05+00:00",
+      "score": 0,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:99143",
+      "kind": "media",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "HotHardware",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD Launches Zen 6 EPYC Venice CPUs in July",
+      "url": "https://hothardware.com/news/amd-zen6-venice-this-month",
+      "published_at": "2026-07-10T17:50:00+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:98677",
+      "kind": "media",
+      "brand": "Asus",
+      "family": "PC competitors",
+      "source": "Adrenaline",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "ASUS unveils triple-mode gaming monitor with 488 Hz refresh rate",
+      "url": "https://www.adrenaline.com.br/asus/asus-revela-monitor-gamer-com-tres-modos-4k-240-hz-qhd-400-hz-e-full-hd-488-hz/",
+      "published_at": "2026-07-10T17:31:55+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:98857",
+      "kind": "media",
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "source": "The Verge",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "SK Hynix's $26.5B Wall Street debut as AI drives RAM demand",
+      "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+      "published_at": "2026-07-10T17:31:35+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
     {
       "id": "media:97603",
       "kind": "media",
@@ -5304,121 +5416,121 @@
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:88756",
+      "id": "media:99440",
       "kind": "media",
       "brand": "Microsoft",
       "family": "PC competitors",
       "source": "WinFuture",
       "country": "DE",
       "section": "Ecosystem",
-      "title": "Microsoft Xbox Game Pass loses 4 million subscribers due to price hikes",
-      "url": "https://winfuture.de/news,159818.html",
-      "published_at": "2026-07-07T10:15:00+00:00",
+      "title": "Microsoft explains Windows 11 update types and distribution strategy",
+      "url": "https://winfuture.de/news,159909.html",
+      "published_at": "2026-07-10T18:49:00+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:99421",
+      "kind": "media",
+      "brand": "Asus",
+      "family": "PC competitors",
+      "source": "Wccftech",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Colorful achieves 8600 MT/s with CXMT DDR5 memory, surpassing MSI and ASUS",
+      "url": "https://wccftech.com/colorful-smashes-cxmt-ddr5-record-at-8600-mt-s-beating-msi-and-asus-as-chinas-memory-matures/",
+      "published_at": "2026-07-10T18:33:08+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:99422",
+      "kind": "media",
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "source": "Wccftech",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "China's helium export ban could disrupt semiconductor fabrication",
+      "url": "https://wccftech.com/intel-ceolip-bu-tan-warned-helium-could-choke-ai-chips-in-june-and-chinas-export-ban-might-prove-him-right/",
+      "published_at": "2026-07-10T18:27:44+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:98937",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "Windows Central",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Bethesda union members protest Xbox layoffs at ZeniMax studios",
+      "url": "https://www.windowscentral.com/gaming/zenimax-bethesda/bethesda-union-members-are-protesting-xboxs-layoffs-with-a-save-our-devs-march-next-week-after-440-zenimax-cuts",
+      "published_at": "2026-07-10T18:20:05+00:00",
       "score": 0,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
     {
-      "id": "media:88204",
+      "id": "media:99143",
       "kind": "media",
-      "brand": "Intel",
+      "brand": "AMD",
       "family": "Ecosystem",
-      "source": "Tom's Hardware",
+      "source": "HotHardware",
       "country": "US",
       "section": "Ecosystem",
-      "title": "Intel patent proposes XBM memory architecture to replace HBM with cheaper DRAM and UCIe links",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-patent-reveals-new-xbm-memory-architecture-that-ditches-hbms-costly-silicon-interposer-backend-transistor-dram-stack-uses-ucie-links-and-built-in-repair-to-ease-ais-memory-bottleneck",
-      "published_at": "2026-07-07T10:00:00+00:00",
-      "score": 65,
+      "title": "AMD Launches Zen 6 EPYC Venice CPUs in July",
+      "url": "https://hothardware.com/news/amd-zen6-venice-this-month",
+      "published_at": "2026-07-10T17:50:00+00:00",
+      "score": 70,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
     {
-      "id": "media:88736",
-      "kind": "media",
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "source": "Wccftech",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "ADATA warns DRAM and NAND prices to rise 30-40% in Q3 2026 due to AI demand",
-      "url": "https://wccftech.com/adata-warns-30-percent-memory-40-percent-nand-price-hike-q3-2026/",
-      "published_at": "2026-07-07T09:30:02+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:88205",
-      "kind": "media",
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "source": "Tom's Hardware",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Samsung chip division's 2026 profits surpass 40-year total due to memory/storage price surge",
-      "url": "https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-earn-its-entire-40-year-history-in-2026",
-      "published_at": "2026-07-07T09:30:00+00:00",
-      "score": 30,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:88704",
+      "id": "media:98677",
       "kind": "media",
       "brand": "Asus",
       "family": "PC competitors",
-      "source": "Digital Trends",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Asus ExpertBook Ultra review highlights performance and design",
-      "url": "https://www.digitaltrends.com/computing/asus-expertbook-ultra-review/",
-      "published_at": "2026-07-07T09:00:29+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:88737",
-      "kind": "media",
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "source": "Wccftech",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Intel Nova Lake CPUs to feature upgraded Xe3P iGPU with 12 cores",
-      "url": "https://wccftech.com/intel-nova-lake-mobile-desktop-12-xe3p-cpus-18a-p-for-entry-level-chips/",
-      "published_at": "2026-07-07T08:55:05+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:88138",
-      "kind": "media",
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "source": "Exame",
+      "source": "Adrenaline",
       "country": "BR",
-      "section": "Ecosystem",
-      "title": "Samsung's record profit pressures chip stocks",
-      "url": "https://exame.com/invest/mercados/futuros-de-wall-street-caem-com-pressao-sobre-chips-e-samsung/",
-      "published_at": "2026-07-07T08:53:35+00:00",
-      "score": 15,
+      "section": "Competitor Coverage",
+      "title": "ASUS unveils triple-mode gaming monitor with 488 Hz refresh rate",
+      "url": "https://www.adrenaline.com.br/asus/asus-revela-monitor-gamer-com-tres-modos-4k-240-hz-qhd-400-hz-e-full-hd-488-hz/",
+      "published_at": "2026-07-10T17:31:55+00:00",
+      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "media:98857",
+      "kind": "media",
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "source": "The Verge",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "SK Hynix's $26.5B Wall Street debut as AI drives RAM demand",
+      "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+      "published_at": "2026-07-10T17:31:35+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
     {
       "id": "media:97603",
       "kind": "media",
