@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-10T19:55:46.613113+00:00",
-  "trigger": "manual",
-  "total": 2821,
+  "generated_at": "2026-07-10T20:01:38.542737+00:00",
+  "trigger": "media",
+  "total": 2822,
   "counts": {
-    "media": 2466,
+    "media": 2467,
     "youtube": 320,
     "x": 35
   },
   "section_counts": {
     "Ecosystem": 1505,
-    "Competitor Coverage": 617,
+    "Competitor Coverage": 618,
     "Market Trends": 576,
     "Dell Coverage": 88,
     "X Watch": 35
@@ -1227,6 +1227,40 @@
       "has_dell_mention": false,
       "is_competitor_story": false,
       "is_market_story": true,
+      "market_interest": "high"
+    },
+    {
+      "id": "media:98875",
+      "kind": "media",
+      "source": "Engadget",
+      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
+      "country": "US",
+      "title": "HP OmniBook Ultra 14 review: premium Windows ultraportable",
+      "display_title": "HP OmniBook Ultra 14 review: premium Windows ultraportable",
+      "original_title": "HP OmniBook Ultra 14 review: HP's best ultraportable in years",
+      "url": "https://www.engadget.com/2211901/hp-omnibook-ultra-14-review/",
+      "published_at": "2026-07-10T13:00:00+00:00",
+      "captured_at": "2026-07-10 19:00:07",
+      "section": "Competitor Coverage",
+      "company": "HP",
+      "product": "",
+      "score": 78,
+      "summary": "The HP OmniBook Ultra 14 is highlighted as HP's best ultraportable in years, offering strong performance for premium Windows laptops despite high prices for fully loaded models.",
+      "why_it_matters": "",
+      "tags": [
+        "Engadget",
+        "US",
+        "HP",
+        "Review",
+        "Competitor Coverage"
+      ],
+      "is_review": true,
+      "is_short": false,
+      "is_sponsored": false,
+      "is_dell_story": false,
+      "has_dell_mention": false,
+      "is_competitor_story": true,
+      "is_market_story": false,
       "market_interest": "high"
     },
     {

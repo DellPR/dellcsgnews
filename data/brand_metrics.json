@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T19:55:46.613096+00:00",
-  "total_items": 2339,
+  "generated_at": "2026-07-10T20:01:38.542697+00:00",
+  "total_items": 2340,
   "brands": [
     {
       "brand": "Microsoft",
@@ -781,10 +781,10 @@
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 34,
-      "media": 19,
+      "total": 35,
+      "media": 20,
       "youtube": 15,
-      "reviews": 16,
+      "reviews": 17,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
@@ -825,14 +825,14 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 33
+          "count": 34
         },
         {
           "section": "Market Trends",
           "count": 1
         }
       ],
-      "avg_score": 63.1
+      "avg_score": 63.5
     },
     {
       "brand": "Acer",
@@ -1408,8 +1408,8 @@
         "Asus": 37,
         "Lenovo": 29,
         "Alienware": 23,
+        "HP": 11,
         "MSI": 11,
-        "HP": 10,
         "Google": 6,
         "Framework": 5,
         "Meta": 3
@@ -1856,6 +1856,23 @@
       "published_at": "2026-07-10T13:22:07+00:00",
       "score": 50,
       "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:98875",
+      "kind": "media",
+      "brand": "HP",
+      "family": "PC competitors",
+      "source": "Engadget",
+      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "HP OmniBook Ultra 14 review: premium Windows ultraportable",
+      "url": "https://www.engadget.com/2211901/hp-omnibook-ultra-14-review/",
+      "published_at": "2026-07-10T13:00:00+00:00",
+      "score": 78,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -5649,23 +5666,6 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
-    {
-      "id": "media:89396",
-      "kind": "media",
-      "brand": "Framework",
-      "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "title": "AMD's Ryzen AI Halo AI mini PC unavailable at Micro Center despite $4,000 price tag",
-      "url": "https://www.pcworld.com/article/3186045/micro-center-is-selling-a-4000-amd-ai-mini-pc-that-isnt-in-stock.html",
-      "published_at": "2026-07-07T14:07:39+00:00",
-      "score": 78,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6108,6 +6108,23 @@
       "published_at": "2026-07-10T13:22:07+00:00",
       "score": 50,
       "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:98875",
+      "kind": "media",
+      "brand": "HP",
+      "family": "PC competitors",
+      "source": "Engadget",
+      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "HP OmniBook Ultra 14 review: premium Windows ultraportable",
+      "url": "https://www.engadget.com/2211901/hp-omnibook-ultra-14-review/",
+      "published_at": "2026-07-10T13:00:00+00:00",
+      "score": 78,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
