@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T23:20:58.594608+00:00",
-  "total_items": 2350,
+  "generated_at": "2026-07-10T23:33:31.632077+00:00",
+  "total_items": 2351,
   "brands": [
     {
       "brand": "Microsoft",
@@ -125,13 +125,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 247,
+      "total": 248,
       "media": 187,
-      "youtube": 60,
+      "youtube": 61,
       "reviews": 39,
       "sponsored": 7,
-      "dell_stories": 108,
-      "high_signal": 62,
+      "dell_stories": 109,
+      "high_signal": 63,
       "top_sources": [
         {
           "source": "Windows Central",
@@ -173,7 +173,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 80
+          "count": 81
         },
         {
           "section": "Competitor Coverage",
@@ -184,7 +184,7 @@
           "count": 31
         }
       ],
-      "avg_score": 56.8
+      "avg_score": 56.9
     },
     {
       "brand": "Valve",
@@ -1400,8 +1400,8 @@
         "Microsoft": 172,
         "Intel": 56,
         "Apple": 54,
+        "Dell": 52,
         "Valve": 52,
-        "Dell": 51,
         "NVIDIA": 49,
         "AMD": 38,
         "Asus": 38,
@@ -2113,6 +2113,23 @@
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
+    },
+    {
+      "id": "youtube:67122",
+      "kind": "youtube",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "Adrenaline Brasil",
+      "source_icon": "",
+      "country": "",
+      "section": "Dell Coverage",
+      "title": "Cheap Dell 27\" 240 Hz Monitor?",
+      "url": "https://www.youtube.com/watch?v=TPefb6ftCWo",
+      "published_at": "2026-07-10T12:00:00+00:00",
+      "score": 90,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
     },
     {
       "id": "media:98351",
@@ -5649,23 +5666,6 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
-    {
-      "id": "media:89317",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft Xbox VP Kevin LaChapelle laid off after 37 years",
-      "url": "https://www.windowscentral.com/gaming/xbox/xboxs-backwards-compatibility-program-and-cloud-gaming-lead-has-been-laid-off-from-microsoft-after-37-years",
-      "published_at": "2026-07-07T16:24:41+00:00",
-      "score": 5,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6365,6 +6365,23 @@
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
+    },
+    {
+      "id": "youtube:67122",
+      "kind": "youtube",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "Adrenaline Brasil",
+      "source_icon": "",
+      "country": "",
+      "section": "Dell Coverage",
+      "title": "Cheap Dell 27\" 240 Hz Monitor?",
+      "url": "https://www.youtube.com/watch?v=TPefb6ftCWo",
+      "published_at": "2026-07-10T12:00:00+00:00",
+      "score": 90,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
     },
     {
       "id": "media:98351",
@@ -16579,7 +16596,7 @@
       "url": "https://www.youtube.com/watch?v=4xZlCeT1eIo",
       "published_at": "2026-07-01T08:00:36+00:00",
       "score": 96,
-      "is_review": true,
+      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
     },
@@ -24875,7 +24892,7 @@
       "url": "https://www.youtube.com/watch?v=-u7tfxegH3Q",
       "published_at": "2026-06-24T19:40:12.192926+00:00",
       "score": 95,
-      "is_review": false,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
     },
