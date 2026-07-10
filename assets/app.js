@@ -23,11 +23,13 @@
   const productFilter = document.getElementById("productFilter");
   const competitorFilter = document.getElementById("competitorFilter");
   const RAW_FEED_URL = "https://raw.githubusercontent.com/DellPR/dellcsgnews/main/data/feed.json";
+  const RAW_BRAND_METRICS_URL = "https://raw.githubusercontent.com/DellPR/dellcsgnews/main/data/brand_metrics.json";
   const TOP_STORY_URL = "https://www.wired.com/review/dell-14s/";
   const controlsEl = document.querySelector(".controls");
   const viewSwitch = document.getElementById("viewSwitch");
   const metricsView = document.getElementById("metricsView");
   const brandMetricsEl = document.getElementById("brandMetrics");
+  const feedHead = document.getElementById("feedHead");
 
   function escapeHtml(value) {
     return String(value ?? "").replace(/[&<>"']/g, ch => ({
@@ -442,7 +444,6 @@
     if (metricsView) metricsView.hidden = !isMetrics;
     if (topStoryHead) topStoryHead.hidden = isMetrics;
     if (highlightsEl) highlightsEl.hidden = isMetrics;
-    const feedHead = document.querySelector(".section-head:not(#topStoryHead)");
     if (feedHead) feedHead.hidden = isMetrics;
     if (feedEl) feedEl.hidden = isMetrics;
     if (loadMore) loadMore.hidden = isMetrics;
@@ -517,6 +518,24 @@
         }
       }
       if (!data) throw lastError || new Error("Feed request failed");
+      try {
+        const metricsUrls = [
+          `${RAW_BRAND_METRICS_URL}?ts=${bust}`,
+          `data/brand_metrics.json?ts=${bust}`
+        ];
+        for (const metricsUrl of metricsUrls) {
+          const metricsResponse = await fetch(metricsUrl, {
+            cache: "no-store",
+            headers: {"Cache-Control": "no-cache", "Pragma": "no-cache"}
+          });
+          if (metricsResponse.ok) {
+            window.MONITOR_HUB_BRAND_METRICS = await metricsResponse.json();
+            break;
+          }
+        }
+      } catch (metricsError) {
+        // Keep current metrics if a refresh races GitHub Pages propagation.
+      }
       setData(data, "latest export");
       metaEl.textContent = `${formatRelativeTime(data.generated_at, "Updated") || "Updated just now"}. Showing latest hub export from GitHub Pages.`;
     } catch (error) {
