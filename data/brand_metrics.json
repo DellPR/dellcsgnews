@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T20:21:49.173225+00:00",
-  "total_items": 2344,
+  "generated_at": "2026-07-10T22:27:03.626833+00:00",
+  "total_items": 2351,
   "brands": [
     {
       "brand": "Microsoft",
@@ -125,13 +125,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 247,
-      "media": 187,
+      "total": 248,
+      "media": 188,
       "youtube": 60,
-      "reviews": 38,
+      "reviews": 39,
       "sponsored": 7,
-      "dell_stories": 107,
-      "high_signal": 62,
+      "dell_stories": 108,
+      "high_signal": 63,
       "top_sources": [
         {
           "source": "Windows Central",
@@ -147,7 +147,7 @@
         },
         {
           "source": "Adrenaline",
-          "count": 12
+          "count": 13
         },
         {
           "source": "Tom's Hardware",
@@ -173,7 +173,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 79
+          "count": 80
         },
         {
           "section": "Competitor Coverage",
@@ -184,13 +184,13 @@
           "count": 31
         }
       ],
-      "avg_score": 56.8
+      "avg_score": 56.9
     },
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 206,
-      "media": 170,
+      "total": 207,
+      "media": 171,
       "youtube": 36,
       "reviews": 16,
       "sponsored": 0,
@@ -233,7 +233,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 200
+          "count": 201
         },
         {
           "section": "Ecosystem",
@@ -249,8 +249,8 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 168,
-      "media": 161,
+      "total": 169,
+      "media": 162,
       "youtube": 7,
       "reviews": 8,
       "sponsored": 0,
@@ -287,13 +287,13 @@
         },
         {
           "source": "TechRadar",
-          "count": 7
+          "count": 8
         }
       ],
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 153
+          "count": 154
         },
         {
           "section": "Competitor Coverage",
@@ -304,7 +304,7 @@
           "count": 5
         }
       ],
-      "avg_score": 43.1
+      "avg_score": 43.2
     },
     {
       "brand": "NVIDIA",
@@ -369,8 +369,8 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 141,
-      "media": 132,
+      "total": 144,
+      "media": 135,
       "youtube": 9,
       "reviews": 5,
       "sponsored": 0,
@@ -379,7 +379,7 @@
       "top_sources": [
         {
           "source": "Wccftech",
-          "count": 34
+          "count": 35
         },
         {
           "source": "Tom's Hardware",
@@ -387,7 +387,7 @@
         },
         {
           "source": "Adrenaline",
-          "count": 20
+          "count": 21
         },
         {
           "source": "TudoCelular",
@@ -395,7 +395,7 @@
         },
         {
           "source": "HotHardware",
-          "count": 9
+          "count": 10
         },
         {
           "source": "TechRadar",
@@ -413,7 +413,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 128
+          "count": 131
         },
         {
           "section": "Competitor Coverage",
@@ -424,7 +424,7 @@
           "count": 4
         }
       ],
-      "avg_score": 52.9
+      "avg_score": 52.7
     },
     {
       "brand": "Lenovo",
@@ -669,10 +669,10 @@
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 55,
-      "media": 39,
+      "total": 56,
+      "media": 40,
       "youtube": 16,
-      "reviews": 8,
+      "reviews": 9,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 0,
@@ -683,7 +683,7 @@
         },
         {
           "source": "Wccftech",
-          "count": 6
+          "count": 7
         },
         {
           "source": "HotHardware",
@@ -713,7 +713,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 49
+          "count": 50
         },
         {
           "section": "Market Trends",
@@ -724,7 +724,7 @@
           "count": 2
         }
       ],
-      "avg_score": 46.9
+      "avg_score": 47.3
     },
     {
       "brand": "Qualcomm",
@@ -1398,18 +1398,18 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 172,
+        "Intel": 56,
         "Apple": 54,
-        "Intel": 53,
-        "Valve": 51,
-        "Dell": 50,
+        "Valve": 52,
+        "Dell": 51,
         "NVIDIA": 49,
+        "AMD": 38,
         "Asus": 38,
         "Samsung": 38,
-        "AMD": 37,
         "Lenovo": 30,
         "Alienware": 25,
+        "MSI": 12,
         "HP": 11,
-        "MSI": 11,
         "Google": 6,
         "Framework": 5,
         "Meta": 3
@@ -1417,6 +1417,91 @@
     }
   ],
   "recent": [
+    {
+      "id": "media:99740",
+      "kind": "media",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Dell SE2726HG monitor tested for competitive gaming",
+      "url": "https://www.adrenaline.com.br/noticias/dell-se2726hg-um-monitor-de-240-hz-com-painel-ips-e-preco-acessivel-que-vale-a-pena/",
+      "published_at": "2026-07-10T21:51:30+00:00",
+      "score": 85,
+      "is_review": true,
+      "is_sponsored": false,
+      "is_dell_story": true
+    },
+    {
+      "id": "media:100286",
+      "kind": "media",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD shifts to LPDDR5x over HBM due to AI demand",
+      "url": "https://www.techradar.com/pro/amd-abandons-hbm-for-inferior-lpddr5x-as-ai-monster-devours-precious-high-bandwidth-memory",
+      "published_at": "2026-07-10T21:10:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:100490",
+      "kind": "media",
+      "brand": "MSI",
+      "family": "PC competitors",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "MSI Claw 8 EX AI+ Review: Intel's Arc G3 Powers New Handheld",
+      "url": "https://wccftech.com/review/msi-claw-8-ex-ai-review-intel-disrupts-the-gaming-handheld-segment-with-arc-g3/",
+      "published_at": "2026-07-10T19:30:29+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:99745",
+      "kind": "media",
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "New DDR5 MRDIMM modules promise DDR6 performance without socket changes in servers",
+      "url": "https://www.adrenaline.com.br/hardware/ddr5-mrdimm-largura-banda-ddr6/",
+      "published_at": "2026-07-10T19:12:18+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:100210",
+      "kind": "media",
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Minisforum MS-03 Mini PC Features Intel Panther Lake and 128GB RAM",
+      "url": "https://hothardware.com/news/minisforum-ms-03-mini-pc-pantherlake-128gb-gpu-slot",
+      "published_at": "2026-07-10T18:55:00+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
     {
       "id": "media:99440",
       "kind": "media",
@@ -1462,6 +1547,23 @@
       "section": "Ecosystem",
       "title": "China's helium export ban could disrupt semiconductor fabrication",
       "url": "https://wccftech.com/intel-ceolip-bu-tan-warned-helium-could-choke-ai-chips-in-june-and-chinas-export-ban-might-prove-him-right/",
+      "published_at": "2026-07-10T18:27:44+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:100493",
+      "kind": "media",
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "China's helium export ban could impact semiconductor fabrication",
+      "url": "https://wccftech.com/intel-ceo-lip-bu-tan-warned-helium-could-choke-ai-chips-in-june-and-chinas-export-ban-might-prove-him-right/",
       "published_at": "2026-07-10T18:27:44+00:00",
       "score": 45,
       "is_review": false,
@@ -1549,6 +1651,23 @@
       "url": "https://wccftech.com/intel-emib-t-breaks-past-existing-ai-hpc-scaling-limits-enabling-ultra-large-die-complexes/",
       "published_at": "2026-07-10T17:25:04+00:00",
       "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:100661",
+      "kind": "media",
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "source": "Ars Technica",
+      "source_icon": "",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Valve's Steam Deck verification system excludes some demanding titles",
+      "url": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
+      "published_at": "2026-07-10T16:53:31+00:00",
+      "score": 60,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -5547,128 +5666,94 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:89823",
+      "id": "media:99740",
       "kind": "media",
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Market Trends",
-      "title": "Valve provides official Windows 11 drivers for Steam Machine",
-      "url": "https://winfuture.de/news,159829.html",
-      "published_at": "2026-07-07T16:01:00+00:00",
-      "score": 75,
-      "is_review": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Dell SE2726HG monitor tested for competitive gaming",
+      "url": "https://www.adrenaline.com.br/noticias/dell-se2726hg-um-monitor-de-240-hz-com-painel-ips-e-preco-acessivel-que-vale-a-pena/",
+      "published_at": "2026-07-10T21:51:30+00:00",
+      "score": 85,
+      "is_review": true,
       "is_sponsored": false,
-      "is_dell_story": false
+      "is_dell_story": true
     },
     {
-      "id": "media:89517",
+      "id": "media:100286",
       "kind": "media",
       "brand": "AMD",
       "family": "Ecosystem",
-      "source": "XDA Developers",
-      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
-      "title": "AMD's 5800X3D remains a top gaming CPU in 2026",
-      "url": "https://www.xda-developers.com/am4-refuses-to-die-and-amds-5800x3d-anniversary-chip-might-be-the-best-gaming-value-in-2026/",
-      "published_at": "2026-07-07T16:00:23+00:00",
-      "score": 45,
+      "title": "AMD shifts to LPDDR5x over HBM due to AI demand",
+      "url": "https://www.techradar.com/pro/amd-abandons-hbm-for-inferior-lpddr5x-as-ai-monster-devours-precious-high-bandwidth-memory",
+      "published_at": "2026-07-10T21:10:00+00:00",
+      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
     {
-      "id": "media:89096",
+      "id": "media:100490",
       "kind": "media",
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "source": "TecMundo",
-      "source_icon": "",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "NVIDIA RTX 50 SUPER GPU details leaked by power supply brand",
-      "url": "https://www.tecmundo.com.br/produto/414405-gpus-rtx-50-super-ganham-novos-detalhes-em-vazamento-de-marca-de-fontes.htm",
-      "published_at": "2026-07-07T16:00:00+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:89393",
-      "kind": "media",
-      "brand": "Microsoft",
+      "brand": "MSI",
       "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Windows 11 introduces Cloud Rebuild for non-booting PCs",
-      "url": "https://www.pcworld.com/article/3186135/windows-11-new-cloud-rebuild-can-fix-your-pc-even-when-it-wont-boot.html",
-      "published_at": "2026-07-07T15:54:57+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:89801",
-      "kind": "media",
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
       "source": "Wccftech",
       "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
       "country": "US",
-      "section": "Ecosystem",
-      "title": "NVIDIA unveils next-gen Rosa CPU with Arm v9.2 cores for AI workloads",
-      "url": "https://wccftech.com/nvidia-next-gen-rosa-cpu-rigel-arm-v9-2-cores-larger-l2-cache-higher-per-core-performance/",
-      "published_at": "2026-07-07T15:40:09+00:00",
-      "score": 45,
-      "is_review": false,
+      "section": "Competitor Coverage",
+      "title": "MSI Claw 8 EX AI+ Review: Intel's Arc G3 Powers New Handheld",
+      "url": "https://wccftech.com/review/msi-claw-8-ex-ai-review-intel-disrupts-the-gaming-handheld-segment-with-arc-g3/",
+      "published_at": "2026-07-10T19:30:29+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
     {
-      "id": "media:89524",
+      "id": "media:99745",
       "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "HotHardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
-      "country": "US",
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
       "section": "Ecosystem",
-      "title": "Windows 11 Introduces Cloud Recovery Without USB Drive",
-      "url": "https://hothardware.com/news/windows-11-cloud-rebuild-recovery-no-usb",
-      "published_at": "2026-07-07T15:22:00+00:00",
+      "title": "New DDR5 MRDIMM modules promise DDR6 performance without socket changes in servers",
+      "url": "https://www.adrenaline.com.br/hardware/ddr5-mrdimm-largura-banda-ddr6/",
+      "published_at": "2026-07-10T19:12:18+00:00",
       "score": 50,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
     {
-      "id": "media:89394",
+      "id": "media:100210",
       "kind": "media",
-      "brand": "Alienware",
-      "family": "Dell family",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
       "country": "US",
-      "section": "Dell Coverage",
-      "title": "Alienware OLED monitor on Amazon for $650",
-      "url": "https://www.pcworld.com/article/3186129/alienwares-oled-ultrawide-gaming-monitor-is-650-on-amazon.html",
-      "published_at": "2026-07-07T15:18:37+00:00",
-      "score": 35,
+      "section": "Ecosystem",
+      "title": "Minisforum MS-03 Mini PC Features Intel Panther Lake and 128GB RAM",
+      "url": "https://hothardware.com/news/minisforum-ms-03-mini-pc-pantherlake-128gb-gpu-slot",
+      "published_at": "2026-07-10T18:55:00+00:00",
+      "score": 45,
       "is_review": false,
       "is_sponsored": false,
-      "is_dell_story": true
-    }
-  ],
-  "items": [
+      "is_dell_story": false
+    },
     {
       "id": "media:99440",
       "kind": "media",
@@ -5714,6 +5799,23 @@
       "section": "Ecosystem",
       "title": "China's helium export ban could disrupt semiconductor fabrication",
       "url": "https://wccftech.com/intel-ceolip-bu-tan-warned-helium-could-choke-ai-chips-in-june-and-chinas-export-ban-might-prove-him-right/",
+      "published_at": "2026-07-10T18:27:44+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:100493",
+      "kind": "media",
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "China's helium export ban could impact semiconductor fabrication",
+      "url": "https://wccftech.com/intel-ceo-lip-bu-tan-warned-helium-could-choke-ai-chips-in-june-and-chinas-export-ban-might-prove-him-right/",
       "published_at": "2026-07-10T18:27:44+00:00",
       "score": 45,
       "is_review": false,
@@ -5801,6 +5903,23 @@
       "url": "https://wccftech.com/intel-emib-t-breaks-past-existing-ai-hpc-scaling-limits-enabling-ultra-large-die-complexes/",
       "published_at": "2026-07-10T17:25:04+00:00",
       "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:100661",
+      "kind": "media",
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "source": "Ars Technica",
+      "source_icon": "",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Valve's Steam Deck verification system excludes some demanding titles",
+      "url": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
+      "published_at": "2026-07-10T16:53:31+00:00",
+      "score": 60,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
