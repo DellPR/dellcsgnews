@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-10T23:47:35.430882+00:00",
-  "total_items": 2610,
+  "generated_at": "2026-07-10T23:54:31.207817+00:00",
+  "total_items": 2492,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 559,
-      "media": 546,
+      "total": 542,
+      "media": 529,
       "youtube": 13,
       "reviews": 15,
       "sponsored": 0,
@@ -22,12 +22,12 @@
           "count": 73
         },
         {
-          "source": "PCWorld",
-          "count": 42
+          "source": "TechRadar",
+          "count": 39
         },
         {
-          "source": "TechRadar",
-          "count": 40
+          "source": "PCWorld",
+          "count": 34
         },
         {
           "source": "The Register",
@@ -42,7 +42,7 @@
           "count": 28
         },
         {
-          "source": "Digital Trends",
+          "source": "TecMundo",
           "count": 21
         }
       ],
@@ -56,34 +56,34 @@
           "count": 58
         },
         {
-          "section": "Deals",
-          "count": 24
-        },
-        {
           "section": "Market Trends",
           "count": 11
+        },
+        {
+          "section": "Deals",
+          "count": 7
         }
       ],
-      "avg_score": 35.5
+      "avg_score": 35.4
     },
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 349,
-      "media": 279,
-      "youtube": 70,
-      "reviews": 32,
+      "total": 324,
+      "media": 262,
+      "youtube": 62,
+      "reviews": 31,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 1,
       "top_sources": [
         {
           "source": "Wccftech",
-          "count": 34
+          "count": 33
         },
         {
           "source": "TechRadar",
-          "count": 32
+          "count": 28
         },
         {
           "source": "TudoCelular",
@@ -95,7 +95,7 @@
         },
         {
           "source": "Engadget",
-          "count": 19
+          "count": 18
         },
         {
           "source": "CNET",
@@ -103,11 +103,11 @@
         },
         {
           "source": "WinFuture",
-          "count": 17
+          "count": 16
         },
         {
           "source": "The Verge",
-          "count": 15
+          "count": 13
         }
       ],
       "sections": [
@@ -120,38 +120,38 @@
           "count": 75
         },
         {
-          "section": "Deals",
-          "count": 53
-        },
-        {
           "section": "Ecosystem",
           "count": 34
+        },
+        {
+          "section": "Deals",
+          "count": 28
         }
       ],
-      "avg_score": 45.1
+      "avg_score": 45.2
     },
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 266,
-      "media": 205,
-      "youtube": 61,
-      "reviews": 40,
+      "total": 249,
+      "media": 193,
+      "youtube": 56,
+      "reviews": 37,
       "sponsored": 7,
-      "dell_stories": 109,
-      "high_signal": 63,
+      "dell_stories": 97,
+      "high_signal": 59,
       "top_sources": [
         {
           "source": "Windows Central",
-          "count": 24
+          "count": 22
         },
         {
           "source": "PCWorld",
-          "count": 20
+          "count": 17
         },
         {
           "source": "TechRadar",
-          "count": 20
+          "count": 16
         },
         {
           "source": "Tom's Hardware",
@@ -159,7 +159,7 @@
         },
         {
           "source": "Adrenaline",
-          "count": 13
+          "count": 12
         },
         {
           "source": "TudoCelular",
@@ -185,7 +185,7 @@
         },
         {
           "section": "Deals",
-          "count": 51
+          "count": 34
         },
         {
           "section": "Competitor Coverage",
@@ -196,13 +196,13 @@
           "count": 24
         }
       ],
-      "avg_score": 55.5
+      "avg_score": 56.1
     },
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 214,
-      "media": 178,
+      "total": 210,
+      "media": 174,
       "youtube": 36,
       "reviews": 16,
       "sponsored": 0,
@@ -211,7 +211,7 @@
       "top_sources": [
         {
           "source": "Adrenaline",
-          "count": 20
+          "count": 19
         },
         {
           "source": "HotHardware",
@@ -227,7 +227,7 @@
         },
         {
           "source": "TechRadar",
-          "count": 16
+          "count": 15
         },
         {
           "source": "Digital Trends",
@@ -235,7 +235,7 @@
         },
         {
           "source": "Tom's Hardware",
-          "count": 13
+          "count": 12
         },
         {
           "source": "TudoCelular",
@@ -248,25 +248,25 @@
           "count": 201
         },
         {
-          "section": "Deals",
-          "count": 7
-        },
-        {
           "section": "Ecosystem",
           "count": 5
+        },
+        {
+          "section": "Deals",
+          "count": 3
         },
         {
           "section": "Competitor Coverage",
           "count": 1
         }
       ],
-      "avg_score": 61.1
+      "avg_score": 61.5
     },
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 178,
-      "media": 171,
+      "total": 173,
+      "media": 166,
       "youtube": 7,
       "reviews": 8,
       "sponsored": 0,
@@ -279,15 +279,15 @@
         },
         {
           "source": "Tom's Hardware",
-          "count": 28
-        },
-        {
-          "source": "Adrenaline",
           "count": 25
         },
         {
+          "source": "Adrenaline",
+          "count": 24
+        },
+        {
           "source": "XDA Developers",
-          "count": 17
+          "count": 16
         },
         {
           "source": "TudoCelular",
@@ -316,23 +316,23 @@
           "count": 10
         },
         {
-          "section": "Deals",
-          "count": 9
-        },
-        {
           "section": "Market Trends",
           "count": 5
+        },
+        {
+          "section": "Deals",
+          "count": 4
         }
       ],
-      "avg_score": 42.8
+      "avg_score": 43.0
     },
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 166,
-      "media": 151,
-      "youtube": 15,
-      "reviews": 6,
+      "total": 162,
+      "media": 148,
+      "youtube": 14,
+      "reviews": 5,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
@@ -343,7 +343,7 @@
         },
         {
           "source": "Tom's Hardware",
-          "count": 23
+          "count": 22
         },
         {
           "source": "XDA Developers",
@@ -376,27 +376,27 @@
           "count": 155
         },
         {
-          "section": "Deals",
-          "count": 5
-        },
-        {
           "section": "Market Trends",
           "count": 5
         },
         {
           "section": "Competitor Coverage",
           "count": 1
+        },
+        {
+          "section": "Deals",
+          "count": 1
         }
       ],
-      "avg_score": 36.8
+      "avg_score": 36.7
     },
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 148,
+      "total": 146,
       "media": 139,
-      "youtube": 9,
-      "reviews": 5,
+      "youtube": 7,
+      "reviews": 3,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
@@ -411,7 +411,7 @@
         },
         {
           "source": "Adrenaline",
-          "count": 21
+          "count": 20
         },
         {
           "source": "TudoCelular",
@@ -445,36 +445,36 @@
         },
         {
           "section": "Deals",
-          "count": 6
+          "count": 4
         },
         {
           "section": "Market Trends",
           "count": 4
         }
       ],
-      "avg_score": 52.2
+      "avg_score": 52.6
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 141,
-      "media": 87,
-      "youtube": 54,
-      "reviews": 47,
+      "total": 132,
+      "media": 84,
+      "youtube": 48,
+      "reviews": 45,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 0,
       "top_sources": [
         {
           "source": "Adrenaline",
-          "count": 14
-        },
-        {
-          "source": "Tech BR",
-          "count": 11
+          "count": 13
         },
         {
           "source": "Digital Trends",
+          "count": 10
+        },
+        {
+          "source": "Tech BR",
           "count": 10
         },
         {
@@ -494,7 +494,7 @@
           "count": 7
         },
         {
-          "source": "Lucas Ishii",
+          "source": "Olhar Digital",
           "count": 6
         }
       ],
@@ -505,7 +505,7 @@
         },
         {
           "section": "Deals",
-          "count": 35
+          "count": 26
         },
         {
           "section": "Ecosystem",
@@ -516,26 +516,26 @@
           "count": 6
         }
       ],
-      "avg_score": 52.8
+      "avg_score": 54.3
     },
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 134,
-      "media": 87,
-      "youtube": 47,
+      "total": 128,
+      "media": 82,
+      "youtube": 46,
       "reviews": 41,
       "sponsored": 7,
       "dell_stories": 0,
       "high_signal": 1,
       "top_sources": [
         {
-          "source": "TechRadar",
-          "count": 12
-        },
-        {
           "source": "TudoCelular",
           "count": 11
+        },
+        {
+          "source": "TechRadar",
+          "count": 9
         },
         {
           "source": "Tech BR",
@@ -546,15 +546,15 @@
           "count": 6
         },
         {
-          "source": "Tom's Hardware",
-          "count": 6
-        },
-        {
           "source": "Notebookcheck Reviews",
           "count": 5
         },
         {
           "source": "Olhar Digital",
+          "count": 5
+        },
+        {
+          "source": "Tom's Hardware",
           "count": 5
         },
         {
@@ -569,7 +569,7 @@
         },
         {
           "section": "Deals",
-          "count": 24
+          "count": 18
         },
         {
           "section": "Ecosystem",
@@ -580,15 +580,15 @@
           "count": 5
         }
       ],
-      "avg_score": 55.4
+      "avg_score": 56.3
     },
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 106,
+      "total": 103,
       "media": 95,
-      "youtube": 11,
-      "reviews": 7,
+      "youtube": 8,
+      "reviews": 4,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 0,
@@ -632,38 +632,38 @@
           "count": 70
         },
         {
-          "section": "Deals",
-          "count": 13
-        },
-        {
           "section": "Market Trends",
           "count": 13
         },
         {
           "section": "Competitor Coverage",
           "count": 10
+        },
+        {
+          "section": "Deals",
+          "count": 10
         }
       ],
-      "avg_score": 39.3
+      "avg_score": 39.2
     },
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 74,
-      "media": 57,
-      "youtube": 17,
+      "total": 65,
+      "media": 49,
+      "youtube": 16,
       "reviews": 9,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 0,
       "top_sources": [
         {
-          "source": "TechRadar",
-          "count": 10
-        },
-        {
           "source": "Adrenaline",
           "count": 8
+        },
+        {
+          "source": "TechRadar",
+          "count": 7
         },
         {
           "source": "Tom's Hardware",
@@ -672,10 +672,6 @@
         {
           "source": "Wccftech",
           "count": 7
-        },
-        {
-          "source": "PCWorld",
-          "count": 5
         },
         {
           "source": "HotHardware",
@@ -688,6 +684,10 @@
         {
           "source": "Notebookcheck Reviews",
           "count": 3
+        },
+        {
+          "source": "Short Circuit",
+          "count": 3
         }
       ],
       "sections": [
@@ -697,7 +697,7 @@
         },
         {
           "section": "Deals",
-          "count": 18
+          "count": 9
         },
         {
           "section": "Market Trends",
@@ -708,41 +708,29 @@
           "count": 2
         }
       ],
-      "avg_score": 44.8
+      "avg_score": 45.6
     },
     {
       "brand": "Alienware",
       "family": "Dell family",
-      "total": 62,
-      "media": 35,
-      "youtube": 27,
-      "reviews": 20,
+      "total": 56,
+      "media": 34,
+      "youtube": 22,
+      "reviews": 19,
       "sponsored": 1,
-      "dell_stories": 53,
-      "high_signal": 30,
+      "dell_stories": 47,
+      "high_signal": 28,
       "top_sources": [
-        {
-          "source": "PCWorld",
-          "count": 6
-        },
         {
           "source": "Tom's Hardware",
           "count": 6
         },
         {
-          "source": "Jarrod's Tech",
-          "count": 4
-        },
-        {
-          "source": "TudoCelular",
-          "count": 4
+          "source": "PCWorld",
+          "count": 5
         },
         {
           "source": "Just Josh",
-          "count": 3
-        },
-        {
-          "source": "Lipe Mal Estar",
           "count": 3
         },
         {
@@ -752,16 +740,28 @@
         {
           "source": "Short Circuit",
           "count": 3
+        },
+        {
+          "source": "TechRadar",
+          "count": 3
+        },
+        {
+          "source": "TudoCelular",
+          "count": 3
+        },
+        {
+          "source": "HotHardware",
+          "count": 2
         }
       ],
       "sections": [
         {
-          "section": "Deals",
+          "section": "Dell Coverage",
           "count": 27
         },
         {
-          "section": "Dell Coverage",
-          "count": 27
+          "section": "Deals",
+          "count": 21
         },
         {
           "section": "Competitor Coverage",
@@ -772,13 +772,13 @@
           "count": 1
         }
       ],
-      "avg_score": 67.2
+      "avg_score": 67.4
     },
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 52,
-      "media": 37,
+      "total": 51,
+      "media": 36,
       "youtube": 15,
       "reviews": 17,
       "sponsored": 0,
@@ -787,7 +787,7 @@
       "top_sources": [
         {
           "source": "TechRadar",
-          "count": 8
+          "count": 7
         },
         {
           "source": "LaptopMedia",
@@ -825,20 +825,20 @@
         },
         {
           "section": "Deals",
-          "count": 17
+          "count": 16
         },
         {
           "section": "Market Trends",
           "count": 1
         }
       ],
-      "avg_score": 54.8
+      "avg_score": 55.2
     },
     {
       "brand": "Qualcomm",
       "family": "Ecosystem",
-      "total": 39,
-      "media": 39,
+      "total": 38,
+      "media": 38,
       "youtube": 0,
       "reviews": 0,
       "sponsored": 0,
@@ -866,15 +866,15 @@
           "count": 3
         },
         {
-          "source": "Tom's Hardware",
-          "count": 3
-        },
-        {
           "source": "Mundo Conectado",
           "count": 2
         },
         {
           "source": "TecMundo",
+          "count": 2
+        },
+        {
+          "source": "Tom's Hardware",
           "count": 2
         }
       ],
@@ -885,16 +885,16 @@
         },
         {
           "section": "Deals",
-          "count": 2
+          "count": 1
         }
       ],
-      "avg_score": 44.1
+      "avg_score": 44.3
     },
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 33,
-      "media": 21,
+      "total": 31,
+      "media": 19,
       "youtube": 12,
       "reviews": 7,
       "sponsored": 1,
@@ -926,12 +926,12 @@
           "count": 2
         },
         {
-          "source": "TechRadar",
+          "source": "ZDNet",
           "count": 2
         },
         {
-          "source": "ZDNet",
-          "count": 2
+          "source": "HotHardware",
+          "count": 1
         }
       ],
       "sections": [
@@ -941,20 +941,20 @@
         },
         {
           "section": "Deals",
-          "count": 15
+          "count": 13
         },
         {
           "section": "Ecosystem",
           "count": 1
         }
       ],
-      "avg_score": 45.3
+      "avg_score": 45.6
     },
     {
       "brand": "Google",
       "family": "Other",
-      "total": 18,
-      "media": 18,
+      "total": 17,
+      "media": 17,
       "youtube": 0,
       "reviews": 0,
       "sponsored": 0,
@@ -1006,13 +1006,9 @@
         {
           "section": "Competitor Coverage",
           "count": 2
-        },
-        {
-          "section": "Deals",
-          "count": 1
         }
       ],
-      "avg_score": 33.0
+      "avg_score": 32.6
     },
     {
       "brand": "Framework",
@@ -1073,18 +1069,14 @@
     {
       "brand": "OpenAI",
       "family": "Other",
-      "total": 15,
-      "media": 15,
+      "total": 14,
+      "media": 14,
       "youtube": 0,
       "reviews": 0,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
       "top_sources": [
-        {
-          "source": "Exame",
-          "count": 2
-        },
         {
           "source": "Tecnoblog",
           "count": 2
@@ -1106,6 +1098,10 @@
           "count": 1
         },
         {
+          "source": "Exame",
+          "count": 1
+        },
+        {
           "source": "Gizmodo",
           "count": 1
         },
@@ -1122,19 +1118,15 @@
         {
           "section": "Market Trends",
           "count": 2
-        },
-        {
-          "section": "Deals",
-          "count": 1
         }
       ],
-      "avg_score": 32.3
+      "avg_score": 32.1
     },
     {
       "brand": "Amazon",
       "family": "Other",
-      "total": 13,
-      "media": 13,
+      "total": 12,
+      "media": 12,
       "youtube": 0,
       "reviews": 0,
       "sponsored": 0,
@@ -1152,16 +1144,12 @@
         {
           "source": "Wccftech",
           "count": 1
-        },
-        {
-          "source": "WinFuture",
-          "count": 1
         }
       ],
       "sections": [
         {
           "section": "Deals",
-          "count": 13
+          "count": 12
         }
       ],
       "avg_score": 35.0
@@ -1223,50 +1211,6 @@
       "avg_score": 52.8
     },
     {
-      "brand": "LG",
-      "family": "PC competitors",
-      "total": 8,
-      "media": 5,
-      "youtube": 3,
-      "reviews": 3,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 0,
-      "top_sources": [
-        {
-          "source": "Escolha Segura",
-          "count": 3
-        },
-        {
-          "source": "TudoCelular",
-          "count": 2
-        },
-        {
-          "source": "Adrenaline",
-          "count": 1
-        },
-        {
-          "source": "Mundo Conectado",
-          "count": 1
-        },
-        {
-          "source": "PCWorld",
-          "count": 1
-        }
-      ],
-      "sections": [
-        {
-          "section": "Deals",
-          "count": 4
-        },
-        {
-          "section": "Ecosystem",
-          "count": 4
-        }
-      ],
-      "avg_score": 36.2
-    },
-    {
       "brand": "Meta",
       "family": "Other",
       "total": 7,
@@ -1315,11 +1259,51 @@
       "avg_score": 35.0
     },
     {
+      "brand": "LG",
+      "family": "PC competitors",
+      "total": 5,
+      "media": 5,
+      "youtube": 0,
+      "reviews": 0,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 0,
+      "top_sources": [
+        {
+          "source": "TudoCelular",
+          "count": 2
+        },
+        {
+          "source": "Adrenaline",
+          "count": 1
+        },
+        {
+          "source": "Mundo Conectado",
+          "count": 1
+        },
+        {
+          "source": "PCWorld",
+          "count": 1
+        }
+      ],
+      "sections": [
+        {
+          "section": "Ecosystem",
+          "count": 4
+        },
+        {
+          "section": "Deals",
+          "count": 1
+        }
+      ],
+      "avg_score": 36.0
+    },
+    {
       "brand": "Positivo",
       "family": "PC competitors",
-      "total": 4,
+      "total": 3,
       "media": 1,
-      "youtube": 3,
+      "youtube": 2,
       "reviews": 1,
       "sponsored": 0,
       "dell_stories": 0,
@@ -1336,10 +1320,6 @@
         {
           "source": "TI Inside",
           "count": 1
-        },
-        {
-          "source": "TudoCelular",
-          "count": 1
         }
       ],
       "sections": [
@@ -1348,15 +1328,11 @@
           "count": 2
         },
         {
-          "section": "Deals",
-          "count": 1
-        },
-        {
           "section": "Market Trends",
           "count": 1
         }
       ],
-      "avg_score": 68.5
+      "avg_score": 69.7
     }
   ],
   "months": [
@@ -1373,17 +1349,13 @@
     {
       "month": "2024-08",
       "brands": {
-        "Apple": 1,
-        "Asus": 1,
-        "LG": 1
+        "Apple": 1
       }
     },
     {
       "month": "2024-09",
       "brands": {
-        "LG": 2,
-        "Lenovo": 1,
-        "Samsung": 1
+        "Lenovo": 1
       }
     },
     {
@@ -1436,7 +1408,6 @@
       "month": "2025-11",
       "brands": {
         "Lenovo": 3,
-        "Alienware": 2,
         "Asus": 1,
         "Dell": 1,
         "HP": 1
@@ -1454,12 +1425,6 @@
       "brands": {
         "Alienware": 1,
         "Asus": 1,
-        "Lenovo": 1
-      }
-    },
-    {
-      "month": "2026-02",
-      "brands": {
         "Lenovo": 1
       }
     },
@@ -1482,14 +1447,14 @@
       "month": "2026-05",
       "brands": {
         "Lenovo": 12,
-        "Asus": 8,
-        "Apple": 5,
+        "Asus": 5,
         "Alienware": 4,
+        "Apple": 4,
         "Dell": 4,
         "HP": 3,
-        "Samsung": 3,
         "Acer": 2,
         "MSI": 2,
+        "Samsung": 2,
         "AMD": 1,
         "Microsoft": 1,
         "NVIDIA": 1
@@ -1498,42 +1463,42 @@
     {
       "month": "2026-06",
       "brands": {
-        "Microsoft": 379,
-        "Apple": 275,
-        "Dell": 198,
-        "Valve": 162,
-        "AMD": 137,
-        "NVIDIA": 112,
-        "Intel": 91,
-        "Asus": 84,
-        "Lenovo": 74,
-        "Samsung": 62,
-        "MSI": 56,
-        "Qualcomm": 36,
-        "Alienware": 28,
-        "Acer": 23,
+        "Microsoft": 369,
+        "Apple": 254,
+        "Dell": 185,
+        "Valve": 158,
+        "AMD": 132,
+        "NVIDIA": 108,
+        "Intel": 89,
+        "Asus": 79,
+        "Lenovo": 70,
+        "Samsung": 61,
+        "MSI": 51,
+        "Qualcomm": 35,
+        "Alienware": 24,
         "HP": 23,
-        "Google": 12
+        "Acer": 22,
+        "Google": 11
       }
     },
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 179,
-        "Apple": 60,
+        "Microsoft": 172,
+        "Apple": 57,
         "Intel": 57,
-        "Dell": 55,
         "Valve": 52,
+        "Dell": 51,
         "NVIDIA": 49,
         "AMD": 40,
         "Samsung": 40,
         "Asus": 39,
-        "Lenovo": 37,
+        "Lenovo": 36,
         "Alienware": 25,
-        "HP": 19,
-        "MSI": 16,
-        "Acer": 6,
+        "HP": 18,
+        "MSI": 12,
         "Google": 6,
+        "Acer": 5,
         "Framework": 5
       }
     }
@@ -2271,23 +2236,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:67122",
-      "kind": "youtube",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "Adrenaline Brasil",
-      "source_icon": "",
-      "country": "",
-      "section": "Deals",
-      "title": "Cheap Dell 27\" 240 Hz Monitor?",
-      "url": "https://www.youtube.com/watch?v=TPefb6ftCWo",
-      "published_at": "2026-07-10T12:00:00+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
-    },
-    {
       "id": "media:98351",
       "kind": "media",
       "brand": "Samsung",
@@ -2436,23 +2384,6 @@
       "url": "https://wccftech.com/mrdimm-ddr5-memory-keep-up-with-next-gen-servers-achieving-ddr6-class-bandwidth/",
       "published_at": "2026-07-10T08:10:11+00:00",
       "score": 55,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:97947",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft Office 2024 Pro Plus available for $54.99 lifetime license",
-      "url": "https://www.pcworld.com/article/3183619/word-excel-powerpoint-and-no-monthly-payments-microsoft-office-2024-pro-plus-is-54-99.html",
-      "published_at": "2026-07-10T08:00:00+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -3291,23 +3222,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:63956",
-      "kind": "youtube",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Max Tech",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple's upcoming M7 Macs: 7 models, design changes, and AI focus",
-      "url": "https://www.youtube.com/watch?v=pZypOP-D7LU",
-      "published_at": "2026-07-09T15:04:07+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:63926",
       "kind": "youtube",
       "brand": "Apple",
@@ -3901,23 +3815,6 @@
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
-    },
-    {
-      "id": "media:94948",
-      "kind": "media",
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Lenovo Legion Go S hits record-low price on Amazon",
-      "url": "https://www.techradar.com/gaming/steam-deck-too-expensive-the-lenovo-legion-go-s-is-back-to-its-lowest-ever-price-on-amazon",
-      "published_at": "2026-07-09T11:17:39+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
     },
     {
       "id": "media:95146",
@@ -4515,40 +4412,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:92781",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Computerworld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft shifts to in-house AI models to cut genAI costs",
-      "url": "https://www.computerworld.com/article/4194600/microsoft-wants-to-cut-its-ai-costs-is-focusing-on-its-own-models.html",
-      "published_at": "2026-07-08T18:20:06+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:61738",
-      "kind": "youtube",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Canaltech",
-      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Apple raised prices on MacBooks and iPads, except the iPhone",
-      "url": "https://www.youtube.com/shorts/QYlYmsoTwcg",
-      "published_at": "2026-07-08T18:01:37+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:92308",
       "kind": "media",
       "brand": "Asus",
@@ -4883,23 +4746,6 @@
       "title": "AMD Ryzen 9 7900X Processor on Sale for $275 with Free Shipping",
       "url": "https://hothardware.com/news/amd-ryzen-9-7900x-deal-slashes-price-275-free-shipping",
       "published_at": "2026-07-08T14:52:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:92448",
-      "kind": "media",
-      "brand": "MSI",
-      "family": "PC competitors",
-      "source": "The Verge",
-      "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Gaming laptops are too expensive, but MSI offers a good value",
-      "url": "https://www.theverge.com/gadgets/962754/msi-gaming-laptop-ethernet-switch-pc-steam-game-deal-sale",
-      "published_at": "2026-07-08T14:43:00+00:00",
       "score": 35,
       "is_review": false,
       "is_sponsored": false,
@@ -5788,6 +5634,125 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
+    },
+    {
+      "id": "media:90843",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "Digital Trends",
+      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Microsoft's Copilot adoption lags despite widespread integration",
+      "url": "https://www.digitaltrends.com/computing/microsoft-pushed-copilot-everywhere-but-barely-anyone-bought-it-and-even-fewer-use-it-report/",
+      "published_at": "2026-07-07T18:37:55+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:89817",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "WinFuture",
+      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
+      "country": "DE",
+      "section": "Ecosystem",
+      "title": "Phishing campaign exploits Microsoft's Device Authorization Grant",
+      "url": "https://winfuture.de/news,159833.html",
+      "published_at": "2026-07-07T18:31:00+00:00",
+      "score": 30,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:89049",
+      "kind": "media",
+      "brand": "MSI",
+      "family": "PC competitors",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Lexar launches DDR5-7600 memory with Chinese chips, breaking 6,000 MT/s barrier",
+      "url": "https://www.adrenaline.com.br/hardware/lexar-ddr5-7600-chips-cxmt-thor-ii/",
+      "published_at": "2026-07-07T18:21:03+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:89510",
+      "kind": "media",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD's $82 chip targets 2026 budget PC builders",
+      "url": "https://www.xda-developers.com/building-a-budget-pc-start-with-this-amd-ryzen-5-5500-for-82/",
+      "published_at": "2026-07-07T18:15:22+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:89596",
+      "kind": "media",
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Aoostar mini PC outperforms Steam Machine in raw performance",
+      "url": "https://www.techradar.com/pro/aoostars-mini-pc-completely-destroys-the-steam-machine-on-raw-performance-but-you-will-have-to-add-memory-and-storage",
+      "published_at": "2026-07-07T18:05:00+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:89090",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "TecMundo",
+      "source_icon": "",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Windows 11 bug consumes up to 500 GB of storage; update advised",
+      "url": "https://www.tecmundo.com.br/produto/414408-bug-do-windows-11-consome-ate-500-gb-de-armazenamento-sem-motivo-atualize.htm",
+      "published_at": "2026-07-07T18:00:00+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:89315",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Tiny notepad app highlights Windows bloat in modern software",
+      "url": "https://www.windowscentral.com/software-apps/not-every-app-needs-to-bundle-the-universe-this-tiny-notepad-app-shows-why-windows-has-become-so-bloated",
+      "published_at": "2026-07-07T17:57:25+00:00",
+      "score": 25,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
     }
   ],
   "items": [
@@ -6523,23 +6488,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:67122",
-      "kind": "youtube",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "Adrenaline Brasil",
-      "source_icon": "",
-      "country": "",
-      "section": "Deals",
-      "title": "Cheap Dell 27\" 240 Hz Monitor?",
-      "url": "https://www.youtube.com/watch?v=TPefb6ftCWo",
-      "published_at": "2026-07-10T12:00:00+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
-    },
-    {
       "id": "media:98351",
       "kind": "media",
       "brand": "Samsung",
@@ -6688,23 +6636,6 @@
       "url": "https://wccftech.com/mrdimm-ddr5-memory-keep-up-with-next-gen-servers-achieving-ddr6-class-bandwidth/",
       "published_at": "2026-07-10T08:10:11+00:00",
       "score": 55,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:97947",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft Office 2024 Pro Plus available for $54.99 lifetime license",
-      "url": "https://www.pcworld.com/article/3183619/word-excel-powerpoint-and-no-monthly-payments-microsoft-office-2024-pro-plus-is-54-99.html",
-      "published_at": "2026-07-10T08:00:00+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -7543,23 +7474,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:63956",
-      "kind": "youtube",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Max Tech",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple's upcoming M7 Macs: 7 models, design changes, and AI focus",
-      "url": "https://www.youtube.com/watch?v=pZypOP-D7LU",
-      "published_at": "2026-07-09T15:04:07+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:63926",
       "kind": "youtube",
       "brand": "Apple",
@@ -8153,23 +8067,6 @@
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
-    },
-    {
-      "id": "media:94948",
-      "kind": "media",
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Lenovo Legion Go S hits record-low price on Amazon",
-      "url": "https://www.techradar.com/gaming/steam-deck-too-expensive-the-lenovo-legion-go-s-is-back-to-its-lowest-ever-price-on-amazon",
-      "published_at": "2026-07-09T11:17:39+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
     },
     {
       "id": "media:95146",
@@ -8767,40 +8664,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:92781",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Computerworld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft shifts to in-house AI models to cut genAI costs",
-      "url": "https://www.computerworld.com/article/4194600/microsoft-wants-to-cut-its-ai-costs-is-focusing-on-its-own-models.html",
-      "published_at": "2026-07-08T18:20:06+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:61738",
-      "kind": "youtube",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Canaltech",
-      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Apple raised prices on MacBooks and iPads, except the iPhone",
-      "url": "https://www.youtube.com/shorts/QYlYmsoTwcg",
-      "published_at": "2026-07-08T18:01:37+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:92308",
       "kind": "media",
       "brand": "Asus",
@@ -9135,23 +8998,6 @@
       "title": "AMD Ryzen 9 7900X Processor on Sale for $275 with Free Shipping",
       "url": "https://hothardware.com/news/amd-ryzen-9-7900x-deal-slashes-price-275-free-shipping",
       "published_at": "2026-07-08T14:52:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:92448",
-      "kind": "media",
-      "brand": "MSI",
-      "family": "PC competitors",
-      "source": "The Verge",
-      "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Gaming laptops are too expensive, but MSI offers a good value",
-      "url": "https://www.theverge.com/gadgets/962754/msi-gaming-laptop-ethernet-switch-pc-steam-game-deal-sale",
-      "published_at": "2026-07-08T14:43:00+00:00",
       "score": 35,
       "is_review": false,
       "is_sponsored": false,
@@ -10790,23 +10636,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:88526",
-      "kind": "media",
-      "brand": "MSI",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "MSI Katana 15 HX laptop targets students with Intel i7 and RTX 5060",
-      "url": "https://www.techradar.com/pro/college-requires-more-than-microsoft-word-from-lecture-notes-to-4k-video-editing-this-msi-katana-15-hx-laptop-deal-is-built-for-students-and-creators",
-      "published_at": "2026-07-07T12:26:42+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:88729",
       "kind": "media",
       "brand": "Valve",
@@ -11040,23 +10869,6 @@
       "url": "https://exame.com/invest/mercados/futuros-de-wall-street-caem-com-pressao-sobre-chips-e-samsung/",
       "published_at": "2026-07-07T08:53:35+00:00",
       "score": 15,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:88141",
-      "kind": "media",
-      "brand": "OpenAI",
-      "family": "Other",
-      "source": "Exame",
-      "source_icon": "https://www.google.com/s2/favicons?domain=exame.com&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Chinese startup DeepSeek developing own AI chip for inference",
-      "url": "https://exame.com/inteligencia-artificial/chinesa-deepseek-esta-desevolvendo-proprio-chip-de-ia-diz-site/",
-      "published_at": "2026-07-07T08:31:06+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -11844,23 +11656,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:86394",
-      "kind": "media",
-      "brand": "MSI",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "MSI Venture 16 AI laptop deal offers Intel Core Ultra 9 285H and 32GB DDR5",
-      "url": "https://www.techradar.com/pro/this-msi-venture-16-ai-laptop-deal-is-a-win-for-pros-and-photo-editors",
-      "published_at": "2026-07-06T16:48:22+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:86307",
       "kind": "media",
       "brand": "Microsoft",
@@ -12179,23 +11974,6 @@
       "url": "https://winfuture.de/news,159801.html",
       "published_at": "2026-07-06T15:16:00+00:00",
       "score": 5,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:86405",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft invests $2.5bn in AI engineer deployment for customers",
-      "url": "https://www.techradar.com/pro/microsoft-is-spending-usd2-5bn-on-deploying-ai-engineers-to-its-customers",
-      "published_at": "2026-07-06T15:05:00+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -12740,23 +12518,6 @@
       "url": "https://www.tomshardware.com/tech-industry/semiconductors/chinas-huawei-to-enter-south-korean-ai-chip-market-with-new-atlas-superpods-clusters-pack-8-192-ascend-950-accelerators-per-deployment-reportedly-challenges-nvidia-dominance-with-tripled-inference-performance-of-h20-at-one-quarter-the-cost",
       "published_at": "2026-07-06T12:31:48+00:00",
       "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:85112",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft extends Windows 10 security updates amid planned obsolescence concerns",
-      "url": "https://www.pcworld.com/article/3182915/planned-obsolescence-is-now-a-windows-pc-security-nightmare.html",
-      "published_at": "2026-07-06T12:00:00+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -13986,23 +13747,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:81041",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Dell 15 Laptop priced under $550 with 16GB RAM and Core i5 for back-to-school and office use",
-      "url": "https://www.techradar.com/seasonal-sales/this-usd550-dell-15-laptop-beats-those-cheap-4gb-laptop-deals-with-16gb-ram-and-core-i5-power-its-a-better-buy-for-back-to-school-and-office-work",
-      "published_at": "2026-07-03T18:20:07+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
-    },
-    {
       "id": "media:81042",
       "kind": "media",
       "brand": "Dell",
@@ -14921,23 +14665,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:79952",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Computerworld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft and Amazon invest in AI deployment with Forward-Deployed Engineers",
-      "url": "https://www.computerworld.com/article/4192535/microsoft-and-amazon-devote-billions-of-dollars-to-thousands-of-fdes-2.html",
-      "published_at": "2026-07-03T01:11:26+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:51897",
       "kind": "youtube",
       "brand": "MSI",
@@ -15567,23 +15294,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:77629",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Refurbished Dell Latitude 5330 with 32GB RAM now $400 on eBay",
-      "url": "https://www.pcworld.com/article/3183218/this-dell-latitude-laptop-with-32gb-ram-is-only-400-right-now.html",
-      "published_at": "2026-07-02T15:05:47+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
-    },
-    {
       "id": "youtube:50427",
       "kind": "youtube",
       "brand": "Valve",
@@ -15907,23 +15617,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:76761",
-      "kind": "media",
-      "brand": "HP",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "HP OmniBook 3 AI laptop deal at $550 with 32-hour battery",
-      "url": "https://www.techradar.com/pro/who-needs-a-macbook-air-this-usd550-hp-omnibook-3-deal-packs-ai-features-and-up-to-32-hours-of-battery-life",
-      "published_at": "2026-07-02T12:15:47+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:76481",
       "kind": "media",
       "brand": "Microsoft",
@@ -15936,23 +15629,6 @@
       "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-copilot-os-revealed-in-leaked-video-lightweight-windows-os-exploration-features-new-desktop-ui-built-entirely-around-copilot-and-agentic-ai",
       "published_at": "2026-07-02T12:07:19+00:00",
       "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:76557",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft's AI Copilot faces challenges as AI tools threaten Office's future",
-      "url": "https://www.pcworld.com/article/3182157/can-microsofts-productivity-apps-survive-the-age-of-ai.html",
-      "published_at": "2026-07-02T12:00:00+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -16208,23 +15884,6 @@
       "url": "https://winfuture.de/news,159719.html",
       "published_at": "2026-07-02T08:15:00+00:00",
       "score": 5,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:76562",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Lifetime Microsoft Office license available for $19.97",
-      "url": "https://www.pcworld.com/article/3177303/word-excel-powerpoint-and-more-are-included-with-this-20-lifetime-license.html",
-      "published_at": "2026-07-02T08:00:00+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -16978,23 +16637,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:74421",
-      "kind": "media",
-      "brand": "MSI",
-      "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "MSI 4K OLED gaming monitor drops to $600 in US deal",
-      "url": "https://www.pcworld.com/article/3181965/this-msi-4k-oled-gaming-monitor-is-down-to-just-600.html",
-      "published_at": "2026-07-01T15:06:04+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:74638",
       "kind": "media",
       "brand": "Microsoft",
@@ -17233,23 +16875,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:73553",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "4th of July sales feature Dell and others with RTX gaming laptops for college students",
-      "url": "https://www.techradar.com/computing/gaming-laptops/the-4th-of-july-sales-include-great-prices-on-rtx-5060-rtx-5070-and-rtx-5070-ti-gaming-laptops-perfect-for-college-students",
-      "published_at": "2026-07-01T12:39:21+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:75064",
       "kind": "media",
       "brand": "HP",
@@ -17284,23 +16909,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:73725",
-      "kind": "media",
-      "brand": "Acer",
-      "family": "PC competitors",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Acer's 1,000Hz gaming monitor listed on Amazon with $699.99 price",
-      "url": "https://www.digitaltrends.com/home-theater/acers-1000hz-gaming-monitor-is-real-expensive-and-stuck-waiting-on-a-launch-date/",
-      "published_at": "2026-07-01T12:05:10+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:73758",
       "kind": "media",
       "brand": "Samsung",
@@ -17312,23 +16920,6 @@
       "title": "Samsung advances 1.4nm+ and 2nm semiconductor nodes with TSMC and Intel",
       "url": "https://wccftech.com/samsung-bringing-improved-1-4nm-node-through-design-and-optimization/",
       "published_at": "2026-07-01T11:59:31+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:73776",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Deals",
-      "title": "Apple raises MacBook Neo prices, sparking community backlash",
-      "url": "https://winfuture.de/videos/Hardware/MacBook-Neo-Apples-Einsteiger-Notebook-bleibt-auch-teurer-attraktiv-28835.html",
-      "published_at": "2026-07-01T11:54:03+00:00",
       "score": 35,
       "is_review": false,
       "is_sponsored": false,
@@ -18321,23 +17912,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:71432",
-      "kind": "media",
-      "brand": "MSI",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "MSI offers 27-inch and 34-inch monitor deals for productivity",
-      "url": "https://www.techradar.com/pro/i-found-two-unmissable-msi-monitor-deals-that-give-you-loads-more-screen-space-for-getting-the-job-done-in-style",
-      "published_at": "2026-06-30T16:46:37+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:71083",
       "kind": "media",
       "brand": "Microsoft",
@@ -18452,23 +18026,6 @@
       "url": "https://www.techradar.com/pro/security/microsoft-takes-down-over-100-malicious-edge-extensions-hiding-malware-in-images-and-fonts",
       "published_at": "2026-06-30T15:15:00+00:00",
       "score": 20,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:71647",
-      "kind": "media",
-      "brand": "Amazon",
-      "family": "Other",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Deals",
-      "title": "Chinese RAM brand KingSpec enters German market via Amazon",
-      "url": "https://winfuture.de/news,159680.html",
-      "published_at": "2026-06-30T15:10:00+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -19137,23 +18694,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:70352",
-      "kind": "media",
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Lenovo ThinkPad T16 praised for productivity and keyboard in Gen 5 deal",
-      "url": "https://www.techradar.com/pro/lenovos-thinkpad-t16-is-a-phenomenal-laptop-for-productivity-and-this-gen-5-deal-is-exactly-the-kind-of-serious-business-laptop-id-recommend-to-anyone-who-needs-a-reliable-daily-driver",
-      "published_at": "2026-06-30T11:05:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:70016",
       "kind": "media",
       "brand": "Meta",
@@ -19166,23 +18706,6 @@
       "url": "https://www.tomshardware.com/pc-components/dram/meta-fights-soaring-hardware-costs-by-reusing-old-ddr4-server-memory-in-new-ddr5-only-servers-custom-cxl-2-0-chip-marries-legacy-ddr4-2400-with-cutting-edge-ddr5-6400",
       "published_at": "2026-06-30T11:00:00+00:00",
       "score": 45,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:70355",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Back to School laptop deals include Dell, Lenovo, HP options with up to $530 savings",
-      "url": "https://www.techradar.com/computing/windows-laptops/this-years-back-to-school-laptop-deals-are-already-live-here-are-9-options-from-dell-lenovo-and-hp-that-can-save-you-up-to-usd530",
-      "published_at": "2026-06-30T10:30:53+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -19392,23 +18915,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:70373",
-      "kind": "media",
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Acer and Lenovo offer EOFY gaming laptop deals with RTX 5060 and 5090 options",
-      "url": "https://www.techradar.com/computing/i-found-two-eofy-gaming-laptop-deals-worth-checking-today-whether-you-want-rtx-5060-value-or-rtx-5090-power",
-      "published_at": "2026-06-30T00:44:12+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:70374",
       "kind": "media",
       "brand": "Asus",
@@ -19420,23 +18926,6 @@
       "title": "JB Hi-Fi discounts Asus Zenbook A14 for EOFY sale",
       "url": "https://www.techradar.com/computing/jb-hi-fi-eofy-laptop-deal-this-lightweight-asus-zenbook-a14-has-a-big-discount",
       "published_at": "2026-06-30T00:31:23+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:69799",
-      "kind": "media",
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Chinese Steam Machine clone sold on Reddit with Ryzen 5 and RX 6750 GRE",
-      "url": "https://www.adrenaline.com.br/hardware/clone-chines-do-steam-machine-custa-menos-mas-e-bom-demais-para-ser-verdade/",
-      "published_at": "2026-06-29T23:40:32+00:00",
       "score": 35,
       "is_review": false,
       "is_sponsored": false,
@@ -19524,23 +19013,6 @@
       "published_at": "2026-06-29T22:00:00+00:00",
       "score": 72,
       "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:67921",
-      "kind": "media",
-      "brand": "MSI",
-      "family": "PC competitors",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "MSI's $1,799 handheld gaming PC sells out at major retailers",
-      "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/it-may-cost-usd1-799-but-msis-new-handheld-gaming-pc-has-already-sold-out-at-best-buy-newegg-micro-center-and-b-and-h",
-      "published_at": "2026-06-29T21:50:40+00:00",
-      "score": 35,
-      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -19948,23 +19420,6 @@
       "url": "https://www.xda-developers.com/dbrand-pulls-companion-cube-steam-machine-case-never-got-valves-permission/",
       "published_at": "2026-06-29T17:31:36+00:00",
       "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:66802",
-      "kind": "media",
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Valve threatens legal action over unauthorized Portal 2-inspired PC case",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/valve-threatens-legal-action-against-dbrand-over-its-unsanctioned-portal-2-inspired-companion-cube-edgy-accessories-manufacturer-kills-product-after-asking-for-licensing-deal-admits-it-didnt-have-the-right-to-make-it",
-      "published_at": "2026-06-29T17:26:18+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -21483,23 +20938,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:42400",
-      "kind": "youtube",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Max Tech",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple unveils next-gen Mac lineup with M5 Ultra, MacBook Neo 2, and price hikes",
-      "url": "https://www.youtube.com/watch?v=UbIZgqSI1Ek",
-      "published_at": "2026-06-28T14:53:42+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:42280",
       "kind": "youtube",
       "brand": "Asus",
@@ -21597,23 +21035,6 @@
       "url": "https://www.windowscentral.com/software-apps/edge-suddenly-feels-less-bloated-after-microsoft-retired-its-creepy-ai-history-search-feature-to-the-companys-digital-graveyard",
       "published_at": "2026-06-28T13:02:52+00:00",
       "score": 25,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:64714",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft lowers Surface prices as Dell XPS 13 becomes cheaper",
-      "url": "https://www.windowscentral.com/hardware/surface/microsoft-finally-made-a-more-affordable-surface-but-its-timing-was-terrible",
-      "published_at": "2026-06-28T13:00:00+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -21753,23 +21174,6 @@
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
-    },
-    {
-      "id": "media:64786",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Windows 11 Pro on sale for $9.97 until July 1",
-      "url": "https://www.pcworld.com/article/3176344/you-can-currently-get-windows-11-pro-for-life-for-just-9-97.html",
-      "published_at": "2026-06-28T08:00:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
     },
     {
       "id": "media:65199",
@@ -22384,23 +21788,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:63901",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Computerworld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft enhances Copilot in Excel with new skills and oversight features",
-      "url": "https://www.computerworld.com/article/4189977/microsoft-adds-new-skills-and-more-oversight-for-copilot-in-excel.html",
-      "published_at": "2026-06-27T10:35:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:63599",
       "kind": "media",
       "brand": "Microsoft",
@@ -22571,23 +21958,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:40705",
-      "kind": "youtube",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "TecMundo",
-      "source_icon": "https://yt3.googleusercontent.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "APPLE AUMENTA priceS DE MACS E IPADS NO BRASIL",
-      "url": "https://www.youtube.com/shorts/cSrOC7drasM",
-      "published_at": "2026-06-26T23:00:32+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:41110",
       "kind": "youtube",
       "brand": "AMD",
@@ -22620,23 +21990,6 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
-    },
-    {
-      "id": "youtube:40720",
-      "kind": "youtube",
-      "brand": "Positivo",
-      "family": "PC competitors",
-      "source": "TudoCelular",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_kLxUVQDnPaMByr20iK1JsJiMjDHuiB7KDIhTzl7cdDu6Y=s900-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Shorts TC: A POSITIVO que você não conhece #Shorts",
-      "url": "https://www.youtube.com/shorts/arNR-JfmhIU",
-      "published_at": "2026-06-26T22:30:04+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
     },
     {
       "id": "youtube:40855",
@@ -22826,23 +22179,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:40285",
-      "kind": "youtube",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "MACBOOKS MAIS CAROS?! 😱🍎 #macbook #apple #neo #air #laptop #qnc #quallaptopcomprar",
-      "url": "https://www.youtube.com/shorts/jIz6rcTMvYU",
-      "published_at": "2026-06-26T18:34:11+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:61989",
       "kind": "media",
       "brand": "Apple",
@@ -22957,23 +22293,6 @@
       "url": "https://www.adrenaline.com.br/perifericos/controle-arcade-razer-kitsune-ganha-nova-ryu-edition-para-celebrar-a-evo-2026/",
       "published_at": "2026-06-26T17:55:23+00:00",
       "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:61579",
-      "kind": "media",
-      "brand": "MSI",
-      "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "MSI launches Cubi NUC AI+ 3MG mini PC for local AI workloads",
-      "url": "https://www.pcworld.com/article/3176465/stay-in-control-of-ai-with-the-msi-cubi-nuc-ai-3mg-mini-pc.html",
-      "published_at": "2026-06-26T17:47:46+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -23642,23 +22961,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:60675",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "ZDNet",
-      "source_icon": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft offers free Windows 10 security updates until 2027 for European users",
-      "url": "https://www.zdnet.com/article/how-to-get-free-windows-10-security-patches-until-october-2027-avoid-fee/",
-      "published_at": "2026-06-26T12:34:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:60384",
       "kind": "media",
       "brand": "AMD",
@@ -23721,23 +23023,6 @@
       "title": "Framework lowers Laptop 13 Pro price with SSD upgrade",
       "url": "https://www.digitaltrends.com/computing/framework-found-a-way-to-make-its-new-laptop-cheaper-but-dont-celebrate-yet/",
       "published_at": "2026-06-26T12:15:14+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:60676",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "ZDNet",
-      "source_icon": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple raises MacBook Neo price to $590",
-      "url": "https://www.zdnet.com/article/apple-macbook-neo-at-590-amazon-prime-day-2026/",
-      "published_at": "2026-06-26T12:15:00+00:00",
       "score": 35,
       "is_review": false,
       "is_sponsored": false,
@@ -24169,23 +23454,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:60568",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "WIRED",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wired.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple raises MacBook prices, boosting Prime Day deals",
-      "url": "https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/",
-      "published_at": "2026-06-26T00:07:57+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:60746",
       "kind": "media",
       "brand": "MSI",
@@ -24441,23 +23709,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:59366",
-      "kind": "media",
-      "brand": "Asus",
-      "family": "PC competitors",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "ASUS Vivobook 16 OLED deal offers 32GB RAM, 3K OLED display, and Intel AI chip",
-      "url": "https://www.windowscentral.com/hardware/laptops/this-asus-vivobook-16-oled-deal-packs-32gb-of-ram-a-3k-display-and-intels-latest-ai-chip-for-less-than-youd-expect",
-      "published_at": "2026-06-25T20:51:11+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:40391",
       "kind": "youtube",
       "brand": "Dell",
@@ -24504,23 +23755,6 @@
       "url": "https://www.cnet.com/tech/computing/best-battery-life-laptop/",
       "published_at": "2026-06-25T20:37:00+00:00",
       "score": 30,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:36262",
-      "kind": "youtube",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple's price hikes #Vergecast",
-      "url": "https://www.youtube.com/shorts/zlFjfYJFJgs",
-      "published_at": "2026-06-25T20:33:57+00:00",
-      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -24589,23 +23823,6 @@
       "url": "https://www.pcworld.com/article/3177136/framework-finds-cheaper-ssds-but-cpu-price-hikes-could-be-next.html",
       "published_at": "2026-06-25T20:10:30+00:00",
       "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:59610",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "ZDNet",
-      "source_icon": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple raises MacBook prices; Amazon offers lower Prime Day deals",
-      "url": "https://www.zdnet.com/article/macbook-air-m5-standalone-apple-deals/",
-      "published_at": "2026-06-25T20:01:00+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -24883,23 +24100,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:58579",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple raises MacBook prices, making budget Windows laptops more attractive",
-      "url": "https://www.techradar.com/computing/macbooks/i-cant-believe-im-saying-this-but-the-macbook-neos-usd100-price-bump-means-budget-windows-11-laptops-are-now-the-better-buy",
-      "published_at": "2026-06-25T18:34:43+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:58161",
       "kind": "media",
       "brand": "Amazon",
@@ -25019,23 +24219,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:58218",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "The Verge",
-      "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple raises iPad and MacBook prices, retailers offer last chances for deals",
-      "url": "https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes",
-      "published_at": "2026-06-25T18:04:13+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:58494",
       "kind": "media",
       "brand": "NVIDIA",
@@ -25048,23 +24231,6 @@
       "url": "https://www.xda-developers.com/the-rtx-50-series-has-been-nothing-but-a-beta-test-for-the-rtx-60-series/",
       "published_at": "2026-06-25T18:01:21+00:00",
       "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:58544",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "ZDNet",
-      "source_icon": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple raises MacBook prices, but Amazon offers lower deals",
-      "url": "https://www.zdnet.com/article/macbook-air-m5-standalone/",
-      "published_at": "2026-06-25T18:01:00+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -25614,23 +24780,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:58252",
-      "kind": "media",
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "B&H offers DDR5 RAM bundles with Ryzen 7 9850X3D and motherboard for $250",
-      "url": "https://www.tomshardware.com/pc-components/b-and-hs-bundles-blowout-offers-32gb-of-ddr5-memory-for-around-usd250-save-on-multiple-bundles-including-ryzen-7-9850x3d-ddr5-and-a-motherboard",
-      "published_at": "2026-06-25T16:25:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:59085",
       "kind": "media",
       "brand": "Qualcomm",
@@ -25699,23 +24848,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:58627",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "CRN",
-      "source_icon": "https://www.google.com/s2/favicons?domain=crn.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Dell Terminates Enterprise Distribution Deal with Arrow ECS",
-      "url": "https://www.crn.com/news/channel-news/2026/dell-technologies-terminates-enterprise-computing-distribution-deal-with-arrow-sources",
-      "published_at": "2026-06-25T16:08:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
-    },
-    {
       "id": "media:58254",
       "kind": "media",
       "brand": "Apple",
@@ -25748,23 +24880,6 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
-    {
-      "id": "media:58358",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "CNET",
-      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Dell XPS 13 branded content",
-      "url": "https://www.cnet.com/tech/computing/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
-      "published_at": "2026-06-25T15:42:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
     },
     {
       "id": "media:58375",
@@ -25966,23 +25081,6 @@
       "url": "https://www.theregister.com/personal-tech/2026/06/25/apple-passes-rampocalypse-costs-on-to-consumers/5262266",
       "published_at": "2026-06-25T14:48:00+00:00",
       "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:58623",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple raises Mac, iPad, and HomePod prices; deals available",
-      "url": "https://www.techradar.com/news/live/apple-price-rises-mac-ipad-homepod-apple-tv-june-2026",
-      "published_at": "2026-06-25T14:37:24+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -26872,23 +25970,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:56439",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "GeekBook M16 offers MacBook-inspired design with Intel Core Ultra 9 and 24-hour battery",
-      "url": "https://www.techradar.com/pro/usd799-apple-macbook-pro-clone-gets-core-ultra-9-cpu-huge-100whr-battery-promises-24hr-battery-life-and-linux-compatibility",
-      "published_at": "2026-06-24T23:00:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:56158",
       "kind": "media",
       "brand": "HP",
@@ -27242,23 +26323,6 @@
       "published_at": "2026-06-24T19:15:19+00:00",
       "score": 72,
       "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:56161",
-      "kind": "media",
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Discounted mini PCs available starting at $594 for 1080p gaming",
-      "url": "https://www.windowscentral.com/gaming/pc-gaming/mini-pc-gaming-deals-steam-machine-alts-prime-day",
-      "published_at": "2026-06-24T19:04:44+00:00",
-      "score": 35,
-      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -27705,23 +26769,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:54471",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Dell partners on remote work laptop guide",
-      "url": "https://www.digitaltrends.com/computing/what-makes-a-laptop-effective-for-remote-work/",
-      "published_at": "2026-06-24T15:24:27+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
-    },
-    {
       "id": "media:54304",
       "kind": "media",
       "brand": "Dell",
@@ -27856,23 +26903,6 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
-    {
-      "id": "media:54099",
-      "kind": "media",
-      "brand": "Alienware",
-      "family": "Dell family",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Alienware 34-inch OLED monitor drops to $629.99 on Prime Day",
-      "url": "https://www.pcworld.com/article/3172979/alienwares-34-inch-oled-ultrawide-just-crashed-to-an-all-time-low-price.html",
-      "published_at": "2026-06-24T14:27:16+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
     },
     {
       "id": "media:54102",
@@ -28487,23 +27517,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:51827",
-      "kind": "media",
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Lenovo offers Legion Tower 7i Gen 10 at 33% discount",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-almost-usd1-500-instantly-on-an-rtx-5080-gaming-pc-legion-tower-7i-gen-10-packs-core-ultra-7-265k-and-32gb-ddr5",
-      "published_at": "2026-06-23T21:26:57+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:52360",
       "kind": "media",
       "brand": "AMD",
@@ -28759,23 +27772,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:50810",
-      "kind": "media",
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Lenovo's Legion Go S hits lowest price during Prime Day",
-      "url": "https://www.windowscentral.com/hardware/lenovo/lenovo-legion-go-s-prime-day-lowest-price-ever",
-      "published_at": "2026-06-23T18:45:05+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:50884",
       "kind": "media",
       "brand": "Microsoft",
@@ -28924,23 +27920,6 @@
       "url": "https://exame.com/tecnologia/mais-de-80-dos-supercomputadores-mais-rapidos-do-mundo-usam-tecnologia-da-nvidia/",
       "published_at": "2026-06-23T17:30:27+00:00",
       "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:50221",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple faces rising LPDDR5X DRAM costs impacting product pricing",
-      "url": "https://wccftech.com/apple-is-in-for-a-sticker-shock-in-q3-with-lpddr5x-dram-costs-surging-by-68-8-in-a-single-quarter-as-operating-profit-margin-for-general-purpose-dram-to-hit-90-within-the-year/",
-      "published_at": "2026-06-23T17:24:59+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -29167,23 +28146,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:48861",
-      "kind": "media",
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "source": "XDA Developers",
-      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "AMD's Ryzen 7 5800X3D extends AM4 lifespan with 3D V-Cache",
-      "url": "https://www.xda-developers.com/5800x3d-kept-am4-alive-proved-3d-v-cache-was-real-deal/",
-      "published_at": "2026-06-23T16:00:22+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:48951",
       "kind": "media",
       "brand": "Dell",
@@ -29281,23 +28243,6 @@
       "url": "https://wccftech.com/amd-tells-windows-10-owners-to-roll-back-their-drivers-as-adrenalin-26-6-2-triggers-a-yellow-bang-error/",
       "published_at": "2026-06-23T15:28:09+00:00",
       "score": 45,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:48401",
-      "kind": "media",
-      "brand": "Asus",
-      "family": "PC competitors",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "title": "ASUS, MSI, ASRock liquidate top-tier motherboards due to sales drop",
-      "url": "https://www.adrenaline.com.br/hardware/queda-nas-vendas-forca-asus-msi-e-asrock-a-liquidarem-placas-mae-topo-de-linha/",
-      "published_at": "2026-06-23T15:26:16+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -29422,23 +28367,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:48745",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Windows Secure Boot certificates expire June 24, requiring updates",
-      "url": "https://www.pcworld.com/article/3173595/windows-secure-boot-certificates-expire-tomorrow-dont-ignore-this-deadline.html",
-      "published_at": "2026-06-23T14:54:45+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:49269",
       "kind": "media",
       "brand": "Valve",
@@ -29488,23 +28416,6 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
-    },
-    {
-      "id": "media:48668",
-      "kind": "media",
-      "brand": "Asus",
-      "family": "PC competitors",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Xbox ROG Ally gets cheaper in 2026 with Prime Day deal",
-      "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/xbox-rog-ally-amazon-prime-deal",
-      "published_at": "2026-06-23T14:28:11+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
     },
     {
       "id": "media:48874",
@@ -29893,23 +28804,6 @@
       "url": "https://www.windowscentral.com/hardware/surface/microsoft-knows-its-new-surface-pcs-are-too-expensive-combats-skyrocketing-prices-with-new-8gb-ram-models-that-start-at-usd849",
       "published_at": "2026-06-23T13:00:00+00:00",
       "score": 20,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:48760",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft launches budget Surface devices with 8GB RAM",
-      "url": "https://www.pcworld.com/article/3172230/sub-1000-surface-pcs-debut-but-with-a-catch-8gb-of-ram.html",
-      "published_at": "2026-06-23T13:00:00+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -30693,23 +29587,6 @@
       "published_at": "2026-06-22T20:58:48+00:00",
       "score": 72,
       "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:45736",
-      "kind": "media",
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Steam Machine price prompts DIY mini PC builds during Prime Day",
-      "url": "https://www.techradar.com/computing/gaming-pcs/disappointed-by-the-steam-machines-official-price-build-your-own-mini-gaming-pc-instead-with-these-deals",
-      "published_at": "2026-06-22T20:56:59+00:00",
-      "score": 35,
-      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -32584,23 +31461,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:42540",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple 2024 MacBook Air 13-inch with M3 chip hits record low price during Amazon Prime Week",
-      "url": "https://www.techradar.com/tech/the-apple-2024-macbook-air-13-inch-with-m3-chip-is-still-a-solid-laptop-thats-down-to-a-record-low-price-and-perfect-if-youre-looking-for-a-cheap-apple-laptop",
-      "published_at": "2026-06-22T11:19:47+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:44114",
       "kind": "media",
       "brand": "Samsung",
@@ -32817,23 +31677,6 @@
       "url": "https://www.tudocelular.com/tech/noticias/n256945/nvidia-rtx-5090-marcas-queimado-placa-mae-asus.html",
       "published_at": "2026-06-22T08:49:00+00:00",
       "score": 15,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:42201",
-      "kind": "media",
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "AMD Ryzen 7 9800X3D hits record-low price at Amazon UK",
-      "url": "https://www.tomshardware.com/pc-components/cpus/powerhouse-amd-ryzen-7-9800x3d-hits-record-low-price-at-amazon-uk-now-just-gbp339-99-get-one-of-our-favourite-gaming-cpus-with-its-game-changing-amd-3d-v-cache-technology",
-      "published_at": "2026-06-22T08:00:05+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -33808,23 +32651,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:21152",
-      "kind": "youtube",
-      "brand": "Alienware",
-      "family": "Dell family",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Alienware 16 Aurora RTX 4050 Review: Worth the Price?",
-      "url": "https://www.youtube.com/watch?v=onV2X-ku-i0",
-      "published_at": "2026-06-19T21:09:23+00:00",
-      "score": 90,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": true
-    },
-    {
       "id": "media:39002",
       "kind": "media",
       "brand": "AMD",
@@ -33838,23 +32664,6 @@
       "published_at": "2026-06-19T21:02:49+00:00",
       "score": 45,
       "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:21362",
-      "kind": "youtube",
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "source": "Canaltech",
-      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Samsung Odyssey OLED G5 review highlights features and compromises",
-      "url": "https://www.youtube.com/watch?v=0nfO7u_u6wE",
-      "published_at": "2026-06-19T21:00:05+00:00",
-      "score": 40,
-      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -34467,23 +33276,6 @@
       "published_at": "2026-06-19T12:40:30+00:00",
       "score": 65,
       "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:19217",
-      "kind": "youtube",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "The Tech Chap",
-      "source_icon": "https://yt3.googleusercontent.com/BqQGAGWm03aiyeviWMIjILHE9EInqFQSvKFHGBZcT9M_BBhCh5NdPXrmpbHZb_mmhkhu_C3K=s68-c-k-c0x00ffffff-no-rj",
-      "country": "GB",
-      "section": "Deals",
-      "title": "MacBook vs Windows Laptop Competition: New Hardware and Software Developments",
-      "url": "https://www.youtube.com/watch?v=2YyeGYA8xUA",
-      "published_at": "2026-06-19T12:30:04+00:00",
-      "score": 20,
-      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -35474,23 +34266,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:29648",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "HotHardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Trump claims Apple and Intel struck US chip manufacturing deal",
-      "url": "https://hothardware.com/news/trump-claims-apple-and-intel-struck-us-chip-manufacturing-deal",
-      "published_at": "2026-06-18T15:31:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:29928",
       "kind": "media",
       "brand": "NVIDIA",
@@ -36103,23 +34878,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:28305",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Engadget",
-      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Trump claims Apple and Intel finalized US chip manufacturing deal",
-      "url": "https://www.engadget.com/2197065/trump-claims-apple-intel-deal-is-done/",
-      "published_at": "2026-06-18T11:54:30+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:28330",
       "kind": "media",
       "brand": "Apple",
@@ -36131,23 +34889,6 @@
       "title": "Apple CEO Tim Cook warns AI-driven price increases are unavoidable",
       "url": "https://www.tomshardware.com/laptops/apple-ceo-tim-cook-warns-ai-driven-price-increases-are-unavoidable-says-company-is-trying-its-best-but-the-situation-has-become-unsustainable",
       "published_at": "2026-06-18T11:45:06+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:28332",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple and Intel reportedly collaborate on US chip manufacturing",
-      "url": "https://www.tomshardware.com/tech-industry/trump-says-apple-agreed-to-build-chips-with-intel",
-      "published_at": "2026-06-18T11:32:41+00:00",
       "score": 35,
       "is_review": false,
       "is_sponsored": false,
@@ -36574,23 +35315,6 @@
       "url": "https://www.wired.com/story/dell-coupon-code/",
       "published_at": "2026-06-18T05:00:00+00:00",
       "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:28872",
-      "kind": "media",
-      "brand": "Google",
-      "family": "Other",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Rumor: Google may source memory chips from Chinese firm CXMT to diversify suppliers",
-      "url": "https://wccftech.com/a-wild-rumor-linked-to-sundar-pichai-suggests-google-is-evaluating-the-procurement-of-memory-chips-from-chinas-cxmt/",
-      "published_at": "2026-06-18T01:21:10+00:00",
-      "score": 40,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -37990,23 +36714,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:23297",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Computerworld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft introduces usage-based pricing for Copilot Cowork",
-      "url": "https://www.computerworld.com/article/4186190/microsoft-launches-copilot-cowork-with-usage-based-pricing.html",
-      "published_at": "2026-06-17T11:52:14+00:00",
-      "score": 45,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:28614",
       "kind": "media",
       "brand": "Samsung",
@@ -38211,23 +36918,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:23336",
-      "kind": "media",
-      "brand": "Acer",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Acer's 27-inch 1440p monitor drops to $160 at Best Buy",
-      "url": "https://www.techradar.com/pro/the-acer-nitro-kgb271u-is-a-27-inch-1440p-monitor-at-an-almost-absurdly-low-price-right-now",
-      "published_at": "2026-06-17T10:18:42+00:00",
-      "score": 45,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:22994",
       "kind": "media",
       "brand": "AMD",
@@ -38377,23 +37067,6 @@
       "published_at": "2026-06-17T08:00:16+00:00",
       "score": 72,
       "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:23117",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft Office 2019 available for $20 with lifetime access during Deal Days",
-      "url": "https://www.pcworld.com/article/3166092/one-20-payment-gets-you-the-full-office-suite-and-zero-subscription-stress-during-this-deal-days-sale.html",
-      "published_at": "2026-06-17T08:00:00+00:00",
-      "score": 35,
-      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -38581,23 +37254,6 @@
       "published_at": "2026-06-16T22:09:32+00:00",
       "score": 65,
       "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:11821",
-      "kind": "youtube",
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "source": "Lucas Ishii",
-      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Avell Storm 560 review with i7 14650HX and RTX 5060",
-      "url": "https://www.youtube.com/watch?v=wf6kNkPBRZs",
-      "published_at": "2026-06-16T22:00:13+00:00",
-      "score": 20,
-      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -38886,23 +37542,6 @@
       "url": "https://www.youtube.com/shorts/WymvsD96KPA",
       "published_at": "2026-06-16T19:48:30+00:00",
       "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:21389",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft introduces Copilot Cowork for business AI tasks",
-      "url": "https://www.digitaltrends.com/cool-tech/microsofts-newest-ai-agent-wants-to-take-entire-projects-off-your-plate/",
-      "published_at": "2026-06-16T19:17:00+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -39384,23 +38023,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:10426",
-      "kind": "youtube",
-      "brand": "Alienware",
-      "family": "Dell family",
-      "source": "Tom's Guide",
-      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Deals",
-      "title": "Review of best MacBook monitors in 2026 including Dell Ultrasharp 52",
-      "url": "https://www.youtube.com/watch?v=vIo-zi2hWzk",
-      "published_at": "2026-06-16T15:00:25+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
-    },
-    {
       "id": "media:20169",
       "kind": "media",
       "brand": "Microsoft",
@@ -39586,23 +38208,6 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:10366",
-      "kind": "youtube",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "Dave2D",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Deals",
-      "title": "Dell XPS 13 vs MacBook Neo: Detailed performance and feature comparison",
-      "url": "https://www.youtube.com/watch?v=Z5XOhPfIgho",
-      "published_at": "2026-06-16T13:46:25+00:00",
-      "score": 85,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": true
     },
     {
       "id": "media:20381",
@@ -39860,23 +38465,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:19951",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft raises Surface prices, shifts to ARM-based chips for 2026 strategy",
-      "url": "https://www.pcworld.com/article/3166200/microsoft-knows-its-new-surface-pcs-are-expensive-thats-the-point.html",
-      "published_at": "2026-06-16T13:00:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:19998",
       "kind": "media",
       "brand": "Microsoft",
@@ -39957,23 +38545,6 @@
       "url": "https://www.windowscentral.com/hardware/surface/microsoft-will-finally-include-a-keyboard-with-its-new-surface-pro-12-but-only-for-a-limited-time",
       "published_at": "2026-06-16T13:00:00+00:00",
       "score": 30,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:18753",
-      "kind": "media",
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Qualcomm in talks to acquire AI chipmaker Tenstorrent for $8B-$10B",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-mulls-taking-over-jim-kellers-tenstorrent-report-claims-deal-for-ai-chipmaker-would-value-the-company-at-between-usd8-billion-and-usd10-billion",
-      "published_at": "2026-06-16T12:48:21+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -41339,23 +39910,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:13750",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Dell offers 15.6” laptop deal with i7, 16GB RAM, 512GB SSD",
-      "url": "https://www.techradar.com/pro/this-dell-laptop-deal-is-a-steal-for-work-and-study-and-im-impressed-with-the-specs-for-this-price",
-      "published_at": "2026-06-15T16:34:17+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
-    },
-    {
       "id": "media:15192",
       "kind": "media",
       "brand": "Apple",
@@ -41470,40 +40024,6 @@
       "url": "https://wccftech.com/amd-bets-on-mext-predictive-memory-tech-to-slash-data-center-tco/",
       "published_at": "2026-06-15T15:40:03+00:00",
       "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:7712",
-      "kind": "youtube",
-      "brand": "Asus",
-      "family": "PC competitors",
-      "source": "Lucas Ishii",
-      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Asus TUF Gaming A14 availability in Brazil discussed",
-      "url": "https://www.youtube.com/shorts/cQghIr3dLOA",
-      "published_at": "2026-06-15T15:26:15+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:13728",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Computerworld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple's AI data policies face EU scrutiny over data risks",
-      "url": "https://www.computerworld.com/article/4185115/why-europes-demands-on-apple-ai-put-your-data-at-risk.html",
-      "published_at": "2026-06-15T15:21:51+00:00",
-      "score": 40,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -42512,23 +41032,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:4471",
-      "kind": "youtube",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "Linus Tech Tips",
-      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Deals",
-      "title": "Microsoft's Xbox Mode for Windows gaming",
-      "url": "https://www.youtube.com/watch?v=cZ-saJoTl3M",
-      "published_at": "2026-06-14T17:00:42+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
-    },
-    {
       "id": "media:7688",
       "kind": "media",
       "brand": "Intel",
@@ -42864,23 +41367,6 @@
       "url": "https://www.cnet.com/videos/samsung-galaxy-z-fold-8-wide-spotted-in-the-wild-and-it-looks-real/",
       "published_at": "2026-06-14T12:00:40+00:00",
       "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:6516",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "AMD highlights MacBook Neo's gaming limitations compared to budget laptops",
-      "url": "https://www.tomshardware.com/laptops/macbooks/amd-taunts-apples-macbook-neo-for-failing-to-run-75-percent-of-top-pc-games-only-5-out-of-the-20-top-pc-games-work-on-the-neo-while-all-run-on-amds-budget-offerings",
-      "published_at": "2026-06-14T12:00:00+00:00",
-      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -43498,23 +41984,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:4208",
-      "kind": "media",
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "source": "CNET",
-      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Nvidia RTX Spark targets AI developers with new laptop platform",
-      "url": "https://www.cnet.com/videos/nvidias-rtx-spark-explained-heres-who-its-for/",
-      "published_at": "2026-06-13T13:00:48+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:4209",
       "kind": "media",
       "brand": "Apple",
@@ -43528,23 +41997,6 @@
       "published_at": "2026-06-13T13:00:46+00:00",
       "score": 65,
       "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:556",
-      "kind": "youtube",
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "source": "PCMag",
-      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Deals",
-      "title": "Nvidia RTX Spark's Long-Term Impact on AI PCs",
-      "url": "https://www.youtube.com/watch?v=McYCZqdKVcc",
-      "published_at": "2026-06-13T13:00:29+00:00",
-      "score": 35,
-      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -43833,23 +42285,6 @@
       "url": "https://www.computerworld.com/article/4184675/google-unveils-diffusiongemma-an-ai-model-that-breaks-free-of-left-to-right-processing-2.html",
       "published_at": "2026-06-12T21:23:56+00:00",
       "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:2405",
-      "kind": "media",
-      "brand": "MSI",
-      "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "MSI launches Frieren-themed gaming peripherals with anime collaboration",
-      "url": "https://www.pcworld.com/article/3160951/msi-frieren-beyond-journeys-end-where-anime-magic-meets-premium-gaming-hardware.html",
-      "published_at": "2026-06-12T20:23:45+00:00",
-      "score": 45,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -44212,23 +42647,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:5515",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Computerworld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft releases June 2026 security updates with critical patches for Edge, Office, Exchange, and more",
-      "url": "https://www.computerworld.com/article/4184571/for-june-patch-tuesday-means-an-it-scramble.html",
-      "published_at": "2026-06-12T15:52:17+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:2082",
       "kind": "media",
       "brand": "Google",
@@ -44240,23 +42658,6 @@
       "title": "Google updates Gemini app for macOS with new search features",
       "url": "https://www.tudocelular.com/apple/noticias/n256384/google-gemini-macos-atualizado-funcao-pesquisar.html",
       "published_at": "2026-06-12T15:51:00+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:5517",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Computerworld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Microsoft president addresses student concerns about AI's impact on jobs",
-      "url": "https://www.computerworld.com/article/4184559/microsoft-president-responds-to-students-distrust-for-ai.html",
-      "published_at": "2026-06-12T15:26:45+00:00",
       "score": 40,
       "is_review": false,
       "is_sponsored": false,
@@ -44329,23 +42730,6 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
-    },
-    {
-      "id": "media:1551",
-      "kind": "media",
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Nvidia showcases SCADA server with GPU-accelerated storage for AI data centers",
-      "url": "https://www.tomshardware.com/pc-components/ssds/nvidias-high-speed-ai-data-center-storage-servers-break-cover-touting-2-9-petabytes-of-storage-and-extreme-pcie-6-0-performance-wiwynn-shows-off-scada-server-with-gpu-accelerated-storage",
-      "published_at": "2026-06-12T15:01:59+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
     },
     {
       "id": "media:1552",
@@ -44533,23 +42917,6 @@
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
-    },
-    {
-      "id": "media:5518",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Computerworld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple develops Siri AI with Google's Gemini models for refinement",
-      "url": "https://www.computerworld.com/article/4184484/siri-ai-is-all-apple-it-just-needed-google-to-get-there.html",
-      "published_at": "2026-06-12T12:49:13+00:00",
-      "score": 45,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
     },
     {
       "id": "media:1374",
@@ -44836,23 +43203,6 @@
       "url": "https://www.theregister.com/offbeat/2026/06/12/windows-bowls-a-bsod-at-sports-fans/5252870",
       "published_at": "2026-06-12T08:30:00+00:00",
       "score": 15,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:1684",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Windows 11 Pro upgrade deal highlights AI and security features",
-      "url": "https://www.pcworld.com/article/3159528/still-on-windows-10-this-13-upgrade-to-windows-11-pro-offers-better-security-ai-features-and-more.html",
-      "published_at": "2026-06-12T08:00:00+00:00",
-      "score": 70,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -45176,40 +43526,6 @@
       "url": "https://hothardware.com/news/framework-laptop-13-pro-runs-into-delay-over-two-key-defects",
       "published_at": "2026-06-11T18:50:00+00:00",
       "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:287",
-      "kind": "youtube",
-      "brand": "Alienware",
-      "family": "Dell family",
-      "source": "TudoCelular",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_kLxUVQDnPaMByr20iK1JsJiMjDHuiB7KDIhTzl7cdDu6Y=s900-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Dell Alienware 16 Area-51 review and specs in Brazil",
-      "url": "https://www.youtube.com/shorts/8fZSPGsg7ow",
-      "published_at": "2026-06-11T18:45:28+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
-    },
-    {
-      "id": "media:7539",
-      "kind": "media",
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "source": "CRN",
-      "source_icon": "https://www.google.com/s2/favicons?domain=crn.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Nebius partners with TD Synnex and Nvidia for enterprise GPU compute",
-      "url": "https://www.crn.com/news/ai/2026/gpu-cloud-standout-nebius-on-td-synnex-deal-nvidia-and-new-partner-program-in-2026",
-      "published_at": "2026-06-11T18:40:00+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -45589,23 +43905,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:30",
-      "kind": "media",
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "title": "AMD Ryzen CPUs dominate Amazon sales rankings, per executive",
-      "url": "https://www.adrenaline.com.br/amd/executivo-da-amd-celebra-15-de-15-com-cpus-ryzen-dominando-ranking-de-vendas-na-amazon/",
-      "published_at": "Thu, 11 Jun 2026 13:26:24 +0000",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:31",
       "kind": "media",
       "brand": "Dell",
@@ -45910,23 +44209,6 @@
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
-    },
-    {
-      "id": "media:223",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Dell XPS 14 laptop drops $800 with 3.2K OLED display",
-      "url": "https://www.windowscentral.com/hardware/laptops/dell-xps-14-da14250-3-2k-oled-touch-drops-in-price",
-      "published_at": "Thu, 11 Jun 2026 10:37:51 +0000",
-      "score": 85,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
     },
     {
       "id": "media:152",
@@ -46762,23 +45044,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:195",
-      "kind": "media",
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "AMD Radeon RX 9070 XT GPU drops to $649 on Amazon",
-      "url": "https://www.tomshardware.com/pc-components/gpus/amds-radeon-rx-9070-xt-graphics-card-drops-to-just-usd649-gigabytes-16gb-gaming-oc-gpu-is-usd90-cheaper-in-todays-amazon-deal",
-      "published_at": "Tue, 09 Jun 2026 10:58:44 +0000",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:257",
       "kind": "media",
       "brand": "Dell",
@@ -47408,23 +45673,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:123",
-      "kind": "youtube",
-      "brand": "MSI",
-      "family": "PC competitors",
-      "source": "Gizmodo",
-      "source_icon": "https://yt3.googleusercontent.com/teIV8WzJf0KlfasLH7bbTLr06YQFHWD5W93ymERoCwyrHCXFuKfV9Hj0knnQiLVT2LasIycKNkw=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Deals",
-      "title": "MSI's Hologram AI PC: MEG Vision X2 AI",
-      "url": "https://www.youtube.com/shorts/cBQdJUboiz8",
-      "published_at": "2026-06-04T20:04:35+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:842",
       "kind": "youtube",
       "brand": "Apple",
@@ -47561,23 +45809,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:308",
-      "kind": "youtube",
-      "brand": "Asus",
-      "family": "PC competitors",
-      "source": "Lucas Ishii",
-      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Asus unveils new TUF laptops with OLED and budget models at COMPUTEX 2026",
-      "url": "https://www.youtube.com/shorts/eU6Yuenh8sE",
-      "published_at": "2026-06-03T23:00:20+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:176",
       "kind": "youtube",
       "brand": "Dell",
@@ -47695,23 +45926,6 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:179",
-      "kind": "youtube",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "PCMag",
-      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Deals",
-      "title": "Dell XPS 13 Review: Competes with MacBook Neo",
-      "url": "https://www.youtube.com/watch?v=BoHjRO6nUbY",
-      "published_at": "2026-06-03T17:09:50+00:00",
-      "score": 90,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": true
     },
     {
       "id": "youtube:770",
@@ -48037,23 +46251,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:838",
-      "kind": "youtube",
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "source": "Adrenaline",
-      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "New Intel Arc G3: Is it good?",
-      "url": "https://www.youtube.com/watch?v=KlcEd0eHwbc",
-      "published_at": "2026-06-01T22:30:28+00:00",
-      "score": 30,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:27",
       "kind": "youtube",
       "brand": "Asus",
@@ -48069,23 +46266,6 @@
       "is_review": false,
       "is_sponsored": true,
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:839",
-      "kind": "youtube",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "Adrenaline",
-      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "AMD Radeon RX 9070 GRE Review and PC Gamer Configuration Guides",
-      "url": "https://www.youtube.com/watch?v=9G5V64GfeQU",
-      "published_at": "2026-06-01T19:09:50+00:00",
-      "score": 10,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": true
     },
     {
       "id": "youtube:34828",
@@ -48547,23 +46727,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:783",
-      "kind": "youtube",
-      "brand": "Asus",
-      "family": "PC competitors",
-      "source": "Jarrod's Tech",
-      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "AU",
-      "section": "Deals",
-      "title": "ASUS Zephyrus G14 2026 Gaming Laptop Review",
-      "url": "https://www.youtube.com/shorts/MZqz4-pR_hU",
-      "published_at": "2026-05-29T11:30:04+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:34829",
       "kind": "youtube",
       "brand": "Alienware",
@@ -48579,23 +46742,6 @@
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
-    },
-    {
-      "id": "youtube:340",
-      "kind": "youtube",
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "TCL Mini LED vs Samsung G5 OLED Monitor Comparison",
-      "url": "https://www.youtube.com/watch?v=Czym8qVUs3M",
-      "published_at": "2026-05-27T21:51:42+00:00",
-      "score": 65,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": false
     },
     {
       "id": "youtube:824",
@@ -48628,23 +46774,6 @@
       "published_at": "2026-05-27T16:34:09+00:00",
       "score": 72,
       "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:926",
-      "kind": "youtube",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Max Tech",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Deals",
-      "title": "Apple's 2026 Product Leaks: 15 New Hardware Announcements",
-      "url": "https://www.youtube.com/watch?v=CzSD6CPfwPs",
-      "published_at": "2026-05-27T15:00:12+00:00",
-      "score": 35,
-      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -48712,23 +46841,6 @@
       "url": "https://www.youtube.com/shorts/DfMNwY--5JA",
       "published_at": "2026-05-26T20:58:28+00:00",
       "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:784",
-      "kind": "youtube",
-      "brand": "Asus",
-      "family": "PC competitors",
-      "source": "Jarrod's Tech",
-      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "AU",
-      "section": "Deals",
-      "title": "ASUS Zephyrus G14 (2026) Review and Analysis",
-      "url": "https://www.youtube.com/watch?v=SLazGHirm6E",
-      "published_at": "2026-05-26T11:30:08+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -48970,23 +47082,6 @@
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
-    },
-    {
-      "id": "youtube:808",
-      "kind": "youtube",
-      "brand": "Asus",
-      "family": "PC competitors",
-      "source": "Tech BR",
-      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "5 laptops everyone buys wrong in 2026 — avoid these mistakes",
-      "url": "https://www.youtube.com/watch?v=n9rpNswvXP0",
-      "published_at": "2026-05-17T15:15:06+00:00",
-      "score": 30,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": false
     },
     {
       "id": "youtube:48985",
@@ -49329,23 +47424,6 @@
       "is_dell_story": true
     },
     {
-      "id": "youtube:59",
-      "kind": "youtube",
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "source": "Dave2D",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Deals",
-      "title": "Lenovo Legion 7a RTX 5060 Gaming Laptop Showcase",
-      "url": "https://www.youtube.com/watch?v=nkO3-9DxYhA",
-      "published_at": "2026-02-18T17:25:03+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:17449",
       "kind": "youtube",
       "brand": "Lenovo",
@@ -49516,23 +47594,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:792",
-      "kind": "youtube",
-      "brand": "Alienware",
-      "family": "Dell family",
-      "source": "Jarrod's Tech",
-      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "AU",
-      "section": "Deals",
-      "title": "2025 Gaming Laptop Awards Across Multiple Brands",
-      "url": "https://www.youtube.com/watch?v=2rcoK6J1vbg",
-      "published_at": "2025-11-26T12:30:05+00:00",
-      "score": 45,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
-    },
-    {
       "id": "youtube:17452",
       "kind": "youtube",
       "brand": "Lenovo",
@@ -49548,23 +47609,6 @@
       "is_review": false,
       "is_sponsored": true,
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:795",
-      "kind": "youtube",
-      "brand": "Alienware",
-      "family": "Dell family",
-      "source": "Jarrod's Tech",
-      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "AU",
-      "section": "Deals",
-      "title": "Ranking 35 gaming laptops from multiple brands including Alienware",
-      "url": "https://www.youtube.com/watch?v=OnqojEdCUTU",
-      "published_at": "2025-11-21T12:30:39+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": true
     },
     {
       "id": "youtube:17455",
@@ -49822,57 +47866,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:347",
-      "kind": "youtube",
-      "brand": "LG",
-      "family": "PC competitors",
-      "source": "Escolha Segura",
-      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "LG UltraGear OLED 27GS95QE-B Gaming Monitor Review",
-      "url": "https://www.youtube.com/watch?v=i__QV4eTqkY",
-      "published_at": "2024-09-17T21:00:32+00:00",
-      "score": 70,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:350",
-      "kind": "youtube",
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "source": "Escolha Segura",
-      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Review of Samsung Odyssey G8 OLED 240Hz gaming monitor",
-      "url": "https://www.youtube.com/watch?v=lusx4-Qx7Ns",
-      "published_at": "2024-09-10T21:00:35+00:00",
-      "score": 20,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:354",
-      "kind": "youtube",
-      "brand": "LG",
-      "family": "PC competitors",
-      "source": "Escolha Segura",
-      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Review of LG 32UR500-B 4K monitor for work and study",
-      "url": "https://www.youtube.com/watch?v=AOrJmgGS-T0",
-      "published_at": "2024-09-02T20:16:39+00:00",
-      "score": 20,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:356",
       "kind": "youtube",
       "brand": "Apple",
@@ -49885,40 +47878,6 @@
       "url": "https://www.youtube.com/watch?v=eiNUV7mVxNo",
       "published_at": "2024-08-27T22:31:19+00:00",
       "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:357",
-      "kind": "youtube",
-      "brand": "LG",
-      "family": "PC competitors",
-      "source": "Escolha Segura",
-      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Review of LG 34WR50QC 34\" QHD Monitor for Work and Study",
-      "url": "https://www.youtube.com/watch?v=TlyU7r9o9dw",
-      "published_at": "2024-08-24T13:39:45+00:00",
-      "score": 20,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:360",
-      "kind": "youtube",
-      "brand": "Asus",
-      "family": "PC competitors",
-      "source": "Escolha Segura",
-      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Minimalist Windows Setup with ASUS ROG Ally Review",
-      "url": "https://www.youtube.com/watch?v=UmjEkakWz2k",
-      "published_at": "2024-08-17T15:00:22+00:00",
-      "score": 0,
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
