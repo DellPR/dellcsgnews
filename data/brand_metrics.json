@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T20:01:38.542697+00:00",
-  "total_items": 2340,
+  "generated_at": "2026-07-10T20:14:25.907114+00:00",
+  "total_items": 2344,
   "brands": [
     {
       "brand": "Microsoft",
@@ -429,10 +429,10 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 109,
+      "total": 110,
       "media": 64,
-      "youtube": 45,
-      "reviews": 39,
+      "youtube": 46,
+      "reviews": 40,
       "sponsored": 7,
       "dell_stories": 0,
       "high_signal": 1,
@@ -473,7 +473,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 99
+          "count": 100
         },
         {
           "section": "Ecosystem",
@@ -484,14 +484,14 @@
           "count": 5
         }
       ],
-      "avg_score": 59.7
+      "avg_score": 59.8
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 107,
+      "total": 108,
       "media": 58,
-      "youtube": 49,
+      "youtube": 50,
       "reviews": 46,
       "sponsored": 2,
       "dell_stories": 0,
@@ -533,7 +533,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 94
+          "count": 95
         },
         {
           "section": "Ecosystem",
@@ -544,7 +544,7 @@
           "count": 6
         }
       ],
-      "avg_score": 58.0
+      "avg_score": 58.2
     },
     {
       "brand": "Samsung",
@@ -609,12 +609,12 @@
     {
       "brand": "Alienware",
       "family": "Dell family",
-      "total": 55,
+      "total": 57,
       "media": 30,
-      "youtube": 25,
+      "youtube": 27,
       "reviews": 20,
       "sponsored": 1,
-      "dell_stories": 51,
+      "dell_stories": 53,
       "high_signal": 30,
       "top_sources": [
         {
@@ -638,22 +638,22 @@
           "count": 3
         },
         {
+          "source": "Lipe Mal Estar",
+          "count": 3
+        },
+        {
           "source": "Notebookcheck Reviews",
           "count": 3
         },
         {
           "source": "Short Circuit",
           "count": 3
-        },
-        {
-          "source": "TechRadar",
-          "count": 3
         }
       ],
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 42
+          "count": 44
         },
         {
           "section": "Competitor Coverage",
@@ -664,7 +664,7 @@
           "count": 4
         }
       ],
-      "avg_score": 70.7
+      "avg_score": 70.0
     },
     {
       "brand": "MSI",
@@ -1403,11 +1403,11 @@
         "Valve": 51,
         "Dell": 50,
         "NVIDIA": 49,
+        "Asus": 38,
         "Samsung": 38,
         "AMD": 37,
-        "Asus": 37,
-        "Lenovo": 29,
-        "Alienware": 23,
+        "Lenovo": 30,
+        "Alienware": 25,
         "HP": 11,
         "MSI": 11,
         "Google": 6,
@@ -1588,6 +1588,23 @@
       "is_dell_story": true
     },
     {
+      "id": "youtube:66732",
+      "kind": "youtube",
+      "brand": "Asus",
+      "family": "PC competitors",
+      "source": "Loop Infinito",
+      "source_icon": "https://yt3.googleusercontent.com/GDHTPQokpmjDxrJbAHuLi1Rhjx1_q75cgDFKboVzzAv8ZcEVi4Wc_HqSIWwwNon5rUXKztkaPA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "ASUS ExpertBook durability water resistance and robustness tested",
+      "url": "https://www.youtube.com/shorts/P-UOOXQ-h24",
+      "published_at": "2026-07-10T16:15:18+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:99428",
       "kind": "media",
       "brand": "NVIDIA",
@@ -1603,6 +1620,23 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
+    },
+    {
+      "id": "youtube:66718",
+      "kind": "youtube",
+      "brand": "Alienware",
+      "family": "Dell family",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Alienware AW3426DW 34\" QD-OLED monitor with 280Hz and HDR TrueBlack 500",
+      "url": "https://www.youtube.com/shorts/9WLNPrV9iac",
+      "published_at": "2026-07-10T16:08:45+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
     },
     {
       "id": "media:98939",
@@ -1671,6 +1705,23 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
+    },
+    {
+      "id": "youtube:66747",
+      "kind": "youtube",
+      "brand": "Alienware",
+      "family": "Dell family",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "O MONITOR FEITO PRO GTA 6!",
+      "url": "https://www.youtube.com/shorts/h6NEJUOuvN4",
+      "published_at": "2026-07-10T15:07:23+00:00",
+      "score": 30,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
     },
     {
       "id": "media:99145",
@@ -1924,6 +1975,23 @@
       "published_at": "2026-07-10T12:00:39+00:00",
       "score": 65,
       "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:66567",
+      "kind": "youtube",
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "source": "PCMag",
+      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Lenovo ThinkPad X1 Carbon Gen 14 review: modular design, AI features, and performance",
+      "url": "https://www.youtube.com/watch?v=ny-Vv60jRbY",
+      "published_at": "2026-07-10T12:00:11+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -5598,74 +5666,6 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
-    },
-    {
-      "id": "media:89062",
-      "kind": "media",
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "Kioxia and SanDisk develop 332-layer NAND surpassing Samsung's 400-layer memory",
-      "url": "https://www.adrenaline.com.br/hardware/nand-332-camadas-kioxia-sandisk-bics10/",
-      "published_at": "2026-07-07T14:52:50+00:00",
-      "score": 45,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:89267",
-      "kind": "media",
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Intel's Nova Lake CPUs to reintroduce AVX-512 support in client processors",
-      "url": "https://www.tomshardware.com/pc-components/cpus/avx-512-support-is-reportedly-returning-with-intels-next-gen-nova-lake-cpus-latest-linux-kernel-patches-reveal-p-cores-and-e-cores-will-gain-native-512-bit-execution",
-      "published_at": "2026-07-07T14:47:47+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:89320",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft faces class-action lawsuit over datacenter noise complaints",
-      "url": "https://www.windowscentral.com/microsoft/microsoft-hit-with-class-action-lawsuit-over-unreasonable-and-excessive-noise-from-datacenter",
-      "published_at": "2026-07-07T14:37:18+00:00",
-      "score": 0,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:90114",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "Xbox backward compatibility head leaves Microsoft after 37 years",
-      "url": "https://www.tudocelular.com/mercado/noticias/n258121/chefe-retrocompatibilidade-xbox-demitido-microsoft.html",
-      "published_at": "2026-07-07T14:35:00+00:00",
-      "score": 10,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -5840,6 +5840,23 @@
       "is_dell_story": true
     },
     {
+      "id": "youtube:66732",
+      "kind": "youtube",
+      "brand": "Asus",
+      "family": "PC competitors",
+      "source": "Loop Infinito",
+      "source_icon": "https://yt3.googleusercontent.com/GDHTPQokpmjDxrJbAHuLi1Rhjx1_q75cgDFKboVzzAv8ZcEVi4Wc_HqSIWwwNon5rUXKztkaPA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "ASUS ExpertBook durability water resistance and robustness tested",
+      "url": "https://www.youtube.com/shorts/P-UOOXQ-h24",
+      "published_at": "2026-07-10T16:15:18+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:99428",
       "kind": "media",
       "brand": "NVIDIA",
@@ -5855,6 +5872,23 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
+    },
+    {
+      "id": "youtube:66718",
+      "kind": "youtube",
+      "brand": "Alienware",
+      "family": "Dell family",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Alienware AW3426DW 34\" QD-OLED monitor with 280Hz and HDR TrueBlack 500",
+      "url": "https://www.youtube.com/shorts/9WLNPrV9iac",
+      "published_at": "2026-07-10T16:08:45+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
     },
     {
       "id": "media:98939",
@@ -5923,6 +5957,23 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
+    },
+    {
+      "id": "youtube:66747",
+      "kind": "youtube",
+      "brand": "Alienware",
+      "family": "Dell family",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "O MONITOR FEITO PRO GTA 6!",
+      "url": "https://www.youtube.com/shorts/h6NEJUOuvN4",
+      "published_at": "2026-07-10T15:07:23+00:00",
+      "score": 30,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
     },
     {
       "id": "media:99145",
@@ -6176,6 +6227,23 @@
       "published_at": "2026-07-10T12:00:39+00:00",
       "score": 65,
       "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:66567",
+      "kind": "youtube",
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "source": "PCMag",
+      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Lenovo ThinkPad X1 Carbon Gen 14 review: modular design, AI features, and performance",
+      "url": "https://www.youtube.com/watch?v=ny-Vv60jRbY",
+      "published_at": "2026-07-10T12:00:11+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -16392,7 +16460,7 @@
       "url": "https://www.youtube.com/watch?v=4xZlCeT1eIo",
       "published_at": "2026-07-01T08:00:36+00:00",
       "score": 96,
-      "is_review": false,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
     },
@@ -24688,7 +24756,7 @@
       "url": "https://www.youtube.com/watch?v=-u7tfxegH3Q",
       "published_at": "2026-06-24T19:40:12.192926+00:00",
       "score": 95,
-      "is_review": true,
+      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
     },
