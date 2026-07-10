@@ -9,7 +9,6 @@
     visible: 30,
     generatedAt: "",
     refreshing: false,
-    view: "feed",
   };
 
   const feedEl = document.getElementById("feed");
@@ -25,9 +24,6 @@
   const RAW_FEED_URL = "https://raw.githubusercontent.com/DellPR/dellcsgnews/main/data/feed.json";
   const TOP_STORY_URL = "https://www.wired.com/review/dell-14s/";
   const controlsEl = document.querySelector(".controls");
-  const viewSwitch = document.getElementById("viewSwitch");
-  const metricsView = document.getElementById("metricsView");
-  const brandMetricsEl = document.getElementById("brandMetrics");
 
   function escapeHtml(value) {
     return String(value ?? "").replace(/[&<>"']/g, ch => ({
@@ -332,123 +328,6 @@
     </a>`;
   }
 
-
-  function metricNumber(value) {
-    return new Intl.NumberFormat("en-US").format(Number(value || 0));
-  }
-
-  function brandColor(brand) {
-    const key = String(brand || "").toLowerCase();
-    if (key === "dell") return "#0672cb";
-    if (key === "alienware") return "#5b2c83";
-    if (key === "apple") return "#111827";
-    if (key === "lenovo") return "#c8102e";
-    if (key === "hp") return "#0072ce";
-    if (key === "asus") return "#b7791f";
-    if (key === "microsoft") return "#107c10";
-    if (key === "samsung") return "#1428a0";
-    return "#2f6f4e";
-  }
-
-  function brandMetricsData() {
-    return window.MONITOR_HUB_BRAND_METRICS || {brands: [], months: [], recent: [], total_items: 0};
-  }
-
-  function renderBar(label, value, max, color) {
-    const pct = max > 0 ? Math.max(3, Math.round((value / max) * 100)) : 0;
-    return `<div class="metric-bar-row">
-      <div class="metric-bar-label">${escapeHtml(label)}</div>
-      <div class="metric-bar-track"><span style="width:${pct}%;background:${color}"></span></div>
-      <div class="metric-bar-value">${metricNumber(value)}</div>
-    </div>`;
-  }
-
-  function renderBrandMetrics() {
-    if (!brandMetricsEl) return;
-    const data = brandMetricsData();
-    const brands = [...(data.brands || [])].sort((a, b) => Number(b.total || 0) - Number(a.total || 0));
-    const selected = brands.slice(0, 14);
-    const maxTotal = Math.max(1, ...selected.map(b => Number(b.total || 0)));
-    const dellFamily = brands.filter(b => b.family === "Dell family").reduce((sum, b) => sum + Number(b.total || 0), 0);
-    const competitors = brands.filter(b => b.family === "PC competitors").reduce((sum, b) => sum + Number(b.total || 0), 0);
-    const reviews = brands.reduce((sum, b) => sum + Number(b.reviews || 0), 0);
-    const sponsored = brands.reduce((sum, b) => sum + Number(b.sponsored || 0), 0);
-    const topSources = {};
-    brands.forEach(b => (b.top_sources || []).forEach(s => {
-      topSources[s.source] = (topSources[s.source] || 0) + Number(s.count || 0);
-    }));
-    const topSourceRows = Object.entries(topSources)
-      .sort((a, b) => b[1] - a[1])
-      .slice(0, 8)
-      .map(([source, count]) => `<li><span>${escapeHtml(source)}</span><b>${metricNumber(count)}</b></li>`)
-      .join("");
-    const recentRows = (data.recent || []).slice(0, 10).map(item => `<tr>
-      <td><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></td>
-      <td>${escapeHtml(item.brand)}</td>
-      <td>${escapeHtml(item.source)}</td>
-      <td>${formatRelativeTime(item.published_at, "Published")}</td>
-      <td>${metricNumber(item.score)}</td>
-    </tr>`).join("");
-    brandMetricsEl.innerHTML = `
-      <div class="metrics-intro">
-        <h3>Brand coverage intelligence</h3>
-        <p>Historical view of newsletter-ready Media Monitor and YouTube Monitor coverage, normalized by brand for PR planning and share-of-voice tracking.</p>
-      </div>
-      <div class="metric-kpis">
-        <div><span>Total brand items</span><strong>${metricNumber(data.total_items)}</strong></div>
-        <div><span>Dell family</span><strong>${metricNumber(dellFamily)}</strong></div>
-        <div><span>PC competitors</span><strong>${metricNumber(competitors)}</strong></div>
-        <div><span>Reviews</span><strong>${metricNumber(reviews)}</strong></div>
-        <div><span>Sponsored</span><strong>${metricNumber(sponsored)}</strong></div>
-      </div>
-      <div class="metrics-grid">
-        <section class="metric-panel metric-panel-wide">
-          <h3>Publication volume by brand</h3>
-          <div class="metric-bars">
-            ${selected.map(b => renderBar(b.brand, b.total, maxTotal, brandColor(b.brand))).join("")}
-          </div>
-        </section>
-        <section class="metric-panel">
-          <h3>Top PR sources</h3>
-          <ul class="metric-list">${topSourceRows}</ul>
-        </section>
-      </div>
-      <section class="metric-panel">
-        <h3>Brand table</h3>
-        <div class="metric-table-wrap"><table class="metric-table">
-          <thead><tr><th>Brand</th><th>Total</th><th>Media</th><th>YouTube</th><th>Reviews</th><th>High signal</th><th>Avg score</th></tr></thead>
-          <tbody>${brands.slice(0, 30).map(b => `<tr>
-            <td><span class="brand-dot" style="background:${brandColor(b.brand)}"></span>${escapeHtml(b.brand)}</td>
-            <td>${metricNumber(b.total)}</td>
-            <td>${metricNumber(b.media)}</td>
-            <td>${metricNumber(b.youtube)}</td>
-            <td>${metricNumber(b.reviews)}</td>
-            <td>${metricNumber(b.high_signal)}</td>
-            <td>${escapeHtml(b.avg_score)}</td>
-          </tr>`).join("")}</tbody>
-        </table></div>
-      </section>
-      <section class="metric-panel">
-        <h3>Recent brand-coded coverage</h3>
-        <div class="metric-table-wrap"><table class="metric-table recent-table">
-          <thead><tr><th>Story</th><th>Brand</th><th>Source</th><th>Time</th><th>Score</th></tr></thead>
-          <tbody>${recentRows}</tbody>
-        </table></div>
-      </section>`;
-  }
-
-  function renderView() {
-    const isMetrics = state.view === "metrics";
-    if (metricsView) metricsView.hidden = !isMetrics;
-    if (topStoryHead) topStoryHead.hidden = isMetrics;
-    if (highlightsEl) highlightsEl.hidden = isMetrics;
-    const feedHead = document.querySelector(".section-head:not(#topStoryHead)");
-    if (feedHead) feedHead.hidden = isMetrics;
-    if (feedEl) feedEl.hidden = isMetrics;
-    if (loadMore) loadMore.hidden = isMetrics;
-    if (isMetrics) renderBrandMetrics();
-  }
-
   function renderHighlights() {
     if (state.filter !== "all" || state.query.trim()) {
       highlightsEl.innerHTML = "";
@@ -469,13 +348,11 @@
     const shown = state.filtered.slice(0, state.visible);
     feedEl.innerHTML = shown.length ? shown.map(card).join("") : `<div class="empty">No stories match this filter.</div>`;
     loadMore.style.display = state.visible < state.filtered.length ? "block" : "none";
-    renderView();
   }
 
   function setData(data, source = "local export") {
     state.items = (data.items || []).sort((a, b) => itemTime(b) - itemTime(a));
     state.generatedAt = data.generated_at || "";
-    if (data.brand_metrics_data) window.MONITOR_HUB_BRAND_METRICS = data.brand_metrics_data;
     const updated = data.generated_at ? formatRelativeTime(data.generated_at, "Updated") : source;
     metaEl.textContent = `${updated}. Showing newsletter-ready Media Monitor, YouTube Monitor and X Watch signals in reverse chronological order.`;
     applyFilters();
@@ -553,18 +430,6 @@
       metaEl.textContent = "Waiting for export.";
       hideSplash();
     }
-  }
-
-  if (viewSwitch) {
-    viewSwitch.addEventListener("click", event => {
-      const button = event.target.closest("button[data-view]");
-      if (!button) return;
-      event.preventDefault();
-      viewSwitch.querySelectorAll("button").forEach(btn => btn.classList.remove("active"));
-      button.classList.add("active");
-      state.view = button.dataset.view;
-      renderView();
-    });
   }
 
   tabs.addEventListener("click", event => {

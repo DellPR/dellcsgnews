@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-07-10T13:47:55.118395+00:00",
-  "trigger": "media",
+  "generated_at": "2026-07-10T17:31:35.070215+00:00",
+  "trigger": "manual",
   "total": 2784,
   "counts": {
     "media": 2429,
     "youtube": 320,
     "x": 35
   },
-  "feed": "data/feed.json"
+  "brand_metrics_total": 2313,
+  "feed": "data/feed.json",
+  "brand_metrics": "data/brand_metrics.json"
 }

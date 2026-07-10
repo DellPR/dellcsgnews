@@ -18,7 +18,7 @@
   <link rel="apple-touch-startup-image" href="assets/icons/splash-1170x2532.png?v=20260704c" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3)">
   <link rel="apple-touch-startup-image" href="assets/icons/splash-1290x2796.png?v=20260704c" media="(device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3)">
   <link rel="apple-touch-startup-image" href="assets/icons/splash-2048x2732.png?v=20260704c" media="(min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2)">
-  <link rel="stylesheet" href="assets/styles.20260710a.css?v=20260710a">
+  <link rel="stylesheet" href="assets/styles.20260704e.css">
 </head>
 <body>
   <div class="splash-screen" id="splashScreen" aria-hidden="true"><div><strong>343</strong><span>MONITOR</span></div></div>
@@ -34,10 +34,6 @@
 
   <main class="shell">
     <section class="controls" aria-label="Filters">
-      <div class="view-switch" id="viewSwitch" aria-label="Hub sections">
-        <button type="button" class="active" data-view="feed">News Feed</button>
-        <button type="button" data-view="metrics">Brand Metrics</button>
-      </div>
       <div class="search-wrap">
         <input id="search" type="search" placeholder="Search stories, products, outlets">
       </div>
@@ -83,14 +79,6 @@
       </div>
     </section>
 
-    <section class="metrics-view" id="metricsView" hidden>
-      <section class="section-head">
-        <span></span>
-        <h2>Brand Metrics</h2>
-      </section>
-      <section class="metrics-dashboard" id="brandMetrics"></section>
-    </section>
-
     <section class="section-head" id="topStoryHead">
       <span></span>
       <h2>Top Story</h2>
@@ -105,7 +93,7 @@
     <button type="button" class="load-more" id="loadMore">Load more</button>
   </main>
 
-  <script src="data/feed.js?v=20260710a"></script>
-  <script src="assets/app.20260710a.js?v=20260710a"></script>
+  <script src="data/feed.js?v=20260706a"></script>
+  <script src="assets/app.20260706a.js"></script>
 </body>
 </html>
