@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T20:54:08.732923+00:00",
-  "total_items": 2530,
+  "generated_at": "2026-07-12T19:08:30.654607+00:00",
+  "total_items": 2534,
   "brands": [
     {
       "brand": "Microsoft",
@@ -265,10 +265,10 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 179,
+      "total": 180,
       "media": 172,
-      "youtube": 7,
-      "reviews": 9,
+      "youtube": 8,
+      "reviews": 10,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
@@ -309,7 +309,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 159
+          "count": 160
         },
         {
           "section": "Competitor Coverage",
@@ -324,7 +324,7 @@
           "count": 4
         }
       ],
-      "avg_score": 42.9
+      "avg_score": 42.7
     },
     {
       "brand": "NVIDIA",
@@ -457,10 +457,10 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 132,
+      "total": 133,
       "media": 84,
-      "youtube": 48,
-      "reviews": 45,
+      "youtube": 49,
+      "reviews": 46,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 0,
@@ -470,11 +470,11 @@
           "count": 13
         },
         {
-          "source": "Digital Trends",
-          "count": 10
+          "source": "Tech BR",
+          "count": 11
         },
         {
-          "source": "Tech BR",
+          "source": "Digital Trends",
           "count": 10
         },
         {
@@ -501,7 +501,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 93
+          "count": 94
         },
         {
           "section": "Deals",
@@ -516,15 +516,15 @@
           "count": 6
         }
       ],
-      "avg_score": 54.3
+      "avg_score": 54.4
     },
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 130,
+      "total": 131,
       "media": 83,
-      "youtube": 47,
-      "reviews": 41,
+      "youtube": 48,
+      "reviews": 42,
       "sponsored": 7,
       "dell_stories": 0,
       "high_signal": 1,
@@ -546,6 +546,10 @@
           "count": 6
         },
         {
+          "source": "Just Josh",
+          "count": 5
+        },
+        {
           "source": "Notebookcheck Reviews",
           "count": 5
         },
@@ -556,16 +560,12 @@
         {
           "source": "Tom's Hardware",
           "count": 5
-        },
-        {
-          "source": "Trusted Reviews",
-          "count": 5
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 101
+          "count": 102
         },
         {
           "section": "Deals",
@@ -580,7 +580,7 @@
           "count": 5
         }
       ],
-      "avg_score": 56.3
+      "avg_score": 56.4
     },
     {
       "brand": "Samsung",
@@ -649,10 +649,10 @@
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 65,
+      "total": 66,
       "media": 49,
-      "youtube": 16,
-      "reviews": 9,
+      "youtube": 17,
+      "reviews": 10,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 0,
@@ -693,7 +693,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 50
+          "count": 51
         },
         {
           "section": "Deals",
@@ -708,7 +708,7 @@
           "count": 2
         }
       ],
-      "avg_score": 45.6
+      "avg_score": 46.0
     },
     {
       "brand": "Alienware",
@@ -1490,13 +1490,13 @@
         "Dell": 55,
         "NVIDIA": 55,
         "Valve": 52,
-        "AMD": 46,
+        "AMD": 47,
         "Samsung": 44,
-        "Asus": 39,
-        "Lenovo": 38,
+        "Asus": 40,
+        "Lenovo": 39,
         "Alienware": 25,
         "HP": 19,
-        "MSI": 12,
+        "MSI": 13,
         "Acer": 6,
         "Google": 6,
         "Framework": 5
@@ -1504,6 +1504,74 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:69073",
+      "kind": "youtube",
+      "brand": "Asus",
+      "family": "PC competitors",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "ASUS Vivobook 15 2026 Review: Which Version to Buy?",
+      "url": "https://www.youtube.com/watch?v=pmg5Ij1ke5Y",
+      "published_at": "2026-07-12T17:15:36+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:68743",
+      "kind": "youtube",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "Hardware Canucks",
+      "source_icon": "https://yt3.googleusercontent.com/C-HUUT9dZSMpImqVMDuDOJEr_5b1j2_5v5TwXZhEED8qt958ndFDd0mEmdTVs7EaIlK24N3h=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Ecosystem",
+      "title": "AMD Radeon RX 9070 GRE review: Performance, pricing, and upgrade path analysis",
+      "url": "https://www.youtube.com/watch?v=_JnEgw-vyUQ",
+      "published_at": "2026-07-12T15:45:25+00:00",
+      "score": 15,
+      "is_review": true,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:68623",
+      "kind": "youtube",
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "title": "ThinkPad X1 15 vs MacBook Pro 14 vs Framework 13 Pro: Best programming laptops",
+      "url": "https://www.youtube.com/watch?v=aI_0GVorq_0",
+      "published_at": "2026-07-12T13:00:13+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:69208",
+      "kind": "youtube",
+      "brand": "MSI",
+      "family": "PC competitors",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "MSI Stealth 16 (2026) Unboxing - Premium Thin-and-Light Gaming Laptop",
+      "url": "https://www.youtube.com/watch?v=L8Qq4_7eip4",
+      "published_at": "2026-07-12T08:00:07+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
     {
       "id": "media:101855",
       "kind": "media",
@@ -5685,77 +5753,77 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:91913",
-      "kind": "media",
+      "id": "youtube:69073",
+      "kind": "youtube",
       "brand": "Asus",
       "family": "PC competitors",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
       "section": "Competitor Coverage",
-      "title": "Asus launches compact gaming PC with Ryzen 9 and RTX 5070",
-      "url": "https://www.digitaltrends.com/gaming/asus-made-a-tiny-amd-gaming-beast-and-the-price-is-its-scariest-part/",
-      "published_at": "2026-07-08T10:47:15+00:00",
-      "score": 30,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:91529",
-      "kind": "media",
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "title": "MSI Prestige 16 Flip AI+ review: sleek 2-in-1 with strong battery but modest performance",
-      "url": "https://www.pcworld.com/article/3176224/msi-prestige-16-flip-ai-review.html",
-      "published_at": "2026-07-08T10:30:00+00:00",
+      "title": "ASUS Vivobook 15 2026 Review: Which Version to Buy?",
+      "url": "https://www.youtube.com/watch?v=pmg5Ij1ke5Y",
+      "published_at": "2026-07-12T17:15:36+00:00",
       "score": 72,
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
     {
-      "id": "media:91408",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
+      "id": "youtube:68743",
+      "kind": "youtube",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "Hardware Canucks",
+      "source_icon": "https://yt3.googleusercontent.com/C-HUUT9dZSMpImqVMDuDOJEr_5b1j2_5v5TwXZhEED8qt958ndFDd0mEmdTVs7EaIlK24N3h=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
       "section": "Ecosystem",
-      "title": "Microsoft's GDID used to track hackers via Windows telemetry",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/arrest-and-extradition-of-scattered-spider-hacker-shines-light-on-how-windows-telemetry-gdids-can-identify-users-microsoft-device-identifier-is-just-one-digital-fingerprint-in-a-software-world-rife-with-them",
-      "published_at": "2026-07-08T10:30:00+00:00",
-      "score": 45,
-      "is_review": false,
+      "title": "AMD Radeon RX 9070 GRE review: Performance, pricing, and upgrade path analysis",
+      "url": "https://www.youtube.com/watch?v=_JnEgw-vyUQ",
+      "published_at": "2026-07-12T15:45:25+00:00",
+      "score": 15,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
     {
-      "id": "media:92053",
-      "kind": "media",
-      "brand": "Microsoft",
+      "id": "youtube:68623",
+      "kind": "youtube",
+      "brand": "Lenovo",
       "family": "PC competitors",
-      "source": "The Register",
-      "source_icon": "https://www.google.com/s2/favicons?domain=theregister.com&sz=64",
-      "country": "GB",
-      "section": "Market Trends",
-      "title": "German states adopt open source alternatives to Microsoft SharePoint",
-      "url": "https://www.theregister.com/software/2026/07/08/another-german-state-heads-down-the-open-source-sovereignty-road/5268192",
-      "published_at": "2026-07-08T10:03:33+00:00",
-      "score": 20,
-      "is_review": false,
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "title": "ThinkPad X1 15 vs MacBook Pro 14 vs Framework 13 Pro: Best programming laptops",
+      "url": "https://www.youtube.com/watch?v=aI_0GVorq_0",
+      "published_at": "2026-07-12T13:00:13+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "youtube:69208",
+      "kind": "youtube",
+      "brand": "MSI",
+      "family": "PC competitors",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "MSI Stealth 16 (2026) Unboxing - Premium Thin-and-Light Gaming Laptop",
+      "url": "https://www.youtube.com/watch?v=L8Qq4_7eip4",
+      "published_at": "2026-07-12T08:00:07+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
     {
       "id": "media:101855",
       "kind": "media",
@@ -17754,7 +17822,7 @@
       "url": "https://www.youtube.com/watch?v=4xZlCeT1eIo",
       "published_at": "2026-07-01T08:00:36+00:00",
       "score": 96,
-      "is_review": true,
+      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
     },
@@ -26883,7 +26951,7 @@
       "url": "https://www.youtube.com/watch?v=-u7tfxegH3Q",
       "published_at": "2026-06-24T19:40:12.192926+00:00",
       "score": 95,
-      "is_review": false,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
     },
