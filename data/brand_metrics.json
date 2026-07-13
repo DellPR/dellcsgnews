@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T22:29:46.299081+00:00",
-  "total_items": 2617,
+  "generated_at": "2026-07-13T23:49:32.513471+00:00",
+  "total_items": 2620,
   "brands": [
     {
       "brand": "Microsoft",
@@ -69,10 +69,10 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 340,
+      "total": 341,
       "media": 277,
-      "youtube": 63,
-      "reviews": 31,
+      "youtube": 64,
+      "reviews": 32,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 1,
@@ -113,7 +113,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 192
+          "count": 193
         },
         {
           "section": "Market Trends",
@@ -128,7 +128,7 @@
           "count": 28
         }
       ],
-      "avg_score": 45.1
+      "avg_score": 45.2
     },
     {
       "brand": "Dell",
@@ -136,7 +136,7 @@
       "total": 261,
       "media": 204,
       "youtube": 57,
-      "reviews": 40,
+      "reviews": 39,
       "sponsored": 7,
       "dell_stories": 100,
       "high_signal": 61,
@@ -457,9 +457,9 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 137,
+      "total": 139,
       "media": 88,
-      "youtube": 49,
+      "youtube": 51,
       "reviews": 42,
       "sponsored": 7,
       "dell_stories": 0,
@@ -501,7 +501,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 108
+          "count": 110
         },
         {
           "section": "Deals",
@@ -516,7 +516,7 @@
           "count": 5
         }
       ],
-      "avg_score": 56.2
+      "avg_score": 56.4
     },
     {
       "brand": "Asus",
@@ -1497,14 +1497,14 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 208,
-        "Apple": 73,
+        "Apple": 74,
         "Dell": 62,
         "Intel": 61,
         "NVIDIA": 58,
         "Valve": 58,
         "AMD": 54,
+        "Lenovo": 47,
         "Samsung": 46,
-        "Lenovo": 45,
         "Asus": 43,
         "Alienware": 26,
         "HP": 19,
@@ -1546,6 +1546,23 @@
       "url": "https://www.xda-developers.com/i-triedbooting-windows-11-from-a-usb-stick/",
       "published_at": "2026-07-13T21:30:18+00:00",
       "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:71503",
+      "kind": "youtube",
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Lenovo Yoga Slim 7i Ultra ou ASUS VivoBook S 14? 🤔 #notebook #vivobook #yoga #s14 #slim #qnc",
+      "url": "https://www.youtube.com/shorts/0qReIaiCIrw",
+      "published_at": "2026-07-13T21:18:02+00:00",
+      "score": 72,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -1619,6 +1636,23 @@
       "is_dell_story": true
     },
     {
+      "id": "youtube:70888",
+      "kind": "youtube",
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "source": "Linus Tech Tips",
+      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "title": "$1000 to $4000 Laptop - Snapdragon Edition",
+      "url": "https://www.youtube.com/shorts/s9igt2i91q0",
+      "published_at": "2026-07-13T20:27:31+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:104486",
       "kind": "media",
       "brand": "Apple",
@@ -1683,6 +1717,23 @@
       "published_at": "2026-07-13T18:27:00+00:00",
       "score": 50,
       "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:71053",
+      "kind": "youtube",
+      "brand": "Apple",
+      "family": "PC competitors",
+      "source": "PCWorld",
+      "source_icon": "https://yt3.googleusercontent.com/Y9Qeoq6gXw_cDQUpUmmJCoVh66rCotYtyetmYEyd9rryQZoJXLvhjtMupYCG6J02ghSvw6qZDEc=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Debate: Gaming Laptop vs DIY Desktop and Electronics Flea Market Update",
+      "url": "https://www.youtube.com/watch?v=_4utqvlTiJY",
+      "published_at": "2026-07-13T18:00:31+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -2209,7 +2260,7 @@
       "url": "https://www.youtube.com/watch?v=leWiFw52PJ4",
       "published_at": "2026-07-13T13:00:11+00:00",
       "score": 100,
-      "is_review": true,
+      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
     },
@@ -5714,57 +5765,6 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
-    {
-      "id": "media:94609",
-      "kind": "media",
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "AMD's Zen 6 Medusa Point APU shows strong Geekbench performance",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amds-upcoming-zen-6-medusa-point-10-core-apu-pops-up-on-geekbench-chip-is-faster-than-ryzen-ai-9-hx-370-and-even-ryzen-ai-max-395",
-      "published_at": "2026-07-09T12:47:57+00:00",
-      "score": 55,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:95459",
-      "kind": "media",
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "title": "Lenovo IdeaPad Slim 3 available on Amazon at lower prices",
-      "url": "https://www.tudocelular.com/windows-phone/noticias/n258306/lenovo-ideapad-slim-3-oferta-desconto-2.html",
-      "published_at": "2026-07-09T12:37:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:94939",
-      "kind": "media",
-      "brand": "Google",
-      "family": "Other",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Market Trends",
-      "title": "Google Cloud report highlights AI infrastructure challenges for businesses",
-      "url": "https://www.techradar.com/pro/the-gap-between-ai-ambition-and-infrastructure-reality-is-widening-google-cloud-report-finds-83-percent-of-organizations-must-overhaul-their-infrastructure-in-order-to-maximize-the-agentic-ai-opportunity",
-      "published_at": "2026-07-09T12:33:54+00:00",
-      "score": 20,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -5798,6 +5798,23 @@
       "url": "https://www.xda-developers.com/i-triedbooting-windows-11-from-a-usb-stick/",
       "published_at": "2026-07-13T21:30:18+00:00",
       "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:71503",
+      "kind": "youtube",
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Lenovo Yoga Slim 7i Ultra ou ASUS VivoBook S 14? 🤔 #notebook #vivobook #yoga #s14 #slim #qnc",
+      "url": "https://www.youtube.com/shorts/0qReIaiCIrw",
+      "published_at": "2026-07-13T21:18:02+00:00",
+      "score": 72,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -5871,6 +5888,23 @@
       "is_dell_story": true
     },
     {
+      "id": "youtube:70888",
+      "kind": "youtube",
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "source": "Linus Tech Tips",
+      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "title": "$1000 to $4000 Laptop - Snapdragon Edition",
+      "url": "https://www.youtube.com/shorts/s9igt2i91q0",
+      "published_at": "2026-07-13T20:27:31+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:104486",
       "kind": "media",
       "brand": "Apple",
@@ -5935,6 +5969,23 @@
       "published_at": "2026-07-13T18:27:00+00:00",
       "score": 50,
       "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:71053",
+      "kind": "youtube",
+      "brand": "Apple",
+      "family": "PC competitors",
+      "source": "PCWorld",
+      "source_icon": "https://yt3.googleusercontent.com/Y9Qeoq6gXw_cDQUpUmmJCoVh66rCotYtyetmYEyd9rryQZoJXLvhjtMupYCG6J02ghSvw6qZDEc=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Debate: Gaming Laptop vs DIY Desktop and Electronics Flea Market Update",
+      "url": "https://www.youtube.com/watch?v=_4utqvlTiJY",
+      "published_at": "2026-07-13T18:00:31+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -6461,7 +6512,7 @@
       "url": "https://www.youtube.com/watch?v=leWiFw52PJ4",
       "published_at": "2026-07-13T13:00:11+00:00",
       "score": 100,
-      "is_review": true,
+      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
     },
@@ -19245,7 +19296,7 @@
       "url": "https://www.youtube.com/watch?v=4xZlCeT1eIo",
       "published_at": "2026-07-01T08:00:36+00:00",
       "score": 96,
-      "is_review": false,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
     },
@@ -28374,7 +28425,7 @@
       "url": "https://www.youtube.com/watch?v=-u7tfxegH3Q",
       "published_at": "2026-06-24T19:40:12.192926+00:00",
       "score": 95,
-      "is_review": true,
+      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
     },
