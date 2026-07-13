@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T18:07:46.102418+00:00",
-  "total_items": 2577,
+  "generated_at": "2026-07-13T18:32:10.939641+00:00",
+  "total_items": 2576,
   "brands": [
     {
       "brand": "Microsoft",
@@ -136,7 +136,7 @@
       "total": 256,
       "media": 199,
       "youtube": 57,
-      "reviews": 39,
+      "reviews": 40,
       "sponsored": 7,
       "dell_stories": 99,
       "high_signal": 61,
@@ -181,7 +181,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 59
+          "count": 60
         },
         {
           "section": "Deals",
@@ -189,7 +189,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 33
+          "count": 32
         },
         {
           "section": "Market Trends",
@@ -777,9 +777,9 @@
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 53,
+      "total": 52,
       "media": 36,
-      "youtube": 17,
+      "youtube": 16,
       "reviews": 18,
       "sponsored": 0,
       "dell_stories": 0,
@@ -821,7 +821,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 36
+          "count": 35
         },
         {
           "section": "Deals",
@@ -832,7 +832,7 @@
           "count": 1
         }
       ],
-      "avg_score": 55.8
+      "avg_score": 55.5
     },
     {
       "brand": "Qualcomm",
@@ -1495,7 +1495,7 @@
         "Lenovo": 43,
         "Asus": 42,
         "Alienware": 25,
-        "HP": 20,
+        "HP": 19,
         "MSI": 13,
         "Acer": 7,
         "Google": 6,
@@ -1504,23 +1504,6 @@
     }
   ],
   "recent": [
-    {
-      "id": "youtube:70453",
-      "kind": "youtube",
-      "brand": "HP",
-      "family": "PC competitors",
-      "source": "TudoCelular",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_kLxUVQDnPaMByr20iK1JsJiMjDHuiB7KDIhTzl7cdDu6Y=s900-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "title": "Shorts TC: Edifier M60 #Shorts",
-      "url": "https://www.youtube.com/shorts/Wn9w-2y8wjo",
-      "published_at": "2026-07-13T16:15:08+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
     {
       "id": "youtube:70723",
       "kind": "youtube",
@@ -1546,12 +1529,12 @@
       "source": "Andrew Marc David",
       "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
       "country": "US",
-      "section": "Competitor Coverage",
+      "section": "Dell Coverage",
       "title": "Dell 14S and 16S 2026 review: Build, display, and performance analysis",
       "url": "https://www.youtube.com/watch?v=leWiFw52PJ4",
       "published_at": "2026-07-13T13:00:11+00:00",
-      "score": 95,
-      "is_review": false,
+      "score": 100,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
     },
@@ -5753,26 +5736,26 @@
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
-      "id": "youtube:70453",
-      "kind": "youtube",
-      "brand": "HP",
+      "id": "media:93003",
+      "kind": "media",
+      "brand": "Apple",
       "family": "PC competitors",
-      "source": "TudoCelular",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_kLxUVQDnPaMByr20iK1JsJiMjDHuiB7KDIhTzl7cdDu6Y=s900-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
       "section": "Competitor Coverage",
-      "title": "Shorts TC: Edifier M60 #Shorts",
-      "url": "https://www.youtube.com/shorts/Wn9w-2y8wjo",
-      "published_at": "2026-07-13T16:15:08+00:00",
-      "score": 72,
+      "title": "Apple raises M5 Max MacBook Pro prices by $1,000 on top-end config",
+      "url": "https://wccftech.com/apple-made-m5-max-macbook-pro-1000-more-expensive-even-after-hike-says-observer/",
+      "published_at": "2026-07-08T18:52:00+00:00",
+      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
       "id": "youtube:70723",
       "kind": "youtube",
@@ -5798,12 +5781,12 @@
       "source": "Andrew Marc David",
       "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
       "country": "US",
-      "section": "Competitor Coverage",
+      "section": "Dell Coverage",
       "title": "Dell 14S and 16S 2026 review: Build, display, and performance analysis",
       "url": "https://www.youtube.com/watch?v=leWiFw52PJ4",
       "published_at": "2026-07-13T13:00:11+00:00",
-      "score": 95,
-      "is_review": false,
+      "score": 100,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
     },
