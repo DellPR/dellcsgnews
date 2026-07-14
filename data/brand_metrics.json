@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T22:32:34.496431+00:00",
-  "total_items": 2692,
+  "generated_at": "2026-07-14T23:49:40.965719+00:00",
+  "total_items": 2694,
   "brands": [
     {
       "brand": "Microsoft",
@@ -265,9 +265,9 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 190,
+      "total": 191,
       "media": 182,
-      "youtube": 8,
+      "youtube": 9,
       "reviews": 10,
       "sponsored": 0,
       "dell_stories": 0,
@@ -309,7 +309,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 169
+          "count": 170
         },
         {
           "section": "Competitor Coverage",
@@ -324,7 +324,7 @@
           "count": 5
         }
       ],
-      "avg_score": 42.6
+      "avg_score": 42.5
     },
     {
       "brand": "NVIDIA",
@@ -521,9 +521,9 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 137,
+      "total": 138,
       "media": 88,
-      "youtube": 49,
+      "youtube": 50,
       "reviews": 47,
       "sponsored": 2,
       "dell_stories": 0,
@@ -565,7 +565,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 96
+          "count": 97
         },
         {
           "section": "Deals",
@@ -580,7 +580,7 @@
           "count": 7
         }
       ],
-      "avg_score": 54.3
+      "avg_score": 54.4
     },
     {
       "brand": "Samsung",
@@ -1510,10 +1510,10 @@
         "NVIDIA": 68,
         "Intel": 64,
         "Valve": 58,
-        "AMD": 56,
+        "AMD": 57,
         "Samsung": 50,
         "Lenovo": 49,
-        "Asus": 44,
+        "Asus": 45,
         "Alienware": 26,
         "HP": 21,
         "MSI": 18,
@@ -1559,6 +1559,23 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:73858",
+      "kind": "youtube",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "Micro Center",
+      "source_icon": "https://yt3.googleusercontent.com/DK_uVA19jFp7pf8jCpyzpTJPo1ImEroHlB8pbLbdGEM6llziJfBPcdCAxz-5w8KJobAS4ZR9tQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Building an AI studio assistant with AMD Ryzen AI Halo in 90 minutes",
+      "url": "https://www.youtube.com/shorts/kxYORf6lu3I",
+      "published_at": "2026-07-14T20:50:10+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:108429",
       "kind": "media",
       "brand": "NVIDIA",
@@ -1588,6 +1605,23 @@
       "url": "https://www.crn.com/news/security/2026/microsoft-s-gigantic-ai-fueled-bug-disclosure-signals-new-era-for-security-msp-execs",
       "published_at": "2026-07-14T20:22:00+00:00",
       "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:73153",
+      "kind": "youtube",
+      "brand": "Asus",
+      "family": "PC competitors",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "title": "Review of Intel Arc Pro B70 GPU: Workstation Power with Gaming Potential",
+      "url": "https://www.youtube.com/watch?v=Dg2SzHCL9QY",
+      "published_at": "2026-07-14T19:56:09+00:00",
+      "score": 72,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -5739,40 +5773,6 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
-    {
-      "id": "media:98327",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft adds outdated email warning to Outlook",
-      "url": "https://www.digitaltrends.com/computing/outlook-will-soon-warn-you-before-you-answer-an-outdated-email/",
-      "published_at": "2026-07-10T06:14:09+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:98479",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "The Register",
-      "source_icon": "https://www.google.com/s2/favicons?domain=theregister.com&sz=64",
-      "country": "GB",
-      "section": "Ecosystem",
-      "title": "Microsoft warns AI will increase Patch Tuesday activity",
-      "url": "https://www.theregister.com/security/2026/07/10/microsoft-warns-customers-ai-will-mean-busier-patch-tuesdays/5269618",
-      "published_at": "2026-07-10T01:56:29+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -5811,6 +5811,23 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:73858",
+      "kind": "youtube",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "Micro Center",
+      "source_icon": "https://yt3.googleusercontent.com/DK_uVA19jFp7pf8jCpyzpTJPo1ImEroHlB8pbLbdGEM6llziJfBPcdCAxz-5w8KJobAS4ZR9tQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Building an AI studio assistant with AMD Ryzen AI Halo in 90 minutes",
+      "url": "https://www.youtube.com/shorts/kxYORf6lu3I",
+      "published_at": "2026-07-14T20:50:10+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:108429",
       "kind": "media",
       "brand": "NVIDIA",
@@ -5840,6 +5857,23 @@
       "url": "https://www.crn.com/news/security/2026/microsoft-s-gigantic-ai-fueled-bug-disclosure-signals-new-era-for-security-msp-execs",
       "published_at": "2026-07-14T20:22:00+00:00",
       "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:73153",
+      "kind": "youtube",
+      "brand": "Asus",
+      "family": "PC competitors",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "title": "Review of Intel Arc Pro B70 GPU: Workstation Power with Gaming Potential",
+      "url": "https://www.youtube.com/watch?v=Dg2SzHCL9QY",
+      "published_at": "2026-07-14T19:56:09+00:00",
+      "score": 72,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -20477,7 +20511,7 @@
       "url": "https://www.youtube.com/watch?v=4xZlCeT1eIo",
       "published_at": "2026-07-01T08:00:36+00:00",
       "score": 96,
-      "is_review": true,
+      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
     },
@@ -29640,7 +29674,7 @@
       "url": "https://www.youtube.com/watch?v=-u7tfxegH3Q",
       "published_at": "2026-06-24T19:40:12.192926+00:00",
       "score": 95,
-      "is_review": false,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
     },
