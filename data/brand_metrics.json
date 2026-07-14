@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-14T19:59:16.314775+00:00",
-  "total_items": 2685,
+  "generated_at": "2026-07-14T22:32:34.496431+00:00",
+  "total_items": 2692,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 597,
-      "media": 584,
+      "total": 600,
+      "media": 587,
       "youtube": 13,
       "reviews": 15,
       "sponsored": 0,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 516
+          "count": 519
         },
         {
           "section": "Competitor Coverage",
@@ -64,7 +64,7 @@
           "count": 8
         }
       ],
-      "avg_score": 35.8
+      "avg_score": 35.7
     },
     {
       "brand": "Apple",
@@ -133,8 +133,8 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 270,
-      "media": 212,
+      "total": 271,
+      "media": 213,
       "youtube": 58,
       "reviews": 39,
       "sponsored": 7,
@@ -158,11 +158,11 @@
           "count": 16
         },
         {
-          "source": "Adrenaline",
-          "count": 12
+          "source": "HotHardware",
+          "count": 13
         },
         {
-          "source": "HotHardware",
+          "source": "Adrenaline",
           "count": 12
         },
         {
@@ -177,7 +177,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 114
+          "count": 115
         },
         {
           "section": "Dell Coverage",
@@ -329,8 +329,8 @@
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 179,
-      "media": 164,
+      "total": 181,
+      "media": 166,
       "youtube": 15,
       "reviews": 5,
       "sponsored": 0,
@@ -343,7 +343,7 @@
         },
         {
           "source": "Tom's Hardware",
-          "count": 24
+          "count": 25
         },
         {
           "source": "Adrenaline",
@@ -373,7 +373,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 171
+          "count": 173
         },
         {
           "section": "Market Trends",
@@ -388,7 +388,7 @@
           "count": 1
         }
       ],
-      "avg_score": 36.3
+      "avg_score": 36.5
     },
     {
       "brand": "Intel",
@@ -457,8 +457,8 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 140,
-      "media": 89,
+      "total": 141,
+      "media": 90,
       "youtube": 51,
       "reviews": 43,
       "sponsored": 7,
@@ -501,7 +501,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 111
+          "count": 112
         },
         {
           "section": "Deals",
@@ -516,7 +516,7 @@
           "count": 5
         }
       ],
-      "avg_score": 56.5
+      "avg_score": 56.7
     },
     {
       "brand": "Asus",
@@ -1504,15 +1504,15 @@
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 226,
+        "Microsoft": 229,
         "Apple": 79,
-        "Dell": 70,
-        "NVIDIA": 66,
+        "Dell": 71,
+        "NVIDIA": 68,
         "Intel": 64,
         "Valve": 58,
         "AMD": 56,
         "Samsung": 50,
-        "Lenovo": 48,
+        "Lenovo": 49,
         "Asus": 44,
         "Alienware": 26,
         "HP": 21,
@@ -1524,6 +1524,108 @@
     }
   ],
   "recent": [
+    {
+      "id": "media:108612",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "CNET",
+      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Best Xbox Controllers for 2026: Series X and S",
+      "url": "https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/",
+      "published_at": "2026-07-14T21:44:00+00:00",
+      "score": 0,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:108481",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "The Verge",
+      "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Windows 11 update pause feature extended indefinitely",
+      "url": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
+      "published_at": "2026-07-14T21:32:04+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:108429",
+      "kind": "media",
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "source": "Olhar Digital",
+      "source_icon": "https://www.google.com/s2/favicons?domain=olhardigital.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Nvidia resumes AI chip shipments to China under US oversight",
+      "url": "https://olhardigital.com.br/2026/07/14/pro/nvidia-volta-a-enviar-chips-de-ia-a-china-mas-sob-vigilancia-dos-eua/",
+      "published_at": "2026-07-14T20:32:49+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:108891",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "CRN",
+      "source_icon": "https://www.google.com/s2/favicons?domain=crn.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Microsoft's AI-driven security update addresses over 600 vulnerabilities",
+      "url": "https://www.crn.com/news/security/2026/microsoft-s-gigantic-ai-fueled-bug-disclosure-signals-new-era-for-security-msp-execs",
+      "published_at": "2026-07-14T20:22:00+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:108511",
+      "kind": "media",
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "US licenses ZTE to buy Nvidia H200 AI chips amid Chinese regulatory scrutiny",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-allows-chinese-telecom-giant-zte-to-purchase-nvidia-h200-ai-chips-firm-joins-alibaba-tencent-and-bytedance-in-access-to-hopper-tech",
+      "published_at": "2026-07-14T19:46:26+00:00",
+      "score": 30,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:109306",
+      "kind": "media",
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "source": "TI Inside",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Lenovo's CIO Playbook 2026 highlights AI inference infrastructure trends",
+      "url": "https://tiinside.com.br/14/07/2026/a-economia-da-inferencia-como-a-infraestrutura-local-redefiniu-o-roi-da-inteligencia-artificial/",
+      "published_at": "2026-07-14T19:22:15+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
     {
       "id": "media:107421",
       "kind": "media",
@@ -1537,6 +1639,23 @@
       "url": "https://www.engadget.com/2215064/samsungs-slower-version-of-the-990-pro-ssd-costs-way-more-than-the-original/",
       "published_at": "2026-07-14T18:58:30+00:00",
       "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:108767",
+      "kind": "media",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Intel may shift Nova Lake chip production to its own foundry",
+      "url": "https://hothardware.com/news/intel-ditch-tsmc-nova-lake-rumor",
+      "published_at": "2026-07-14T18:55:00+00:00",
+      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -5654,26 +5773,28 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:98176",
+      "id": "media:108612",
       "kind": "media",
-      "brand": "Asus",
+      "brand": "Microsoft",
       "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "source": "CNET",
+      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
       "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Asus ProArt RTX 5090 review: 32GB VRAM and slimmer design for creators",
-      "url": "https://www.techradar.com/computing/gpu/asus-proart-geforce-rtx-5090-review-a-slimmer-sff-ready-rtx-5090-for-creators-who-need-flagship-performance-and-32gb-of-vram",
-      "published_at": "2026-07-10T01:51:43+00:00",
-      "score": 78,
-      "is_review": true,
+      "section": "Ecosystem",
+      "title": "Best Xbox Controllers for 2026: Series X and S",
+      "url": "https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/",
+      "published_at": "2026-07-14T21:44:00+00:00",
+      "score": 0,
+      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
     {
-      "id": "media:97790",
+      "id": "media:108481",
       "kind": "media",
       "brand": "Microsoft",
       "family": "PC competitors",
@@ -5681,101 +5802,82 @@
       "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
-      "title": "Microsoft's carbon emissions rose 25% in 2025",
-      "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-      "published_at": "2026-07-10T00:04:13+00:00",
-      "score": 5,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:97801",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "Engadget",
-      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Xbox CEO Asha Sharma appointed to Federal Reserve advisory role",
-      "url": "https://www.engadget.com/2211983/days-after-laying-off-3-200-xbox-ceo-asha-sharma-tapped-to-advise-the-federal-reserve-on-jobs/",
-      "published_at": "2026-07-09T22:54:22+00:00",
-      "score": 0,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:97609",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "Microsoft patches Windows Defender flaw that could fill SSD and crash PC",
-      "url": "https://www.adrenaline.com.br/microsoft/windows/falha-no-windows-defender-pode-encher-o-ssd-e-travar-o-pc-microsoft-ja-liberou-correcao/",
-      "published_at": "2026-07-09T22:34:49+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:97255",
-      "kind": "media",
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "AMD mini PC outperforms Valve's Steam Machine in gaming but costs more",
-      "url": "https://www.digitaltrends.com/gaming/this-amd-mini-pc-beats-valves-steam-machine-but-it-costs-a-lot-more/",
-      "published_at": "2026-07-09T21:42:42+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:96996",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "XDA Developers",
-      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Windows 11's hidden DNS over HTTPS mode offers privacy upgrade",
-      "url": "https://www.xda-developers.com/windows-11-dns-over-https-mode-people-never-turn-on-quick-privacy-upgrade/",
-      "published_at": "2026-07-09T21:30:23+00:00",
+      "title": "Windows 11 update pause feature extended indefinitely",
+      "url": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
+      "published_at": "2026-07-14T21:32:04+00:00",
       "score": 40,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
     {
-      "id": "media:97257",
+      "id": "media:108429",
       "kind": "media",
-      "brand": "AMD",
+      "brand": "NVIDIA",
       "family": "Ecosystem",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
+      "source": "Olhar Digital",
+      "source_icon": "https://www.google.com/s2/favicons?domain=olhardigital.com.br&sz=64",
+      "country": "BR",
       "section": "Ecosystem",
-      "title": "AMD expands Ryzen laptop chips with new Hawk Point processors",
-      "url": "https://www.digitaltrends.com/computing/amd-just-made-ryzen-laptop-chips-even-more-confusing-but-heres-whats-actually-new/",
-      "published_at": "2026-07-09T21:26:36+00:00",
-      "score": 70,
+      "title": "Nvidia resumes AI chip shipments to China under US oversight",
+      "url": "https://olhardigital.com.br/2026/07/14/pro/nvidia-volta-a-enviar-chips-de-ia-a-china-mas-sob-vigilancia-dos-eua/",
+      "published_at": "2026-07-14T20:32:49+00:00",
+      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "media:108891",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "CRN",
+      "source_icon": "https://www.google.com/s2/favicons?domain=crn.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Microsoft's AI-driven security update addresses over 600 vulnerabilities",
+      "url": "https://www.crn.com/news/security/2026/microsoft-s-gigantic-ai-fueled-bug-disclosure-signals-new-era-for-security-msp-execs",
+      "published_at": "2026-07-14T20:22:00+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:108511",
+      "kind": "media",
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "US licenses ZTE to buy Nvidia H200 AI chips amid Chinese regulatory scrutiny",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-allows-chinese-telecom-giant-zte-to-purchase-nvidia-h200-ai-chips-firm-joins-alibaba-tencent-and-bytedance-in-access-to-hopper-tech",
+      "published_at": "2026-07-14T19:46:26+00:00",
+      "score": 30,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:109306",
+      "kind": "media",
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "source": "TI Inside",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Lenovo's CIO Playbook 2026 highlights AI inference infrastructure trends",
+      "url": "https://tiinside.com.br/14/07/2026/a-economia-da-inferencia-como-a-infraestrutura-local-redefiniu-o-roi-da-inteligencia-artificial/",
+      "published_at": "2026-07-14T19:22:15+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
     {
       "id": "media:107421",
       "kind": "media",
@@ -5789,6 +5891,23 @@
       "url": "https://www.engadget.com/2215064/samsungs-slower-version-of-the-990-pro-ssd-costs-way-more-than-the-original/",
       "published_at": "2026-07-14T18:58:30+00:00",
       "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:108767",
+      "kind": "media",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Intel may shift Nova Lake chip production to its own foundry",
+      "url": "https://hothardware.com/news/intel-ditch-tsmc-nova-lake-rumor",
+      "published_at": "2026-07-14T18:55:00+00:00",
+      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
