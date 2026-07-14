@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T17:53:08.427147+00:00",
-  "total_items": 2644,
+  "generated_at": "2026-07-14T18:09:32.685720+00:00",
+  "total_items": 2649,
   "brands": [
     {
       "brand": "Microsoft",
@@ -69,9 +69,9 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 342,
+      "total": 344,
       "media": 278,
-      "youtube": 64,
+      "youtube": 66,
       "reviews": 31,
       "sponsored": 2,
       "dell_stories": 0,
@@ -113,11 +113,11 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 193
+          "count": 194
         },
         {
           "section": "Market Trends",
-          "count": 86
+          "count": 87
         },
         {
           "section": "Ecosystem",
@@ -128,17 +128,17 @@
           "count": 28
         }
       ],
-      "avg_score": 45.2
+      "avg_score": 45.3
     },
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 266,
+      "total": 267,
       "media": 209,
-      "youtube": 57,
+      "youtube": 58,
       "reviews": 39,
       "sponsored": 7,
-      "dell_stories": 101,
+      "dell_stories": 102,
       "high_signal": 61,
       "top_sources": [
         {
@@ -184,19 +184,19 @@
           "count": 62
         },
         {
-          "section": "Deals",
+          "section": "Competitor Coverage",
           "count": 34
         },
         {
-          "section": "Competitor Coverage",
-          "count": 33
+          "section": "Deals",
+          "count": 34
         },
         {
           "section": "Market Trends",
           "count": 25
         }
       ],
-      "avg_score": 55.9
+      "avg_score": 56.0
     },
     {
       "brand": "Valve",
@@ -329,9 +329,9 @@
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 174,
+      "total": 175,
       "media": 160,
-      "youtube": 14,
+      "youtube": 15,
       "reviews": 5,
       "sponsored": 0,
       "dell_stories": 0,
@@ -351,7 +351,7 @@
         },
         {
           "source": "Adrenaline",
-          "count": 12
+          "count": 13
         },
         {
           "source": "TechRadar",
@@ -381,14 +381,14 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 1
+          "count": 2
         },
         {
           "section": "Deals",
           "count": 1
         }
       ],
-      "avg_score": 36.5
+      "avg_score": 36.3
     },
     {
       "brand": "Intel",
@@ -649,9 +649,9 @@
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 67,
+      "total": 68,
       "media": 50,
-      "youtube": 17,
+      "youtube": 18,
       "reviews": 10,
       "sponsored": 2,
       "dell_stories": 0,
@@ -683,7 +683,7 @@
         },
         {
           "source": "Notebookcheck Reviews",
-          "count": 3
+          "count": 4
         },
         {
           "source": "Short Circuit",
@@ -693,7 +693,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 51
+          "count": 52
         },
         {
           "section": "Deals",
@@ -708,7 +708,7 @@
           "count": 2
         }
       ],
-      "avg_score": 45.9
+      "avg_score": 46.2
     },
     {
       "brand": "Alienware",
@@ -1505,10 +1505,10 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 215,
-        "Apple": 75,
-        "Dell": 67,
+        "Apple": 77,
+        "Dell": 68,
         "Intel": 62,
-        "NVIDIA": 61,
+        "NVIDIA": 62,
         "Valve": 58,
         "AMD": 54,
         "Lenovo": 48,
@@ -1516,7 +1516,7 @@
         "Asus": 43,
         "Alienware": 26,
         "HP": 20,
-        "MSI": 14,
+        "MSI": 15,
         "Acer": 7,
         "Google": 6,
         "Framework": 5
@@ -1524,6 +1524,91 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:72688",
+      "kind": "youtube",
+      "brand": "Apple",
+      "family": "PC competitors",
+      "source": "TecMundo",
+      "source_icon": "https://yt3.googleusercontent.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "title": "New macOS malware disguises as clipboard manager to steal data",
+      "url": "https://www.youtube.com/shorts/RJSNcw6xh88",
+      "published_at": "2026-07-14T17:30:32+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:72778",
+      "kind": "youtube",
+      "brand": "MSI",
+      "family": "PC competitors",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "title": "MSI Claw 8 EX Launch Edition unboxing - more than just a handheld!",
+      "url": "https://www.youtube.com/shorts/5NKMtsky4g0",
+      "published_at": "2026-07-14T15:30:42+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:72718",
+      "kind": "youtube",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Pode SE APAIXONAR em um NOTE CORPORATIVO? ExpertBook Ultra",
+      "url": "https://www.youtube.com/shorts/8ztvwYdAeb0",
+      "published_at": "2026-07-14T14:59:26+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:72748",
+      "kind": "youtube",
+      "brand": "Apple",
+      "family": "PC competitors",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "O MACBOOK GAMER EXISTE!",
+      "url": "https://www.youtube.com/shorts/4fwPtGf2X3I",
+      "published_at": "2026-07-14T14:20:31+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:72853",
+      "kind": "youtube",
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "source": "Adrenaline",
+      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "5090 SE - Placa capada? #shorts",
+      "url": "https://www.youtube.com/shorts/K1wGxijCMnk",
+      "published_at": "2026-07-14T13:21:21+00:00",
+      "score": 10,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
     {
       "id": "media:106661",
       "kind": "media",
@@ -5688,94 +5773,94 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:96188",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Windows 11 Search gets 4-pixel size increase in design tweak",
-      "url": "https://www.digitaltrends.com/computing/windows-11-search-is-getting-bigger-but-only-by-4-pixels/",
-      "published_at": "2026-07-09T16:54:39+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:96023",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Analysts suggest Microsoft may dismantle Xbox instead of selling it whole",
-      "url": "https://www.techradar.com/gaming/all-options-are-on-the-table-considering-the-drastic-measure-already-put-in-place-could-microsoft-sell-xbox-analysts-say-its-too-expensive-for-that-but-that-it-could-be-dismantled-piece-by-piece",
-      "published_at": "2026-07-09T16:49:20+00:00",
-      "score": 5,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:96192",
-      "kind": "media",
-      "brand": "Meta",
-      "family": "Other",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Meta's Muse Spark 1.1 AI can operate computers on behalf of users",
-      "url": "https://www.digitaltrends.com/cool-tech/metas-latest-ai-model-is-muse-spark-1-1-and-it-can-run-your-computer-for-you/",
-      "published_at": "2026-07-09T15:54:40+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:64136",
+      "id": "youtube:72688",
       "kind": "youtube",
-      "brand": "Alienware",
+      "brand": "Apple",
+      "family": "PC competitors",
+      "source": "TecMundo",
+      "source_icon": "https://yt3.googleusercontent.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "title": "New macOS malware disguises as clipboard manager to steal data",
+      "url": "https://www.youtube.com/shorts/RJSNcw6xh88",
+      "published_at": "2026-07-14T17:30:32+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:72778",
+      "kind": "youtube",
+      "brand": "MSI",
+      "family": "PC competitors",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "title": "MSI Claw 8 EX Launch Edition unboxing - more than just a handheld!",
+      "url": "https://www.youtube.com/shorts/5NKMtsky4g0",
+      "published_at": "2026-07-14T15:30:42+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:72718",
+      "kind": "youtube",
+      "brand": "Dell",
       "family": "Dell family",
       "source": "Lucas Ishii",
       "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
-      "section": "Dell Coverage",
-      "title": "Review: Lucas Ishii covers Alienware AW3426DW ultrawide QD-OLED monitor",
-      "url": "https://www.youtube.com/watch?v=rSOIzq3fujk",
-      "published_at": "2026-07-09T15:43:38+00:00",
-      "score": 100,
-      "is_review": true,
+      "section": "Competitor Coverage",
+      "title": "Pode SE APAIXONAR em um NOTE CORPORATIVO? ExpertBook Ultra",
+      "url": "https://www.youtube.com/shorts/8ztvwYdAeb0",
+      "published_at": "2026-07-14T14:59:26+00:00",
+      "score": 72,
+      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
     },
     {
-      "id": "media:95810",
-      "kind": "media",
-      "brand": "Microsoft",
+      "id": "youtube:72748",
+      "kind": "youtube",
+      "brand": "Apple",
       "family": "PC competitors",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft adds three new features to Outlook app this fall",
-      "url": "https://www.pcworld.com/article/3187988/the-new-outlook-app-is-fixing-3-annoying-inbox-quirks-this-fall.html",
-      "published_at": "2026-07-09T15:09:16+00:00",
-      "score": 35,
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "O MACBOOK GAMER EXISTE!",
+      "url": "https://www.youtube.com/shorts/4fwPtGf2X3I",
+      "published_at": "2026-07-14T14:20:31+00:00",
+      "score": 72,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "youtube:72853",
+      "kind": "youtube",
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "source": "Adrenaline",
+      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "5090 SE - Placa capada? #shorts",
+      "url": "https://www.youtube.com/shorts/K1wGxijCMnk",
+      "published_at": "2026-07-14T13:21:21+00:00",
+      "score": 10,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
     {
       "id": "media:106661",
       "kind": "media",
@@ -19712,7 +19797,7 @@
       "url": "https://www.youtube.com/watch?v=4xZlCeT1eIo",
       "published_at": "2026-07-01T08:00:36+00:00",
       "score": 96,
-      "is_review": false,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
     },
@@ -28841,7 +28926,7 @@
       "url": "https://www.youtube.com/watch?v=-u7tfxegH3Q",
       "published_at": "2026-06-24T19:40:12.192926+00:00",
       "score": 95,
-      "is_review": true,
+      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
     },
