@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-15T23:39:27.645126+00:00",
-  "total_items": 2743,
+  "generated_at": "2026-07-15T23:56:30.019811+00:00",
+  "total_items": 2753,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 617,
+      "total": 618,
       "media": 604,
-      "youtube": 13,
-      "reviews": 15,
+      "youtube": 14,
+      "reviews": 16,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
@@ -53,7 +53,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 62
+          "count": 63
         },
         {
           "section": "Market Trends",
@@ -64,18 +64,18 @@
           "count": 8
         }
       ],
-      "avg_score": 35.8
+      "avg_score": 35.9
     },
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 349,
+      "total": 350,
       "media": 283,
-      "youtube": 66,
+      "youtube": 67,
       "reviews": 31,
       "sponsored": 2,
       "dell_stories": 0,
-      "high_signal": 1,
+      "high_signal": 2,
       "top_sources": [
         {
           "source": "Wccftech",
@@ -117,7 +117,7 @@
         },
         {
           "section": "Market Trends",
-          "count": 88
+          "count": 89
         },
         {
           "section": "Ecosystem",
@@ -128,18 +128,18 @@
           "count": 28
         }
       ],
-      "avg_score": 45.4
+      "avg_score": 45.5
     },
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 279,
+      "total": 281,
       "media": 221,
-      "youtube": 58,
+      "youtube": 60,
       "reviews": 40,
       "sponsored": 7,
-      "dell_stories": 103,
-      "high_signal": 61,
+      "dell_stories": 104,
+      "high_signal": 62,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -181,7 +181,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 61
+          "count": 62
         },
         {
           "section": "Deals",
@@ -193,7 +193,7 @@
         },
         {
           "section": "Market Trends",
-          "count": 25
+          "count": 26
         }
       ],
       "avg_score": 55.6
@@ -201,17 +201,21 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 216,
+      "total": 218,
       "media": 180,
-      "youtube": 36,
+      "youtube": 38,
       "reviews": 16,
       "sponsored": 0,
       "dell_stories": 0,
-      "high_signal": 20,
+      "high_signal": 21,
       "top_sources": [
         {
           "source": "Adrenaline",
           "count": 20
+        },
+        {
+          "source": "The Verge",
+          "count": 18
         },
         {
           "source": "Wccftech",
@@ -219,10 +223,6 @@
         },
         {
           "source": "HotHardware",
-          "count": 17
-        },
-        {
-          "source": "The Verge",
           "count": 17
         },
         {
@@ -245,7 +245,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 207
+          "count": 209
         },
         {
           "section": "Ecosystem",
@@ -260,14 +260,14 @@
           "count": 1
         }
       ],
-      "avg_score": 61.3
+      "avg_score": 61.4
     },
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 193,
+      "total": 194,
       "media": 184,
-      "youtube": 9,
+      "youtube": 10,
       "reviews": 11,
       "sponsored": 0,
       "dell_stories": 0,
@@ -283,7 +283,7 @@
         },
         {
           "source": "Adrenaline",
-          "count": 26
+          "count": 27
         },
         {
           "source": "XDA Developers",
@@ -316,15 +316,15 @@
           "count": 11
         },
         {
-          "section": "Deals",
-          "count": 5
+          "section": "Market Trends",
+          "count": 6
         },
         {
-          "section": "Market Trends",
+          "section": "Deals",
           "count": 5
         }
       ],
-      "avg_score": 42.7
+      "avg_score": 42.5
     },
     {
       "brand": "NVIDIA",
@@ -457,10 +457,10 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 143,
+      "total": 144,
       "media": 93,
-      "youtube": 50,
-      "reviews": 47,
+      "youtube": 51,
+      "reviews": 48,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 0,
@@ -501,7 +501,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 98
+          "count": 99
         },
         {
           "section": "Deals",
@@ -516,14 +516,14 @@
           "count": 8
         }
       ],
-      "avg_score": 54.0
+      "avg_score": 54.1
     },
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 141,
+      "total": 143,
       "media": 90,
-      "youtube": 51,
+      "youtube": 53,
       "reviews": 43,
       "sponsored": 7,
       "dell_stories": 0,
@@ -565,7 +565,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 112
+          "count": 114
         },
         {
           "section": "Deals",
@@ -580,7 +580,7 @@
           "count": 5
         }
       ],
-      "avg_score": 56.7
+      "avg_score": 56.9
     },
     {
       "brand": "Samsung",
@@ -1504,16 +1504,16 @@
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 246,
-        "Apple": 82,
-        "Dell": 79,
+        "Microsoft": 247,
+        "Apple": 83,
+        "Dell": 81,
         "NVIDIA": 74,
         "Intel": 67,
-        "AMD": 59,
-        "Valve": 58,
+        "AMD": 60,
+        "Valve": 60,
         "Samsung": 52,
-        "Asus": 50,
-        "Lenovo": 49,
+        "Asus": 51,
+        "Lenovo": 51,
         "Alienware": 27,
         "HP": 21,
         "MSI": 20,
@@ -1524,6 +1524,40 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:74338",
+      "kind": "youtube",
+      "brand": "Asus",
+      "family": "PC competitors",
+      "source": "MW Informática",
+      "source_icon": "https://yt3.googleusercontent.com/o8BtikpsYJgccc2is9SvZtZtZ9xgQwesG0PJDWg2zeHWkoltlPThO32qPwo_zi2I_j6TYBGRxA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Complete Analysis of the Asus V16 Gaming Notebook with RTX 4050 and Core 5 210H",
+      "url": "https://www.youtube.com/watch?v=VJz73-drszw",
+      "published_at": "2026-07-15T22:33:15+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:74503",
+      "kind": "youtube",
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Lenovo Yoga Slim 7i Ultra Aura Edition Teaser with FIFA World Cup Theme",
+      "url": "https://www.youtube.com/shorts/HfaLwRq8QTg",
+      "published_at": "2026-07-15T21:54:49+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
     {
       "id": "media:110114",
       "kind": "media",
@@ -1542,6 +1576,23 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:74218",
+      "kind": "youtube",
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Lenovo IdeaPad Slim 3i and 3X productivity laptop recommendations",
+      "url": "https://www.youtube.com/watch?v=Py748bRh14w",
+      "published_at": "2026-07-15T21:00:02+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:110287",
       "kind": "media",
       "brand": "Microsoft",
@@ -1554,6 +1605,23 @@
       "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
       "published_at": "2026-07-15T19:59:48+00:00",
       "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:73933",
+      "kind": "youtube",
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Podcast debate on Steam Machine value vs. PC builds",
+      "url": "https://www.youtube.com/watch?v=HYxsu3SDPZ8",
+      "published_at": "2026-07-15T19:35:20+00:00",
+      "score": 60,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -1678,6 +1746,23 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:74383",
+      "kind": "youtube",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "Gamers Nexus",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_n50Rj8oqwUnusv4I6_DllKflZrSdSxmXhYvpHs0hOEj5o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "PCIe integration with networking and future on-chip photonics",
+      "url": "https://www.youtube.com/watch?v=JYRo1SZVmMU",
+      "published_at": "2026-07-15T16:50:33+00:00",
+      "score": 20,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:109634",
       "kind": "media",
       "brand": "Alienware",
@@ -1763,6 +1848,23 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:74608",
+      "kind": "youtube",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "Micro Center",
+      "source_icon": "https://yt3.googleusercontent.com/DK_uVA19jFp7pf8jCpyzpTJPo1ImEroHlB8pbLbdGEM6llziJfBPcdCAxz-5w8KJobAS4ZR9tQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Microsoft Surface Laptop 8 and Pro 13 review: Snapdragon X2 performance and AI upgrades",
+      "url": "https://www.youtube.com/watch?v=Ys0vw5SEsFI",
+      "published_at": "2026-07-15T16:08:07+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:109560",
       "kind": "media",
       "brand": "Samsung",
@@ -1775,6 +1877,23 @@
       "url": "https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser",
       "published_at": "2026-07-15T16:05:34+00:00",
       "score": 10,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:73888",
+      "kind": "youtube",
+      "brand": "Apple",
+      "family": "PC competitors",
+      "source": "Linus Tech Tips",
+      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Market Trends",
+      "title": "of Valve's Steam Machine compared to Mac Mini and traditional PCs",
+      "url": "https://www.youtube.com/shorts/VRpP4_lKjEc",
+      "published_at": "2026-07-15T16:00:38+00:00",
+      "score": 90,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -1899,6 +2018,23 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:73903",
+      "kind": "youtube",
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Market Trends",
+      "title": "Unboxing and review of MetaPCs system with Steam OS and hardware comparison to Steam Machine",
+      "url": "https://www.youtube.com/watch?v=aaPj-uuulig",
+      "published_at": "2026-07-15T14:31:55+00:00",
+      "score": 90,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:109943",
       "kind": "media",
       "brand": "Dell",
@@ -2018,6 +2154,23 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:73873",
+      "kind": "youtube",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "title": "Dell XPS 13 2026 review: Budget-friendly design with performance tradeoffs",
+      "url": "https://www.youtube.com/watch?v=edt_sfF910g",
+      "published_at": "2026-07-15T13:00:27+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
+    },
+    {
       "id": "media:109640",
       "kind": "media",
       "brand": "Microsoft",
@@ -2030,6 +2183,23 @@
       "url": "https://www.windowscentral.com/hardware/surface/microsofts-snapdragon-x2-surface-laptop-8-and-pro-12-for-business-are-now-available",
       "published_at": "2026-07-15T12:54:09+00:00",
       "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:74353",
+      "kind": "youtube",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "Adrenaline",
+      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "title": "F*** the bottleneck: Upgrading GPU with a weak CPU",
+      "url": "https://www.youtube.com/shorts/GJPr6RUonLo",
+      "published_at": "2026-07-15T12:53:46+00:00",
+      "score": 0,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -5603,179 +5773,43 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:99740",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "title": "Dell SE2726HG monitor tested for competitive gaming",
-      "url": "https://www.adrenaline.com.br/noticias/dell-se2726hg-um-monitor-de-240-hz-com-painel-ips-e-preco-acessivel-que-vale-a-pena/",
-      "published_at": "2026-07-10T21:51:30+00:00",
-      "score": 85,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": true
-    },
-    {
-      "id": "media:100286",
-      "kind": "media",
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "AMD shifts to LPDDR5x over HBM due to AI demand",
-      "url": "https://www.techradar.com/pro/amd-abandons-hbm-for-inferior-lpddr5x-as-ai-monster-devours-precious-high-bandwidth-memory",
-      "published_at": "2026-07-10T21:10:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:101818",
-      "kind": "media",
-      "brand": "Microsoft",
+      "id": "youtube:74338",
+      "kind": "youtube",
+      "brand": "Asus",
       "family": "PC competitors",
-      "source": "TI Inside",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
+      "source": "MW Informática",
+      "source_icon": "https://yt3.googleusercontent.com/o8BtikpsYJgccc2is9SvZtZtZ9xgQwesG0PJDWg2zeHWkoltlPThO32qPwo_zi2I_j6TYBGRxA=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
-      "section": "Market Trends",
-      "title": "OpenAI seeks government aid as Chinese AI models cut costs for US firms",
-      "url": "https://tiinside.com.br/10/07/2026/a-conta-chegou-como-a-openai-pede-socorro-enquanto-a-china-comeca-a-dominar-o-vale-do-silicio/",
-      "published_at": "2026-07-10T20:39:47+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:100797",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "Microsoft activates MDASH system to detect Windows vulnerabilities preemptively",
-      "url": "https://www.tudocelular.com/seguranca/noticias/n258461/microsoft-ativa-sistema-mdash-windows-seguranca.html",
-      "published_at": "2026-07-10T20:37:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:100490",
-      "kind": "media",
-      "brand": "MSI",
-      "family": "PC competitors",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
       "section": "Competitor Coverage",
-      "title": "MSI Claw 8 EX AI+ Review: Intel's Arc G3 Powers New Handheld",
-      "url": "https://wccftech.com/review/msi-claw-8-ex-ai-review-intel-disrupts-the-gaming-handheld-segment-with-arc-g3/",
-      "published_at": "2026-07-10T19:30:29+00:00",
+      "title": "Complete Analysis of the Asus V16 Gaming Notebook with RTX 4050 and Core 5 210H",
+      "url": "https://www.youtube.com/watch?v=VJz73-drszw",
+      "published_at": "2026-07-15T22:33:15+00:00",
       "score": 72,
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
     {
-      "id": "media:99745",
-      "kind": "media",
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "id": "youtube:74503",
+      "kind": "youtube",
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
-      "section": "Ecosystem",
-      "title": "New DDR5 MRDIMM modules promise DDR6 performance without socket changes in servers",
-      "url": "https://www.adrenaline.com.br/hardware/ddr5-mrdimm-largura-banda-ddr6/",
-      "published_at": "2026-07-10T19:12:18+00:00",
-      "score": 50,
+      "section": "Competitor Coverage",
+      "title": "Lenovo Yoga Slim 7i Ultra Aura Edition Teaser with FIFA World Cup Theme",
+      "url": "https://www.youtube.com/shorts/HfaLwRq8QTg",
+      "published_at": "2026-07-15T21:54:49+00:00",
+      "score": 72,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
-    {
-      "id": "media:100210",
-      "kind": "media",
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "source": "HotHardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Minisforum MS-03 Mini PC Features Intel Panther Lake and 128GB RAM",
-      "url": "https://hothardware.com/news/minisforum-ms-03-mini-pc-pantherlake-128gb-gpu-slot",
-      "published_at": "2026-07-10T18:55:00+00:00",
-      "score": 45,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:99440",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "title": "Microsoft explains Windows 11 update types and distribution strategy",
-      "url": "https://winfuture.de/news,159909.html",
-      "published_at": "2026-07-10T18:49:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:99421",
-      "kind": "media",
-      "brand": "Asus",
-      "family": "PC competitors",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Colorful achieves 8600 MT/s with CXMT DDR5 memory, surpassing MSI and ASUS",
-      "url": "https://wccftech.com/colorful-smashes-cxmt-ddr5-record-at-8600-mt-s-beating-msi-and-asus-as-chinas-memory-matures/",
-      "published_at": "2026-07-10T18:33:08+00:00",
-      "score": 45,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:99422",
-      "kind": "media",
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "China's helium export ban could disrupt semiconductor fabrication",
-      "url": "https://wccftech.com/intel-ceolip-bu-tan-warned-helium-could-choke-ai-chips-in-june-and-chinas-export-ban-might-prove-him-right/",
-      "published_at": "2026-07-10T18:27:44+00:00",
-      "score": 45,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    }
-  ],
-  "items": [
     {
       "id": "media:110114",
       "kind": "media",
@@ -5794,6 +5828,23 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:74218",
+      "kind": "youtube",
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Lenovo IdeaPad Slim 3i and 3X productivity laptop recommendations",
+      "url": "https://www.youtube.com/watch?v=Py748bRh14w",
+      "published_at": "2026-07-15T21:00:02+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:110287",
       "kind": "media",
       "brand": "Microsoft",
@@ -5806,6 +5857,23 @@
       "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
       "published_at": "2026-07-15T19:59:48+00:00",
       "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:73933",
+      "kind": "youtube",
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Podcast debate on Steam Machine value vs. PC builds",
+      "url": "https://www.youtube.com/watch?v=HYxsu3SDPZ8",
+      "published_at": "2026-07-15T19:35:20+00:00",
+      "score": 60,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -5930,6 +5998,23 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:74383",
+      "kind": "youtube",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "Gamers Nexus",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_n50Rj8oqwUnusv4I6_DllKflZrSdSxmXhYvpHs0hOEj5o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "PCIe integration with networking and future on-chip photonics",
+      "url": "https://www.youtube.com/watch?v=JYRo1SZVmMU",
+      "published_at": "2026-07-15T16:50:33+00:00",
+      "score": 20,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:109634",
       "kind": "media",
       "brand": "Alienware",
@@ -6015,6 +6100,23 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:74608",
+      "kind": "youtube",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "Micro Center",
+      "source_icon": "https://yt3.googleusercontent.com/DK_uVA19jFp7pf8jCpyzpTJPo1ImEroHlB8pbLbdGEM6llziJfBPcdCAxz-5w8KJobAS4ZR9tQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Microsoft Surface Laptop 8 and Pro 13 review: Snapdragon X2 performance and AI upgrades",
+      "url": "https://www.youtube.com/watch?v=Ys0vw5SEsFI",
+      "published_at": "2026-07-15T16:08:07+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:109560",
       "kind": "media",
       "brand": "Samsung",
@@ -6027,6 +6129,23 @@
       "url": "https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser",
       "published_at": "2026-07-15T16:05:34+00:00",
       "score": 10,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:73888",
+      "kind": "youtube",
+      "brand": "Apple",
+      "family": "PC competitors",
+      "source": "Linus Tech Tips",
+      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Market Trends",
+      "title": "of Valve's Steam Machine compared to Mac Mini and traditional PCs",
+      "url": "https://www.youtube.com/shorts/VRpP4_lKjEc",
+      "published_at": "2026-07-15T16:00:38+00:00",
+      "score": 90,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -6151,6 +6270,23 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:73903",
+      "kind": "youtube",
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Market Trends",
+      "title": "Unboxing and review of MetaPCs system with Steam OS and hardware comparison to Steam Machine",
+      "url": "https://www.youtube.com/watch?v=aaPj-uuulig",
+      "published_at": "2026-07-15T14:31:55+00:00",
+      "score": 90,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:109943",
       "kind": "media",
       "brand": "Dell",
@@ -6270,6 +6406,23 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:73873",
+      "kind": "youtube",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "title": "Dell XPS 13 2026 review: Budget-friendly design with performance tradeoffs",
+      "url": "https://www.youtube.com/watch?v=edt_sfF910g",
+      "published_at": "2026-07-15T13:00:27+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
+    },
+    {
       "id": "media:109640",
       "kind": "media",
       "brand": "Microsoft",
@@ -6282,6 +6435,23 @@
       "url": "https://www.windowscentral.com/hardware/surface/microsofts-snapdragon-x2-surface-laptop-8-and-pro-12-for-business-are-now-available",
       "published_at": "2026-07-15T12:54:09+00:00",
       "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:74353",
+      "kind": "youtube",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "Adrenaline",
+      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "title": "F*** the bottleneck: Upgrading GPU with a weak CPU",
+      "url": "https://www.youtube.com/shorts/GJPr6RUonLo",
+      "published_at": "2026-07-15T12:53:46+00:00",
+      "score": 0,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -21344,7 +21514,7 @@
       "url": "https://www.youtube.com/watch?v=4xZlCeT1eIo",
       "published_at": "2026-07-01T08:00:36+00:00",
       "score": 96,
-      "is_review": false,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
     },
@@ -30507,7 +30677,7 @@
       "url": "https://www.youtube.com/watch?v=-u7tfxegH3Q",
       "published_at": "2026-06-24T19:40:12.192926+00:00",
       "score": 95,
-      "is_review": true,
+      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
     },
