@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-16T20:03:18.829741+00:00",
-  "total_items": 2819,
+  "generated_at": "2026-07-16T22:28:04.098949+00:00",
+  "total_items": 2825,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 631,
-      "media": 616,
+      "total": 633,
+      "media": 618,
       "youtube": 15,
       "reviews": 16,
       "sponsored": 0,
@@ -31,7 +31,7 @@
         },
         {
           "source": "The Register",
-          "count": 38
+          "count": 39
         },
         {
           "source": "XDA Developers",
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 545
+          "count": 547
         },
         {
           "section": "Competitor Coverage",
@@ -133,8 +133,8 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 289,
-      "media": 228,
+      "total": 290,
+      "media": 229,
       "youtube": 61,
       "reviews": 40,
       "sponsored": 7,
@@ -177,7 +177,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 128
+          "count": 129
         },
         {
           "section": "Dell Coverage",
@@ -265,8 +265,8 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 203,
-      "media": 193,
+      "total": 204,
+      "media": 194,
       "youtube": 10,
       "reviews": 14,
       "sponsored": 0,
@@ -291,7 +291,7 @@
         },
         {
           "source": "TudoCelular",
-          "count": 14
+          "count": 15
         },
         {
           "source": "WinFuture",
@@ -309,7 +309,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 181
+          "count": 182
         },
         {
           "section": "Competitor Coverage",
@@ -324,7 +324,7 @@
           "count": 5
         }
       ],
-      "avg_score": 42.7
+      "avg_score": 42.8
     },
     {
       "brand": "NVIDIA",
@@ -457,8 +457,8 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 147,
-      "media": 96,
+      "total": 148,
+      "media": 97,
       "youtube": 51,
       "reviews": 49,
       "sponsored": 2,
@@ -495,13 +495,13 @@
         },
         {
           "source": "TudoCelular",
-          "count": 7
+          "count": 8
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 100
+          "count": 101
         },
         {
           "section": "Deals",
@@ -585,8 +585,8 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 118,
-      "media": 110,
+      "total": 119,
+      "media": 111,
       "youtube": 8,
       "reviews": 7,
       "sponsored": 2,
@@ -599,7 +599,7 @@
         },
         {
           "source": "TudoCelular",
-          "count": 14
+          "count": 15
         },
         {
           "source": "Tom's Hardware",
@@ -633,7 +633,7 @@
         },
         {
           "section": "Market Trends",
-          "count": 18
+          "count": 19
         },
         {
           "section": "Deals",
@@ -644,7 +644,7 @@
           "count": 10
         }
       ],
-      "avg_score": 38.5
+      "avg_score": 38.3
     },
     {
       "brand": "MSI",
@@ -1504,15 +1504,15 @@
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 260,
+        "Microsoft": 262,
         "Apple": 91,
-        "Dell": 89,
+        "Dell": 90,
         "NVIDIA": 84,
-        "AMD": 69,
+        "AMD": 70,
         "Intel": 68,
         "Valve": 62,
-        "Samsung": 55,
-        "Asus": 54,
+        "Samsung": 56,
+        "Asus": 55,
         "Lenovo": 52,
         "Alienware": 29,
         "HP": 24,
@@ -1524,6 +1524,57 @@
     }
   ],
   "recent": [
+    {
+      "id": "media:113037",
+      "kind": "media",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "DDR5 RAM memory training slower than DDR4 impacts boot times",
+      "url": "https://www.xda-developers.com/am5-boot-time-long-blame-ram-settings/",
+      "published_at": "2026-07-16T21:30:10+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:113444",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "The Register",
+      "source_icon": "https://www.google.com/s2/favicons?domain=theregister.com&sz=64",
+      "country": "GB",
+      "section": "Ecosystem",
+      "title": "Amsterdam activists attack Microsoft datacenter with acid-filled balloons",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/16/amsterdam-activists-throw-acid-at-microsoft-datacenter-project/5273943",
+      "published_at": "2026-07-16T21:04:35+00:00",
+      "score": 5,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:113046",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Microsoft sets new Patch Tuesday record with 570 security fixes using AI",
+      "url": "https://hothardware.com/news/ai-helps-microsoft-smash-patch-tuesday-record-with-570-security-fixes",
+      "published_at": "2026-07-16T20:35:00+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
     {
       "id": "media:111966",
       "kind": "media",
@@ -1899,6 +1950,23 @@
       "is_dell_story": false
     },
     {
+      "id": "media:112563",
+      "kind": "media",
+      "brand": "Asus",
+      "family": "PC competitors",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "ASUS updates BIOS for AMD boards to enhance CXMT DDR5 memory support",
+      "url": "https://www.tudocelular.com/asus/noticias/n258824/asus-lanca-bios-placas-amd-foco-memorias-ddr5-cxmt.html",
+      "published_at": "2026-07-16T15:23:00+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:112067",
       "kind": "media",
       "brand": "Samsung",
@@ -1962,6 +2030,23 @@
       "url": "https://www.youtube.com/shorts/qZHyhRpqlEw",
       "published_at": "2026-07-16T15:01:30+00:00",
       "score": 15,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:112566",
+      "kind": "media",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "AMD Ryzen AI MAX PRO 400 gets ROCm 7.14 support",
+      "url": "https://www.tudocelular.com/software/noticias/n258817/amd-prepara-terreno-ryzen-ai-max-pro-400-rocm-714.html",
+      "published_at": "2026-07-16T14:44:00+00:00",
+      "score": 60,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -2050,6 +2135,23 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
+    },
+    {
+      "id": "media:112569",
+      "kind": "media",
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Market Trends",
+      "title": "Samsung may retain memory upgrade as Galaxy Z Fold 8 pre-order incentive",
+      "url": "https://www.tudocelular.com/mercado/noticias/n258818/galaxy-z-fold-8-upgrade-memoria-pre-venda.html",
+      "published_at": "2026-07-16T14:04:00+00:00",
+      "score": 15,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
     },
     {
       "id": "media:111520",
@@ -5671,111 +5773,60 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:103161",
+      "id": "media:113037",
       "kind": "media",
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "AMD's FSR 8x Multi-Frame Generation spotted in experimental drivers",
-      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-fsr-multi-frame-generation-with-8x-mode-spotted-experimental-driver-settings-could-hint-at-fsrs-next-evolution",
-      "published_at": "2026-07-13T12:30:06+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:103163",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Market Trends",
-      "title": "Apple's M7 Ultra aims for 1.5TB memory and Blackwell-class AI by 2028",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai",
-      "published_at": "2026-07-13T12:02:52+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:104013",
-      "kind": "media",
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "title": "Massive leak reveals design and colors of new Lenovo IdeaTab tablets",
-      "url": "https://www.tudocelular.com/rumores/noticias/n258535/tablet-lenovo-tab-malibu-gen-imagens-vazadas.html",
-      "published_at": "2026-07-13T11:35:00+00:00",
-      "score": 30,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:103408",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
+      "brand": "Dell",
+      "family": "Dell family",
       "source": "XDA Developers",
       "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
-      "title": "AI subscription comparison highlights Copilot as the clear winner",
-      "url": "https://www.xda-developers.com/paid-for-claude-chatgpt-copilot-for-month-one-justified-subscription/",
-      "published_at": "2026-07-13T11:31:19+00:00",
-      "score": 40,
+      "title": "DDR5 RAM memory training slower than DDR4 impacts boot times",
+      "url": "https://www.xda-developers.com/am5-boot-time-long-blame-ram-settings/",
+      "published_at": "2026-07-16T21:30:10+00:00",
+      "score": 45,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
     {
-      "id": "media:103497",
+      "id": "media:113444",
       "kind": "media",
       "brand": "Microsoft",
       "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "title": "HP, Asus, Microsoft business laptops discounted up to £600 at Currys",
-      "url": "https://www.techradar.com/pro/my-top-hp-asus-and-microsoft-business-laptops-are-up-to-gbp600-off-at-currys-including-powerful-ai-ready-models",
-      "published_at": "2026-07-13T11:18:58+00:00",
-      "score": 20,
+      "source": "The Register",
+      "source_icon": "https://www.google.com/s2/favicons?domain=theregister.com&sz=64",
+      "country": "GB",
+      "section": "Ecosystem",
+      "title": "Amsterdam activists attack Microsoft datacenter with acid-filled balloons",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/16/amsterdam-activists-throw-acid-at-microsoft-datacenter-project/5273943",
+      "published_at": "2026-07-16T21:04:35+00:00",
+      "score": 5,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
     {
-      "id": "media:103700",
+      "id": "media:113046",
       "kind": "media",
-      "brand": "Samsung",
+      "brand": "Microsoft",
       "family": "PC competitors",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
-      "title": "Samsung's 2nm node to produce Tesla's AI5 chip at Texas Taylor Fab",
-      "url": "https://wccftech.com/samsung-2nm-node-lands-tesla-ai5-chip-at-its-texas-taylor-fab-silencing-yield-doubters/",
-      "published_at": "2026-07-13T11:10:10+00:00",
-      "score": 35,
+      "title": "Microsoft sets new Patch Tuesday record with 570 security fixes using AI",
+      "url": "https://hothardware.com/news/ai-helps-microsoft-smash-patch-tuesday-record-with-570-security-fixes",
+      "published_at": "2026-07-16T20:35:00+00:00",
+      "score": 50,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "media:111966",
       "kind": "media",
@@ -6151,6 +6202,23 @@
       "is_dell_story": false
     },
     {
+      "id": "media:112563",
+      "kind": "media",
+      "brand": "Asus",
+      "family": "PC competitors",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "ASUS updates BIOS for AMD boards to enhance CXMT DDR5 memory support",
+      "url": "https://www.tudocelular.com/asus/noticias/n258824/asus-lanca-bios-placas-amd-foco-memorias-ddr5-cxmt.html",
+      "published_at": "2026-07-16T15:23:00+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:112067",
       "kind": "media",
       "brand": "Samsung",
@@ -6214,6 +6282,23 @@
       "url": "https://www.youtube.com/shorts/qZHyhRpqlEw",
       "published_at": "2026-07-16T15:01:30+00:00",
       "score": 15,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:112566",
+      "kind": "media",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "AMD Ryzen AI MAX PRO 400 gets ROCm 7.14 support",
+      "url": "https://www.tudocelular.com/software/noticias/n258817/amd-prepara-terreno-ryzen-ai-max-pro-400-rocm-714.html",
+      "published_at": "2026-07-16T14:44:00+00:00",
+      "score": 60,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -6302,6 +6387,23 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
+    },
+    {
+      "id": "media:112569",
+      "kind": "media",
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Market Trends",
+      "title": "Samsung may retain memory upgrade as Galaxy Z Fold 8 pre-order incentive",
+      "url": "https://www.tudocelular.com/mercado/noticias/n258818/galaxy-z-fold-8-upgrade-memoria-pre-venda.html",
+      "published_at": "2026-07-16T14:04:00+00:00",
+      "score": 15,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
     },
     {
       "id": "media:111520",
