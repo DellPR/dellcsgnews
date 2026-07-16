@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-16T19:43:01.510979+00:00",
-  "total_items": 2809,
+  "generated_at": "2026-07-16T20:03:18.829741+00:00",
+  "total_items": 2819,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 629,
-      "media": 614,
+      "total": 631,
+      "media": 616,
       "youtube": 15,
       "reviews": 16,
       "sponsored": 0,
@@ -19,7 +19,7 @@
         },
         {
           "source": "WinFuture",
-          "count": 87
+          "count": 88
         },
         {
           "source": "TechRadar",
@@ -39,7 +39,7 @@
         },
         {
           "source": "TudoCelular",
-          "count": 31
+          "count": 32
         },
         {
           "source": "Digital Trends",
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 543
+          "count": 545
         },
         {
           "section": "Competitor Coverage",
@@ -133,12 +133,12 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 287,
-      "media": 226,
+      "total": 289,
+      "media": 228,
       "youtube": 61,
       "reviews": 40,
       "sponsored": 7,
-      "dell_stories": 107,
+      "dell_stories": 109,
       "high_signal": 63,
       "top_sources": [
         {
@@ -151,7 +151,7 @@
         },
         {
           "source": "PCWorld",
-          "count": 18
+          "count": 19
         },
         {
           "source": "Tom's Hardware",
@@ -177,7 +177,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 126
+          "count": 128
         },
         {
           "section": "Dell Coverage",
@@ -196,7 +196,7 @@
           "count": 26
         }
       ],
-      "avg_score": 55.6
+      "avg_score": 55.5
     },
     {
       "brand": "Valve",
@@ -265,21 +265,21 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 200,
-      "media": 190,
+      "total": 203,
+      "media": 193,
       "youtube": 10,
-      "reviews": 12,
+      "reviews": 14,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
       "top_sources": [
         {
           "source": "Wccftech",
-          "count": 51
+          "count": 52
         },
         {
           "source": "Tom's Hardware",
-          "count": 30
+          "count": 31
         },
         {
           "source": "Adrenaline",
@@ -299,7 +299,7 @@
         },
         {
           "source": "HotHardware",
-          "count": 10
+          "count": 11
         },
         {
           "source": "TechRadar",
@@ -309,7 +309,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 178
+          "count": 181
         },
         {
           "section": "Competitor Coverage",
@@ -324,13 +324,13 @@
           "count": 5
         }
       ],
-      "avg_score": 42.5
+      "avg_score": 42.7
     },
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 195,
-      "media": 180,
+      "total": 197,
+      "media": 182,
       "youtube": 15,
       "reviews": 5,
       "sponsored": 0,
@@ -343,11 +343,11 @@
         },
         {
           "source": "Tom's Hardware",
-          "count": 29
+          "count": 30
         },
         {
           "source": "Adrenaline",
-          "count": 15
+          "count": 16
         },
         {
           "source": "XDA Developers",
@@ -373,7 +373,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 187
+          "count": 189
         },
         {
           "section": "Market Trends",
@@ -388,7 +388,7 @@
           "count": 1
         }
       ],
-      "avg_score": 36.7
+      "avg_score": 36.6
     },
     {
       "brand": "Intel",
@@ -713,12 +713,12 @@
     {
       "brand": "Alienware",
       "family": "Dell family",
-      "total": 59,
-      "media": 36,
+      "total": 60,
+      "media": 37,
       "youtube": 23,
       "reviews": 22,
       "sponsored": 1,
-      "dell_stories": 50,
+      "dell_stories": 51,
       "high_signal": 31,
       "top_sources": [
         {
@@ -728,6 +728,10 @@
         {
           "source": "PCWorld",
           "count": 5
+        },
+        {
+          "source": "HotHardware",
+          "count": 3
         },
         {
           "source": "Just Josh",
@@ -748,10 +752,6 @@
         {
           "source": "TudoCelular",
           "count": 3
-        },
-        {
-          "source": "Windows Central",
-          "count": 3
         }
       ],
       "sections": [
@@ -761,7 +761,7 @@
         },
         {
           "section": "Deals",
-          "count": 21
+          "count": 22
         },
         {
           "section": "Competitor Coverage",
@@ -772,7 +772,7 @@
           "count": 1
         }
       ],
-      "avg_score": 68.6
+      "avg_score": 68.1
     },
     {
       "brand": "HP",
@@ -1504,17 +1504,17 @@
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 258,
+        "Microsoft": 260,
         "Apple": 91,
-        "Dell": 87,
-        "NVIDIA": 82,
+        "Dell": 89,
+        "NVIDIA": 84,
+        "AMD": 69,
         "Intel": 68,
-        "AMD": 66,
         "Valve": 62,
         "Samsung": 55,
         "Asus": 54,
         "Lenovo": 52,
-        "Alienware": 28,
+        "Alienware": 29,
         "HP": 24,
         "MSI": 21,
         "Acer": 8,
@@ -1984,6 +1984,23 @@
       "is_dell_story": false
     },
     {
+      "id": "media:111850",
+      "kind": "media",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Microsoft’s July update blocked on some Dell PCs due to Intel driver issues",
+      "url": "https://www.pcworld.com/article/3192859/microsofts-july-update-is-blocked-on-some-dell-pcs-heres-why.html",
+      "published_at": "2026-07-16T14:26:06+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
+    },
+    {
       "id": "youtube:76123",
       "kind": "youtube",
       "brand": "Alienware",
@@ -2016,6 +2033,108 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
+    },
+    {
+      "id": "media:111983",
+      "kind": "media",
+      "brand": "Alienware",
+      "family": "Dell family",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "title": "Alienware Ryzen Laptop on Sale at Walmart for $899",
+      "url": "https://hothardware.com/news/alienware-ryzen-gaming-laptop-deal-walmart-899",
+      "published_at": "2026-07-16T14:07:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
+    },
+    {
+      "id": "media:111520",
+      "kind": "media",
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "AIDA64 and MSI Afterburner now display GeForce RTX 50 hotspot temperatures",
+      "url": "https://www.adrenaline.com.br/softwares/aida64-e-msi-afterburner-passam-a-exibir-temperatura-hotspot-das-geforce-rtx-50/",
+      "published_at": "2026-07-16T13:53:56+00:00",
+      "score": 34,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:112287",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "WinFuture",
+      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
+      "country": "DE",
+      "section": "Ecosystem",
+      "title": "Zero-Day Exploit in Windows Allows Extensive System Access",
+      "url": "https://winfuture.de/news,160026.html",
+      "published_at": "2026-07-16T13:51:00+00:00",
+      "score": 30,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:111726",
+      "kind": "media",
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Nvidia partners with Japan to build 140MW AI factory with 27,500 Rubin GPUs",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-and-japans-noetra-consortium-to-build-140mw-rubin-ai-factory-with-27500-gpus",
+      "published_at": "2026-07-16T13:43:58+00:00",
+      "score": 34,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:111598",
+      "kind": "media",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Microsoft suspends Windows 11 update on Dell PCs after failure",
+      "url": "https://tecnoblog.net/noticias/microsoft-suspende-atualizacao-do-windows-11-em-pcs-dell-apos-falha/",
+      "published_at": "2026-07-16T13:31:55+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
+    },
+    {
+      "id": "media:112263",
+      "kind": "media",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD adds Ryzen AI MAX PRO 400 support to ROCm 7.14 software stack",
+      "url": "https://wccftech.com/amd-prepares-for-ryzen-ai-max-pro-400-launch-with-rocm-7-14-support/",
+      "published_at": "2026-07-16T13:01:25+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
     },
     {
       "id": "media:111184",
@@ -2052,6 +2171,40 @@
       "is_dell_story": false
     },
     {
+      "id": "media:111727",
+      "kind": "media",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD Ryzen 7 7700X3D review: Lower clocks, less value than 7800X3D",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-7700x3d-cpu-review",
+      "published_at": "2026-07-16T13:00:00+00:00",
+      "score": 45,
+      "is_review": true,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:111985",
+      "kind": "media",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD Ryzen 7 7700X3D Review: Gaming Performance and Pricing",
+      "url": "https://hothardware.com/reviews/amd-ryzen-7-7700x3d-gaming-cpu-review",
+      "published_at": "2026-07-16T13:00:00+00:00",
+      "score": 65,
+      "is_review": true,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:110436",
       "kind": "media",
       "brand": "NVIDIA",
@@ -2081,6 +2234,23 @@
       "url": "https://www.digitaltrends.com/computing/apples-2026-back-to-school-promo-saves-you-up-to-150-on-a-new-mac-or-ipad/",
       "published_at": "2026-07-16T12:46:40+00:00",
       "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:111494",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "OneDrive ends support on Windows 10 as Microsoft announces changes",
+      "url": "https://www.tudocelular.com/software/noticias/n258811/onedrive-fim-suporte-windows-10.html",
+      "published_at": "2026-07-16T12:43:00+00:00",
+      "score": 50,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -5603,176 +5773,6 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    },
-    {
-      "id": "media:103165",
-      "kind": "media",
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Market Trends",
-      "title": "Valve addresses Steam Machine overheating warning issue with BIOS update",
-      "url": "https://www.tomshardware.com/pc-components/cooling/valve-confirms-steam-machine-red-light-overheating-warning-is-showing-earlier-than-it-should-bios-fix-on-the-way-will-raise-temperature-warning-threshold-to-100-degrees-celsius",
-      "published_at": "2026-07-13T11:04:37+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:103409",
-      "kind": "media",
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "source": "XDA Developers",
-      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "RX 9070 XT consideration derailed by Nvidia feature",
-      "url": "https://www.xda-developers.com/the-rx-9070-xt-almost-had-my-money-but-one-nvidia-feature-changed-my-mind/",
-      "published_at": "2026-07-13T11:00:19+00:00",
-      "score": 5,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:103673",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft tests Copilot PC Insights for natural language PC diagnostics",
-      "url": "https://www.digitaltrends.com/computing/copilot-could-soon-help-diagnose-issues-with-your-pc/",
-      "published_at": "2026-07-13T09:01:18+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:103726",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "title": "Microsoft uses AI to enhance Windows security updates",
-      "url": "https://winfuture.de/news,159934.html",
-      "published_at": "2026-07-13T08:41:00+00:00",
-      "score": 45,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:103732",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "title": "Microsoft integrates smartphones with Windows 11 via new features",
-      "url": "https://winfuture.de/news,159929.html",
-      "published_at": "2026-07-13T06:47:00+00:00",
-      "score": 45,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:102933",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Market Trends",
-      "title": "Apple rumored to accelerate M7 chip, skip M6 Pro for AI focus",
-      "url": "https://www.tudocelular.com/apple/noticias/n258489/apple-acelera-chip-m7-pula-m6-pro-foco-ia-rumor.html",
-      "published_at": "2026-07-13T06:47:00+00:00",
-      "score": 30,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:102940",
-      "kind": "media",
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "title": "Lenovo Legion C700 portable console confirmed for August with cloud gaming focus",
-      "url": "https://www.tudocelular.com/curiosidade/noticias/n258488/lenovo-legion-c700-console-surge-em-teaser.html",
-      "published_at": "2026-07-13T05:45:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:103824",
-      "kind": "media",
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "source": "The Register",
-      "source_icon": "https://www.google.com/s2/favicons?domain=theregister.com&sz=64",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "title": "Lenovo denies using banned Chinese SSDs",
-      "url": "https://www.theregister.com/personal-tech/2026/07/13/lenovo-denies-using-banned-chinese-ssds-where-theyre-not-allowed/5270212",
-      "published_at": "2026-07-13T01:14:31+00:00",
-      "score": 20,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:103707",
-      "kind": "media",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Market Trends",
-      "title": "Apple finalizes M7 chip design six months after M6, driven by AI pressures",
-      "url": "https://wccftech.com/apple-m7-chip-design-finalized-six-months-after-m6-due-to-ai/",
-      "published_at": "2026-07-12T22:10:46+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:102596",
-      "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft overhauls Phone Link for deeper Windows 11 integration",
-      "url": "https://www.digitaltrends.com/computing/microsoft-wants-windows-11-and-your-phone-to-become-best-friends/",
-      "published_at": "2026-07-12T19:40:52+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6236,6 +6236,23 @@
       "is_dell_story": false
     },
     {
+      "id": "media:111850",
+      "kind": "media",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Microsoft’s July update blocked on some Dell PCs due to Intel driver issues",
+      "url": "https://www.pcworld.com/article/3192859/microsofts-july-update-is-blocked-on-some-dell-pcs-heres-why.html",
+      "published_at": "2026-07-16T14:26:06+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
+    },
+    {
       "id": "youtube:76123",
       "kind": "youtube",
       "brand": "Alienware",
@@ -6268,6 +6285,108 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
+    },
+    {
+      "id": "media:111983",
+      "kind": "media",
+      "brand": "Alienware",
+      "family": "Dell family",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "title": "Alienware Ryzen Laptop on Sale at Walmart for $899",
+      "url": "https://hothardware.com/news/alienware-ryzen-gaming-laptop-deal-walmart-899",
+      "published_at": "2026-07-16T14:07:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
+    },
+    {
+      "id": "media:111520",
+      "kind": "media",
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "AIDA64 and MSI Afterburner now display GeForce RTX 50 hotspot temperatures",
+      "url": "https://www.adrenaline.com.br/softwares/aida64-e-msi-afterburner-passam-a-exibir-temperatura-hotspot-das-geforce-rtx-50/",
+      "published_at": "2026-07-16T13:53:56+00:00",
+      "score": 34,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:112287",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "WinFuture",
+      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
+      "country": "DE",
+      "section": "Ecosystem",
+      "title": "Zero-Day Exploit in Windows Allows Extensive System Access",
+      "url": "https://winfuture.de/news,160026.html",
+      "published_at": "2026-07-16T13:51:00+00:00",
+      "score": 30,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:111726",
+      "kind": "media",
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Nvidia partners with Japan to build 140MW AI factory with 27,500 Rubin GPUs",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-and-japans-noetra-consortium-to-build-140mw-rubin-ai-factory-with-27500-gpus",
+      "published_at": "2026-07-16T13:43:58+00:00",
+      "score": 34,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:111598",
+      "kind": "media",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Microsoft suspends Windows 11 update on Dell PCs after failure",
+      "url": "https://tecnoblog.net/noticias/microsoft-suspende-atualizacao-do-windows-11-em-pcs-dell-apos-falha/",
+      "published_at": "2026-07-16T13:31:55+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
+    },
+    {
+      "id": "media:112263",
+      "kind": "media",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD adds Ryzen AI MAX PRO 400 support to ROCm 7.14 software stack",
+      "url": "https://wccftech.com/amd-prepares-for-ryzen-ai-max-pro-400-launch-with-rocm-7-14-support/",
+      "published_at": "2026-07-16T13:01:25+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
     },
     {
       "id": "media:111184",
@@ -6304,6 +6423,40 @@
       "is_dell_story": false
     },
     {
+      "id": "media:111727",
+      "kind": "media",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD Ryzen 7 7700X3D review: Lower clocks, less value than 7800X3D",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-7700x3d-cpu-review",
+      "published_at": "2026-07-16T13:00:00+00:00",
+      "score": 45,
+      "is_review": true,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:111985",
+      "kind": "media",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD Ryzen 7 7700X3D Review: Gaming Performance and Pricing",
+      "url": "https://hothardware.com/reviews/amd-ryzen-7-7700x3d-gaming-cpu-review",
+      "published_at": "2026-07-16T13:00:00+00:00",
+      "score": 65,
+      "is_review": true,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
       "id": "media:110436",
       "kind": "media",
       "brand": "NVIDIA",
@@ -6333,6 +6486,23 @@
       "url": "https://www.digitaltrends.com/computing/apples-2026-back-to-school-promo-saves-you-up-to-150-on-a-new-mac-or-ipad/",
       "published_at": "2026-07-16T12:46:40+00:00",
       "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:111494",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "OneDrive ends support on Windows 10 as Microsoft announces changes",
+      "url": "https://www.tudocelular.com/software/noticias/n258811/onedrive-fim-suporte-windows-10.html",
+      "published_at": "2026-07-16T12:43:00+00:00",
+      "score": 50,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
