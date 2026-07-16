@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-16T14:01:47.676167+00:00",
-  "total_items": 2780,
+  "generated_at": "2026-07-16T18:07:56.933463+00:00",
+  "total_items": 2784,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 622,
+      "total": 623,
       "media": 608,
-      "youtube": 14,
+      "youtube": 15,
       "reviews": 16,
       "sponsored": 0,
       "dell_stories": 0,
@@ -57,7 +57,7 @@
         },
         {
           "section": "Market Trends",
-          "count": 13
+          "count": 14
         },
         {
           "section": "Deals",
@@ -133,13 +133,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 284,
+      "total": 285,
       "media": 224,
-      "youtube": 60,
+      "youtube": 61,
       "reviews": 40,
       "sponsored": 7,
-      "dell_stories": 105,
-      "high_signal": 62,
+      "dell_stories": 106,
+      "high_signal": 63,
       "top_sources": [
         {
           "source": "Windows Central",
@@ -181,7 +181,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 62
+          "count": 63
         },
         {
           "section": "Deals",
@@ -196,18 +196,18 @@
           "count": 26
         }
       ],
-      "avg_score": 55.5
+      "avg_score": 55.7
     },
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 218,
+      "total": 220,
       "media": 180,
-      "youtube": 38,
+      "youtube": 40,
       "reviews": 16,
       "sponsored": 0,
       "dell_stories": 0,
-      "high_signal": 21,
+      "high_signal": 22,
       "top_sources": [
         {
           "source": "Adrenaline",
@@ -215,7 +215,7 @@
         },
         {
           "source": "The Verge",
-          "count": 18
+          "count": 19
         },
         {
           "source": "Wccftech",
@@ -245,7 +245,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 209
+          "count": 211
         },
         {
           "section": "Ecosystem",
@@ -260,7 +260,7 @@
           "count": 1
         }
       ],
-      "avg_score": 61.4
+      "avg_score": 61.5
     },
     {
       "brand": "AMD",
@@ -1504,13 +1504,13 @@
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 251,
+        "Microsoft": 252,
         "Apple": 90,
-        "Dell": 84,
+        "Dell": 85,
         "NVIDIA": 78,
         "Intel": 68,
         "AMD": 62,
-        "Valve": 60,
+        "Valve": 62,
         "Samsung": 53,
         "Asus": 52,
         "Lenovo": 51,
@@ -1524,6 +1524,74 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:75898",
+      "kind": "youtube",
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "source": "JayzTwoCents",
+      "source_icon": "https://yt3.googleusercontent.com/60ZHdHfspX1q6YI8_RW8Zz8fyR8Ne5aDHIwQ0TGN-vFkBWp5J1htI2VsLQQsnVoQbGhIxmJ3lQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Why I chose Bazzite over SteamOS for my 'J Machine'",
+      "url": "https://www.youtube.com/watch?v=_LB1wSLLsgU",
+      "published_at": "2026-07-16T16:15:33+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:75718",
+      "kind": "youtube",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "title": "of the Superframe Pro Player Mousepad – Affordable and High-Quality Option",
+      "url": "https://www.youtube.com/shorts/qZHyhRpqlEw",
+      "published_at": "2026-07-16T15:01:30+00:00",
+      "score": 15,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:75434",
+      "kind": "youtube",
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Reviewing the Steam Machine's 6/10 score and its performance issues",
+      "url": "https://www.youtube.com/shorts/qaA1wxcS4lw",
+      "published_at": "2026-07-16T14:26:27+00:00",
+      "score": 90,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:75673",
+      "kind": "youtube",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "Alex Ziskind",
+      "source_icon": "https://yt3.googleusercontent.com/At-1Kn54AljCodKZ7G9jxzd-1cCR3BknxIqpwGiXckFOXATpOjSyL-ivxtZQPE7RRAtWC8abFA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "title": "Testing Bonzai 27B model performance on PC and mobile",
+      "url": "https://www.youtube.com/watch?v=-56F0u0xN1A",
+      "published_at": "2026-07-16T14:12:00+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
+    },
     {
       "id": "media:111184",
       "kind": "media",
@@ -5705,77 +5773,77 @@
       "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
-    },
-    {
-      "id": "media:101855",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "PCMag",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcmag.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "title": "PCMag reviews Dell Chromebook 14",
-      "url": "https://www.pcmag.com/reviews/dell-chromebook-14",
-      "published_at": "2026-07-11T20:00:35.764644+00:00",
-      "score": 90,
-      "is_review": true,
-      "is_sponsored": false,
-      "is_dell_story": true
-    },
-    {
-      "id": "media:101354",
-      "kind": "media",
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Samsung and Google develop new SSD virtualization tech for AI data centers",
-      "url": "https://www.techradar.com/pro/samsung-just-gave-google-and-the-ai-gang-the-perfect-reason-to-buy-all-new-storage-so-dont-expect-ssd-prices-to-drop-anytime-soon",
-      "published_at": "2026-07-11T18:40:00+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:100808",
-      "kind": "media",
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "NVIDIA showcases 8 GeForce RTX 5080 GPUs inspired by games at Bilibili World 2026",
-      "url": "https://www.adrenaline.com.br/nvidia/nvidia-exibe-8-geforce-rtx-5080-inspiradas-em-jogos-na-bilibili-world-2026/",
-      "published_at": "2026-07-11T18:18:26+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:100948",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "Mundo Conectado",
-      "source_icon": "https://www.google.com/s2/favicons?domain=mundoconectado.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "Samsung prepares 1400-nit OLED panels for notebooks and monitors",
-      "url": "https://www.mundoconectado.com.br/tecnologia/samsung-prepara-painel-oled-para-notebooks-e-monitores-com-brilho-de-ate-1-400-nits/",
-      "published_at": "2026-07-11T17:43:40+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:75898",
+      "kind": "youtube",
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "source": "JayzTwoCents",
+      "source_icon": "https://yt3.googleusercontent.com/60ZHdHfspX1q6YI8_RW8Zz8fyR8Ne5aDHIwQ0TGN-vFkBWp5J1htI2VsLQQsnVoQbGhIxmJ3lQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Why I chose Bazzite over SteamOS for my 'J Machine'",
+      "url": "https://www.youtube.com/watch?v=_LB1wSLLsgU",
+      "published_at": "2026-07-16T16:15:33+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:75718",
+      "kind": "youtube",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "title": "of the Superframe Pro Player Mousepad – Affordable and High-Quality Option",
+      "url": "https://www.youtube.com/shorts/qZHyhRpqlEw",
+      "published_at": "2026-07-16T15:01:30+00:00",
+      "score": 15,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:75434",
+      "kind": "youtube",
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Reviewing the Steam Machine's 6/10 score and its performance issues",
+      "url": "https://www.youtube.com/shorts/qaA1wxcS4lw",
+      "published_at": "2026-07-16T14:26:27+00:00",
+      "score": 90,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:75673",
+      "kind": "youtube",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "Alex Ziskind",
+      "source_icon": "https://yt3.googleusercontent.com/At-1Kn54AljCodKZ7G9jxzd-1cCR3BknxIqpwGiXckFOXATpOjSyL-ivxtZQPE7RRAtWC8abFA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "title": "Testing Bonzai 27B model performance on PC and mobile",
+      "url": "https://www.youtube.com/watch?v=-56F0u0xN1A",
+      "published_at": "2026-07-16T14:12:00+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": true
+    },
     {
       "id": "media:111184",
       "kind": "media",
@@ -21973,7 +22041,7 @@
       "url": "https://www.youtube.com/watch?v=4xZlCeT1eIo",
       "published_at": "2026-07-01T08:00:36+00:00",
       "score": 96,
-      "is_review": false,
+      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": true
     },
@@ -31136,7 +31204,7 @@
       "url": "https://www.youtube.com/watch?v=-u7tfxegH3Q",
       "published_at": "2026-06-24T19:40:12.192926+00:00",
       "score": 95,
-      "is_review": true,
+      "is_review": false,
       "is_sponsored": false,
       "is_dell_story": true
     },
