@@ -25,7 +25,7 @@
   const competitorFilter = document.getElementById("competitorFilter");
   const RAW_FEED_URL = "https://raw.githubusercontent.com/DellPR/dellcsgnews/main/data/feed.json";
   const RAW_BRAND_METRICS_URL = "https://raw.githubusercontent.com/DellPR/dellcsgnews/main/data/brand_metrics.json";
-  const TOP_STORY_URL = "https://www.youtube.com/watch?v=l0USxQ1QMMc";
+  const TOP_STORY_URL = "https://www.youtube.com/watch?v=XyuWntBXxhs";
   const controlsEl = document.querySelector(".controls");
   const viewSwitch = document.getElementById("viewSwitch");
   const metricsView = document.getElementById("metricsView");
