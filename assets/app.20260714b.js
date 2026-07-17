@@ -570,13 +570,20 @@
       }
       weeks[week] = slot;
     });
-    const weekKeys = Object.keys(weeks).sort();
+
+    const allWeekKeys = Object.keys(weeks).sort();
+    const recentWeeks = allWeekKeys.slice(-12);
+    let weekKeys = recentWeeks.filter(week => Number(weeks[week].total || 0) >= 25).slice(-10);
+    if (weekKeys.length < 2) {
+      weekKeys = recentWeeks.filter(week => Number(weeks[week].total || 0) >= 5).slice(-10);
+    }
     if (weekKeys.length < 2) {
       return `<section class="metric-panel line-chart-panel"><h3>Week-to-week share of voice</h3><div class="empty mini-empty">Not enough weekly history yet.</div></section>`;
     }
+
     const width = 760;
-    const height = 250;
-    const pad = {left: 46, right: 18, top: 18, bottom: 44};
+    const height = 270;
+    const pad = {left: 42, right: 18, top: 18, bottom: 54};
     const chartW = width - pad.left - pad.right;
     const chartH = height - pad.top - pad.bottom;
     const allValues = [];
@@ -586,39 +593,51 @@
         const value = ((weeks[week].brands[brand] || 0) / total) * 100;
         allValues.push(value);
         const x = pad.left + (weekKeys.length === 1 ? chartW / 2 : (index / (weekKeys.length - 1)) * chartW);
-        return {week, value, x};
+        return {week, value, x, total};
       });
       return {brand, points, color: brandColor(brand)};
     });
-    const maxValue = Math.max(10, Math.ceil(Math.max(...allValues) / 5) * 5);
+
+    const maxValue = Math.max(10, Math.min(60, Math.ceil(Math.max(...allValues) / 5) * 5));
     series.forEach(line => {
       line.points.forEach(point => {
-        point.y = pad.top + chartH - (point.value / maxValue) * chartH;
+        point.y = pad.top + chartH - (Math.min(point.value, maxValue) / maxValue) * chartH;
       });
     });
+
     const grid = [0, .25, .5, .75, 1].map(step => {
       const y = pad.top + chartH - step * chartH;
       const value = Math.round(step * maxValue);
       return `<g><line x1="${pad.left}" y1="${y}" x2="${width - pad.right}" y2="${y}" stroke="#e5edf4" stroke-width="1"></line><text x="8" y="${y + 4}" fill="#7b8797" font-size="11" font-weight="700">${value}%</text></g>`;
     }).join("");
+
     const weekLabels = weekKeys.map((week, index) => {
       const x = pad.left + (weekKeys.length === 1 ? chartW / 2 : (index / (weekKeys.length - 1)) * chartW);
-      return `<text x="${x}" y="${height - 16}" fill="#7b8797" font-size="11" font-weight="700" text-anchor="middle">${escapeHtml(metricWeekLabel(week))}</text>`;
+      const label = metricWeekLabel(week);
+      return `<text x="${x}" y="${height - 24}" fill="#7b8797" font-size="11" font-weight="800" text-anchor="middle">${escapeHtml(label)}</text>`;
     }).join("");
+
+    const volumeLabels = weekKeys.map((week, index) => {
+      const x = pad.left + (weekKeys.length === 1 ? chartW / 2 : (index / (weekKeys.length - 1)) * chartW);
+      return `<text x="${x}" y="${height - 9}" fill="#9aa6b5" font-size="10" font-weight="700" text-anchor="middle">n=${weeks[week].total}</text>`;
+    }).join("");
+
     const paths = series.map(line => {
       const d = line.points.map((point, index) => `${index ? "L" : "M"} ${point.x.toFixed(1)} ${point.y.toFixed(1)}`).join(" ");
-      const dots = line.points.map(point => `<circle cx="${point.x.toFixed(1)}" cy="${point.y.toFixed(1)}" r="3.2" fill="${line.color}"><title>${escapeHtml(line.brand)} ${metricWeekLabel(point.week)}: ${point.value.toFixed(1)}%</title></circle>`).join("");
-      return `<path d="${d}" fill="none" stroke="${line.color}" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path>${dots}`;
+      const dots = line.points.map(point => `<circle cx="${point.x.toFixed(1)}" cy="${point.y.toFixed(1)}" r="3" fill="${line.color}"><title>${escapeHtml(line.brand)} ${metricWeekLabel(point.week)}: ${point.value.toFixed(1)}% (${Math.round(point.value * point.total / 100)} of ${point.total})</title></circle>`).join("");
+      return `<path d="${d}" fill="none" stroke="${line.color}" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"></path>${dots}`;
     }).join("");
-    const legend = tracked.map(brand => `<button type="button" class="line-legend-item brand-jump" data-brand-jump="${brand.toLowerCase()}" data-metric-key="total"><i style="background:${brandColor(brand)}"></i>${escapeHtml(brand)}</button>`).join("");
+
+    const legend = tracked.map(brand => `<button type="button" class="line-legend-item brand-jump" data-brand-jump="${brand.toLowerCase()}" data-metric-key="total"><i style="background:${brandColor(brand)}"></i><span>${escapeHtml(brand)}</span></button>`).join("");
     return `<section class="metric-panel line-chart-panel">
       <h3>Week-to-week share of voice</h3>
-      <p class="metric-note">Weekly share among all brand-coded stories in the current metrics window.</p>
+      <p class="metric-note">Weekly share among all brand-coded stories. Sparse early weeks are excluded to avoid distorted 100% spikes.</p>
       <div class="line-chart-wrap">
         <svg class="line-chart" viewBox="0 0 ${width} ${height}" role="img" aria-label="Week-to-week share of voice for Apple, Dell, Lenovo, Asus, Acer, Samsung and Alienware">
           ${grid}
           ${paths}
           ${weekLabels}
+          ${volumeLabels}
         </svg>
       </div>
       <div class="line-legend">${legend}</div>
