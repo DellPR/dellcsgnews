@@ -455,14 +455,25 @@
     return `M ${cx} ${cy} L ${start.x} ${start.y} A ${radius} ${radius} 0 ${largeArc} 0 ${end.x} ${end.y} Z`;
   }
 
-  function renderPieChart(title, brands, valueKey, emptyLabel) {
+  function renderPieChart(title, brands, valueKey, emptyLabel, pinnedBrands = []) {
+    const pinnedKeys = new Set(pinnedBrands.map(brand => String(brand || "").toLowerCase()));
     const rows = brands
       .map(b => ({brand: b.brand, value: Number(b[valueKey] || 0), color: brandColor(b.brand)}))
       .filter(row => row.value > 0)
       .sort((a, b) => b.value - a.value);
     const top = rows.slice(0, 6);
-    const otherValue = rows.slice(6).reduce((sum, row) => sum + row.value, 0);
-    const slices = otherValue > 0 ? [...top, {brand: "Other", value: otherValue, color: "#94a3b8"}] : top;
+    const selected = [...top];
+    rows.forEach(row => {
+      const key = String(row.brand || "").toLowerCase();
+      if (pinnedKeys.has(key) && !selected.some(item => String(item.brand || "").toLowerCase() === key)) {
+        selected.push(row);
+      }
+    });
+    const selectedKeys = new Set(selected.map(row => String(row.brand || "").toLowerCase()));
+    const otherValue = rows
+      .filter(row => !selectedKeys.has(String(row.brand || "").toLowerCase()))
+      .reduce((sum, row) => sum + row.value, 0);
+    const slices = otherValue > 0 ? [...selected, {brand: "Other", value: otherValue, color: "#94a3b8"}] : selected;
     const total = slices.reduce((sum, row) => sum + row.value, 0);
     if (!total) {
       return `<section class="metric-panel pie-panel"><h3>${escapeHtml(title)}</h3><div class="empty mini-empty">${escapeHtml(emptyLabel)}</div></section>`;
@@ -551,17 +562,17 @@
         </section>
       </div>
       <div class="metrics-grid pie-grid">
-        ${renderPieChart("Share of voice", brands, "total", "No brand coverage in this period.")}
-        ${renderPieChart("YouTube share of voice", brands, "youtube", "No YouTube brand coverage in this period.")}
-        ${renderPieChart("Share of product reviews", brands, "reviews", "No product reviews in this period.")}
-        ${renderPieChart("Share of deals", brands, "deals", "No deals coverage in this period.")}
+        ${renderPieChart("Share of voice", brands, "total", "No brand coverage in this period.", ["Dell", "Alienware"])}
+        ${renderPieChart("YouTube share of voice", brands, "youtube", "No YouTube brand coverage in this period.", ["Dell", "Alienware"])}
+        ${renderPieChart("Share of product reviews", brands, "reviews", "No product reviews in this period.", ["Dell", "Alienware"])}
+        ${renderPieChart("Share of deals", brands, "deals", "No deals coverage in this period.", ["Dell", "Alienware"])}
       </div>
       <h3 class="metric-section-title">Brazil only</h3>
       <div class="metrics-grid pie-grid">
-        ${renderPieChart("Share of voice (Brazil only)", brazilBrands, "total", "No Brazil brand coverage in this period.")}
-        ${renderPieChart("YouTube share of voice (Brazil only)", brazilBrands, "youtube", "No Brazil YouTube brand coverage in this period.")}
-        ${renderPieChart("Share of product reviews (Brazil only)", brazilBrands, "reviews", "No Brazil product reviews in this period.")}
-        ${renderPieChart("Share of deals (Brazil only)", brazilBrands, "deals", "No Brazil deals coverage in this period.")}
+        ${renderPieChart("Share of voice (Brazil only)", brazilBrands, "total", "No Brazil brand coverage in this period.", ["Dell", "Alienware"])}
+        ${renderPieChart("YouTube share of voice (Brazil only)", brazilBrands, "youtube", "No Brazil YouTube brand coverage in this period.", ["Dell", "Alienware"])}
+        ${renderPieChart("Share of product reviews (Brazil only)", brazilBrands, "reviews", "No Brazil product reviews in this period.", ["Dell", "Alienware"])}
+        ${renderPieChart("Share of deals (Brazil only)", brazilBrands, "deals", "No Brazil deals coverage in this period.", ["Dell", "Alienware"])}
       </div>
       <section class="metric-panel">
         <h3>Brand table</h3>
