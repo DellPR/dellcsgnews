@@ -540,6 +540,91 @@
     return `M ${cx} ${cy} L ${start.x} ${start.y} A ${radius} ${radius} 0 ${largeArc} 0 ${end.x} ${end.y} Z`;
   }
 
+  function metricWeekStart(raw) {
+    const date = raw ? new Date(raw) : null;
+    if (!date || Number.isNaN(date.getTime())) return "";
+    const utc = new Date(Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()));
+    const day = utc.getUTCDay() || 7;
+    utc.setUTCDate(utc.getUTCDate() - day + 1);
+    return utc.toISOString().slice(0, 10);
+  }
+
+  function metricWeekLabel(weekStart) {
+    const date = new Date(`${weekStart}T00:00:00Z`);
+    if (Number.isNaN(date.getTime())) return weekStart;
+    return date.toLocaleDateString("en-US", {month: "short", day: "numeric", timeZone: "UTC"});
+  }
+
+  function renderWeeklyShareChart(rows) {
+    const tracked = ["Apple", "Dell", "Lenovo", "Asus", "Acer", "Samsung", "Alienware"];
+    const trackedKeys = new Set(tracked.map(brand => brand.toLowerCase()));
+    const weeks = {};
+    rows.forEach(item => {
+      const week = metricWeekStart(item.published_at || item.captured_at);
+      if (!week) return;
+      const brand = item.brand || "Other";
+      const slot = weeks[week] || {total: 0, brands: {}};
+      slot.total += 1;
+      if (trackedKeys.has(String(brand).toLowerCase())) {
+        slot.brands[brand] = (slot.brands[brand] || 0) + 1;
+      }
+      weeks[week] = slot;
+    });
+    const weekKeys = Object.keys(weeks).sort();
+    if (weekKeys.length < 2) {
+      return `<section class="metric-panel line-chart-panel"><h3>Week-to-week share of voice</h3><div class="empty mini-empty">Not enough weekly history yet.</div></section>`;
+    }
+    const width = 760;
+    const height = 250;
+    const pad = {left: 46, right: 18, top: 18, bottom: 44};
+    const chartW = width - pad.left - pad.right;
+    const chartH = height - pad.top - pad.bottom;
+    const allValues = [];
+    const series = tracked.map(brand => {
+      const points = weekKeys.map((week, index) => {
+        const total = weeks[week].total || 1;
+        const value = ((weeks[week].brands[brand] || 0) / total) * 100;
+        allValues.push(value);
+        const x = pad.left + (weekKeys.length === 1 ? chartW / 2 : (index / (weekKeys.length - 1)) * chartW);
+        return {week, value, x};
+      });
+      return {brand, points, color: brandColor(brand)};
+    });
+    const maxValue = Math.max(10, Math.ceil(Math.max(...allValues) / 5) * 5);
+    series.forEach(line => {
+      line.points.forEach(point => {
+        point.y = pad.top + chartH - (point.value / maxValue) * chartH;
+      });
+    });
+    const grid = [0, .25, .5, .75, 1].map(step => {
+      const y = pad.top + chartH - step * chartH;
+      const value = Math.round(step * maxValue);
+      return `<g><line x1="${pad.left}" y1="${y}" x2="${width - pad.right}" y2="${y}" stroke="#e5edf4" stroke-width="1"></line><text x="8" y="${y + 4}" fill="#7b8797" font-size="11" font-weight="700">${value}%</text></g>`;
+    }).join("");
+    const weekLabels = weekKeys.map((week, index) => {
+      const x = pad.left + (weekKeys.length === 1 ? chartW / 2 : (index / (weekKeys.length - 1)) * chartW);
+      return `<text x="${x}" y="${height - 16}" fill="#7b8797" font-size="11" font-weight="700" text-anchor="middle">${escapeHtml(metricWeekLabel(week))}</text>`;
+    }).join("");
+    const paths = series.map(line => {
+      const d = line.points.map((point, index) => `${index ? "L" : "M"} ${point.x.toFixed(1)} ${point.y.toFixed(1)}`).join(" ");
+      const dots = line.points.map(point => `<circle cx="${point.x.toFixed(1)}" cy="${point.y.toFixed(1)}" r="3.2" fill="${line.color}"><title>${escapeHtml(line.brand)} ${metricWeekLabel(point.week)}: ${point.value.toFixed(1)}%</title></circle>`).join("");
+      return `<path d="${d}" fill="none" stroke="${line.color}" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path>${dots}`;
+    }).join("");
+    const legend = tracked.map(brand => `<button type="button" class="line-legend-item brand-jump" data-brand-jump="${brand.toLowerCase()}" data-metric-key="total"><i style="background:${brandColor(brand)}"></i>${escapeHtml(brand)}</button>`).join("");
+    return `<section class="metric-panel line-chart-panel">
+      <h3>Week-to-week share of voice</h3>
+      <p class="metric-note">Weekly share among all brand-coded stories in the current metrics window.</p>
+      <div class="line-chart-wrap">
+        <svg class="line-chart" viewBox="0 0 ${width} ${height}" role="img" aria-label="Week-to-week share of voice for Apple, Dell, Lenovo, Asus, Acer, Samsung and Alienware">
+          ${grid}
+          ${paths}
+          ${weekLabels}
+        </svg>
+      </div>
+      <div class="line-legend">${legend}</div>
+    </section>`;
+  }
+
   function renderPieChart(title, brands, valueKey, emptyLabel, pinnedBrands = []) {
     const pinnedKeys = new Set(pinnedBrands.map(brand => String(brand || "").toLowerCase()));
     const rows = brands
@@ -667,6 +752,7 @@
         ${renderPieChart("Share of product reviews (Brazil only)", brazilBrands, "reviews", "No Brazil product reviews in this period.", ["Dell", "Alienware"])}
         ${renderPieChart("Share of deals (Brazil only)", brazilBrands, "deals", "No Brazil deals coverage in this period.", ["Dell", "Alienware"])}
       </div>
+      ${renderWeeklyShareChart(rows)}
       <section class="metric-panel">
         <h3>Brand table</h3>
         <div class="metric-table-wrap"><table class="metric-table">

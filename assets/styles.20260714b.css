@@ -1217,3 +1217,53 @@ body {
   letter-spacing: .02em;
   text-transform: uppercase;
 }
+
+.line-chart-panel {
+  overflow: hidden;
+}
+.metric-note {
+  margin: -2px 0 12px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.35;
+}
+.line-chart-wrap {
+  width: 100%;
+  overflow-x: auto;
+  padding-bottom: 2px;
+}
+.line-chart {
+  display: block;
+  width: 100%;
+  min-width: 620px;
+  height: auto;
+}
+.line-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+.line-legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: #25364a;
+  padding: 6px 9px;
+  font-size: 12px;
+  font-weight: 900;
+  cursor: pointer;
+}
+.line-legend-item i {
+  width: 9px;
+  height: 9px;
+  border-radius: 999px;
+}
+@media (max-width: 720px) {
+  .line-chart {
+    min-width: 520px;
+  }
+}
