@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T20:39:20.511116+00:00",
-  "total_items": 2884,
+  "generated_at": "2026-07-17T22:30:16.584613+00:00",
+  "total_items": 2888,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 645,
-      "media": 630,
+      "total": 646,
+      "media": 631,
       "youtube": 15,
       "reviews": 17,
       "sponsored": 0,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 555
+          "count": 556
         },
         {
           "section": "Competitor Coverage",
@@ -151,7 +151,7 @@
         },
         {
           "source": "PCWorld",
-          "count": 20
+          "count": 19
         },
         {
           "source": "Tom's Hardware",
@@ -177,26 +177,26 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 131
+          "count": 132
         },
         {
           "section": "Dell Coverage",
           "count": 66
         },
         {
-          "section": "Competitor Coverage",
+          "section": "Deals",
           "count": 37
         },
         {
-          "section": "Deals",
-          "count": 37
+          "section": "Competitor Coverage",
+          "count": 36
         },
         {
           "section": "Market Trends",
           "count": 26
         }
       ],
-      "avg_score": 56.0
+      "avg_score": 55.8
     },
     {
       "brand": "Valve",
@@ -329,8 +329,8 @@
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 201,
-      "media": 186,
+      "total": 202,
+      "media": 187,
       "youtube": 15,
       "reviews": 5,
       "sponsored": 0,
@@ -355,7 +355,7 @@
         },
         {
           "source": "TechRadar",
-          "count": 12
+          "count": 13
         },
         {
           "source": "TudoCelular",
@@ -373,7 +373,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 193
+          "count": 194
         },
         {
           "section": "Market Trends",
@@ -393,8 +393,8 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 160,
-      "media": 153,
+      "total": 161,
+      "media": 154,
       "youtube": 7,
       "reviews": 4,
       "sponsored": 0,
@@ -403,7 +403,7 @@
       "top_sources": [
         {
           "source": "Wccftech",
-          "count": 40
+          "count": 41
         },
         {
           "source": "Tom's Hardware",
@@ -437,7 +437,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 143
+          "count": 144
         },
         {
           "section": "Competitor Coverage",
@@ -452,7 +452,7 @@
           "count": 4
         }
       ],
-      "avg_score": 53.3
+      "avg_score": 53.1
     },
     {
       "brand": "Lenovo",
@@ -893,8 +893,8 @@
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 35,
-      "media": 23,
+      "total": 36,
+      "media": 24,
       "youtube": 12,
       "reviews": 8,
       "sponsored": 1,
@@ -926,11 +926,11 @@
           "count": 2
         },
         {
-          "source": "Windows Central",
+          "source": "TudoCelular",
           "count": 2
         },
         {
-          "source": "ZDNet",
+          "source": "Windows Central",
           "count": 2
         }
       ],
@@ -941,14 +941,14 @@
         },
         {
           "section": "Deals",
-          "count": 13
+          "count": 14
         },
         {
           "section": "Ecosystem",
           "count": 1
         }
       ],
-      "avg_score": 48.6
+      "avg_score": 48.2
     },
     {
       "brand": "Google",
@@ -1504,12 +1504,12 @@
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 274,
+        "Microsoft": 275,
         "Dell": 97,
         "Apple": 95,
-        "NVIDIA": 88,
+        "NVIDIA": 89,
         "AMD": 72,
-        "Intel": 71,
+        "Intel": 72,
         "Valve": 64,
         "Lenovo": 59,
         "Asus": 57,
@@ -1517,13 +1517,81 @@
         "HP": 30,
         "Alienware": 29,
         "MSI": 24,
+        "Acer": 10,
         "Google": 10,
-        "Acer": 9,
         "Framework": 6
       }
     }
   ],
   "recent": [
+    {
+      "id": "media:116411",
+      "kind": "media",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "IT Forum",
+      "source_icon": "https://www.google.com/s2/favicons?domain=itforum.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Satya Nadella criticizes Anthropic's AI prompt transparency proposal",
+      "url": "https://itforum.com.br/noticias/satya-nadella-critica-proposta-anthropic/",
+      "published_at": "2026-07-17T21:03:47+00:00",
+      "score": 15,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:115827",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "TecMundo",
+      "source_icon": "",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Windows 11 24H2 support will end soon; users advised to upgrade",
+      "url": "https://www.tecmundo.com.br/produto/414633-windows-11-24h2-tera-suporte-encerrado-em-breve-saiba-o-que-fazer.htm",
+      "published_at": "2026-07-17T21:00:00+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:116332",
+      "kind": "media",
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Nvidia RTX 5000 Super GPUs delayed, raising pricing concerns",
+      "url": "https://www.techradar.com/computing/gpu/nvidia-rtx-5000-super-gpus-rumored-to-be-ready-but-theyre-on-hold-and-the-reason-why-makes-me-nervous-about-pricing",
+      "published_at": "2026-07-17T20:56:28+00:00",
+      "score": 34,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:116533",
+      "kind": "media",
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Intel's former CEO admits past dismissal of NVIDIA GPUs during CPU dominance",
+      "url": "https://wccftech.com/intels-gelsinger-admits-firm-scoffed-at-nvidias-gpus-while-riding-high-on-cpu-dominance-makes-big-quantum-computing-claims/",
+      "published_at": "2026-07-17T19:22:34+00:00",
+      "score": 34,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
     {
       "id": "media:115055",
       "kind": "media",
@@ -1746,23 +1814,6 @@
       "is_dell_story": true
     },
     {
-      "id": "media:115058",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Intel unveils new 14th Gen Core processors with AI acceleration for laptops",
-      "url": "https://www.pcworld.com/article/406861/best-external-drives.html",
-      "published_at": "2026-07-17T16:30:00+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:114983",
       "kind": "media",
       "brand": "Microsoft",
@@ -1945,6 +1996,23 @@
       "url": "https://www.digitaltrends.com/computing/lenovos-new-gaming-laptop-is-the-first-to-feature-a-240hz-inkjet-printed-oled-display/",
       "published_at": "2026-07-17T14:52:21+00:00",
       "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:115776",
+      "kind": "media",
+      "brand": "Acer",
+      "family": "PC competitors",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Deals",
+      "title": "Acer Predator Helios Neo 16 on sale with Core Ultra 7 and RTX 5070",
+      "url": "https://www.tudocelular.com/acer/noticias/n258919/acer-predator-helios-neo-16-oferta-cupom.html",
+      "published_at": "2026-07-17T14:38:00+00:00",
+      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
@@ -5705,77 +5773,77 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
+    }
+  ],
+  "items": [
+    {
+      "id": "media:116411",
+      "kind": "media",
+      "brand": "Dell",
+      "family": "Dell family",
+      "source": "IT Forum",
+      "source_icon": "https://www.google.com/s2/favicons?domain=itforum.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Satya Nadella criticizes Anthropic's AI prompt transparency proposal",
+      "url": "https://itforum.com.br/noticias/satya-nadella-critica-proposta-anthropic/",
+      "published_at": "2026-07-17T21:03:47+00:00",
+      "score": 15,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
     },
     {
-      "id": "media:106910",
+      "id": "media:115827",
+      "kind": "media",
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "source": "TecMundo",
+      "source_icon": "",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Windows 11 24H2 support will end soon; users advised to upgrade",
+      "url": "https://www.tecmundo.com.br/produto/414633-windows-11-24h2-tera-suporte-encerrado-em-breve-saiba-o-que-fazer.htm",
+      "published_at": "2026-07-17T21:00:00+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:116332",
       "kind": "media",
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
-      "title": "NVIDIA collaborates with US government to restrict AI chip exports to China",
-      "url": "https://wccftech.com/nvidia-teams-with-us-government-to-slam-shut-the-backdoor-feeding-banned-ai-chips-into-china/",
-      "published_at": "2026-07-14T09:48:20+00:00",
+      "title": "Nvidia RTX 5000 Super GPUs delayed, raising pricing concerns",
+      "url": "https://www.techradar.com/computing/gpu/nvidia-rtx-5000-super-gpus-rumored-to-be-ready-but-theyre-on-hold-and-the-reason-why-makes-me-nervous-about-pricing",
+      "published_at": "2026-07-17T20:56:28+00:00",
       "score": 34,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
     },
     {
-      "id": "media:106422",
+      "id": "media:116533",
       "kind": "media",
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
       "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Microsoft launches new Snapdragon X2 Surface PCs",
-      "url": "https://www.windowscentral.com/hardware/surface/microsofts-powerful-new-snapdragon-x2-surface-pcs-are-here-and-theyre-more-than-a-spec-bump",
-      "published_at": "2026-07-14T09:32:15+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:106424",
-      "kind": "media",
-      "brand": "HP",
-      "family": "PC competitors",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "HP offers discounted 16-inch laptop with Snapdragon X and 16GB RAM",
-      "url": "https://www.windowscentral.com/hardware/laptops/hp-omnibook-5-perfect-with-16-gb-snapdragon-x",
-      "published_at": "2026-07-14T09:07:03+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "media:106937",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
       "section": "Ecosystem",
-      "title": "Microsoft CEO warns about AI risks to corporate secrets",
-      "url": "https://winfuture.de/news,159961.html",
-      "published_at": "2026-07-14T08:10:00+00:00",
-      "score": 30,
+      "title": "Intel's former CEO admits past dismissal of NVIDIA GPUs during CPU dominance",
+      "url": "https://wccftech.com/intels-gelsinger-admits-firm-scoffed-at-nvidias-gpus-while-riding-high-on-cpu-dominance-makes-big-quantum-computing-claims/",
+      "published_at": "2026-07-17T19:22:34+00:00",
+      "score": 34,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "media:115055",
       "kind": "media",
@@ -5998,23 +6066,6 @@
       "is_dell_story": true
     },
     {
-      "id": "media:115058",
-      "kind": "media",
-      "brand": "Dell",
-      "family": "Dell family",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Intel unveils new 14th Gen Core processors with AI acceleration for laptops",
-      "url": "https://www.pcworld.com/article/406861/best-external-drives.html",
-      "published_at": "2026-07-17T16:30:00+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:114983",
       "kind": "media",
       "brand": "Microsoft",
@@ -6197,6 +6248,23 @@
       "url": "https://www.digitaltrends.com/computing/lenovos-new-gaming-laptop-is-the-first-to-feature-a-240hz-inkjet-printed-oled-display/",
       "published_at": "2026-07-17T14:52:21+00:00",
       "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
+    },
+    {
+      "id": "media:115776",
+      "kind": "media",
+      "brand": "Acer",
+      "family": "PC competitors",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Deals",
+      "title": "Acer Predator Helios Neo 16 on sale with Core Ultra 7 and RTX 5070",
+      "url": "https://www.tudocelular.com/acer/noticias/n258919/acer-predator-helios-neo-16-oferta-cupom.html",
+      "published_at": "2026-07-17T14:38:00+00:00",
+      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
