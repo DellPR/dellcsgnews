@@ -502,6 +502,7 @@
     const data = brandMetricsData();
     const rows = metricWindowRows(data).sort((a, b) => metricItemTime(b) - metricItemTime(a));
     const brands = summarizeMetricRows(rows);
+    const brazilBrands = summarizeMetricRows(rows.filter(item => String(item.country || "").toUpperCase() === "BR"));
     const selected = brands.slice(0, 14);
     const maxTotal = Math.max(1, ...selected.map(b => Number(b.total || 0)));
     const dellFamily = brands.filter(b => b.family === "Dell family").reduce((sum, b) => sum + Number(b.total || 0), 0);
@@ -554,6 +555,13 @@
         ${renderPieChart("YouTube share of voice", brands, "youtube", "No YouTube brand coverage in this period.")}
         ${renderPieChart("Share of product reviews", brands, "reviews", "No product reviews in this period.")}
         ${renderPieChart("Share of deals", brands, "deals", "No deals coverage in this period.")}
+      </div>
+      <h3 class="metric-section-title">Brazil only</h3>
+      <div class="metrics-grid pie-grid">
+        ${renderPieChart("Share of voice (Brazil only)", brazilBrands, "total", "No Brazil brand coverage in this period.")}
+        ${renderPieChart("YouTube share of voice (Brazil only)", brazilBrands, "youtube", "No Brazil YouTube brand coverage in this period.")}
+        ${renderPieChart("Share of product reviews (Brazil only)", brazilBrands, "reviews", "No Brazil product reviews in this period.")}
+        ${renderPieChart("Share of deals (Brazil only)", brazilBrands, "deals", "No Brazil deals coverage in this period.")}
       </div>
       <section class="metric-panel">
         <h3>Brand table</h3>

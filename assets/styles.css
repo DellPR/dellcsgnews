@@ -917,3 +917,12 @@ h1 {
   }
   .pie-center strong { font-size: 20px; }
 }
+
+.metric-section-title {
+  margin: 4px 0 -2px;
+  color: var(--ink);
+  font-size: 15px;
+  font-weight: 900;
+  letter-spacing: .02em;
+  text-transform: uppercase;
+}
