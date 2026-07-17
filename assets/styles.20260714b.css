@@ -1218,6 +1218,11 @@ body {
   text-transform: uppercase;
 }
 
+.line-chart-stack {
+  display: grid;
+  gap: 14px;
+}
+
 .line-chart-panel {
   overflow: hidden;
 }
