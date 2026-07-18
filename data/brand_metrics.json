@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T14:27:32.203322+00:00",
-  "total_items": 2337,
+  "generated_at": "2026-07-18T14:38:06.551387+00:00",
+  "total_items": 2335,
   "brands": [
     {
       "brand": "Microsoft",
@@ -69,10 +69,10 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 279,
+      "total": 277,
       "media": 235,
-      "youtube": 44,
-      "reviews": 20,
+      "youtube": 42,
+      "reviews": 19,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 2,
@@ -113,7 +113,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 179
+          "count": 177
         },
         {
           "section": "Market Trends",
@@ -128,7 +128,7 @@
           "count": 27
         }
       ],
-      "avg_score": 54.9
+      "avg_score": 54.7
     },
     {
       "brand": "Dell",
@@ -1416,7 +1416,7 @@
       "month": "2026-06",
       "brands": {
         "Microsoft": 266,
-        "Apple": 193,
+        "Apple": 191,
         "Dell": 171,
         "Valve": 154,
         "AMD": 109,
@@ -21213,23 +21213,6 @@
       "is_dell_story": true
     },
     {
-      "id": "youtube:45553",
-      "kind": "youtube",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Tom's Guide",
-      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "title": "BENQ MA270S Review | Is this the BEST Mac Monitor?",
-      "url": "https://www.youtube.com/shorts/g8-4ebn9onA",
-      "published_at": "2026-06-30T13:47:48+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
       "id": "media:70879",
       "kind": "media",
       "brand": "Valve",
@@ -26683,23 +26666,6 @@
       "published_at": "2026-06-25T15:32:20+00:00",
       "score": 65,
       "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:34942",
-      "kind": "youtube",
-      "brand": "Apple",
-      "family": "PC competitors",
-      "source": "Hardware Canucks",
-      "source_icon": "https://yt3.googleusercontent.com/C-HUUT9dZSMpImqVMDuDOJEr_5b1j2_5v5TwXZhEED8qt958ndFDd0mEmdTVs7EaIlK24N3h=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "title": "MacBook Pro M5 Max review: Performance, Wi-Fi issues, and Studio Display upgrade",
-      "url": "https://www.youtube.com/watch?v=ktBlDdUMfJA",
-      "published_at": "2026-06-25T15:30:30+00:00",
-      "score": 75,
-      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
