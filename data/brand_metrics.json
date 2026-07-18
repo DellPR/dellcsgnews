@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T18:21:45.755024+00:00",
-  "total_items": 3296,
+  "generated_at": "2026-07-18T19:07:52.915213+00:00",
+  "total_items": 3300,
   "brands": [
     {
       "brand": "Microsoft",
@@ -141,13 +141,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 316,
+      "total": 317,
       "media": 244,
-      "youtube": 72,
-      "reviews": 61,
+      "youtube": 73,
+      "reviews": 62,
       "sponsored": 7,
-      "dell_stories": 153,
-      "high_signal": 95,
+      "dell_stories": 154,
+      "high_signal": 96,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -189,7 +189,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 94
+          "count": 95
         },
         {
           "section": "Deals",
@@ -204,18 +204,18 @@
           "count": 21
         }
       ],
-      "avg_score": 62.1
+      "avg_score": 62.2
     },
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 310,
+      "total": 312,
       "media": 248,
-      "youtube": 62,
-      "reviews": 40,
+      "youtube": 64,
+      "reviews": 41,
       "sponsored": 6,
       "dell_stories": 0,
-      "high_signal": 18,
+      "high_signal": 19,
       "top_sources": [
         {
           "source": "Wccftech",
@@ -257,7 +257,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 81
+          "count": 82
         },
         {
           "section": "Deals",
@@ -265,14 +265,14 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 17
+          "count": 18
         },
         {
           "section": "Market Trends",
           "count": 10
         }
       ],
-      "avg_score": 59.2
+      "avg_score": 59.4
     },
     {
       "brand": "NVIDIA",
@@ -477,9 +477,9 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 168,
+      "total": 169,
       "media": 101,
-      "youtube": 67,
+      "youtube": 68,
       "reviews": 56,
       "sponsored": 5,
       "dell_stories": 0,
@@ -521,7 +521,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 122
+          "count": 123
         },
         {
           "section": "Deals",
@@ -540,7 +540,7 @@
           "count": 3
         }
       ],
-      "avg_score": 63.2
+      "avg_score": 63.3
     },
     {
       "brand": "Asus",
@@ -1625,13 +1625,13 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 225,
-        "Intel": 117,
-        "Dell": 112,
+        "Intel": 119,
+        "Dell": 113,
         "NVIDIA": 103,
         "Apple": 89,
         "AMD": 82,
         "Valve": 69,
-        "Lenovo": 67,
+        "Lenovo": 68,
         "Asus": 61,
         "Samsung": 59,
         "HP": 34,
@@ -1644,6 +1644,74 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:79875",
+      "kind": "youtube",
+      "source": "Linus Tech Tips",
+      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "title": "Dell XPS 16 review highlights performance and design strengths",
+      "url": "https://www.youtube.com/watch?v=qZ7OjpjGVGs",
+      "published_at": "2026-07-18T16:56:52+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:79875",
+      "kind": "youtube",
+      "source": "Linus Tech Tips",
+      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "title": "Dell XPS 16 review highlights performance and design strengths",
+      "url": "https://www.youtube.com/watch?v=qZ7OjpjGVGs",
+      "published_at": "2026-07-18T16:56:52+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:80385",
+      "kind": "youtube",
+      "source": "Austin Evans",
+      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Lenovo Legion 5i Gaming Laptop Performance and Portability",
+      "url": "https://www.youtube.com/shorts/845u4yCZcMg",
+      "published_at": "2026-07-18T14:24:21+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:80385",
+      "kind": "youtube",
+      "source": "Austin Evans",
+      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Lenovo Legion 5i Gaming Laptop Performance and Portability",
+      "url": "https://www.youtube.com/shorts/845u4yCZcMg",
+      "published_at": "2026-07-18T14:24:21+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:79575",
       "kind": "youtube",
@@ -5825,77 +5893,77 @@
       "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:107570",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft urges immediate Windows updates due to AI security risks",
-      "url": "https://www.pcworld.com/article/3190652/microsoft-says-stop-waiting-to-install-windows-updates-heres-why.html",
-      "published_at": "2026-07-14T14:36:49+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:107983",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft removes promotional content from Windows Search",
-      "url": "https://wccftech.com/microsoft-officially-removes-promotional-content-from-windows-search/",
-      "published_at": "2026-07-14T14:30:54+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:72748",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "title": "MacBook gaming Shorts update",
-      "url": "https://www.youtube.com/shorts/4fwPtGf2X3I",
-      "published_at": "2026-07-14T14:20:31+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:107572",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft Outlook introduces email template feature for repetitive emails",
-      "url": "https://www.pcworld.com/article/3186223/stop-retyping-the-same-emails-outlook-can-save-them-as-templates.html",
-      "published_at": "2026-07-14T14:00:00+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:79875",
+      "kind": "youtube",
+      "source": "Linus Tech Tips",
+      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "title": "Dell XPS 16 review highlights performance and design strengths",
+      "url": "https://www.youtube.com/watch?v=qZ7OjpjGVGs",
+      "published_at": "2026-07-18T16:56:52+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:79875",
+      "kind": "youtube",
+      "source": "Linus Tech Tips",
+      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "title": "Dell XPS 16 review highlights performance and design strengths",
+      "url": "https://www.youtube.com/watch?v=qZ7OjpjGVGs",
+      "published_at": "2026-07-18T16:56:52+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:80385",
+      "kind": "youtube",
+      "source": "Austin Evans",
+      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Lenovo Legion 5i Gaming Laptop Performance and Portability",
+      "url": "https://www.youtube.com/shorts/845u4yCZcMg",
+      "published_at": "2026-07-18T14:24:21+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:80385",
+      "kind": "youtube",
+      "source": "Austin Evans",
+      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Lenovo Legion 5i Gaming Laptop Performance and Portability",
+      "url": "https://www.youtube.com/shorts/845u4yCZcMg",
+      "published_at": "2026-07-18T14:24:21+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:79575",
       "kind": "youtube",
