@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T23:38:24.694597+00:00",
-  "total_items": 2890,
+  "generated_at": "2026-07-18T12:33:15.518660+00:00",
+  "total_items": 2889,
   "brands": [
     {
       "brand": "Microsoft",
@@ -1325,17 +1325,17 @@
     {
       "brand": "Positivo",
       "family": "PC competitors",
-      "total": 4,
+      "total": 3,
       "media": 1,
-      "youtube": 3,
-      "reviews": 2,
+      "youtube": 2,
+      "reviews": 1,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
       "top_sources": [
         {
           "source": "Lipe Mal Estar",
-          "count": 2
+          "count": 1
         },
         {
           "source": "Lucas Ishii",
@@ -1349,14 +1349,14 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 3
+          "count": 2
         },
         {
           "section": "Market Trends",
           "count": 1
         }
       ],
-      "avg_score": 70.2
+      "avg_score": 69.7
     }
   ],
   "months": [
@@ -2120,23 +2120,6 @@
       "published_at": "2026-07-17T13:20:00+00:00",
       "score": 45,
       "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:78750",
-      "kind": "youtube",
-      "brand": "Positivo",
-      "family": "PC competitors",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "title": "Brazilian YouTuber reviews Positivo C14 laptop with Ryzen 5 and RTX 3050",
-      "url": "https://www.youtube.com/watch?v=d5XpNVbPyxs",
-      "published_at": "2026-07-17T13:15:21+00:00",
-      "score": 72,
-      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
@@ -5777,6 +5760,23 @@
       "is_review": false,
       "is_sponsored": false,
       "is_dell_story": false
+    },
+    {
+      "id": "media:106718",
+      "kind": "media",
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Reddit user reports Zotac RTX 5090 GPU explosion during gaming",
+      "url": "https://www.techradar.com/computing/gpu/its-exploding-now-reddit-users-zotac-rtx-5090-explodes-while-playing-assassins-creed-black-flag-resynced-and-im-starting-to-get-worried-that-high-powered-gpus-arent-safe",
+      "published_at": "2026-07-14T10:13:47+00:00",
+      "score": 34,
+      "is_review": false,
+      "is_sponsored": false,
+      "is_dell_story": false
     }
   ],
   "items": [
@@ -6372,23 +6372,6 @@
       "published_at": "2026-07-17T13:20:00+00:00",
       "score": 45,
       "is_review": false,
-      "is_sponsored": false,
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:78750",
-      "kind": "youtube",
-      "brand": "Positivo",
-      "family": "PC competitors",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "title": "Brazilian YouTuber reviews Positivo C14 laptop with Ryzen 5 and RTX 3050",
-      "url": "https://www.youtube.com/watch?v=d5XpNVbPyxs",
-      "published_at": "2026-07-17T13:15:21+00:00",
-      "score": 72,
-      "is_review": true,
       "is_sponsored": false,
       "is_dell_story": false
     },
