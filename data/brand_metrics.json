@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T20:42:07.023265+00:00",
-  "total_items": 3313,
+  "generated_at": "2026-07-18T21:08:52.548099+00:00",
+  "total_items": 3312,
   "brands": [
     {
       "brand": "Microsoft",
@@ -144,10 +144,10 @@
       "total": 318,
       "media": 245,
       "youtube": 73,
-      "reviews": 62,
+      "reviews": 61,
       "sponsored": 7,
-      "dell_stories": 154,
-      "high_signal": 96,
+      "dell_stories": 153,
+      "high_signal": 95,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -189,7 +189,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 95
+          "count": 94
         },
         {
           "section": "Deals",
@@ -201,21 +201,21 @@
         },
         {
           "section": "Market Trends",
-          "count": 22
+          "count": 23
         }
       ],
-      "avg_score": 62.2
+      "avg_score": 61.9
     },
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 313,
+      "total": 312,
       "media": 249,
-      "youtube": 64,
-      "reviews": 41,
+      "youtube": 63,
+      "reviews": 40,
       "sponsored": 6,
       "dell_stories": 0,
-      "high_signal": 19,
+      "high_signal": 18,
       "top_sources": [
         {
           "source": "Wccftech",
@@ -265,14 +265,14 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 18
+          "count": 17
         },
         {
           "section": "Market Trends",
           "count": 10
         }
       ],
-      "avg_score": 59.3
+      "avg_score": 59.1
     },
     {
       "brand": "NVIDIA",
@@ -1625,7 +1625,7 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 228,
-        "Intel": 120,
+        "Intel": 119,
         "Dell": 114,
         "NVIDIA": 105,
         "Apple": 89,
@@ -1701,32 +1701,15 @@
       "source": "Linus Tech Tips",
       "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
       "country": "CA",
-      "section": "Dell Coverage",
-      "title": "Dell XPS 16 review highlights performance and design strengths",
+      "section": "Market Trends",
+      "title": "Linus Tech Tips discusses switching to Linux distributions",
       "url": "https://www.youtube.com/watch?v=qZ7OjpjGVGs",
       "published_at": "2026-07-18T16:56:52+00:00",
-      "score": 100,
-      "is_review": true,
+      "score": 35,
+      "is_review": false,
       "is_sponsored": false,
       "brand": "Dell",
       "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:79875",
-      "kind": "youtube",
-      "source": "Linus Tech Tips",
-      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Dell Coverage",
-      "title": "Dell XPS 16 review highlights performance and design strengths",
-      "url": "https://www.youtube.com/watch?v=qZ7OjpjGVGs",
-      "published_at": "2026-07-18T16:56:52+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -5893,6 +5876,23 @@
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
+    },
+    {
+      "id": "media:107566",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Review: AI models ChatGPT and Claude tested with macOS apps for task automation",
+      "url": "https://www.pcworld.com/article/3190769/chatgpt-can-now-control-your-whole-desktop-i-tested-it-with-chess.html",
+      "published_at": "2026-07-14T16:13:12+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
     }
   ],
   "items": [
@@ -5953,32 +5953,15 @@
       "source": "Linus Tech Tips",
       "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
       "country": "CA",
-      "section": "Dell Coverage",
-      "title": "Dell XPS 16 review highlights performance and design strengths",
+      "section": "Market Trends",
+      "title": "Linus Tech Tips discusses switching to Linux distributions",
       "url": "https://www.youtube.com/watch?v=qZ7OjpjGVGs",
       "published_at": "2026-07-18T16:56:52+00:00",
-      "score": 100,
-      "is_review": true,
+      "score": 35,
+      "is_review": false,
       "is_sponsored": false,
       "brand": "Dell",
       "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:79875",
-      "kind": "youtube",
-      "source": "Linus Tech Tips",
-      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Dell Coverage",
-      "title": "Dell XPS 16 review highlights performance and design strengths",
-      "url": "https://www.youtube.com/watch?v=qZ7OjpjGVGs",
-      "published_at": "2026-07-18T16:56:52+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
