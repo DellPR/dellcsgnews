@@ -12,6 +12,8 @@
     refreshing: false,
     view: "feed",
     metricWindow: "all",
+    metricJumpIds: null,
+    metricJumpLabel: "",
   };
 
   const feedEl = document.getElementById("feed");
@@ -316,7 +318,12 @@
 
   function applyFilters() {
     const q = state.query.trim().toLowerCase();
+    const metricJumpIds = state.metricJumpIds instanceof Set ? state.metricJumpIds : null;
     state.filtered = state.items.filter(item => {
+      if (metricJumpIds) {
+        if (!metricJumpIds.has(String(item.id || ""))) return false;
+        return !q || itemBlob(item).toLowerCase().includes(q);
+      }
       if (!matchesFilter(item)) return false;
       if (!matchesDellProductFilter(item)) return false;
       if (!matchesCompetitorBrandFilter(item)) return false;
@@ -456,8 +463,15 @@
     return "all time";
   }
 
+  function metricBrandRowEligible(item) {
+    const brand = String(item.brand || "").toLowerCase();
+    if (brand !== "dell" && brand !== "alienware") return true;
+    const blob = `${item.title || ""} ${item.summary || ""} ${item.url || ""}`;
+    return Boolean(item.is_dell_story) || /\b(?:dell|alienware|xps|latitude|inspiron|precision|optiplex|dell pro|aurora|aw\d|alienware aw)\b/i.test(blob);
+  }
+
   function metricWindowRows(data) {
-    const rows = data.items && data.items.length ? data.items : (data.recent || []);
+    const rows = (data.items && data.items.length ? data.items : (data.recent || [])).filter(metricBrandRowEligible);
     if (state.metricWindow === "all") return rows;
     const windows = {"24h": 24, "7d": 24 * 7, "30d": 24 * 30};
     const hours = windows[state.metricWindow];
@@ -514,6 +528,40 @@
       delete metric.source_icons;
       return metric;
     }).sort((a, b) => Number(b.total || 0) - Number(a.total || 0) || a.brand.localeCompare(b.brand));
+  }
+
+  function metricRowMatchesKey(item, metricKey) {
+    if (!metricKey || metricKey === "total") return true;
+    if (metricKey === "youtube") return item.kind === "youtube";
+    if (metricKey === "media") return item.kind !== "youtube";
+    if (metricKey === "reviews" || metricKey === "review") return Boolean(item.is_review);
+    if (metricKey === "deals") return metricIsDeal(item);
+    if (metricKey === "sponsored") return Boolean(item.is_sponsored);
+    return true;
+  }
+
+  function metricRowsForBrandJump(brand, metricKey) {
+    const wanted = String(brand || "").toLowerCase();
+    return metricWindowRows(brandMetricsData())
+      .filter(item => String(item.brand || "").toLowerCase() === wanted)
+      .filter(item => metricRowMatchesKey(item, metricKey));
+  }
+
+  function metricRowsForKpiJump(filterName) {
+    const rows = metricWindowRows(brandMetricsData());
+    if (filterName === "competitor") return rows.filter(item => item.family === "PC competitors");
+    return rows.filter(item => metricRowMatchesKey(item, filterName));
+  }
+
+  function setMetricJump(rows, label) {
+    const ids = rows.map(item => String(item.id || "")).filter(Boolean);
+    state.metricJumpIds = ids.length ? new Set(ids) : new Set();
+    state.metricJumpLabel = label || "";
+  }
+
+  function clearMetricJump() {
+    state.metricJumpIds = null;
+    state.metricJumpLabel = "";
   }
 
   function renderBar(label, value, max, color) {
@@ -980,6 +1028,8 @@
 
   function jumpToBrandFeed(brand, metricKey) {
     const normalized = String(brand || "").toLowerCase();
+    const metricRows = metricRowsForBrandJump(normalized, metricKey || "total");
+    setMetricJump(metricRows, `${brand} ${metricKey || "stories"} - ${metricWindowLabel()}`);
     state.view = "feed";
     if (viewSwitch) viewSwitch.querySelectorAll("button[data-view]").forEach(btn => btn.classList.toggle("active", btn.dataset.view === "feed"));
     search.value = "";
@@ -1019,6 +1069,8 @@
   }
 
   function jumpToKpiFilter(filterName) {
+    const metricRows = metricRowsForKpiJump(filterName);
+    setMetricJump(metricRows, `${filterName} - ${metricWindowLabel()}`);
     state.view = "feed";
     if (viewSwitch) viewSwitch.querySelectorAll("button[data-view]").forEach(btn => btn.classList.toggle("active", btn.dataset.view === "feed"));
     search.value = "";
@@ -1047,6 +1099,7 @@
     youtubeBrandFilter.addEventListener("click", event => {
       const btn = event.target.closest("button[data-youtube-brand-filter]");
       if (!btn) return;
+      clearMetricJump();
       state.youtubeBrandFilter = btn.dataset.youtubeBrandFilter;
       youtubeBrandFilter.querySelectorAll("button[data-youtube-brand-filter]").forEach(b => b.classList.toggle("active", b === btn));
       applyFilters();
@@ -1081,6 +1134,7 @@
     const button = event.target.closest("button[data-filter]");
     if (!button) return;
     event.preventDefault();
+    clearMetricJump();
     tabs.querySelectorAll("button").forEach(btn => btn.classList.remove("active"));
     button.classList.add("active");
     state.filter = button.dataset.filter;
@@ -1094,6 +1148,7 @@
       const button = event.target.closest("button[data-product-filter]");
       if (!button) return;
       event.preventDefault();
+      clearMetricJump();
       productFilter.querySelectorAll("button[data-product-filter]").forEach(btn => btn.classList.remove("active"));
       button.classList.add("active");
       state.productFilter = button.dataset.productFilter;
@@ -1106,6 +1161,7 @@
       const button = event.target.closest("button[data-competitor-filter]");
       if (!button) return;
       event.preventDefault();
+      clearMetricJump();
       competitorFilter.querySelectorAll("button[data-competitor-filter]").forEach(btn => btn.classList.remove("active"));
       button.classList.add("active");
       state.competitorFilter = button.dataset.competitorFilter;
@@ -1114,6 +1170,7 @@
   }
 
   search.addEventListener("input", event => {
+    clearMetricJump();
     state.query = event.target.value;
     applyFilters();
   });

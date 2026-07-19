@@ -5,12 +5,15 @@
     filter: "all",
     productFilter: "all",
     competitorFilter: "all",
+    youtubeBrandFilter: "all",
     query: "",
     visible: 30,
     generatedAt: "",
     refreshing: false,
     view: "feed",
     metricWindow: "all",
+    metricJumpIds: null,
+    metricJumpLabel: "",
   };
 
   const feedEl = document.getElementById("feed");
@@ -23,6 +26,7 @@
   const refreshFeed = document.getElementById("refreshFeed");
   const productFilter = document.getElementById("productFilter");
   const competitorFilter = document.getElementById("competitorFilter");
+  const youtubeBrandFilter = document.getElementById("youtubeBrandFilter");
   const RAW_FEED_URL = "https://raw.githubusercontent.com/DellPR/dellcsgnews/main/data/feed.json";
   const RAW_BRAND_METRICS_URL = "https://raw.githubusercontent.com/DellPR/dellcsgnews/main/data/brand_metrics.json";
   const TOP_STORY_URL = "https://www.youtube.com/watch?v=XyuWntBXxhs";
@@ -172,12 +176,34 @@
     return competitorBrand(item) === state.competitorFilter;
   }
 
+  function canonicalBrand(item) {
+    const blob = itemBlob(item).toLowerCase();
+    const company = String(item.company || "").toLowerCase();
+    if (/\balienware\b/.test(blob)) return "alienware";
+    if (company === "dell" || /\b(dell|xps|latitude|precision|inspiron|optiplex|ultrasharp)\b/.test(blob)) return "dell";
+    const comp = competitorBrand(item);
+    if (comp !== "other") return comp;
+    if (/\b(nvidia|geforce|rtx)\b/.test(blob)) return "nvidia";
+    if (/\b(amd|radeon|ryzen)\b/.test(blob)) return "amd";
+    if (/\b(intel|core ultra|arc)\b/.test(blob)) return "intel";
+    if (/\b(qualcomm|snapdragon)\b/.test(blob)) return "qualcomm";
+    if (/\b(valve|steam machine|steamos)\b/.test(blob)) return "valve";
+    return "other";
+  }
+
+  function matchesYoutubeBrandFilter(item) {
+    if (state.filter !== "youtube" || state.youtubeBrandFilter === "all") return true;
+    return canonicalBrand(item) === state.youtubeBrandFilter;
+  }
+
   function updateProductFilterVisibility() {
     const showDell = state.filter === "dell";
     const showCompetitors = state.filter === "competitor";
+    const showYoutube = state.filter === "youtube";
     if (controlsEl) {
       controlsEl.classList.toggle("show-product-filter", showDell);
       controlsEl.classList.toggle("show-competitor-filter", showCompetitors);
+      controlsEl.classList.toggle("show-youtube-filter", showYoutube);
     }
     if (productFilter) {
       productFilter.style.display = showDell ? "flex" : "none";
@@ -199,13 +225,73 @@
         });
       }
     }
+    if (youtubeBrandFilter) {
+      youtubeBrandFilter.style.display = showYoutube ? "flex" : "none";
+      youtubeBrandFilter.setAttribute("aria-hidden", showYoutube ? "false" : "true");
+      if (!showYoutube && state.youtubeBrandFilter !== "all") {
+        state.youtubeBrandFilter = "all";
+        youtubeBrandFilter.querySelectorAll("button[data-youtube-brand-filter]").forEach(btn => {
+          btn.classList.toggle("active", btn.dataset.youtubeBrandFilter === "all");
+        });
+      }
+    }
+  }
+
+  function looksEditorialReview(item) {
+    const text = `${item.title || ""} ${item.display_title || ""} ${item.original_title || ""} ${item.summary || ""}`.toLowerCase();
+    const hasReviewWord = /\b(review|reviews|reviewed|hands-on|hands on|tested|test-drive|comparison review)\b/i.test(text)
+      || /\b(an[aá]lise|testamos|testei)\b/i.test(text);
+    const hasProductSignal = /\b(laptop|notebook|desktop|workstation|monitor|display|chromebook|macbook|surface|thinkpad|ideapad|yoga|legion|omnibook|elitebook|zenbook|vivobook|rog|aspire|swift|framework|xps|latitude|precision|inspiron|optiplex|alienware|ultrasharp)\b/i.test(text);
+    return Boolean(item.is_review) || (hasReviewWord && hasProductSignal);
+  }
+
+  function explicitDealText(item) {
+    const title = `${item.title || ""} ${item.display_title || ""} ${item.original_title || ""}`.toLowerCase();
+    const url = String(item.url || "").toLowerCase();
+    const section = normalizedSection(item);
+
+    if (/\/(?:deals?|offers?|coupons?)(?:\/|$|[?#-])/i.test(url)) return true;
+    if (section === "deals" || section === "deals & roundups") return true;
+
+    const directCommerce = [
+      /\bbest deals?\b/i,
+      /\bdeal alert\b/i,
+      /\bdaily deals?\b/i,
+      /\bshopping deals?\b/i,
+      /\bdiscounts?\b/i,
+      /\bcoupons?\b/i,
+      /\bpromo code\b|\bpromos?\b|\bpromotion\b/i,
+      /\bon sale\b|\bjuly 4 sale\b|\bholiday sale\b/i,
+      /\bprice drop\b|\bprice cut\b|\bslashed\b/i,
+      /\bsave\s+(?:\$|up to|\d)/i,
+      /\b\d+\s*%\s*off\b/i,
+      /\bunder\s+\$\d+/i,
+      /\bprime day\b|\bblack friday\b|\bcyber monday\b/i,
+      /\bofertas?\b|\bdescontos?\b|\bcupom\b|\bcupons\b|\bpromo[cç][aã]o\b/i,
+      /\bnotebooks? em oferta\b/i,
+    ];
+    if (directCommerce.some(pattern => pattern.test(title))) return true;
+
+    if (!looksEditorialReview(item)) {
+      const listicleCommerce = [
+        /\bbuying guide\b/i,
+        /\broundup\b/i,
+        /\bbest laptops?\b/i,
+        /\bbest monitors?\b/i,
+        /\bbest gaming laptops?\b/i,
+        /\bmelhores notebooks\b/i,
+      ];
+      if (listicleCommerce.some(pattern => pattern.test(title))) return true;
+    }
+
+    return /\b(?:laptop|monitor|pc|gaming pc|chromebook|notebook)\s+deals?\b/i.test(title)
+      || /\bdeals?\s+(?:on|for)\s+(?:laptops?|monitors?|pcs?|chromebooks?|notebooks?)\b/i.test(title);
   }
 
   function isDeal(item) {
-    const url = String(item.url || "");
-    const blob = itemBlob(item);
-    return /\/deals?\b|\/offers?\b|\/coupons?\b/i.test(url)
-      || /\b(deal|deals|offer|offers|coupon|coupons|discount|discounts|promo|promos|sale|sales|oferta|ofertas|cupom|cupons|desconto|descontos)\b/i.test(blob);
+    const directDealsUrl = /\/(?:deals?|offers?|coupons?)(?:\/|$|[?#-])/i.test(String(item.url || ""));
+    if (looksEditorialReview(item) && !directDealsUrl) return false;
+    return explicitDealText(item);
   }
 
   function isBrief(item) {
@@ -232,10 +318,16 @@
 
   function applyFilters() {
     const q = state.query.trim().toLowerCase();
+    const metricJumpIds = state.metricJumpIds instanceof Set ? state.metricJumpIds : null;
     state.filtered = state.items.filter(item => {
+      if (metricJumpIds) {
+        if (!metricJumpIds.has(String(item.id || ""))) return false;
+        return !q || itemBlob(item).toLowerCase().includes(q);
+      }
       if (!matchesFilter(item)) return false;
       if (!matchesDellProductFilter(item)) return false;
       if (!matchesCompetitorBrandFilter(item)) return false;
+      if (!matchesYoutubeBrandFilter(item)) return false;
       if (!q) return true;
       return itemBlob(item).toLowerCase().includes(q);
     }).sort((a, b) => itemTime(b) - itemTime(a));
@@ -371,8 +463,15 @@
     return "all time";
   }
 
+  function metricBrandRowEligible(item) {
+    const brand = String(item.brand || "").toLowerCase();
+    if (brand !== "dell" && brand !== "alienware") return true;
+    const blob = `${item.title || ""} ${item.summary || ""} ${item.url || ""}`;
+    return Boolean(item.is_dell_story) || /\b(?:dell|alienware|xps|latitude|inspiron|precision|optiplex|dell pro|aurora|aw\d|alienware aw)\b/i.test(blob);
+  }
+
   function metricWindowRows(data) {
-    const rows = data.items && data.items.length ? data.items : (data.recent || []);
+    const rows = (data.items && data.items.length ? data.items : (data.recent || [])).filter(metricBrandRowEligible);
     if (state.metricWindow === "all") return rows;
     const windows = {"24h": 24, "7d": 24 * 7, "30d": 24 * 30};
     const hours = windows[state.metricWindow];
@@ -429,6 +528,40 @@
       delete metric.source_icons;
       return metric;
     }).sort((a, b) => Number(b.total || 0) - Number(a.total || 0) || a.brand.localeCompare(b.brand));
+  }
+
+  function metricRowMatchesKey(item, metricKey) {
+    if (!metricKey || metricKey === "total") return true;
+    if (metricKey === "youtube") return item.kind === "youtube";
+    if (metricKey === "media") return item.kind !== "youtube";
+    if (metricKey === "reviews" || metricKey === "review") return Boolean(item.is_review);
+    if (metricKey === "deals") return metricIsDeal(item);
+    if (metricKey === "sponsored") return Boolean(item.is_sponsored);
+    return true;
+  }
+
+  function metricRowsForBrandJump(brand, metricKey) {
+    const wanted = String(brand || "").toLowerCase();
+    return metricWindowRows(brandMetricsData())
+      .filter(item => String(item.brand || "").toLowerCase() === wanted)
+      .filter(item => metricRowMatchesKey(item, metricKey));
+  }
+
+  function metricRowsForKpiJump(filterName) {
+    const rows = metricWindowRows(brandMetricsData());
+    if (filterName === "competitor") return rows.filter(item => item.family === "PC competitors");
+    return rows.filter(item => metricRowMatchesKey(item, filterName));
+  }
+
+  function setMetricJump(rows, label) {
+    const ids = rows.map(item => String(item.id || "")).filter(Boolean);
+    state.metricJumpIds = ids.length ? new Set(ids) : new Set();
+    state.metricJumpLabel = label || "";
+  }
+
+  function clearMetricJump() {
+    state.metricJumpIds = null;
+    state.metricJumpLabel = "";
   }
 
   function renderBar(label, value, max, color) {
@@ -628,25 +761,27 @@
     if (!total) {
       return `<section class="metric-panel pie-panel"><h3>${escapeHtml(title)}</h3><div class="empty mini-empty">${escapeHtml(emptyLabel)}</div></section>`;
     }
+    const sortedSlices = [...slices].sort((a, b) => b.value - a.value || a.brand.localeCompare(b.brand));
     let angle = 0;
-    const paths = slices.map(row => {
+    const paths = sortedSlices.map(row => {
       const end = angle + (row.value / total) * 360;
       const path = pieSlicePath(50, 50, 46, angle, end);
       angle = end;
       return `<path d="${path}" fill="${row.color}" stroke="#fff" stroke-width="1.4"><title>${escapeHtml(row.brand)} ${Math.round((row.value / total) * 100)}%</title></path>`;
     }).join("");
-    const leader = slices[0];
+    const leader = sortedSlices[0];
     const leaderPct = Math.round((leader.value / total) * 100);
-    const legend = slices.map(row => {
+    const legend = sortedSlices.map(row => {
       const pct = Math.round((row.value / total) * 100);
-      return `<li><span><i style="background:${row.color}"></i>${escapeHtml(row.brand)}</span><b>${pct}%</b></li>`;
+      const brandKey = String(row.brand || "").toLowerCase();
+      const jump = brandKey === "other" ? "" : ` data-brand-jump="${escapeHtml(brandKey)}" data-metric-key="${escapeHtml(valueKey)}"`;
+      return `<li><button type="button" class="brand-jump"${jump} ${jump ? "" : "disabled"}><span><i style="background:${row.color}"></i>${escapeHtml(row.brand)}</span><b>${pct}%</b></button></li>`;
     }).join("");
     return `<section class="metric-panel pie-panel">
       <h3>${escapeHtml(title)}</h3>
       <div class="pie-wrap">
         <div class="pie-visual">
-          <svg class="pie-chart" viewBox="0 0 100 100" role="img" aria-label="${escapeHtml(title)}">${paths}<circle cx="50" cy="50" r="27" fill="#fff"></circle></svg>
-          <div class="pie-center"><strong>${leaderPct}%</strong><span>${escapeHtml(leader.brand)}</span></div>
+          <svg class="pie-chart" viewBox="0 0 100 100" role="img" aria-label="${escapeHtml(title)}">${paths}<circle cx="50" cy="50" r="29" fill="#fff"></circle></svg>
         </div>
         <ul class="pie-legend">${legend}</ul>
       </div>
@@ -654,8 +789,7 @@
   }
 
   function metricIsDeal(item) {
-    const blob = `${item.section || ""} ${item.title || ""}`.toLowerCase();
-    return /\b(deals?|offers?|coupons?|discounts?|sale|sales|oferta|ofertas|cupom|cupons|desconto|descontos)\b/.test(blob);
+    return isDeal(item);
   }
 
   function renderBrandMetrics() {
@@ -666,11 +800,16 @@
     const brazilBrands = summarizeMetricRows(rows.filter(item => String(item.country || "").toUpperCase() === "BR"));
     const selected = brands.slice(0, 14);
     const maxTotal = Math.max(1, ...selected.map(b => Number(b.total || 0)));
-    const dellFamily = brands.filter(b => b.family === "Dell family").reduce((sum, b) => sum + Number(b.total || 0), 0);
+    const brandByName = name => brands.find(b => String(b.brand || "").toLowerCase() === name) || {};
+    const dellBrand = brandByName("dell");
+    const alienwareBrand = brandByName("alienware");
+    const dellStories = Number(dellBrand.total || 0);
+    const alienwareStories = Number(alienwareBrand.total || 0);
     const competitors = brands.filter(b => b.family === "PC competitors").reduce((sum, b) => sum + Number(b.total || 0), 0);
     const reviews = brands.reduce((sum, b) => sum + Number(b.reviews || 0), 0);
-    const sponsored = brands.reduce((sum, b) => sum + Number(b.sponsored || 0), 0);
     const deals = brands.reduce((sum, b) => sum + Number(b.deals || 0), 0);
+    const dellReviews = Number(dellBrand.reviews || 0);
+    const alienwareReviews = Number(alienwareBrand.reviews || 0);
     const topSources = {};
     const topSourceIcons = {};
     brands.forEach(b => (b.top_sources || []).forEach(s => {
@@ -693,11 +832,13 @@
       </div>
       ${empty}
       <div class="metric-kpis">
-        <div><span>Brand items</span><strong>${metricNumber(rows.length)}</strong></div>
-        <div><span>Dell family</span><strong>${metricNumber(dellFamily)}</strong></div>
-        <div><span>PC competitors</span><strong>${metricNumber(competitors)}</strong></div>
-        <div><span>Reviews</span><strong>${metricNumber(reviews)}</strong></div>
-        <div><span>Deals</span><strong>${metricNumber(deals)}</strong></div>
+        <button type="button" class="metric-kpi" data-brand-jump="dell" data-metric-key="total"><span>Dell stories</span><strong>${metricNumber(dellStories)}</strong></button>
+        <button type="button" class="metric-kpi" data-brand-jump="alienware" data-metric-key="total"><span>Alienware stories</span><strong>${metricNumber(alienwareStories)}</strong></button>
+        <button type="button" class="metric-kpi" data-kpi-filter="competitor"><span>Competitor stories</span><strong>${metricNumber(competitors)}</strong></button>
+        <button type="button" class="metric-kpi" data-kpi-filter="review"><span>Reviews</span><strong>${metricNumber(reviews)}</strong></button>
+        <button type="button" class="metric-kpi" data-kpi-filter="deals"><span>Deals</span><strong>${metricNumber(deals)}</strong></button>
+        <button type="button" class="metric-kpi" data-brand-jump="dell" data-metric-key="reviews"><span>Dell reviews</span><strong>${metricNumber(dellReviews)}</strong></button>
+        <button type="button" class="metric-kpi" data-brand-jump="alienware" data-metric-key="reviews"><span>Alienware reviews</span><strong>${metricNumber(alienwareReviews)}</strong></button>
       </div>
       <div class="metrics-grid">
         <section class="metric-panel metric-panel-wide">
@@ -878,6 +1019,93 @@
     }
   }
 
+  function activateMainFilter(name) {
+    state.filter = name;
+    tabs.querySelectorAll("button[data-filter]").forEach(btn => {
+      btn.classList.toggle("active", btn.dataset.filter === name);
+    });
+  }
+
+  function jumpToBrandFeed(brand, metricKey) {
+    const normalized = String(brand || "").toLowerCase();
+    const metricRows = metricRowsForBrandJump(normalized, metricKey || "total");
+    setMetricJump(metricRows, `${brand} ${metricKey || "stories"} - ${metricWindowLabel()}`);
+    state.view = "feed";
+    if (viewSwitch) viewSwitch.querySelectorAll("button[data-view]").forEach(btn => btn.classList.toggle("active", btn.dataset.view === "feed"));
+    search.value = "";
+    state.query = "";
+    state.productFilter = "all";
+    state.competitorFilter = "all";
+    state.youtubeBrandFilter = "all";
+    if (metricKey === "youtube") {
+      activateMainFilter("youtube");
+      state.youtubeBrandFilter = normalized;
+      if (youtubeBrandFilter) youtubeBrandFilter.querySelectorAll("button[data-youtube-brand-filter]").forEach(btn => btn.classList.toggle("active", btn.dataset.youtubeBrandFilter === normalized));
+    } else if (metricKey === "reviews") {
+      activateMainFilter("review");
+      state.query = normalized;
+      search.value = normalized;
+    } else if (metricKey === "deals") {
+      activateMainFilter("deals");
+      state.query = normalized;
+      search.value = normalized;
+    } else if (normalized === "dell" || normalized === "alienware") {
+      activateMainFilter("dell");
+      if (normalized === "alienware") {
+        state.query = "alienware";
+        search.value = "alienware";
+      }
+    } else if (["hp","lenovo","apple","asus","acer","msi","framework","samsung","microsoft","lg","razer","positivo"].includes(normalized)) {
+      activateMainFilter("competitor");
+      state.competitorFilter = normalized;
+      if (competitorFilter) competitorFilter.querySelectorAll("button[data-competitor-filter]").forEach(btn => btn.classList.toggle("active", btn.dataset.competitorFilter === normalized));
+    } else {
+      activateMainFilter("all");
+      state.query = normalized;
+      search.value = normalized;
+    }
+    applyFilters();
+    document.getElementById("feedHead")?.scrollIntoView({behavior: "smooth", block: "start"});
+  }
+
+  function jumpToKpiFilter(filterName) {
+    const metricRows = metricRowsForKpiJump(filterName);
+    setMetricJump(metricRows, `${filterName} - ${metricWindowLabel()}`);
+    state.view = "feed";
+    if (viewSwitch) viewSwitch.querySelectorAll("button[data-view]").forEach(btn => btn.classList.toggle("active", btn.dataset.view === "feed"));
+    search.value = "";
+    state.query = "";
+    state.productFilter = "all";
+    state.competitorFilter = "all";
+    state.youtubeBrandFilter = "all";
+    activateMainFilter(filterName);
+    applyFilters();
+    document.getElementById("feedHead")?.scrollIntoView({behavior: "smooth", block: "start"});
+  }
+
+  if (brandMetricsEl) {
+    brandMetricsEl.addEventListener("click", event => {
+      const brandBtn = event.target.closest("[data-brand-jump]");
+      if (brandBtn) {
+        jumpToBrandFeed(brandBtn.dataset.brandJump, brandBtn.dataset.metricKey);
+        return;
+      }
+      const kpiBtn = event.target.closest("[data-kpi-filter]");
+      if (kpiBtn) jumpToKpiFilter(kpiBtn.dataset.kpiFilter);
+    });
+  }
+
+  if (youtubeBrandFilter) {
+    youtubeBrandFilter.addEventListener("click", event => {
+      const btn = event.target.closest("button[data-youtube-brand-filter]");
+      if (!btn) return;
+      clearMetricJump();
+      state.youtubeBrandFilter = btn.dataset.youtubeBrandFilter;
+      youtubeBrandFilter.querySelectorAll("button[data-youtube-brand-filter]").forEach(b => b.classList.toggle("active", b === btn));
+      applyFilters();
+    });
+  }
+
   if (viewSwitch) {
     viewSwitch.addEventListener("click", event => {
       const button = event.target.closest("button[data-view]");
@@ -906,6 +1134,7 @@
     const button = event.target.closest("button[data-filter]");
     if (!button) return;
     event.preventDefault();
+    clearMetricJump();
     tabs.querySelectorAll("button").forEach(btn => btn.classList.remove("active"));
     button.classList.add("active");
     state.filter = button.dataset.filter;
@@ -919,6 +1148,7 @@
       const button = event.target.closest("button[data-product-filter]");
       if (!button) return;
       event.preventDefault();
+      clearMetricJump();
       productFilter.querySelectorAll("button[data-product-filter]").forEach(btn => btn.classList.remove("active"));
       button.classList.add("active");
       state.productFilter = button.dataset.productFilter;
@@ -931,6 +1161,7 @@
       const button = event.target.closest("button[data-competitor-filter]");
       if (!button) return;
       event.preventDefault();
+      clearMetricJump();
       competitorFilter.querySelectorAll("button[data-competitor-filter]").forEach(btn => btn.classList.remove("active"));
       button.classList.add("active");
       state.competitorFilter = button.dataset.competitorFilter;
@@ -939,6 +1170,7 @@
   }
 
   search.addEventListener("input", event => {
+    clearMetricJump();
     state.query = event.target.value;
     applyFilters();
   });
