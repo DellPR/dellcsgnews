@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T21:10:41.417578+00:00",
+  "generated_at": "2026-07-19T08:09:06.053146+00:00",
   "trigger": "manual",
   "total": 2486,
   "counts": {
@@ -8,8 +8,8 @@
     "x": 36
   },
   "section_counts": {
-    "Ecosystem": 1214,
-    "Competitor Coverage": 534,
+    "Ecosystem": 1215,
+    "Competitor Coverage": 533,
     "Market Trends": 392,
     "Deals": 220,
     "Dell Coverage": 90,
@@ -7745,33 +7745,32 @@
       "source": "PCWorld",
       "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
       "country": "US",
-      "title": "Review: AI models ChatGPT and Claude tested with macOS apps for task automation",
-      "display_title": "Review: AI models ChatGPT and Claude tested with macOS apps for task automation",
+      "title": "ChatGPT desktop-control test explores AI agents in everyday apps",
+      "display_title": "ChatGPT desktop-control test explores AI agents in everyday apps",
       "original_title": "ChatGPT can now control your whole desktop. I tested it with chess",
       "url": "https://www.pcworld.com/article/3190769/chatgpt-can-now-control-your-whole-desktop-i-tested-it-with-chess.html",
       "published_at": "2026-07-14T16:13:12+00:00",
       "captured_at": "2026-07-14 19:00:10",
-      "section": "Competitor Coverage",
-      "company": "Apple",
+      "section": "Ecosystem",
+      "company": "OpenAI",
       "product": "",
-      "score": 78,
-      "summary": "An article explores how AI models like ChatGPT and Claude interact with macOS applications such as Chess and Journal, highlighting their ability to recognize chess openings and write in note-taking apps. The piece also discusses potential future uses for AI in managing personal data but expresses caution about privacy risks.",
+      "score": 45,
+      "summary": "PCWorld tested ChatGPT desktop-control behavior using apps such as chess. This is a software/AI-agent ecosystem story, not a product review or direct Apple competitor review.",
       "why_it_matters": "",
       "tags": [
         "PCWorld",
         "US",
-        "Apple",
-        "Review",
-        "Competitor Coverage"
+        "OpenAI",
+        "Ecosystem"
       ],
-      "is_review": true,
+      "is_review": false,
       "is_short": false,
       "is_sponsored": false,
       "is_dell_story": false,
       "has_dell_mention": false,
-      "is_competitor_story": true,
-      "is_market_story": false,
-      "market_interest": "high"
+      "is_competitor_story": false,
+      "is_market_story": true,
+      "market_interest": "low"
     },
     {
       "id": "media:107232",

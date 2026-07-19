@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T21:10:41.417564+00:00",
-  "total_items": 3312,
+  "generated_at": "2026-07-19T08:09:06.053132+00:00",
+  "total_items": 3313,
   "brands": [
     {
       "brand": "Microsoft",
@@ -76,7 +76,7 @@
       "total": 353,
       "media": 282,
       "youtube": 71,
-      "reviews": 47,
+      "reviews": 46,
       "sponsored": 4,
       "dell_stories": 0,
       "high_signal": 23,
@@ -117,7 +117,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 205
+          "count": 204
         },
         {
           "section": "Market Trends",
@@ -125,7 +125,7 @@
         },
         {
           "section": "Ecosystem",
-          "count": 43
+          "count": 44
         },
         {
           "section": "Deals",
@@ -136,7 +136,7 @@
           "count": 19
         }
       ],
-      "avg_score": 57.2
+      "avg_score": 57.1
     },
     {
       "brand": "Dell",
@@ -1137,8 +1137,8 @@
     {
       "brand": "OpenAI",
       "family": "Other",
-      "total": 21,
-      "media": 21,
+      "total": 22,
+      "media": 22,
       "youtube": 0,
       "reviews": 0,
       "sponsored": 0,
@@ -1181,14 +1181,14 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 18
+          "count": 19
         },
         {
           "section": "Market Trends",
           "count": 3
         }
       ],
-      "avg_score": 41.6
+      "avg_score": 41.8
     },
     {
       "brand": "Framework",
@@ -5883,15 +5883,15 @@
       "source": "PCWorld",
       "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
       "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Review: AI models ChatGPT and Claude tested with macOS apps for task automation",
+      "section": "Ecosystem",
+      "title": "ChatGPT desktop-control test explores AI agents in everyday apps",
       "url": "https://www.pcworld.com/article/3190769/chatgpt-can-now-control-your-whole-desktop-i-tested-it-with-chess.html",
       "published_at": "2026-07-14T16:13:12+00:00",
-      "score": 78,
-      "is_review": true,
+      "score": 45,
+      "is_review": false,
       "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
+      "brand": "OpenAI",
+      "family": "Other",
       "is_dell_story": false
     }
   ],
@@ -10135,12 +10135,29 @@
       "source": "PCWorld",
       "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
       "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Review: AI models ChatGPT and Claude tested with macOS apps for task automation",
+      "section": "Ecosystem",
+      "title": "ChatGPT desktop-control test explores AI agents in everyday apps",
       "url": "https://www.pcworld.com/article/3190769/chatgpt-can-now-control-your-whole-desktop-i-tested-it-with-chess.html",
       "published_at": "2026-07-14T16:13:12+00:00",
-      "score": 78,
-      "is_review": true,
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "OpenAI",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:107566",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "ChatGPT desktop-control test explores AI agents in everyday apps",
+      "url": "https://www.pcworld.com/article/3190769/chatgpt-can-now-control-your-whole-desktop-i-tested-it-with-chess.html",
+      "published_at": "2026-07-14T16:13:12+00:00",
+      "score": 45,
+      "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
       "family": "PC competitors",
