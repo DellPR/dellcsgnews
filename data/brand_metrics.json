@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T22:37:25.550614+00:00",
-  "total_items": 3427,
+  "generated_at": "2026-07-20T23:39:53.854199+00:00",
+  "total_items": 3431,
   "brands": [
     {
       "brand": "Microsoft",
@@ -141,13 +141,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 318,
+      "total": 319,
       "media": 259,
-      "youtube": 59,
+      "youtube": 60,
       "reviews": 59,
       "sponsored": 5,
-      "dell_stories": 145,
-      "high_signal": 101,
+      "dell_stories": 146,
+      "high_signal": 102,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -189,7 +189,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 103
+          "count": 104
         },
         {
           "section": "Deals",
@@ -204,18 +204,18 @@
           "count": 16
         }
       ],
-      "avg_score": 62.0
+      "avg_score": 62.1
     },
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 318,
+      "total": 319,
       "media": 254,
-      "youtube": 64,
+      "youtube": 65,
       "reviews": 42,
       "sponsored": 6,
       "dell_stories": 0,
-      "high_signal": 21,
+      "high_signal": 22,
       "top_sources": [
         {
           "source": "Wccftech",
@@ -265,14 +265,14 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 19
+          "count": 20
         },
         {
           "section": "Market Trends",
           "count": 10
         }
       ],
-      "avg_score": 59.4
+      "avg_score": 59.5
     },
     {
       "brand": "NVIDIA",
@@ -613,9 +613,9 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 138,
+      "total": 139,
       "media": 129,
-      "youtube": 9,
+      "youtube": 10,
       "reviews": 7,
       "sponsored": 2,
       "dell_stories": 0,
@@ -660,12 +660,12 @@
           "count": 91
         },
         {
-          "section": "Deals",
+          "section": "Competitor Coverage",
           "count": 15
         },
         {
-          "section": "Competitor Coverage",
-          "count": 14
+          "section": "Deals",
+          "count": 15
         },
         {
           "section": "Market Trends",
@@ -676,14 +676,14 @@
           "count": 4
         }
       ],
-      "avg_score": 46.0
+      "avg_score": 46.2
     },
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 90,
+      "total": 91,
       "media": 68,
-      "youtube": 22,
+      "youtube": 23,
       "reviews": 19,
       "sponsored": 1,
       "dell_stories": 0,
@@ -725,7 +725,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 44
+          "count": 45
         },
         {
           "section": "Deals",
@@ -744,7 +744,7 @@
           "count": 2
         }
       ],
-      "avg_score": 57.7
+      "avg_score": 57.9
     },
     {
       "brand": "Amazon",
@@ -1623,16 +1623,16 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 252,
-        "Dell": 128,
-        "Intel": 125,
+        "Dell": 129,
+        "Intel": 126,
         "NVIDIA": 119,
         "AMD": 97,
         "Apple": 96,
         "Lenovo": 81,
         "Valve": 79,
-        "Samsung": 71,
+        "Samsung": 72,
         "Asus": 69,
-        "HP": 40,
+        "HP": 41,
         "Alienware": 30,
         "MSI": 20,
         "Qualcomm": 20,
@@ -1677,6 +1677,40 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:83475",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "of Samsung Galaxy Book4 with Core i5 and MX570 graphics",
+      "url": "https://www.youtube.com/shorts/ov3irqTUQ4s",
+      "published_at": "2026-07-20T21:28:19+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:83475",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "of Samsung Galaxy Book4 with Core i5 and MX570 graphics",
+      "url": "https://www.youtube.com/shorts/ov3irqTUQ4s",
+      "published_at": "2026-07-20T21:28:19+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "media:121949",
       "kind": "media",
       "source": "Wccftech",
@@ -1691,6 +1725,40 @@
       "is_sponsored": false,
       "brand": "Microsoft",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:83220",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Dell 14 and 16 Highlighted for Features and Performance",
+      "url": "https://www.youtube.com/shorts/CrhjgqrBYcg",
+      "published_at": "2026-07-20T21:19:24+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:83220",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Dell 14 and 16 Highlighted for Features and Performance",
+      "url": "https://www.youtube.com/shorts/CrhjgqrBYcg",
+      "published_at": "2026-07-20T21:19:24+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -5823,74 +5891,6 @@
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:112067",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Samsung's 990 EVO Plus SSD on sale with discounts on 1TB/2TB models",
-      "url": "https://www.techradar.com/pro/samsungs-lightning-fast-990-evo-plus-ssd-is-on-sale-at-amazon-with-big-savings-on-1tb-and-2tb-models",
-      "published_at": "2026-07-16T15:20:57+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:112067",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "Samsung's 990 EVO Plus SSD on sale with discounts on 1TB/2TB models",
-      "url": "https://www.techradar.com/pro/samsungs-lightning-fast-990-evo-plus-ssd-is-on-sale-at-amazon-with-big-savings-on-1tb-and-2tb-models",
-      "published_at": "2026-07-16T15:20:57+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Amazon",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:111725",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Lenovo introduces Legion R9000P with inkjet-printed OLED display",
-      "url": "https://www.tomshardware.com/monitors/lenovo-announces-worlds-first-laptop-with-inkjet-printed-oled-the-legion-r9000p-is-equipped-with-a-240-hz-ijp-panel-from-tcl-csot",
-      "published_at": "2026-07-16T15:20:36+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:111849",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft ends OneDrive support for older Windows 10 versions in 2026",
-      "url": "https://www.pcworld.com/article/3192861/microsoft-is-cutting-onedrive-support-on-older-windows-10-pcs.html",
-      "published_at": "2026-07-16T15:06:05+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -5929,6 +5929,40 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:83475",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "of Samsung Galaxy Book4 with Core i5 and MX570 graphics",
+      "url": "https://www.youtube.com/shorts/ov3irqTUQ4s",
+      "published_at": "2026-07-20T21:28:19+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:83475",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "of Samsung Galaxy Book4 with Core i5 and MX570 graphics",
+      "url": "https://www.youtube.com/shorts/ov3irqTUQ4s",
+      "published_at": "2026-07-20T21:28:19+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "media:121949",
       "kind": "media",
       "source": "Wccftech",
@@ -5943,6 +5977,40 @@
       "is_sponsored": false,
       "brand": "Microsoft",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:83220",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Dell 14 and 16 Highlighted for Features and Performance",
+      "url": "https://www.youtube.com/shorts/CrhjgqrBYcg",
+      "published_at": "2026-07-20T21:19:24+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:83220",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Dell 14 and 16 Highlighted for Features and Performance",
+      "url": "https://www.youtube.com/shorts/CrhjgqrBYcg",
+      "published_at": "2026-07-20T21:19:24+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
