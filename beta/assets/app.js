@@ -12,6 +12,7 @@
     refreshing: false,
     view: "feed",
     metricWindow: "all",
+    outletQuery: "",
     metricJumpIds: null,
     metricJumpLabel: "",
   };
@@ -994,7 +995,11 @@
 
   function renderOutlets() {
     if (!outletsDashboard) return;
-    const outlets = outletStats();
+    const allOutlets = outletStats();
+    const outletQuery = state.outletQuery.trim().toLowerCase();
+    const outlets = outletQuery
+      ? allOutlets.filter(outlet => outlet.source.toLowerCase().includes(outletQuery))
+      : allOutlets;
     const totalStories = outlets.reduce((sum, outlet) => sum + outlet.total, 0);
     const totalReviews = outlets.reduce((sum, outlet) => sum + outlet.reviews, 0);
     const youtubeOutlets = outlets.filter(outlet => outlet.youtube > 0).length;
@@ -1017,7 +1022,10 @@
           <span><strong>${metricNumber(outlet.youtube)}</strong><span>YouTube</span></span>
           <span><strong>${metricNumber(outlet.media)}</strong><span>Media</span></span>
         </div>
-        <div class="outlet-brand-grid">${renderOutletBrandPills(outlet)}</div>
+        <details class="outlet-brand-details">
+          <summary>Brand breakdown</summary>
+          <div class="outlet-brand-grid">${renderOutletBrandPills(outlet)}</div>
+        </details>
       </article>`;
     }).join("");
 
@@ -1025,6 +1033,9 @@
       <div class="outlets-intro">
         <h3>Source intelligence</h3>
         <p>Monitored outlets and channels ranked by newsletter-ready coverage. Current view: <strong>${metricWindowLabel()}</strong>. Click any story, review, or brand count to jump into the filtered news feed.</p>
+      </div>
+      <div class="outlet-search-wrap">
+        <input id="outletSearch" type="search" value="${escapeHtml(state.outletQuery)}" placeholder="Search monitored outlets and channels" autocomplete="off">
       </div>
       <div class="outlet-summary-grid">
         <div><span>Outlets</span><strong>${metricNumber(outlets.length)}</strong></div>
@@ -1296,6 +1307,18 @@
       const outletBtn = event.target.closest("[data-outlet-source]");
       if (!outletBtn || outletBtn.disabled) return;
       jumpToOutletFeed(outletBtn.dataset.outletSource, outletBtn.dataset.outletMetric || "total");
+    });
+    outletsDashboard.addEventListener("input", event => {
+      const input = event.target.closest("#outletSearch");
+      if (!input) return;
+      state.outletQuery = input.value;
+      renderOutlets();
+      const nextInput = document.getElementById("outletSearch");
+      if (nextInput) {
+        nextInput.focus();
+        const end = nextInput.value.length;
+        nextInput.setSelectionRange(end, end);
+      }
     });
   }
 

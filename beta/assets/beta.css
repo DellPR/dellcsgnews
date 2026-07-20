@@ -681,6 +681,27 @@ body.beta-app {
   margin-bottom: 14px;
 }
 
+.beta-app .outlet-search-wrap {
+  margin: 0 0 14px;
+}
+
+.beta-app .outlet-search-wrap input {
+  width: 100%;
+  min-height: 44px;
+  padding: 0 14px;
+  color: var(--beta-ink);
+  background: #fbfdfe;
+  border: 1px solid var(--beta-line);
+  border-radius: 7px;
+  font-size: 13px;
+  outline: none;
+}
+
+.beta-app .outlet-search-wrap input:focus {
+  border-color: var(--beta-blue);
+  box-shadow: 0 0 0 3px rgba(6,114,206,.1);
+}
+
 .beta-app .outlet-summary-grid > div {
   padding: 15px;
 }
@@ -742,29 +763,30 @@ body.beta-app {
 
 .beta-app .outlet-card-head {
   display: grid;
-  grid-template-columns: 46px minmax(0, 1fr);
-  gap: 11px;
+  grid-template-columns: 52px minmax(0, 1fr);
+  gap: 13px;
   align-items: center;
 }
 
 .beta-app .outlet-logo {
   display: grid;
   place-items: center;
-  width: 46px;
-  height: 46px;
+  width: 52px;
+  height: 52px;
   overflow: hidden;
-  color: white;
-  background: var(--beta-blue);
-  border: 0;
-  border-radius: 10px;
+  color: var(--beta-blue);
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 12px;
   font-size: 18px;
   font-weight: 850;
 }
 
 .beta-app .outlet-logo img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+  width: 44px;
+  height: 44px;
+  object-fit: contain;
+  border-radius: 9px;
 }
 
 .beta-app .outlet-card h3 {
@@ -813,6 +835,41 @@ body.beta-app {
   font-weight: 850;
   text-transform: uppercase;
 }
+
+.beta-app .outlet-brand-details {
+  margin-top: 12px;
+}
+
+.beta-app .outlet-brand-details summary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 34px;
+  color: #3d5267;
+  background: #f7fafc;
+  border: 1px solid #dae5eb;
+  border-radius: 6px;
+  font-size: 11px;
+  font-weight: 850;
+  text-transform: uppercase;
+  cursor: pointer;
+  list-style: none;
+}
+
+.beta-app .outlet-brand-details summary::-webkit-details-marker { display: none; }
+.beta-app .outlet-brand-details[open] summary {
+  color: white;
+  background: var(--beta-blue);
+  border-color: var(--beta-blue);
+}
+
+.beta-app .outlet-brand-details summary::after {
+  content: "+";
+  margin-left: 7px;
+  font-weight: 900;
+}
+
+.beta-app .outlet-brand-details[open] summary::after { content: "-"; }
 
 .beta-app .outlet-brand-grid {
   display: grid;
