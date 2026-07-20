@@ -1413,5 +1413,20 @@
     boot();
   }
 
-  window.__monitorHubDebug = {state, applyFilters};
+  window.__monitorHubDebug = {
+    state,
+    applyFilters,
+    showExactItems(rows, label = "Command Center") {
+      setMetricJump(Array.isArray(rows) ? rows : [], label);
+      activateView("feed");
+      search.value = "";
+      state.query = "";
+      state.productFilter = "all";
+      state.competitorFilter = "all";
+      state.youtubeBrandFilter = "all";
+      activateMainFilter("all");
+      applyFilters();
+      document.getElementById("feedHead")?.scrollIntoView({behavior: "smooth", block: "start"});
+    }
+  };
 })();

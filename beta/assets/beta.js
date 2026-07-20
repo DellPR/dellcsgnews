@@ -2,6 +2,12 @@
   "use strict";
 
   const DAY_MS = 24 * 60 * 60 * 1000;
+  let commandBuckets = {
+    dell: [],
+    alienware: [],
+    dellReviews: [],
+    alienwareReviews: []
+  };
 
   function itemTime(item) {
     const raw = item && (item.published_at || item.captured_at);
@@ -89,6 +95,12 @@
     const dellReviews = dellStories.filter(item => item.is_review);
     const alienwareReviews = alienwareStories.filter(item => item.is_review);
     const dellShare = computeDellShare();
+    commandBuckets = {
+      dell: dellStories,
+      alienware: alienwareStories,
+      dellReviews,
+      alienwareReviews
+    };
 
     setText("betaDellStories", dellStories.length);
     setText("betaAlienwareStories", alienwareStories.length);
@@ -133,6 +145,15 @@
     window.setTimeout(() => clickOne(`#tabs button[data-filter="${filter}"]`), 0);
   }
 
+  function showExactCommandBucket(bucketName, label) {
+    const rows = commandBuckets[bucketName] || [];
+    if (window.__monitorHubDebug && typeof window.__monitorHubDebug.showExactItems === "function") {
+      window.__monitorHubDebug.showExactItems(rows, `${label} - last 24h`);
+      return true;
+    }
+    return false;
+  }
+
   function updateCommandVisibility() {
     const metricsButton = document.querySelector('#viewSwitch button[data-view="metrics"]');
     const outletsButton = document.querySelector('#viewSwitch button[data-view="outlets"]');
@@ -157,7 +178,27 @@
       const button = event.target.closest("[data-command-filter]");
       if (!button) return;
       const target = button.dataset.commandFilter;
-      if (target === "dell" || target === "dell-reviews" || target === "dell-share") {
+      if (target === "dell") {
+        if (showExactCommandBucket("dell", "New Dell stories")) return;
+      }
+      if (target === "alienware") {
+        if (showExactCommandBucket("alienware", "New Alienware stories")) return;
+      }
+      if (target === "dell-reviews") {
+        if (showExactCommandBucket("dellReviews", "New Dell reviews")) return;
+      }
+      if (target === "alienware-reviews") {
+        if (showExactCommandBucket("alienwareReviews", "New Alienware reviews")) return;
+      }
+      if (target === "dell-share") {
+        showFeed("dell");
+        window.setTimeout(() => {
+          setSearch("");
+          document.getElementById("feedHead")?.scrollIntoView({behavior: "smooth", block: "start"});
+        }, 20);
+        return;
+      }
+      if (target === "dell" || target === "dell-reviews") {
         showFeed(target === "dell-reviews" ? "review" : "dell");
         window.setTimeout(() => {
           setSearch(target === "dell-reviews" ? "dell" : "");
