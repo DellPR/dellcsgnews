@@ -2,7 +2,6 @@
   "use strict";
 
   const DAY_MS = 24 * 60 * 60 * 1000;
-  const LAST_VISIT_KEY = "343-monitor-beta-last-visit";
 
   function itemTime(item) {
     const raw = item && (item.published_at || item.captured_at);
@@ -26,34 +25,89 @@
     if (el) el.textContent = String(value);
   }
 
+  function itemText(item) {
+    const parts = [
+      item && item.brand,
+      item && item.company,
+      item && item.product,
+      item && item.section,
+      item && item.title,
+      item && item.summary
+    ];
+    if (item && Array.isArray(item.tags)) parts.push(item.tags.join(" "));
+    return parts.filter(Boolean).join(" ");
+  }
+
+  function uniqueItems(items) {
+    const seen = new Set();
+    return items.filter(item => {
+      const key = item && (item.id || item.url || `${item.source || ""}:${item.title || ""}:${item.published_at || ""}`);
+      if (!key || seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+  }
+
+  function isAlienwareItem(item) {
+    const text = itemText(item);
+    return /\balienware\b|\baw\d{3,5}[a-z]{0,3}\b/i.test(text);
+  }
+
+  function isDellItem(item) {
+    if (isAlienwareItem(item)) return false;
+    const text = itemText(item);
+    const explicitDell = item && (
+      item.is_dell_story ||
+      String(item.brand || "").toLowerCase() === "dell" ||
+      String(item.company || "").toLowerCase() === "dell"
+    );
+    return Boolean(explicitDell || /\b(dell|xps|latitude|inspiron|precision|optiplex|ultrasharp|dell pro|dell 14s|dell 16s)\b/i.test(text));
+  }
+
+  function computeDellShare() {
+    const metrics = window.MONITOR_HUB_BRAND_METRICS || {};
+    const brands = Array.isArray(metrics.brands) ? metrics.brands : [];
+    const total = brands.reduce((sum, brand) => sum + Number(brand.total || 0), 0);
+    const dell = brands.find(brand => String(brand.brand || "").toLowerCase() === "dell");
+    if (total > 0 && dell) return Math.round((Number(dell.total || 0) / total) * 100);
+
+    const data = window.MONITOR_HUB_DATA || {items: []};
+    const items = uniqueItems(Array.isArray(data.items) ? data.items : []);
+    const brandItems = items.filter(item => item.brand || item.company || item.is_dell_story || item.has_dell_mention);
+    if (!brandItems.length) return 0;
+    return Math.round((brandItems.filter(isDellItem).length / brandItems.length) * 100);
+  }
+
   function setCommandCenter() {
     const data = window.MONITOR_HUB_DATA || {items: []};
-    const items = Array.isArray(data.items) ? data.items : [];
+    const items = uniqueItems(Array.isArray(data.items) ? data.items : []);
     const newestTime = items.reduce((latest, item) => Math.max(latest, itemTime(item)), 0);
     const referenceTime = Math.max(Date.now(), newestTime);
     const last24 = items.filter(item => itemTime(item) >= referenceTime - DAY_MS);
-    const reviews = last24.filter(item => item.is_review);
-    const highSignal = last24.filter(item => Number(item.score || 0) >= 90);
+    const dellStories = last24.filter(isDellItem);
+    const alienwareStories = last24.filter(isAlienwareItem);
+    const dellReviews = dellStories.filter(item => item.is_review);
+    const alienwareReviews = alienwareStories.filter(item => item.is_review);
+    const dellShare = computeDellShare();
 
-    setText("betaNewCount", last24.length);
-    setText("betaReviewCount", reviews.length);
-    setText("betaHighCount", highSignal.length);
+    setText("betaDellStories", dellStories.length);
+    setText("betaAlienwareStories", alienwareStories.length);
+    setText("betaDellReviews", dellReviews.length);
+    setText("betaAlienwareReviews", alienwareReviews.length);
+    setText("betaDellShare", `${dellShare}%`);
     setText("betaHeaderUpdated", relativeAge(data.generated_at));
 
-    const previousVisit = Number(localStorage.getItem(LAST_VISIT_KEY) || 0);
-    const sinceVisit = previousVisit > 0 ? items.filter(item => itemTime(item) > previousVisit).length : last24.length;
-    setText("betaSinceVisit", previousVisit > 0 ? `${sinceVisit} new since last visit` : "First beta visit");
-    localStorage.setItem(LAST_VISIT_KEY, String(Date.now()));
-
-    const dellReviews = reviews.filter(item => item.is_dell_story || item.has_dell_mention || /\b(dell|alienware|xps)\b/i.test(`${item.company || ""} ${item.product || ""} ${item.title || ""}`));
     const sectionCounts = new Map();
     last24.forEach(item => {
       const section = item.section || "Coverage";
       sectionCounts.set(section, (sectionCounts.get(section) || 0) + 1);
     });
     const leadingSection = [...sectionCounts.entries()].sort((a, b) => b[1] - a[1])[0];
-    const pulse = dellReviews.length
-      ? `<strong>${dellReviews.length} new Dell or Alienware review${dellReviews.length === 1 ? "" : "s"}</strong> appeared in the latest 24-hour window.`
+    const totalDellFamilyReviews = dellReviews.length + alienwareReviews.length;
+    const pulse = totalDellFamilyReviews
+      ? `<strong>${totalDellFamilyReviews} new Dell-family review${totalDellFamilyReviews === 1 ? "" : "s"}</strong> appeared in the latest 24-hour window.`
+      : dellStories.length || alienwareStories.length
+        ? `<strong>${dellStories.length + alienwareStories.length} new Dell-family stor${dellStories.length + alienwareStories.length === 1 ? "y" : "ies"}</strong> appeared in the latest 24-hour window.`
       : leadingSection
         ? `<strong>${leadingSection[0]}</strong> is the most active coverage stream in the latest 24 hours.`
         : "The latest coverage export is ready for review.";
@@ -65,6 +119,13 @@
     const el = document.querySelector(selector);
     if (el) el.click();
     return el;
+  }
+
+  function setSearch(value) {
+    const search = document.getElementById("search");
+    if (!search) return;
+    search.value = value || "";
+    search.dispatchEvent(new Event("input", {bubbles: true}));
   }
 
   function showFeed(filter) {
@@ -91,9 +152,20 @@
       const button = event.target.closest("[data-command-filter]");
       if (!button) return;
       const target = button.dataset.commandFilter;
-      if (target === "high") {
-        showFeed("all");
-        window.setTimeout(() => document.getElementById("topStoryHead")?.scrollIntoView({behavior: "smooth", block: "start"}), 10);
+      if (target === "dell" || target === "dell-reviews" || target === "dell-share") {
+        showFeed(target === "dell-reviews" ? "review" : "dell");
+        window.setTimeout(() => {
+          setSearch(target === "dell-reviews" ? "dell" : "");
+          document.getElementById("feedHead")?.scrollIntoView({behavior: "smooth", block: "start"});
+        }, 20);
+        return;
+      }
+      if (target === "alienware" || target === "alienware-reviews") {
+        showFeed(target === "alienware-reviews" ? "review" : "dell");
+        window.setTimeout(() => {
+          setSearch("alienware");
+          document.getElementById("feedHead")?.scrollIntoView({behavior: "smooth", block: "start"});
+        }, 20);
         return;
       }
       showFeed(target || "all");
