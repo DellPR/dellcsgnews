@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T15:25:28.890946+00:00",
-  "total_items": 3363,
+  "generated_at": "2026-07-20T18:09:52.334886+00:00",
+  "total_items": 3368,
   "brands": [
     {
       "brand": "Microsoft",
@@ -209,9 +209,9 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 312,
+      "total": 313,
       "media": 249,
-      "youtube": 63,
+      "youtube": 64,
       "reviews": 41,
       "sponsored": 6,
       "dell_stories": 0,
@@ -257,7 +257,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 82
+          "count": 83
         },
         {
           "section": "Deals",
@@ -272,18 +272,18 @@
           "count": 10
         }
       ],
-      "avg_score": 59.3
+      "avg_score": 59.4
     },
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 280,
+      "total": 281,
       "media": 264,
-      "youtube": 16,
+      "youtube": 17,
       "reviews": 6,
       "sponsored": 1,
       "dell_stories": 0,
-      "high_signal": 4,
+      "high_signal": 5,
       "top_sources": [
         {
           "source": "Wccftech",
@@ -329,7 +329,7 @@
         },
         {
           "section": "Market Trends",
-          "count": 17
+          "count": 18
         },
         {
           "section": "Deals",
@@ -340,18 +340,18 @@
           "count": 4
         }
       ],
-      "avg_score": 45.7
+      "avg_score": 45.9
     },
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 277,
+      "total": 278,
       "media": 258,
-      "youtube": 19,
+      "youtube": 20,
       "reviews": 11,
       "sponsored": 0,
       "dell_stories": 0,
-      "high_signal": 3,
+      "high_signal": 4,
       "top_sources": [
         {
           "source": "Wccftech",
@@ -397,7 +397,7 @@
         },
         {
           "section": "Market Trends",
-          "count": 22
+          "count": 23
         },
         {
           "section": "Deals",
@@ -408,7 +408,7 @@
           "count": 1
         }
       ],
-      "avg_score": 51.3
+      "avg_score": 51.5
     },
     {
       "brand": "Valve",
@@ -545,13 +545,13 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 161,
+      "total": 163,
       "media": 100,
-      "youtube": 61,
+      "youtube": 63,
       "reviews": 46,
       "sponsored": 1,
       "dell_stories": 0,
-      "high_signal": 6,
+      "high_signal": 7,
       "top_sources": [
         {
           "source": "PCWorld",
@@ -589,7 +589,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 107
+          "count": 108
         },
         {
           "section": "Deals",
@@ -600,15 +600,15 @@
           "count": 10
         },
         {
-          "section": "Dell Coverage",
-          "count": 4
+          "section": "Market Trends",
+          "count": 5
         },
         {
-          "section": "Market Trends",
+          "section": "Dell Coverage",
           "count": 4
         }
       ],
-      "avg_score": 59.2
+      "avg_score": 59.5
     },
     {
       "brand": "Samsung",
@@ -1624,13 +1624,13 @@
       "brands": {
         "Microsoft": 241,
         "Dell": 124,
-        "Intel": 119,
-        "NVIDIA": 111,
+        "Intel": 120,
+        "NVIDIA": 112,
         "Apple": 95,
-        "AMD": 90,
+        "AMD": 91,
         "Lenovo": 80,
         "Valve": 75,
-        "Asus": 66,
+        "Asus": 68,
         "Samsung": 65,
         "HP": 38,
         "Alienware": 28,
@@ -1642,6 +1642,91 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:82725",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "ASUS VivoBook S14 OLED laptop premium features at an entry-level price",
+      "url": "https://www.youtube.com/shorts/EHRFeZoFQf0",
+      "published_at": "2026-07-20T15:41:59+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:82725",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "ASUS VivoBook S14 OLED laptop premium features at an entry-level price",
+      "url": "https://www.youtube.com/shorts/EHRFeZoFQf0",
+      "published_at": "2026-07-20T15:41:59+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:82830",
+      "kind": "youtube",
+      "source": "Micro Center",
+      "source_icon": "https://yt3.googleusercontent.com/DK_uVA19jFp7pf8jCpyzpTJPo1ImEroHlB8pbLbdGEM6llziJfBPcdCAxz-5w8KJobAS4ZR9tQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "High-end workstation review with AMD Ryzen 9 9950X and dual RTX 5090 GPUs",
+      "url": "https://www.youtube.com/watch?v=6LgxzwZ7VQw",
+      "published_at": "2026-07-20T14:12:43+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:82830",
+      "kind": "youtube",
+      "source": "Micro Center",
+      "source_icon": "https://yt3.googleusercontent.com/DK_uVA19jFp7pf8jCpyzpTJPo1ImEroHlB8pbLbdGEM6llziJfBPcdCAxz-5w8KJobAS4ZR9tQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "High-end workstation review with AMD Ryzen 9 9950X and dual RTX 5090 GPUs",
+      "url": "https://www.youtube.com/watch?v=6LgxzwZ7VQw",
+      "published_at": "2026-07-20T14:12:43+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:82830",
+      "kind": "youtube",
+      "source": "Micro Center",
+      "source_icon": "https://yt3.googleusercontent.com/DK_uVA19jFp7pf8jCpyzpTJPo1ImEroHlB8pbLbdGEM6llziJfBPcdCAxz-5w8KJobAS4ZR9tQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "High-end workstation review with AMD Ryzen 9 9950X and dual RTX 5090 GPUs",
+      "url": "https://www.youtube.com/watch?v=6LgxzwZ7VQw",
+      "published_at": "2026-07-20T14:12:43+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:118982",
       "kind": "media",
@@ -5806,94 +5891,94 @@
       "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:109581",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Nvidia delays Kyber NVL144 racks, vows 'giant amounts' of Vera Rubin machines",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact",
-      "published_at": "2026-07-15T19:07:17+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:109836",
-      "kind": "media",
-      "source": "HotHardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "NVIDIA and SEGA renew 30-year partnership to power games on RTX Spark",
-      "url": "https://hothardware.com/news/nvidia-sega-30-year-partnership-rtx-spark",
-      "published_at": "2026-07-15T18:45:00+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:109872",
-      "kind": "media",
-      "source": "ZDNet",
-      "source_icon": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft patches 570 Windows security bugs, including two zero days",
-      "url": "https://www.zdnet.com/article/microsoft-patches-570-vulnerabilities-exploited-zero-days/",
-      "published_at": "2026-07-15T18:28:38+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:110115",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Samsung Outsources Google's TPU I/O Design to Third Parties",
-      "url": "https://wccftech.com/samsung-reportedly-outsources-googles-tpu-i-o-late-stage-design-says-report/",
-      "published_at": "2026-07-15T18:12:02+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:110115",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Samsung Outsources Google's TPU I/O Design to Third Parties",
-      "url": "https://wccftech.com/samsung-reportedly-outsources-googles-tpu-i-o-late-stage-design-says-report/",
-      "published_at": "2026-07-15T18:12:02+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Google",
-      "family": "Other",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:82725",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "ASUS VivoBook S14 OLED laptop premium features at an entry-level price",
+      "url": "https://www.youtube.com/shorts/EHRFeZoFQf0",
+      "published_at": "2026-07-20T15:41:59+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:82725",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "ASUS VivoBook S14 OLED laptop premium features at an entry-level price",
+      "url": "https://www.youtube.com/shorts/EHRFeZoFQf0",
+      "published_at": "2026-07-20T15:41:59+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:82830",
+      "kind": "youtube",
+      "source": "Micro Center",
+      "source_icon": "https://yt3.googleusercontent.com/DK_uVA19jFp7pf8jCpyzpTJPo1ImEroHlB8pbLbdGEM6llziJfBPcdCAxz-5w8KJobAS4ZR9tQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "High-end workstation review with AMD Ryzen 9 9950X and dual RTX 5090 GPUs",
+      "url": "https://www.youtube.com/watch?v=6LgxzwZ7VQw",
+      "published_at": "2026-07-20T14:12:43+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:82830",
+      "kind": "youtube",
+      "source": "Micro Center",
+      "source_icon": "https://yt3.googleusercontent.com/DK_uVA19jFp7pf8jCpyzpTJPo1ImEroHlB8pbLbdGEM6llziJfBPcdCAxz-5w8KJobAS4ZR9tQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "High-end workstation review with AMD Ryzen 9 9950X and dual RTX 5090 GPUs",
+      "url": "https://www.youtube.com/watch?v=6LgxzwZ7VQw",
+      "published_at": "2026-07-20T14:12:43+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:82830",
+      "kind": "youtube",
+      "source": "Micro Center",
+      "source_icon": "https://yt3.googleusercontent.com/DK_uVA19jFp7pf8jCpyzpTJPo1ImEroHlB8pbLbdGEM6llziJfBPcdCAxz-5w8KJobAS4ZR9tQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "High-end workstation review with AMD Ryzen 9 9950X and dual RTX 5090 GPUs",
+      "url": "https://www.youtube.com/watch?v=6LgxzwZ7VQw",
+      "published_at": "2026-07-20T14:12:43+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:118982",
       "kind": "media",
