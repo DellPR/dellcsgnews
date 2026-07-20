@@ -135,8 +135,13 @@
 
   function updateCommandVisibility() {
     const metricsButton = document.querySelector('#viewSwitch button[data-view="metrics"]');
+    const outletsButton = document.querySelector('#viewSwitch button[data-view="outlets"]');
     const command = document.getElementById("betaCommandCenter");
-    if (command) command.hidden = Boolean(metricsButton && metricsButton.classList.contains("active"));
+    const nonFeed = Boolean(
+      (metricsButton && metricsButton.classList.contains("active")) ||
+      (outletsButton && outletsButton.classList.contains("active"))
+    );
+    if (command) command.hidden = nonFeed;
   }
 
   function updateBottomNav(mode) {
@@ -188,6 +193,9 @@
       } else if (target === "metrics") {
         clickOne('#viewSwitch button[data-view="metrics"]');
         window.scrollTo({top: 0, behavior: "smooth"});
+      } else if (target === "outlets") {
+        clickOne('#viewSwitch button[data-view="outlets"]');
+        window.scrollTo({top: 0, behavior: "smooth"});
       } else if (target === "top") {
         showFeed("all");
         window.setTimeout(() => document.getElementById("topStoryHead")?.scrollIntoView({behavior: "smooth", block: "start"}), 10);
@@ -205,7 +213,7 @@
         if (!button) return;
         window.setTimeout(() => {
           updateCommandVisibility();
-          updateBottomNav(button.dataset.view === "metrics" ? "metrics" : "feed");
+          updateBottomNav(button.dataset.view === "metrics" ? "metrics" : button.dataset.view === "outlets" ? "outlets" : "feed");
         }, 0);
       });
     }

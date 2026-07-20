@@ -45,6 +45,7 @@
       <div class="view-switch" id="viewSwitch" aria-label="Hub sections">
         <button type="button" class="active" data-view="feed">News Feed</button>
         <button type="button" data-view="metrics">Brand Metrics</button>
+        <button type="button" data-view="outlets">Outlets</button>
       </div>
       <div class="search-wrap">
         <input id="search" type="search" placeholder="Search stories, products, outlets" autocomplete="off">
@@ -133,6 +134,17 @@
       <section class="metrics-dashboard" id="brandMetrics"></section>
     </section>
 
+    <section class="outlets-view" id="outletsView" hidden>
+      <section class="section-head"><span></span><h2>Monitored Outlets</h2></section>
+      <div class="metric-window" id="outletWindow" aria-label="Outlet metric time range">
+        <button type="button" class="active" data-metric-window="all">All time</button>
+        <button type="button" data-metric-window="30d">Last 30 days</button>
+        <button type="button" data-metric-window="7d">Last 7 days</button>
+        <button type="button" data-metric-window="24h">Last 24h</button>
+      </div>
+      <section class="outlets-dashboard" id="outletsDashboard"></section>
+    </section>
+
     <section class="section-head" id="topStoryHead"><span></span><h2>Top Story</h2></section>
     <section class="highlights" id="highlights"></section>
 
@@ -145,6 +157,7 @@
     <button type="button" class="active" data-beta-nav="feed"><i data-lucide="newspaper" aria-hidden="true"></i><span>Feed</span></button>
     <button type="button" data-beta-nav="reviews"><i data-lucide="badge-check" aria-hidden="true"></i><span>Reviews</span></button>
     <button type="button" data-beta-nav="metrics"><i data-lucide="chart-no-axes-combined" aria-hidden="true"></i><span>Brands</span></button>
+    <button type="button" data-beta-nav="outlets"><i data-lucide="radio-tower" aria-hidden="true"></i><span>Outlets</span></button>
     <button type="button" data-beta-nav="top"><i data-lucide="arrow-up" aria-hidden="true"></i><span>Top</span></button>
   </nav>
 

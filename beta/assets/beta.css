@@ -162,7 +162,7 @@ body.beta-app {
 
 .beta-app .view-switch {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 3px;
   padding: 3px;
   background: #edf3f6;
@@ -634,11 +634,224 @@ body.beta-app {
 }
 
 .beta-app .metrics-view { margin-top: 18px; }
+.beta-app .outlets-view { margin-top: 18px; }
 .beta-app .metric-window { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 12px; }
 .beta-app .metrics-dashboard { min-width: 0; }
+.beta-app .outlets-dashboard { min-width: 0; }
 .beta-app .metric-panel,
 .beta-app .metric-intro { border-radius: 8px; }
 .beta-app .metric-kpi { border-radius: 7px; }
+
+.beta-app .outlets-intro,
+.beta-app .outlet-leader,
+.beta-app .outlet-card,
+.beta-app .outlet-summary-grid > div {
+  background: white;
+  border: 1px solid var(--beta-line);
+  border-radius: 8px;
+  box-shadow: 0 5px 20px rgba(25,61,84,.055);
+}
+
+.beta-app .outlets-intro {
+  margin-bottom: 14px;
+  padding: 18px;
+  border-left: 4px solid var(--beta-blue);
+}
+
+.beta-app .outlets-intro h3,
+.beta-app .outlet-leader h3,
+.beta-app .outlet-card h3 {
+  margin: 0;
+  color: var(--beta-ink);
+}
+
+.beta-app .outlets-intro p,
+.beta-app .outlet-leader p,
+.beta-app .outlet-card p {
+  margin: 7px 0 0;
+  color: #617487;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.beta-app .outlet-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.beta-app .outlet-summary-grid > div {
+  padding: 15px;
+}
+
+.beta-app .outlet-summary-grid span {
+  display: block;
+  color: #6d7f91;
+  font-size: 10px;
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+.beta-app .outlet-summary-grid strong {
+  display: block;
+  margin-top: 6px;
+  color: var(--beta-blue);
+  font-size: 30px;
+  line-height: 1;
+}
+
+.beta-app .outlet-leader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 14px;
+  padding: 18px;
+  background: linear-gradient(135deg, #ffffff 0%, #edf8ff 100%);
+  border-left: 4px solid var(--beta-blue);
+}
+
+.beta-app .outlet-leader button,
+.beta-app .outlet-kpis button,
+.beta-app .outlet-logo,
+.beta-app .outlet-brand-pill {
+  cursor: pointer;
+}
+
+.beta-app .outlet-leader button {
+  min-height: 38px;
+  padding: 8px 13px;
+  color: white;
+  background: var(--beta-blue);
+  border: 0;
+  border-radius: 5px;
+  font-weight: 800;
+}
+
+.beta-app .outlets-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 13px;
+}
+
+.beta-app .outlet-card {
+  min-width: 0;
+  padding: 15px;
+}
+
+.beta-app .outlet-card-head {
+  display: grid;
+  grid-template-columns: 46px minmax(0, 1fr);
+  gap: 11px;
+  align-items: center;
+}
+
+.beta-app .outlet-logo {
+  display: grid;
+  place-items: center;
+  width: 46px;
+  height: 46px;
+  overflow: hidden;
+  color: white;
+  background: var(--beta-blue);
+  border: 0;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 850;
+}
+
+.beta-app .outlet-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.beta-app .outlet-card h3 {
+  overflow: hidden;
+  font-size: 17px;
+  line-height: 1.15;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.beta-app .outlet-kpis {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 7px;
+  margin-top: 14px;
+}
+
+.beta-app .outlet-kpis button,
+.beta-app .outlet-kpis > span {
+  display: grid;
+  gap: 2px;
+  min-height: 56px;
+  padding: 8px;
+  background: #f5f9fb;
+  border: 1px solid #dae5eb;
+  border-radius: 6px;
+  text-align: left;
+}
+
+.beta-app .outlet-kpis button:hover,
+.beta-app .outlet-brand-pill:hover {
+  border-color: var(--beta-blue);
+  background: #eef7fd;
+}
+
+.beta-app .outlet-kpis strong {
+  color: var(--beta-blue);
+  font-size: 19px;
+  line-height: 1;
+}
+
+.beta-app .outlet-kpis span span,
+.beta-app .outlet-kpis button span {
+  color: #6d7f91;
+  font-size: 9px;
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+.beta-app .outlet-brand-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 7px;
+  margin-top: 12px;
+}
+
+.beta-app .outlet-brand-pill {
+  display: grid;
+  grid-template-columns: 9px minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 7px;
+  min-height: 32px;
+  padding: 6px 8px;
+  color: #2d4053;
+  background: white;
+  border: 1px solid #dae5eb;
+  border-radius: 6px;
+  font-size: 11px;
+  font-weight: 800;
+}
+
+.beta-app .outlet-brand-pill:disabled {
+  opacity: .42;
+  cursor: default;
+}
+
+.beta-app .outlet-brand-pill i {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+}
+
+.beta-app .outlet-brand-pill span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
 
 .beta-bottom-nav { display: none; }
 
@@ -772,7 +985,7 @@ body.beta-app {
     z-index: 50;
     inset: auto 0 0;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     padding: 7px max(8px, env(safe-area-inset-right)) calc(8px + env(safe-area-inset-bottom)) max(8px, env(safe-area-inset-left));
     background: rgba(255,255,255,.98);
     border-top: 1px solid #cad8e1;
@@ -796,10 +1009,35 @@ body.beta-app {
   .beta-bottom-nav svg { width: 19px; height: 19px; stroke-width: 2; }
 
   .beta-app .metrics-view,
+  .beta-app .outlets-view,
   .beta-app .metrics-dashboard,
+  .beta-app .outlets-dashboard,
   .beta-app .metric-panel,
+  .beta-app .outlets-grid,
+  .beta-app .outlet-card,
   .beta-app .pie-grid,
   .beta-app .metric-table-wrap { max-width: 100%; overflow-x: hidden; }
+
+  .beta-app .outlet-summary-grid,
+  .beta-app .outlets-grid { grid-template-columns: 1fr; }
+
+  .beta-app .outlets-intro,
+  .beta-app .outlet-leader,
+  .beta-app .outlet-card,
+  .beta-app .outlet-summary-grid > div { border-radius: 7px; }
+
+  .beta-app .outlet-leader {
+    display: block;
+    padding: 15px;
+  }
+
+  .beta-app .outlet-leader button {
+    width: 100%;
+    margin-top: 12px;
+  }
+
+  .beta-app .outlet-kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .beta-app .outlet-brand-grid { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 370px) {
