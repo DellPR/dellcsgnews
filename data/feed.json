@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-20T00:18:46.478875+00:00",
-  "trigger": "manual",
-  "total": 2505,
+  "generated_at": "2026-07-20T12:02:28.982784+00:00",
+  "trigger": "youtube",
+  "total": 2506,
   "counts": {
     "media": 2137,
-    "youtube": 331,
+    "youtube": 332,
     "x": 37
   },
   "section_counts": {
@@ -12,11 +12,51 @@
     "Competitor Coverage": 538,
     "Market Trends": 395,
     "Deals": 221,
-    "Dell Coverage": 98,
+    "Dell Coverage": 99,
     "X Watch": 37
   },
   "brand_metrics": "data/brand_metrics.json",
   "items": [
+    {
+      "id": "youtube:81795",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "title": "Sincere review of Lenovo LOQ 2026 budget gaming laptop vs Dell G15",
+      "display_title": "Sincere review of Lenovo LOQ 2026 budget gaming laptop vs Dell G15",
+      "original_title": "Lenovo LOQ vale a pena em 2026? Análise SINCERA",
+      "url": "https://www.youtube.com/watch?v=gu2j2a7LYOw",
+      "published_at": "2026-07-19T23:05:00+00:00",
+      "captured_at": "2026-07-20 12:00:14",
+      "section": "Dell Coverage",
+      "company": "Lenovo",
+      "product": "Lenovo LOQ (RTX 2050, 3050, 4050, 4060 variants)",
+      "score": 100,
+      "summary": "A detailed analysis of the Lenovo LOQ 2026 gaming laptop, comparing its performance, thermal behavior, and screen quality to competitors like Acer Nitro and Dell G15. The review highlights strengths in price-to-performance ratio and display quality but notes potential thermal management issues in high-load scenarios.",
+      "why_it_matters": "",
+      "thumbnail": "https://i4.ytimg.com/vi/gu2j2a7LYOw/hqdefault.jpg",
+      "tags": [
+        "Tech BR",
+        "BR",
+        "Lenovo",
+        "Lenovo LOQ (RTX 2050, 3050, 4050, 4060 variants)",
+        "Review",
+        "Dell Coverage",
+        "Dell"
+      ],
+      "is_review": true,
+      "is_short": false,
+      "is_sponsored": false,
+      "sponsor_brand": "",
+      "is_dell_story": true,
+      "has_dell_mention": true,
+      "is_competitor_story": false,
+      "is_market_story": false,
+      "also_competitor_story": false,
+      "review_type": "review",
+      "tone": "mixed"
+    },
     {
       "id": "media:118661",
       "kind": "media",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T00:18:46.478862+00:00",
-  "total_items": 3373,
+  "generated_at": "2026-07-20T12:02:28.982770+00:00",
+  "total_items": 3376,
   "brands": [
     {
       "brand": "Microsoft",
@@ -141,13 +141,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 329,
+      "total": 330,
       "media": 246,
-      "youtube": 83,
-      "reviews": 67,
+      "youtube": 84,
+      "reviews": 68,
       "sponsored": 7,
-      "dell_stories": 164,
-      "high_signal": 102,
+      "dell_stories": 165,
+      "high_signal": 103,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -189,7 +189,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 102
+          "count": 103
         },
         {
           "section": "Deals",
@@ -204,7 +204,7 @@
           "count": 23
         }
       ],
-      "avg_score": 62.4
+      "avg_score": 62.6
     },
     {
       "brand": "Intel",
@@ -477,20 +477,20 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 176,
+      "total": 177,
       "media": 104,
-      "youtube": 72,
-      "reviews": 59,
+      "youtube": 73,
+      "reviews": 60,
       "sponsored": 5,
       "dell_stories": 0,
-      "high_signal": 9,
+      "high_signal": 10,
       "top_sources": [
         {
-          "source": "Adrenaline",
-          "count": 11
+          "source": "Tech BR",
+          "count": 12
         },
         {
-          "source": "Tech BR",
+          "source": "Adrenaline",
           "count": 11
         },
         {
@@ -533,14 +533,14 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 7
+          "count": 8
         },
         {
           "section": "Market Trends",
           "count": 5
         }
       ],
-      "avg_score": 63.4
+      "avg_score": 63.6
     },
     {
       "brand": "Asus",
@@ -1005,13 +1005,13 @@
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 49,
+      "total": 50,
       "media": 28,
-      "youtube": 21,
-      "reviews": 12,
+      "youtube": 22,
+      "reviews": 13,
       "sponsored": 3,
       "dell_stories": 0,
-      "high_signal": 1,
+      "high_signal": 2,
       "top_sources": [
         {
           "source": "PCWorld",
@@ -1034,15 +1034,15 @@
           "count": 3
         },
         {
+          "source": "Tech BR",
+          "count": 3
+        },
+        {
           "source": "Andrew Marc David",
           "count": 2
         },
         {
           "source": "HotHardware",
-          "count": 2
-        },
-        {
-          "source": "Olhar Digital",
           "count": 2
         }
       ],
@@ -1056,19 +1056,19 @@
           "count": 19
         },
         {
-          "section": "Market Trends",
+          "section": "Dell Coverage",
           "count": 3
         },
         {
-          "section": "Dell Coverage",
-          "count": 2
+          "section": "Market Trends",
+          "count": 3
         },
         {
           "section": "Ecosystem",
           "count": 1
         }
       ],
-      "avg_score": 54.8
+      "avg_score": 55.7
     },
     {
       "brand": "Google",
@@ -1634,11 +1634,11 @@
       "brands": {
         "Microsoft": 233,
         "Intel": 120,
-        "Dell": 118,
+        "Dell": 119,
         "NVIDIA": 107,
         "Apple": 94,
         "AMD": 89,
-        "Lenovo": 73,
+        "Lenovo": 74,
         "Valve": 70,
         "Asus": 63,
         "Samsung": 60,
@@ -1652,6 +1652,57 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:81795",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Sincere review of Lenovo LOQ 2026 budget gaming laptop vs Dell G15",
+      "url": "https://www.youtube.com/watch?v=gu2j2a7LYOw",
+      "published_at": "2026-07-19T23:05:00+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:81795",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Sincere review of Lenovo LOQ 2026 budget gaming laptop vs Dell G15",
+      "url": "https://www.youtube.com/watch?v=gu2j2a7LYOw",
+      "published_at": "2026-07-19T23:05:00+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:81795",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Sincere review of Lenovo LOQ 2026 budget gaming laptop vs Dell G15",
+      "url": "https://www.youtube.com/watch?v=gu2j2a7LYOw",
+      "published_at": "2026-07-19T23:05:00+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:118661",
       "kind": "media",
@@ -5850,60 +5901,60 @@
       "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:110133",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Market Trends",
-      "title": "ASUS Launches New 4K OLED Gaming Monitors with Dual Mode",
-      "url": "https://wccftech.com/tandem-oled-based-asus-rog-swift-oled-pg27ucwm-and-pg32ucwm-4k-monitors-are-now-available/",
-      "published_at": "2026-07-15T10:29:54+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:110166",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "title": "Windows 11 updates can now be paused indefinitely",
-      "url": "https://winfuture.de/news,159986.html",
-      "published_at": "2026-07-15T07:40:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:110168",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "title": "Microsoft halts Windows 11 July update for Dell PCs due to Intel driver conflicts",
-      "url": "https://winfuture.de/news,159985.html",
-      "published_at": "2026-07-15T06:57:00+00:00",
-      "score": 50,
-      "is_review": false,
+      "id": "youtube:81795",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Sincere review of Lenovo LOQ 2026 budget gaming laptop vs Dell G15",
+      "url": "https://www.youtube.com/watch?v=gu2j2a7LYOw",
+      "published_at": "2026-07-19T23:05:00+00:00",
+      "score": 100,
+      "is_review": true,
       "is_sponsored": false,
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "youtube:81795",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Sincere review of Lenovo LOQ 2026 budget gaming laptop vs Dell G15",
+      "url": "https://www.youtube.com/watch?v=gu2j2a7LYOw",
+      "published_at": "2026-07-19T23:05:00+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:81795",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Sincere review of Lenovo LOQ 2026 budget gaming laptop vs Dell G15",
+      "url": "https://www.youtube.com/watch?v=gu2j2a7LYOw",
+      "published_at": "2026-07-19T23:05:00+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:118661",
       "kind": "media",
