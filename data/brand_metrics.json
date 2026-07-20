@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T19:54:17.785920+00:00",
-  "total_items": 3420,
+  "generated_at": "2026-07-20T22:37:25.550614+00:00",
+  "total_items": 3427,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 566,
-      "media": 548,
+      "total": 568,
+      "media": 550,
       "youtube": 18,
       "reviews": 12,
       "sponsored": 0,
@@ -31,7 +31,7 @@
         },
         {
           "source": "XDA Developers",
-          "count": 33
+          "count": 34
         },
         {
           "source": "The Register",
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 466
+          "count": 468
         },
         {
           "section": "Competitor Coverage",
@@ -68,7 +68,7 @@
           "count": 3
         }
       ],
-      "avg_score": 47.4
+      "avg_score": 47.3
     },
     {
       "brand": "Apple",
@@ -139,15 +139,83 @@
       "avg_score": 57.4
     },
     {
+      "brand": "Dell",
+      "family": "Dell family",
+      "total": 318,
+      "media": 259,
+      "youtube": 59,
+      "reviews": 59,
+      "sponsored": 5,
+      "dell_stories": 145,
+      "high_signal": 101,
+      "top_sources": [
+        {
+          "source": "TechRadar",
+          "count": 25
+        },
+        {
+          "source": "Windows Central",
+          "count": 24
+        },
+        {
+          "source": "PCWorld",
+          "count": 21
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 21
+        },
+        {
+          "source": "TudoCelular",
+          "count": 17
+        },
+        {
+          "source": "HotHardware",
+          "count": 16
+        },
+        {
+          "source": "Adrenaline",
+          "count": 13
+        },
+        {
+          "source": "WinFuture",
+          "count": 13
+        }
+      ],
+      "sections": [
+        {
+          "section": "Ecosystem",
+          "count": 123
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 103
+        },
+        {
+          "section": "Deals",
+          "count": 53
+        },
+        {
+          "section": "Market Trends",
+          "count": 23
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 16
+        }
+      ],
+      "avg_score": 62.0
+    },
+    {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 317,
-      "media": 253,
+      "total": 318,
+      "media": 254,
       "youtube": 64,
-      "reviews": 41,
+      "reviews": 42,
       "sponsored": 6,
       "dell_stories": 0,
-      "high_signal": 20,
+      "high_signal": 21,
       "top_sources": [
         {
           "source": "Wccftech",
@@ -197,88 +265,20 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 18
+          "count": 19
         },
         {
           "section": "Market Trends",
           "count": 10
         }
       ],
-      "avg_score": 59.3
-    },
-    {
-      "brand": "Dell",
-      "family": "Dell family",
-      "total": 316,
-      "media": 257,
-      "youtube": 59,
-      "reviews": 58,
-      "sponsored": 5,
-      "dell_stories": 144,
-      "high_signal": 100,
-      "top_sources": [
-        {
-          "source": "TechRadar",
-          "count": 25
-        },
-        {
-          "source": "Windows Central",
-          "count": 24
-        },
-        {
-          "source": "PCWorld",
-          "count": 21
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 21
-        },
-        {
-          "source": "TudoCelular",
-          "count": 17
-        },
-        {
-          "source": "HotHardware",
-          "count": 16
-        },
-        {
-          "source": "Adrenaline",
-          "count": 13
-        },
-        {
-          "source": "WinFuture",
-          "count": 13
-        }
-      ],
-      "sections": [
-        {
-          "section": "Ecosystem",
-          "count": 122
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 102
-        },
-        {
-          "section": "Deals",
-          "count": 53
-        },
-        {
-          "section": "Market Trends",
-          "count": 23
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 16
-        }
-      ],
-      "avg_score": 62.0
+      "avg_score": 59.4
     },
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 287,
-      "media": 270,
+      "total": 288,
+      "media": 271,
       "youtube": 17,
       "reviews": 6,
       "sponsored": 1,
@@ -299,7 +299,7 @@
         },
         {
           "source": "TechRadar",
-          "count": 22
+          "count": 23
         },
         {
           "source": "HotHardware",
@@ -321,7 +321,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 235
+          "count": 236
         },
         {
           "section": "Competitor Coverage",
@@ -613,8 +613,8 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 137,
-      "media": 128,
+      "total": 138,
+      "media": 129,
       "youtube": 9,
       "reviews": 7,
       "sponsored": 2,
@@ -657,7 +657,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 90
+          "count": 91
         },
         {
           "section": "Deals",
@@ -676,7 +676,7 @@
           "count": 4
         }
       ],
-      "avg_score": 46.1
+      "avg_score": 46.0
     },
     {
       "brand": "HP",
@@ -1622,15 +1622,15 @@
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 250,
-        "Dell": 126,
-        "Intel": 124,
-        "NVIDIA": 118,
+        "Microsoft": 252,
+        "Dell": 128,
+        "Intel": 125,
+        "NVIDIA": 119,
         "AMD": 97,
         "Apple": 96,
         "Lenovo": 81,
         "Valve": 79,
-        "Samsung": 70,
+        "Samsung": 71,
         "Asus": 69,
         "HP": 40,
         "Alienware": 30,
@@ -1642,6 +1642,125 @@
     }
   ],
   "recent": [
+    {
+      "id": "media:121632",
+      "kind": "media",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Windows 11 Storage Sense misused for two years led to accidental file deletion",
+      "url": "https://www.xda-developers.com/used-windows-storage-sense-wrong-it-was-deleting-files-i-needed/",
+      "published_at": "2026-07-20T21:30:10+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:121212",
+      "kind": "media",
+      "source": "TecMundo",
+      "source_icon": "",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "DDR5 RAM prices surge 450% in Germany over 12 months",
+      "url": "https://www.tecmundo.com.br/mercado/414669-preco-de-ram-ddr5-aumenta-quase-450-em-12-meses-na-alemanha.htm",
+      "published_at": "2026-07-20T21:30:00+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:121949",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Microsoft evaluates Kimi K3 for Copilot to cut costs, risking Trump administration backlash",
+      "url": "https://wccftech.com/microsoft-looking-to-save-as-much-as-600-million-by-swapping-gpt-and-claude-for-chinas-kimi-k3-in-copilot-risking-a-rap-on-the-knuckles-from-the-trump-administration/",
+      "published_at": "2026-07-20T21:19:32+00:00",
+      "score": 30,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:121218",
+      "kind": "media",
+      "source": "TecMundo",
+      "source_icon": "",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Samsung to develop more OLED Tandem screens with new HDR standard",
+      "url": "https://www.tecmundo.com.br/produto/414660-samsung-fara-mais-telas-oled-tandem-com-novo-padrao-de-hdr.htm",
+      "published_at": "2026-07-20T20:00:00+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:121922",
+      "kind": "media",
+      "source": "Digital Trends",
+      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
+      "country": "US",
+      "section": "Dell Coverage",
+      "title": "Dell XPS 14 (2026) review highlights premium design and OLED display",
+      "url": "https://www.digitaltrends.com/computing/dell-xps-14-da14260-review-a-windows-laptop-i-wanted-to-keep-using/",
+      "published_at": "2026-07-20T19:18:53+00:00",
+      "score": 90,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "media:121922",
+      "kind": "media",
+      "source": "Digital Trends",
+      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
+      "country": "US",
+      "section": "Dell Coverage",
+      "title": "Dell XPS 14 (2026) review highlights premium design and OLED display",
+      "url": "https://www.digitaltrends.com/computing/dell-xps-14-da14260-review-a-windows-laptop-i-wanted-to-keep-using/",
+      "published_at": "2026-07-20T19:18:53+00:00",
+      "score": 90,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:121721",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Nvidia collaborates with Japan on national AI project FRONTia",
+      "url": "https://www.techradar.com/pro/nvidia-is-building-the-worlds-first-national-ai-japans-frontia-project-could-be-the-next-big-step-forward-in-global-progress-but-is-this-a-step-too-far",
+      "published_at": "2026-07-20T19:05:00+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:120541",
       "kind": "media",
@@ -5772,86 +5891,20 @@
       "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:112566",
+      "id": "media:121632",
       "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "AMD Ryzen AI MAX PRO 400 gets ROCm 7.14 support",
-      "url": "https://www.tudocelular.com/software/noticias/n258817/amd-prepara-terreno-ryzen-ai-max-pro-400-rocm-714.html",
-      "published_at": "2026-07-16T14:44:00+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:114149",
-      "kind": "media",
-      "source": "Trusted Reviews",
-      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "title": "Acer Swift Go 14 AI (2026) reviewed as a complete ultrabook",
-      "url": "https://www.trustedreviews.com/reviews/acer-swift-go-14-ai-2026",
-      "published_at": "2026-07-16T14:27:01+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:75434",
-      "kind": "youtube",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Market Trends",
-      "title": "Reviewing the Steam Machine's 6/10 score and its performance issues",
-      "url": "https://www.youtube.com/shorts/qaA1wxcS4lw",
-      "published_at": "2026-07-16T14:26:27+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:111850",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
-      "title": "Microsoft’s July update blocked on some Dell PCs due to Intel driver issues",
-      "url": "https://www.pcworld.com/article/3192859/microsofts-july-update-is-blocked-on-some-dell-pcs-heres-why.html",
-      "published_at": "2026-07-16T14:26:06+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:111850",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft’s July update blocked on some Dell PCs due to Intel driver issues",
-      "url": "https://www.pcworld.com/article/3192859/microsofts-july-update-is-blocked-on-some-dell-pcs-heres-why.html",
-      "published_at": "2026-07-16T14:26:06+00:00",
-      "score": 40,
+      "title": "Windows 11 Storage Sense misused for two years led to accidental file deletion",
+      "url": "https://www.xda-developers.com/used-windows-storage-sense-wrong-it-was-deleting-files-i-needed/",
+      "published_at": "2026-07-20T21:30:10+00:00",
+      "score": 45,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Microsoft",
@@ -5859,41 +5912,107 @@
       "is_dell_story": false
     },
     {
-      "id": "media:111850",
+      "id": "media:121212",
       "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
+      "source": "TecMundo",
+      "source_icon": "",
+      "country": "BR",
       "section": "Ecosystem",
-      "title": "Microsoft’s July update blocked on some Dell PCs due to Intel driver issues",
-      "url": "https://www.pcworld.com/article/3192859/microsofts-july-update-is-blocked-on-some-dell-pcs-heres-why.html",
-      "published_at": "2026-07-16T14:26:06+00:00",
-      "score": 40,
+      "title": "DDR5 RAM prices surge 450% in Germany over 12 months",
+      "url": "https://www.tecmundo.com.br/mercado/414669-preco-de-ram-ddr5-aumenta-quase-450-em-12-meses-na-alemanha.htm",
+      "published_at": "2026-07-20T21:30:00+00:00",
+      "score": 45,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Framework",
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:121949",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Microsoft evaluates Kimi K3 for Copilot to cut costs, risking Trump administration backlash",
+      "url": "https://wccftech.com/microsoft-looking-to-save-as-much-as-600-million-by-swapping-gpt-and-claude-for-chinas-kimi-k3-in-copilot-risking-a-rap-on-the-knuckles-from-the-trump-administration/",
+      "published_at": "2026-07-20T21:19:32+00:00",
+      "score": 30,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:111850",
+      "id": "media:121218",
       "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
+      "source": "TecMundo",
+      "source_icon": "",
+      "country": "BR",
       "section": "Ecosystem",
-      "title": "Microsoft’s July update blocked on some Dell PCs due to Intel driver issues",
-      "url": "https://www.pcworld.com/article/3192859/microsofts-july-update-is-blocked-on-some-dell-pcs-heres-why.html",
-      "published_at": "2026-07-16T14:26:06+00:00",
+      "title": "Samsung to develop more OLED Tandem screens with new HDR standard",
+      "url": "https://www.tecmundo.com.br/produto/414660-samsung-fara-mais-telas-oled-tandem-com-novo-padrao-de-hdr.htm",
+      "published_at": "2026-07-20T20:00:00+00:00",
       "score": 40,
       "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:121922",
+      "kind": "media",
+      "source": "Digital Trends",
+      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
+      "country": "US",
+      "section": "Dell Coverage",
+      "title": "Dell XPS 14 (2026) review highlights premium design and OLED display",
+      "url": "https://www.digitaltrends.com/computing/dell-xps-14-da14260-review-a-windows-laptop-i-wanted-to-keep-using/",
+      "published_at": "2026-07-20T19:18:53+00:00",
+      "score": 90,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "media:121922",
+      "kind": "media",
+      "source": "Digital Trends",
+      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
+      "country": "US",
+      "section": "Dell Coverage",
+      "title": "Dell XPS 14 (2026) review highlights premium design and OLED display",
+      "url": "https://www.digitaltrends.com/computing/dell-xps-14-da14260-review-a-windows-laptop-i-wanted-to-keep-using/",
+      "published_at": "2026-07-20T19:18:53+00:00",
+      "score": 90,
+      "is_review": true,
       "is_sponsored": false,
       "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "media:121721",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Nvidia collaborates with Japan on national AI project FRONTia",
+      "url": "https://www.techradar.com/pro/nvidia-is-building-the-worlds-first-national-ai-japans-frontia-project-could-be-the-next-big-step-forward-in-global-progress-but-is-this-a-step-too-far",
+      "published_at": "2026-07-20T19:05:00+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:120541",
       "kind": "media",

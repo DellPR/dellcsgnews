@@ -12,6 +12,7 @@
     refreshing: false,
     view: "feed",
     metricWindow: "all",
+    outletQuery: "",
     metricJumpIds: null,
     metricJumpLabel: "",
   };
@@ -33,9 +34,12 @@
   const controlsEl = document.querySelector(".controls");
   const viewSwitch = document.getElementById("viewSwitch");
   const metricsView = document.getElementById("metricsView");
+  const outletsView = document.getElementById("outletsView");
   const brandMetricsEl = document.getElementById("brandMetrics");
+  const outletsDashboard = document.getElementById("outletsDashboard");
   const feedHead = document.getElementById("feedHead");
   const metricWindow = document.getElementById("metricWindow");
+  const outletWindow = document.getElementById("outletWindow");
 
   function escapeHtml(value) {
     return String(value ?? "").replace(/[&<>"']/g, ch => ({
@@ -179,8 +183,9 @@
   function canonicalBrand(item) {
     const blob = itemBlob(item).toLowerCase();
     const company = String(item.company || "").toLowerCase();
-    if (/\balienware\b/.test(blob)) return "alienware";
-    if (company === "dell" || /\b(dell|xps|latitude|precision|inspiron|optiplex|ultrasharp)\b/.test(blob)) return "dell";
+    const productCompany = `${item.product || ""} ${item.company || ""}`.toLowerCase();
+    if (company === "alienware" || /\balienware\b/.test(productCompany)) return "alienware";
+    if (company === "dell" || item.is_dell_story || /\b(dell|xps|latitude|precision|inspiron|optiplex|ultrasharp|dell pro|dell 14s|dell 16s)\b/.test(productCompany)) return "dell";
     const comp = competitorBrand(item);
     if (comp !== "other") return comp;
     if (/\b(nvidia|geforce|rtx)\b/.test(blob)) return "nvidia";
@@ -553,8 +558,103 @@
     return rows.filter(item => metricRowMatchesKey(item, filterName));
   }
 
+  function dedupeMetricRows(rows) {
+    const seen = new Set();
+    return rows.filter(item => {
+      const key = String(item.id || item.url || `${item.source || ""}:${item.title || ""}:${item.published_at || ""}`);
+      if (!key || seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+  }
+
+  function sourceKey(value) {
+    return String(value || "Unknown Outlet").trim().toLowerCase();
+  }
+
+  function sourceTypeLabel(outlet) {
+    if (outlet.youtube > 0 && outlet.media > 0) return "Media + YouTube";
+    if (outlet.youtube > 0) return "YouTube";
+    if (outlet.x > 0) return "X Watch";
+    return "Media";
+  }
+
+  function outletRowsForJump(source, metricKey) {
+    const wanted = sourceKey(source);
+    return metricWindowRows(brandMetricsData())
+      .filter(item => sourceKey(item.source) === wanted)
+      .filter(item => {
+        if (metricKey === "reviews") return Boolean(item.is_review);
+        if (metricKey && metricKey.startsWith("brand:")) {
+          const brand = metricKey.slice("brand:".length).toLowerCase();
+          return String(item.brand || "").toLowerCase() === brand;
+        }
+        return true;
+      });
+  }
+
+  function outletStats() {
+    const rows = metricWindowRows(brandMetricsData());
+    const byOutlet = {};
+    rows.forEach(item => {
+      const source = item.source || "Unknown Outlet";
+      const key = sourceKey(source);
+      const outlet = byOutlet[key] || {
+        source,
+        icon: "",
+        rows: [],
+        unique: new Map(),
+        reviews: new Set(),
+        youtube: 0,
+        media: 0,
+        x: 0,
+        scoreSum: 0,
+        brandCounts: {
+          Dell: new Set(),
+          Alienware: new Set(),
+          Lenovo: new Set(),
+          Asus: new Set(),
+          HP: new Set(),
+          Acer: new Set(),
+          Apple: new Set(),
+        },
+      };
+      const uniqueKey = String(item.id || item.url || `${item.source || ""}:${item.title || ""}:${item.published_at || ""}`);
+      outlet.rows.push(item);
+      if (item.source_icon && !outlet.icon) outlet.icon = item.source_icon;
+      if (uniqueKey && !outlet.unique.has(uniqueKey)) {
+        outlet.unique.set(uniqueKey, item);
+        outlet.scoreSum += Number(item.score || 0);
+        if (item.kind === "youtube") outlet.youtube += 1;
+        else if (item.kind === "x") outlet.x += 1;
+        else outlet.media += 1;
+        if (item.is_review) outlet.reviews.add(uniqueKey);
+      }
+      const brand = String(item.brand || "");
+      const matchedBrand = Object.keys(outlet.brandCounts).find(name => name.toLowerCase() === brand.toLowerCase());
+      if (matchedBrand && uniqueKey) outlet.brandCounts[matchedBrand].add(uniqueKey);
+      byOutlet[key] = outlet;
+    });
+    return Object.values(byOutlet).map(outlet => {
+      const total = outlet.unique.size;
+      return {
+        source: outlet.source,
+        icon: outlet.icon,
+        total,
+        reviews: outlet.reviews.size,
+        youtube: outlet.youtube,
+        media: outlet.media,
+        x: outlet.x,
+        avgScore: total ? Math.round((outlet.scoreSum / total) * 10) / 10 : 0,
+        type: sourceTypeLabel(outlet),
+        brandCounts: Object.fromEntries(Object.entries(outlet.brandCounts).map(([brand, set]) => [brand, set.size])),
+      };
+    }).filter(outlet => outlet.total > 0)
+      .sort((a, b) => b.total - a.total || b.reviews - a.reviews || a.source.localeCompare(b.source));
+  }
+
   function setMetricJump(rows, label) {
-    const ids = rows.map(item => String(item.id || "")).filter(Boolean);
+    const ids = dedupeMetricRows(rows).map(item => String(item.id || "")).filter(Boolean);
     state.metricJumpIds = ids.length ? new Set(ids) : new Set();
     state.metricJumpLabel = label || "";
   }
@@ -883,16 +983,92 @@
       </section>`;
   }
 
+  function renderOutletBrandPills(outlet) {
+    const brands = ["Dell", "Alienware", "Lenovo", "Asus", "HP", "Acer", "Apple"];
+    return brands.map(brand => {
+      const count = Number(outlet.brandCounts[brand] || 0);
+      const disabled = count <= 0 ? " disabled" : "";
+      return `<button type="button" class="outlet-brand-pill" data-outlet-source="${escapeHtml(outlet.source)}" data-outlet-metric="brand:${brand.toLowerCase()}"${disabled}>
+        <i style="background:${brandColor(brand)}"></i><span>${escapeHtml(brand)}</span><b>${metricNumber(count)}</b>
+      </button>`;
+    }).join("");
+  }
+
+  function renderOutlets() {
+    if (!outletsDashboard) return;
+    const allOutlets = outletStats();
+    const outletQuery = state.outletQuery.trim().toLowerCase();
+    const outlets = outletQuery
+      ? allOutlets.filter(outlet => outlet.source.toLowerCase().includes(outletQuery))
+      : allOutlets;
+    const totalStories = outlets.reduce((sum, outlet) => sum + outlet.total, 0);
+    const totalReviews = outlets.reduce((sum, outlet) => sum + outlet.reviews, 0);
+    const youtubeOutlets = outlets.filter(outlet => outlet.youtube > 0).length;
+    const topOutlet = outlets[0];
+    const cards = outlets.map(outlet => {
+      const icon = outlet.icon
+        ? `<img src="${escapeHtml(outlet.icon)}" alt="">`
+        : `<span>${escapeHtml(outlet.source.slice(0, 1).toUpperCase())}</span>`;
+      return `<article class="outlet-card">
+        <div class="outlet-card-head">
+          <button type="button" class="outlet-logo" data-outlet-source="${escapeHtml(outlet.source)}" data-outlet-metric="total">${icon}</button>
+          <div>
+            <h3>${escapeHtml(outlet.source)}</h3>
+            <p>${escapeHtml(outlet.type)} · avg relevance ${escapeHtml(outlet.avgScore)}</p>
+          </div>
+        </div>
+        <div class="outlet-kpis">
+          <button type="button" data-outlet-source="${escapeHtml(outlet.source)}" data-outlet-metric="total"><strong>${metricNumber(outlet.total)}</strong><span>Stories</span></button>
+          <button type="button" data-outlet-source="${escapeHtml(outlet.source)}" data-outlet-metric="reviews"><strong>${metricNumber(outlet.reviews)}</strong><span>Reviews</span></button>
+          <span><strong>${metricNumber(outlet.youtube)}</strong><span>YouTube</span></span>
+          <span><strong>${metricNumber(outlet.media)}</strong><span>Media</span></span>
+        </div>
+        <details class="outlet-brand-details">
+          <summary>Brand breakdown</summary>
+          <div class="outlet-brand-grid">${renderOutletBrandPills(outlet)}</div>
+        </details>
+      </article>`;
+    }).join("");
+
+    outletsDashboard.innerHTML = `
+      <div class="outlets-intro">
+        <h3>Source intelligence</h3>
+        <p>Monitored outlets and channels ranked by newsletter-ready coverage. Current view: <strong>${metricWindowLabel()}</strong>. Click any story, review, or brand count to jump into the filtered news feed.</p>
+      </div>
+      <div class="outlet-search-wrap">
+        <input id="outletSearch" type="search" value="${escapeHtml(state.outletQuery)}" placeholder="Search monitored outlets and channels" autocomplete="off">
+      </div>
+      <div class="outlet-summary-grid">
+        <div><span>Outlets</span><strong>${metricNumber(outlets.length)}</strong></div>
+        <div><span>Stories</span><strong>${metricNumber(totalStories)}</strong></div>
+        <div><span>Reviews</span><strong>${metricNumber(totalReviews)}</strong></div>
+        <div><span>YouTube outlets</span><strong>${metricNumber(youtubeOutlets)}</strong></div>
+      </div>
+      ${topOutlet ? `<section class="outlet-leader">
+        <div>
+          <span class="beta-kicker">Most active source</span>
+          <h3>${escapeHtml(topOutlet.source)}</h3>
+          <p>${metricNumber(topOutlet.total)} stories and ${metricNumber(topOutlet.reviews)} reviews in ${metricWindowLabel()}.</p>
+        </div>
+        <button type="button" data-outlet-source="${escapeHtml(topOutlet.source)}" data-outlet-metric="total">Open feed</button>
+      </section>` : ""}
+      <section class="outlets-grid">${cards || `<div class="empty">No outlet data found for ${metricWindowLabel()}.</div>`}</section>
+    `;
+  }
+
   function renderView() {
     const isMetrics = state.view === "metrics";
+    const isOutlets = state.view === "outlets";
     if (metricsView) metricsView.hidden = !isMetrics;
-    if (topStoryHead) topStoryHead.hidden = isMetrics;
-    if (highlightsEl) highlightsEl.hidden = isMetrics;
-    if (feedHead) feedHead.hidden = isMetrics;
-    if (feedEl) feedEl.hidden = isMetrics;
-    if (loadMore) loadMore.hidden = isMetrics;
-    if (controlsEl) controlsEl.classList.toggle("metrics-mode", isMetrics);
+    if (outletsView) outletsView.hidden = !isOutlets;
+    if (topStoryHead) topStoryHead.hidden = isMetrics || isOutlets;
+    if (highlightsEl) highlightsEl.hidden = isMetrics || isOutlets;
+    if (feedHead) feedHead.hidden = isMetrics || isOutlets;
+    if (feedEl) feedEl.hidden = isMetrics || isOutlets;
+    if (loadMore) loadMore.hidden = isMetrics || isOutlets;
+    if (controlsEl) controlsEl.classList.toggle("metrics-mode", isMetrics || isOutlets);
     if (isMetrics) renderBrandMetrics();
+    if (isOutlets) renderOutlets();
   }
 
   function renderHighlights() {
@@ -1026,12 +1202,31 @@
     });
   }
 
+  function activateView(name) {
+    state.view = name;
+    if (viewSwitch) {
+      viewSwitch.querySelectorAll("button[data-view]").forEach(btn => {
+        btn.classList.toggle("active", btn.dataset.view === name);
+      });
+    }
+    document.querySelectorAll("[data-beta-nav]").forEach(btn => {
+      btn.classList.toggle("active", btn.dataset.betaNav === name);
+    });
+    const command = document.getElementById("betaCommandCenter");
+    if (command) command.hidden = name !== "feed";
+  }
+
+  function syncMetricWindowButtons() {
+    document.querySelectorAll("[data-metric-window]").forEach(btn => {
+      btn.classList.toggle("active", btn.dataset.metricWindow === state.metricWindow);
+    });
+  }
+
   function jumpToBrandFeed(brand, metricKey) {
     const normalized = String(brand || "").toLowerCase();
     const metricRows = metricRowsForBrandJump(normalized, metricKey || "total");
     setMetricJump(metricRows, `${brand} ${metricKey || "stories"} - ${metricWindowLabel()}`);
-    state.view = "feed";
-    if (viewSwitch) viewSwitch.querySelectorAll("button[data-view]").forEach(btn => btn.classList.toggle("active", btn.dataset.view === "feed"));
+    activateView("feed");
     search.value = "";
     state.query = "";
     state.productFilter = "all";
@@ -1071,14 +1266,27 @@
   function jumpToKpiFilter(filterName) {
     const metricRows = metricRowsForKpiJump(filterName);
     setMetricJump(metricRows, `${filterName} - ${metricWindowLabel()}`);
-    state.view = "feed";
-    if (viewSwitch) viewSwitch.querySelectorAll("button[data-view]").forEach(btn => btn.classList.toggle("active", btn.dataset.view === "feed"));
+    activateView("feed");
     search.value = "";
     state.query = "";
     state.productFilter = "all";
     state.competitorFilter = "all";
     state.youtubeBrandFilter = "all";
     activateMainFilter(filterName);
+    applyFilters();
+    document.getElementById("feedHead")?.scrollIntoView({behavior: "smooth", block: "start"});
+  }
+
+  function jumpToOutletFeed(source, metricKey) {
+    const rows = outletRowsForJump(source, metricKey || "total");
+    setMetricJump(rows, `${source} ${metricKey || "stories"} - ${metricWindowLabel()}`);
+    activateView("feed");
+    search.value = rows.some(item => item.id) ? "" : source;
+    state.query = search.value;
+    state.productFilter = "all";
+    state.competitorFilter = "all";
+    state.youtubeBrandFilter = "all";
+    activateMainFilter(metricKey === "reviews" ? "review" : "all");
     applyFilters();
     document.getElementById("feedHead")?.scrollIntoView({behavior: "smooth", block: "start"});
   }
@@ -1092,6 +1300,26 @@
       }
       const kpiBtn = event.target.closest("[data-kpi-filter]");
       if (kpiBtn) jumpToKpiFilter(kpiBtn.dataset.kpiFilter);
+    });
+  }
+
+  if (outletsDashboard) {
+    outletsDashboard.addEventListener("click", event => {
+      const outletBtn = event.target.closest("[data-outlet-source]");
+      if (!outletBtn || outletBtn.disabled) return;
+      jumpToOutletFeed(outletBtn.dataset.outletSource, outletBtn.dataset.outletMetric || "total");
+    });
+    outletsDashboard.addEventListener("input", event => {
+      const input = event.target.closest("#outletSearch");
+      if (!input) return;
+      state.outletQuery = input.value;
+      renderOutlets();
+      const nextInput = document.getElementById("outletSearch");
+      if (nextInput) {
+        nextInput.focus();
+        const end = nextInput.value.length;
+        nextInput.setSelectionRange(end, end);
+      }
     });
   }
 
@@ -1111,9 +1339,7 @@
       const button = event.target.closest("button[data-view]");
       if (!button) return;
       event.preventDefault();
-      viewSwitch.querySelectorAll("button").forEach(btn => btn.classList.remove("active"));
-      button.classList.add("active");
-      state.view = button.dataset.view;
+      activateView(button.dataset.view);
       renderView();
     });
   }
@@ -1123,10 +1349,20 @@
       const button = event.target.closest("button[data-metric-window]");
       if (!button) return;
       event.preventDefault();
-      metricWindow.querySelectorAll("button").forEach(btn => btn.classList.remove("active"));
-      button.classList.add("active");
       state.metricWindow = button.dataset.metricWindow;
+      syncMetricWindowButtons();
       renderBrandMetrics();
+    });
+  }
+
+  if (outletWindow) {
+    outletWindow.addEventListener("click", event => {
+      const button = event.target.closest("button[data-metric-window]");
+      if (!button) return;
+      event.preventDefault();
+      state.metricWindow = button.dataset.metricWindow;
+      syncMetricWindowButtons();
+      renderOutlets();
     });
   }
 
@@ -1201,5 +1437,20 @@
     boot();
   }
 
-  window.__monitorHubDebug = {state, applyFilters};
+  window.__monitorHubDebug = {
+    state,
+    applyFilters,
+    showExactItems(rows, label = "Command Center") {
+      setMetricJump(Array.isArray(rows) ? rows : [], label);
+      activateView("feed");
+      search.value = "";
+      state.query = "";
+      state.productFilter = "all";
+      state.competitorFilter = "all";
+      state.youtubeBrandFilter = "all";
+      activateMainFilter("all");
+      applyFilters();
+      document.getElementById("feedHead")?.scrollIntoView({behavior: "smooth", block: "start"});
+    }
+  };
 })();

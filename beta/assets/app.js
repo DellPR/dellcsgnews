@@ -183,8 +183,9 @@
   function canonicalBrand(item) {
     const blob = itemBlob(item).toLowerCase();
     const company = String(item.company || "").toLowerCase();
-    if (/\balienware\b/.test(blob)) return "alienware";
-    if (company === "dell" || /\b(dell|xps|latitude|precision|inspiron|optiplex|ultrasharp)\b/.test(blob)) return "dell";
+    const productCompany = `${item.product || ""} ${item.company || ""}`.toLowerCase();
+    if (company === "alienware" || /\balienware\b/.test(productCompany)) return "alienware";
+    if (company === "dell" || item.is_dell_story || /\b(dell|xps|latitude|precision|inspiron|optiplex|ultrasharp|dell pro|dell 14s|dell 16s)\b/.test(productCompany)) return "dell";
     const comp = competitorBrand(item);
     if (comp !== "other") return comp;
     if (/\b(nvidia|geforce|rtx)\b/.test(blob)) return "nvidia";
