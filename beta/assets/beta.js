@@ -59,15 +59,24 @@
     return /\balienware\b|\baw\d{3,5}[a-z]{0,3}\b/i.test(text);
   }
 
+  function primaryCompetitorBrand(item) {
+    const value = String((item && (item.company || item.brand)) || "").toLowerCase();
+    const competitors = ["lenovo", "asus", "hp", "acer", "apple", "msi", "framework", "samsung", "microsoft", "lg", "razer", "positivo"];
+    return competitors.includes(value);
+  }
+
   function isDellItem(item) {
     if (isAlienwareItem(item)) return false;
-    const text = itemText(item);
+    const company = String((item && (item.company || item.brand)) || "").toLowerCase();
+    const product = String((item && item.product) || "").toLowerCase();
+    const title = String((item && (item.display_title || item.title)) || "").toLowerCase();
     const explicitDell = item && (
-      item.is_dell_story ||
-      String(item.brand || "").toLowerCase() === "dell" ||
-      String(item.company || "").toLowerCase() === "dell"
+      company === "dell" ||
+      (item.is_dell_story && !primaryCompetitorBrand(item))
     );
-    return Boolean(explicitDell || /\b(dell|xps|latitude|inspiron|precision|optiplex|ultrasharp|dell pro|dell 14s|dell 16s)\b/i.test(text));
+    const productDell = /\b(dell|xps|latitude|inspiron|precision|optiplex|ultrasharp|dell pro|dell 14s|dell 16s)\b/i.test(product);
+    const titleDell = !primaryCompetitorBrand(item) && /\b(dell|xps|latitude|inspiron|precision|optiplex|ultrasharp|dell pro|dell 14s|dell 16s)\b/i.test(title);
+    return Boolean(explicitDell || productDell || titleDell);
   }
 
   function computeDellShare() {
