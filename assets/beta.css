@@ -322,6 +322,63 @@ body.beta-app {
 
 .beta-command[hidden] { display: none !important; }
 
+.beta-app .feed-context-panel {
+  margin-top: 16px;
+  padding: 18px;
+  background: white;
+  border: 1px solid var(--beta-line);
+  border-left: 4px solid var(--beta-blue);
+  border-radius: 8px;
+  box-shadow: 0 5px 20px rgba(25,61,84,.055);
+}
+
+.beta-app .feed-context-panel[hidden] { display: none !important; }
+
+.beta-app .feed-context-head { margin-bottom: 14px; }
+
+.beta-app .feed-context-head h2 {
+  margin: 2px 0 4px;
+  color: var(--beta-ink);
+  font-size: 20px;
+  line-height: 1.15;
+}
+
+.beta-app .feed-context-head p {
+  margin: 0;
+  color: #617487;
+  font-size: 13px;
+}
+
+.beta-app .feed-context-chart .metric-panel {
+  box-shadow: none;
+  border-color: #dbe7ee;
+}
+
+.beta-app .feed-context-chart .metric-panel h3 { display: none; }
+
+.beta-app .feed-context-chart .pie-wrap {
+  grid-template-columns: minmax(210px, 270px) minmax(0, 1fr);
+  justify-items: stretch;
+  gap: 26px;
+}
+
+.beta-app .feed-context-chart .pie-visual {
+  display: grid;
+  place-items: center;
+  height: 220px;
+}
+
+.beta-app .feed-context-chart .pie-chart {
+  width: 220px;
+  height: 220px;
+}
+
+.beta-app .feed-context-chart .pie-legend {
+  align-content: center;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px 18px;
+}
+
 .beta-command-head {
   display: flex;
   align-items: flex-start;
@@ -1007,6 +1064,28 @@ body.beta-app {
   }
   .beta-command-metrics strong { font-size: 23px; }
   .beta-command-metrics span { font-size: 8px; }
+
+  .beta-app .feed-context-panel {
+    margin-top: 12px;
+    padding: 15px 13px;
+  }
+
+  .beta-app .feed-context-head h2 { font-size: 17px; }
+
+  .beta-app .feed-context-chart .pie-wrap {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .beta-app .feed-context-chart .pie-visual,
+  .beta-app .feed-context-chart .pie-chart {
+    width: 150px;
+    height: 150px;
+  }
+
+  .beta-app .feed-context-chart .pie-legend {
+    grid-template-columns: 1fr;
+  }
 
   .beta-app .section-head { margin-top: 20px; }
 

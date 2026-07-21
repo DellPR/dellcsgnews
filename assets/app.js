@@ -918,6 +918,47 @@
     </section>`;
   }
 
+  function renderFeedContextPanel() {
+    if (!feedContextPanel) return;
+    const config = {
+      review: {
+        title: "Review Share Of Voice",
+        valueKey: "reviews",
+        empty: "No CSG/OEM product reviews in this period.",
+        note: "Brand share among product reviews in the current metrics window.",
+      },
+      youtube: {
+        title: "YouTube Share Of Voice",
+        valueKey: "youtube",
+        empty: "No CSG/OEM YouTube brand coverage in this period.",
+        note: "Brand share among YouTube items in the current metrics window.",
+      },
+      deals: {
+        title: "Deals Share Of Voice",
+        valueKey: "deals",
+        empty: "No CSG/OEM deals coverage in this period.",
+        note: "Brand share among deal/commerce items in the current metrics window.",
+      },
+    }[state.filter];
+    const shouldShow = state.view === "feed" && Boolean(config);
+    feedContextPanel.hidden = !shouldShow;
+    if (!shouldShow) {
+      feedContextPanel.innerHTML = "";
+      return;
+    }
+    const rows = metricWindowRows(brandMetricsData()).sort((a, b) => metricItemTime(b) - metricItemTime(a));
+    const shareBrands = summarizeMetricRows(shareMetricRows(rows));
+    feedContextPanel.innerHTML = `
+      <div class="feed-context-head">
+        <span class="beta-kicker">Filtered intelligence</span>
+        <h2>${escapeHtml(config.title)}</h2>
+        <p>${escapeHtml(config.note)} Current view: <strong>${metricWindowLabel()}</strong>.</p>
+      </div>
+      <div class="feed-context-chart">
+        ${renderPieChart(config.title, shareBrands, config.valueKey, config.empty, ["Dell", "Alienware"])}
+      </div>`;
+  }
+
   function metricIsDeal(item) {
     return isDeal(item);
   }
@@ -1091,6 +1132,7 @@
   function renderView() {
     const isMetrics = state.view === "metrics";
     const isOutlets = state.view === "outlets";
+    const showCommand = state.view === "feed" && state.filter === "all" && !state.query.trim() && !(state.metricJumpIds instanceof Set);
     if (metricsView) metricsView.hidden = !isMetrics;
     if (outletsView) outletsView.hidden = !isOutlets;
     if (topStoryHead) topStoryHead.hidden = isMetrics || isOutlets;
@@ -1099,6 +1141,9 @@
     if (feedEl) feedEl.hidden = isMetrics || isOutlets;
     if (loadMore) loadMore.hidden = isMetrics || isOutlets;
     if (controlsEl) controlsEl.classList.toggle("metrics-mode", isMetrics || isOutlets);
+    const command = document.getElementById("betaCommandCenter");
+    if (command) command.hidden = !showCommand;
+    renderFeedContextPanel();
     if (isMetrics) renderBrandMetrics();
     if (isOutlets) renderOutlets();
   }
@@ -1373,6 +1418,14 @@
       }
       const kpiBtn = event.target.closest("[data-kpi-filter]");
       if (kpiBtn) jumpToKpiFilter(kpiBtn.dataset.kpiFilter);
+    });
+  }
+
+  if (feedContextPanel) {
+    feedContextPanel.addEventListener("click", event => {
+      const brandBtn = event.target.closest("[data-brand-jump]");
+      if (!brandBtn) return;
+      jumpToBrandFeed(brandBtn.dataset.brandJump, brandBtn.dataset.metricKey);
     });
   }
 

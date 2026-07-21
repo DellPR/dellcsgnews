@@ -193,12 +193,18 @@
   function updateCommandVisibility() {
     const metricsButton = document.querySelector('#viewSwitch button[data-view="metrics"]');
     const outletsButton = document.querySelector('#viewSwitch button[data-view="outlets"]');
+    const allButton = document.querySelector('#tabs button[data-filter="all"]');
+    const search = document.getElementById("search");
     const command = document.getElementById("betaCommandCenter");
     const nonFeed = Boolean(
       (metricsButton && metricsButton.classList.contains("active")) ||
       (outletsButton && outletsButton.classList.contains("active"))
     );
-    if (command) command.hidden = nonFeed;
+    const filteredFeed = Boolean(
+      allButton && !allButton.classList.contains("active") ||
+      search && search.value.trim()
+    );
+    if (command) command.hidden = nonFeed || filteredFeed;
   }
 
   function updateBottomNav(mode) {
