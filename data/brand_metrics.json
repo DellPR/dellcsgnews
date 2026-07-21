@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T16:31:48.193216+00:00",
-  "total_items": 3477,
+  "generated_at": "2026-07-21T18:09:19.440231+00:00",
+  "total_items": 3480,
   "brands": [
     {
       "brand": "Microsoft",
@@ -73,9 +73,9 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 362,
+      "total": 363,
       "media": 289,
-      "youtube": 73,
+      "youtube": 74,
       "reviews": 49,
       "sponsored": 4,
       "dell_stories": 0,
@@ -117,7 +117,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 209
+          "count": 210
         },
         {
           "section": "Market Trends",
@@ -141,13 +141,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 333,
+      "total": 334,
       "media": 273,
-      "youtube": 60,
+      "youtube": 61,
       "reviews": 61,
       "sponsored": 6,
-      "dell_stories": 175,
-      "high_signal": 141,
+      "dell_stories": 176,
+      "high_signal": 142,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -185,7 +185,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 138
+          "count": 139
         },
         {
           "section": "Ecosystem",
@@ -204,7 +204,7 @@
           "count": 15
         }
       ],
-      "avg_score": 69.0
+      "avg_score": 69.1
     },
     {
       "brand": "Intel",
@@ -949,13 +949,13 @@
     {
       "brand": "Alienware",
       "family": "Dell family",
-      "total": 62,
+      "total": 63,
       "media": 40,
-      "youtube": 22,
+      "youtube": 23,
       "reviews": 22,
       "sponsored": 1,
-      "dell_stories": 56,
-      "high_signal": 40,
+      "dell_stories": 57,
+      "high_signal": 41,
       "top_sources": [
         {
           "source": "PCWorld",
@@ -964,6 +964,10 @@
         {
           "source": "Tom's Hardware",
           "count": 6
+        },
+        {
+          "source": "Lipe Mal Estar",
+          "count": 4
         },
         {
           "source": "TudoCelular",
@@ -978,10 +982,6 @@
           "count": 3
         },
         {
-          "source": "Lipe Mal Estar",
-          "count": 3
-        },
-        {
           "source": "Short Circuit",
           "count": 3
         },
@@ -993,7 +993,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 40
+          "count": 41
         },
         {
           "section": "Deals",
@@ -1008,7 +1008,7 @@
           "count": 1
         }
       ],
-      "avg_score": 76.4
+      "avg_score": 76.5
     },
     {
       "brand": "Acer",
@@ -1631,17 +1631,17 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 256,
-        "Dell": 135,
+        "Dell": 136,
         "Intel": 132,
         "NVIDIA": 125,
         "AMD": 99,
-        "Apple": 97,
+        "Apple": 98,
         "Lenovo": 82,
         "Valve": 81,
         "Samsung": 72,
         "Asus": 70,
         "HP": 41,
-        "Alienware": 30,
+        "Alienware": 31,
         "Qualcomm": 20,
         "MSI": 19,
         "Amazon": 18,
@@ -1650,6 +1650,23 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:84735",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "MacBook Neo vs Air vs Pro // Which is Ideal for You?",
+      "url": "https://www.youtube.com/shorts/jAI0o27bKKU",
+      "published_at": "2026-07-21T17:00:23+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:122272",
       "kind": "media",
@@ -5882,26 +5899,26 @@
       "brand": "AMD",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:113651",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "Microsoft ends OneDrive support for Windows 10 22H1 on August 15",
-      "url": "https://www.adrenaline.com.br/microsoft/windows/microsoft-encerrara-suporte-ao-onedrive-em-versoes-antigas-do-windows-10/",
-      "published_at": "2026-07-17T00:52:05+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:84735",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "MacBook Neo vs Air vs Pro // Which is Ideal for You?",
+      "url": "https://www.youtube.com/shorts/jAI0o27bKKU",
+      "published_at": "2026-07-21T17:00:23+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:122272",
       "kind": "media",
@@ -16101,6 +16118,40 @@
       "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
+    },
+    {
+      "id": "youtube:68248",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Influencer setup video features Alienware AW3425DW monitor",
+      "url": "https://www.youtube.com/watch?v=l9_ZY8jxboU",
+      "published_at": "2026-07-11T13:30:23+00:00",
+      "score": 88,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:68248",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "title": "Influencer setup video features Alienware AW3425DW monitor",
+      "url": "https://www.youtube.com/watch?v=l9_ZY8jxboU",
+      "published_at": "2026-07-11T13:30:23+00:00",
+      "score": 88,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
     },
     {
       "id": "youtube:68145",
