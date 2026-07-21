@@ -49,6 +49,20 @@
     }[ch]));
   }
 
+  function countryFlag(value) {
+    const raw = String(value || "").trim().toUpperCase();
+    const code = raw === "UK" ? "GB" : raw;
+    if (!/^[A-Z]{2}$/.test(code)) return raw;
+    return String.fromCodePoint(...[...code].map(ch => 0x1F1E6 + ch.charCodeAt(0) - 65));
+  }
+
+  function countryChip(value) {
+    if (!value) return "";
+    const raw = String(value || "").trim().toUpperCase();
+    const flag = countryFlag(raw);
+    return `<span class="chip country" title="${escapeHtml(raw)}" aria-label="${escapeHtml(raw)}">${escapeHtml(flag)}</span>`;
+  }
+
   function itemTime(item) {
     const raw = item.published_at || item.captured_at;
     const date = raw ? new Date(raw) : null;
@@ -363,7 +377,7 @@
   function itemChips(item) {
     const parts = [];
     parts.push(chip(item.source || "Source", "source", item.source_icon));
-    if (item.country) parts.push(chip(item.country));
+    if (item.country) parts.push(countryChip(item.country));
     if (item.kind === "youtube") parts.push(chip("YouTube", "youtube"));
     if (item.is_review) parts.push(chip("Review", "review"));
     if (item.is_sponsored) parts.push(chip("Sponsored", "sponsored"));
@@ -425,7 +439,7 @@
     const sourceChips = [
       chip(item.source || "Source", "source", item.source_icon),
       item.kind === "youtube" ? chip("YouTube", "youtube") : "",
-      item.country ? chip(item.country) : "",
+      item.country ? countryChip(item.country) : "",
       item.is_review ? chip("Review", "review") : "",
       item.is_sponsored ? chip("Sponsored", "sponsored") : "",
       item.is_short ? chip("Shorts", "short") : "",

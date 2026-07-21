@@ -548,6 +548,7 @@ body.beta-app {
 
 .beta-app .chip img { width: 17px; height: 17px; border-radius: 50%; }
 .beta-app .chip.source { color: #124e78; background: #edf7fd; }
+.beta-app .chip.country { min-width: 25px; justify-content: center; padding: 5px 6px; font-size: 15px; line-height: 1; background: #f4f8fb; }
 .beta-app .chip.youtube { color: #a81e1e; background: #fff0ef; }
 .beta-app .chip.review { color: #216b48; background: #eaf7ef; }
 .beta-app .chip.sponsored { color: #725500; background: #fff4d3; }
