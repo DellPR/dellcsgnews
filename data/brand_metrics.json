@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-21T12:03:55.322057+00:00",
-  "total_items": 3432,
+  "generated_at": "2026-07-21T13:56:59.149778+00:00",
+  "total_items": 3464,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 568,
-      "media": 550,
+      "total": 572,
+      "media": 554,
       "youtube": 18,
       "reviews": 12,
       "sponsored": 0,
@@ -15,11 +15,11 @@
       "top_sources": [
         {
           "source": "Windows Central",
-          "count": 93
+          "count": 94
         },
         {
           "source": "WinFuture",
-          "count": 80
+          "count": 81
         },
         {
           "source": "PCWorld",
@@ -31,7 +31,7 @@
         },
         {
           "source": "XDA Developers",
-          "count": 34
+          "count": 35
         },
         {
           "source": "The Register",
@@ -39,7 +39,7 @@
         },
         {
           "source": "TudoCelular",
-          "count": 30
+          "count": 31
         },
         {
           "source": "Digital Trends",
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 468
+          "count": 472
         },
         {
           "section": "Competitor Coverage",
@@ -73,8 +73,8 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 361,
-      "media": 288,
+      "total": 363,
+      "media": 290,
       "youtube": 73,
       "reviews": 50,
       "sponsored": 4,
@@ -117,7 +117,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 209
+          "count": 210
         },
         {
           "section": "Market Trends",
@@ -129,7 +129,7 @@
         },
         {
           "section": "Deals",
-          "count": 36
+          "count": 37
         },
         {
           "section": "Dell Coverage",
@@ -139,19 +139,87 @@
       "avg_score": 57.4
     },
     {
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "total": 324,
+      "media": 259,
+      "youtube": 65,
+      "reviews": 43,
+      "sponsored": 7,
+      "dell_stories": 0,
+      "high_signal": 22,
+      "top_sources": [
+        {
+          "source": "Wccftech",
+          "count": 55
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 43
+        },
+        {
+          "source": "Adrenaline",
+          "count": 31
+        },
+        {
+          "source": "TudoCelular",
+          "count": 26
+        },
+        {
+          "source": "HotHardware",
+          "count": 25
+        },
+        {
+          "source": "PCWorld",
+          "count": 16
+        },
+        {
+          "source": "TechRadar",
+          "count": 12
+        },
+        {
+          "source": "Notebookcheck Reviews",
+          "count": 7
+        }
+      ],
+      "sections": [
+        {
+          "section": "Ecosystem",
+          "count": 177
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 86
+        },
+        {
+          "section": "Deals",
+          "count": 31
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 20
+        },
+        {
+          "section": "Market Trends",
+          "count": 10
+        }
+      ],
+      "avg_score": 59.5
+    },
+    {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 319,
-      "media": 259,
+      "total": 322,
+      "media": 262,
       "youtube": 60,
-      "reviews": 59,
+      "reviews": 60,
       "sponsored": 6,
       "dell_stories": 146,
       "high_signal": 102,
       "top_sources": [
         {
           "source": "TechRadar",
-          "count": 25
+          "count": 26
         },
         {
           "source": "Windows Central",
@@ -159,7 +227,7 @@
         },
         {
           "source": "PCWorld",
-          "count": 21
+          "count": 22
         },
         {
           "source": "Tom's Hardware",
@@ -189,7 +257,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 104
+          "count": 105
         },
         {
           "section": "Deals",
@@ -197,88 +265,20 @@
         },
         {
           "section": "Market Trends",
-          "count": 23
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 16
-        }
-      ],
-      "avg_score": 62.1
-    },
-    {
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "total": 319,
-      "media": 254,
-      "youtube": 65,
-      "reviews": 42,
-      "sponsored": 7,
-      "dell_stories": 0,
-      "high_signal": 22,
-      "top_sources": [
-        {
-          "source": "Wccftech",
-          "count": 54
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 41
-        },
-        {
-          "source": "Adrenaline",
-          "count": 30
-        },
-        {
-          "source": "TudoCelular",
-          "count": 26
-        },
-        {
-          "source": "HotHardware",
           "count": 24
         },
         {
-          "source": "PCWorld",
-          "count": 16
-        },
-        {
-          "source": "TechRadar",
-          "count": 12
-        },
-        {
-          "source": "Notebookcheck Reviews",
-          "count": 7
-        }
-      ],
-      "sections": [
-        {
-          "section": "Ecosystem",
-          "count": 174
-        },
-        {
           "section": "Competitor Coverage",
-          "count": 84
-        },
-        {
-          "section": "Deals",
-          "count": 31
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 20
-        },
-        {
-          "section": "Market Trends",
-          "count": 10
+          "count": 17
         }
       ],
-      "avg_score": 59.5
+      "avg_score": 62.2
     },
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 288,
-      "media": 271,
+      "total": 294,
+      "media": 277,
       "youtube": 17,
       "reviews": 6,
       "sponsored": 1,
@@ -287,15 +287,15 @@
       "top_sources": [
         {
           "source": "Wccftech",
-          "count": 61
+          "count": 63
         },
         {
           "source": "Tom's Hardware",
-          "count": 39
+          "count": 40
         },
         {
           "source": "Adrenaline",
-          "count": 23
+          "count": 25
         },
         {
           "source": "TechRadar",
@@ -321,7 +321,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 236
+          "count": 242
         },
         {
           "section": "Competitor Coverage",
@@ -340,13 +340,13 @@
           "count": 4
         }
       ],
-      "avg_score": 45.9
+      "avg_score": 46.0
     },
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 284,
-      "media": 264,
+      "total": 286,
+      "media": 266,
       "youtube": 20,
       "reviews": 11,
       "sponsored": 0,
@@ -355,7 +355,7 @@
       "top_sources": [
         {
           "source": "Wccftech",
-          "count": 56
+          "count": 57
         },
         {
           "source": "Tom's Hardware",
@@ -375,7 +375,7 @@
         },
         {
           "source": "XDA Developers",
-          "count": 19
+          "count": 20
         },
         {
           "source": "TechRadar",
@@ -389,7 +389,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 208
+          "count": 210
         },
         {
           "section": "Competitor Coverage",
@@ -408,13 +408,13 @@
           "count": 1
         }
       ],
-      "avg_score": 51.5
+      "avg_score": 51.4
     },
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 252,
-      "media": 210,
+      "total": 253,
+      "media": 211,
       "youtube": 42,
       "reviews": 2,
       "sponsored": 0,
@@ -434,12 +434,12 @@
           "count": 19
         },
         {
-          "source": "The Verge",
+          "source": "TechRadar",
           "count": 19
         },
         {
-          "source": "TechRadar",
-          "count": 18
+          "source": "The Verge",
+          "count": 19
         },
         {
           "source": "XDA Developers",
@@ -457,7 +457,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 238
+          "count": 239
         },
         {
           "section": "Ecosystem",
@@ -477,28 +477,28 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 181,
-      "media": 111,
+      "total": 185,
+      "media": 115,
       "youtube": 70,
-      "reviews": 61,
+      "reviews": 64,
       "sponsored": 5,
       "dell_stories": 0,
       "high_signal": 9,
       "top_sources": [
         {
+          "source": "PCWorld",
+          "count": 13
+        },
+        {
           "source": "Tech BR",
           "count": 12
         },
         {
-          "source": "Adrenaline",
-          "count": 11
-        },
-        {
-          "source": "PCWorld",
-          "count": 11
-        },
-        {
           "source": "TechRadar",
+          "count": 12
+        },
+        {
+          "source": "Adrenaline",
           "count": 11
         },
         {
@@ -521,7 +521,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 131
+          "count": 135
         },
         {
           "section": "Deals",
@@ -540,7 +540,7 @@
           "count": 5
         }
       ],
-      "avg_score": 63.5
+      "avg_score": 63.7
     },
     {
       "brand": "Asus",
@@ -1005,8 +1005,8 @@
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 46,
-      "media": 29,
+      "total": 47,
+      "media": 30,
       "youtube": 17,
       "reviews": 13,
       "sponsored": 4,
@@ -1049,7 +1049,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 25
+          "count": 26
         },
         {
           "section": "Deals",
@@ -1064,7 +1064,7 @@
           "count": 2
         }
       ],
-      "avg_score": 56.0
+      "avg_score": 56.2
     },
     {
       "brand": "Google",
@@ -1133,8 +1133,8 @@
     {
       "brand": "OpenAI",
       "family": "Other",
-      "total": 24,
-      "media": 24,
+      "total": 28,
+      "media": 28,
       "youtube": 0,
       "reviews": 0,
       "sponsored": 0,
@@ -1143,11 +1143,15 @@
       "top_sources": [
         {
           "source": "Wccftech",
-          "count": 6
+          "count": 7
         },
         {
           "source": "Computerworld",
-          "count": 2
+          "count": 3
+        },
+        {
+          "source": "TechRadar",
+          "count": 3
         },
         {
           "source": "Tecnoblog",
@@ -1168,23 +1172,19 @@
         {
           "source": "Engadget",
           "count": 1
-        },
-        {
-          "source": "Exame",
-          "count": 1
         }
       ],
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 21
+          "count": 25
         },
         {
           "section": "Market Trends",
           "count": 3
         }
       ],
-      "avg_score": 42.0
+      "avg_score": 42.3
     },
     {
       "brand": "Framework",
@@ -1622,14 +1622,14 @@
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 252,
-        "Dell": 129,
-        "Intel": 126,
-        "NVIDIA": 119,
-        "AMD": 97,
-        "Apple": 96,
-        "Lenovo": 81,
-        "Valve": 80,
+        "Microsoft": 256,
+        "Dell": 132,
+        "Intel": 131,
+        "NVIDIA": 125,
+        "AMD": 99,
+        "Apple": 98,
+        "Lenovo": 85,
+        "Valve": 81,
         "Samsung": 72,
         "Asus": 69,
         "HP": 41,
@@ -1642,6 +1642,397 @@
     }
   ],
   "recent": [
+    {
+      "id": "media:122272",
+      "kind": "media",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Intel updates Arc Graphics driver, adds Arc G3 support",
+      "url": "https://www.adrenaline.com.br/intel/driver-intel-arc-graphics-101-8864-corrige-bug-em-black-flag-resynced-e-traz-suporte-ao-arc-g3/",
+      "published_at": "2026-07-21T12:52:36+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122820",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "3D-printed Steam Machine case project gains attention",
+      "url": "https://www.techradar.com/gaming/consoles-pc/ill-fated-companion-cube-case-for-steam-machine-returns-as-a-3d-printed-effort-and-its-not-the-only-striking-diy-project-around-valves-gaming-pc",
+      "published_at": "2026-07-21T12:26:19+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122820",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "3D-printed Steam Machine case project gains attention",
+      "url": "https://www.techradar.com/gaming/consoles-pc/ill-fated-companion-cube-case-for-steam-machine-returns-as-a-3d-printed-effort-and-its-not-the-only-striking-diy-project-around-valves-gaming-pc",
+      "published_at": "2026-07-21T12:26:19+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122488",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Intel lays off Data Center group employees amid AI chip focus",
+      "url": "https://www.tomshardware.com/tech-industry/policy/intel-layoffs-to-hit-data-center-group-division-focused-on-server-cpus-ai-chips-and-data-center-architecture-to-be-hit-by-an-unknown-number-of-cuts",
+      "published_at": "2026-07-21T12:23:05+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122821",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Rushed AI deployments risk business trust due to data governance issues",
+      "url": "https://www.techradar.com/pro/the-trust-problem-with-agentic-ai-is-really-a-data-problem-new-report-shows-rushing-into-ai-deployment-could-cost-your-business-big-time",
+      "published_at": "2026-07-21T12:15:00+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "OpenAI",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122536",
+      "kind": "media",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Windows 11 updates aim to improve touchpad and Start menu functionality",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-is-one-step-closer-to-fixing-laptop-touchpads-and-the-start-menu",
+      "published_at": "2026-07-21T12:10:49+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123051",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Acer Announces Pricing for Intel Arc G3-Based Predator Atlas 8 Handhelds",
+      "url": "https://wccftech.com/acer-reveals-arc-g3-based-predator-atlas-8-will-cost-at-least-1340/",
+      "published_at": "2026-07-21T12:04:08+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123051",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Acer Announces Pricing for Intel Arc G3-Based Predator Atlas 8 Handhelds",
+      "url": "https://wccftech.com/acer-reveals-arc-g3-based-predator-atlas-8-will-cost-at-least-1340/",
+      "published_at": "2026-07-21T12:04:08+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122611",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Leather jacket auction, GTA mod, and Hannah Montana Linux distro",
+      "url": "https://www.pcworld.com/article/3195078/cant-get-a-steam-deck-buy-a-300-mini-pc-instead.html",
+      "published_at": "2026-07-21T12:00:00+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122273",
+      "kind": "media",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "NVIDIA DLSS 5 introduces three modes and individual character/object control",
+      "url": "https://www.adrenaline.com.br/nvidia/nvidia-dlss-5-vai-ter-tres-modos-e-controle-individual-de-personagens-e-objetos/",
+      "published_at": "2026-07-21T11:33:30+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122490",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "title": "Apple offers $400 discount on new 14-inch MacBook Pro M5",
+      "url": "https://www.tomshardware.com/laptops/macbooks/save-usd400-on-a-new-14-inch-macbook-pro-m5-48gb-of-ram-a-1tb-ssd-and-a-16-core-processor-for-usd2-699",
+      "published_at": "2026-07-21T11:28:53+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122492",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "SMIC's N+3 process achieves higher transistor density than TSMC N6 without EUV",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/smics-third-gen-7nm-node-shows-smaller-metal-pitch-than-intel-18a-higher-transistor-density-than-tsmc-n6-without-euv-analysis-of-n-3-shows-significant-advancement-for-chinese-semi-manufacturing",
+      "published_at": "2026-07-21T11:00:00+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122612",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Dell 14S laptop review highlights battery life and cooling but notes weak GPU performance",
+      "url": "https://www.pcworld.com/article/3192849/dell-14s-review.html",
+      "published_at": "2026-07-21T10:30:00+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122612",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Dell 14S laptop review highlights battery life and cooling but notes weak GPU performance",
+      "url": "https://www.pcworld.com/article/3192849/dell-14s-review.html",
+      "published_at": "2026-07-21T10:30:00+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122834",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Agentic AI in enterprise: Architecture vs marketing claims",
+      "url": "https://www.techradar.com/pro/agentic-ai-in-the-enterprise-why-architecture-matters-more-than-marketing-claims",
+      "published_at": "2026-07-21T10:17:24+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "OpenAI",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123075",
+      "kind": "media",
+      "source": "WinFuture",
+      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
+      "country": "DE",
+      "section": "Ecosystem",
+      "title": "Microsoft tests Chinese AI model Kimi K3 for Copilot integration",
+      "url": "https://winfuture.de/news,160112.html",
+      "published_at": "2026-07-21T10:11:00+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123174",
+      "kind": "media",
+      "source": "The Register",
+      "source_icon": "https://www.google.com/s2/favicons?domain=theregister.com&sz=64",
+      "country": "GB",
+      "section": "Dell Coverage",
+      "title": "Startup uses Dell PowerEdge with refrigerants for AI cooling",
+      "url": "https://www.theregister.com/systems/2026/07/21/scalding-hot-ai-accelerators-have-put-datacenters-in-hot-water-two-phase-cooling-could-chill-them-out/5275293",
+      "published_at": "2026-07-21T10:00:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122839",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Review: Lenovo's Yoga Slim 7x Gen 11: Thin design with notable performance",
+      "url": "https://www.techradar.com/computing/laptops/lenovo-yoga-slim-7x-gen-11-review",
+      "published_at": "2026-07-21T09:51:25+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122496",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Nvidia launches Synthetic Video Detector with 92% accuracy for AI video detection",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-new-synthetic-video-detector-can-identify-fake-ai-videos-with-up-to-92-percent-accuracy-microservice-based-on-cutting-edge-research-looks-to-combat-misinformation-in-broadcasts-with-just-22ms-processing-time",
+      "published_at": "2026-07-21T09:30:00+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122261",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Windows 11 26H1 Release Preview improves Start Menu and File Explorer performance",
+      "url": "https://www.tudocelular.com/software/noticias/n259061/windows-11-26h1-recebe-melhorias-no-desempenho.html",
+      "published_at": "2026-07-21T05:32:00+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122798",
+      "kind": "media",
+      "source": "Computerworld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "EU AI Act mandates transparency labels for AI-generated content",
+      "url": "https://www.computerworld.com/article/4199141/the-eus-ai-transparency-deadline-is-weeks-away-is-your-enterprise-ready-2.html",
+      "published_at": "2026-07-21T01:50:08+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "OpenAI",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122276",
+      "kind": "media",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Brazilian team unlocks per-GDDR6 memory chip temperature reading on NVIDIA GPUs",
+      "url": "https://www.adrenaline.com.br/hardware/equipe-brasileira-desbloqueia-leitura-da-temperatura-de-cada-chip-de-memoria-gddr6-e-gddr6x-das-gpus-nvidia/",
+      "published_at": "2026-07-21T00:21:06+00:00",
+      "score": 34,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123060",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "NVIDIA Acquires Massive Dark Fiber Capacity for AI Infrastructure",
+      "url": "https://wccftech.com/nvidia-is-secretly-acquiring-massive-dark-fiber-capacity-across-the-us-with-total-bandwidth-potentially-reaching-an-unbelievable-7-6-petabits-sec/",
+      "published_at": "2026-07-20T23:44:52+00:00",
+      "score": 34,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:83775",
       "kind": "youtube",
@@ -1656,6 +2047,108 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122738",
+      "kind": "media",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Windows 11 Beta adds Start customization, touchpad tweaks",
+      "url": "https://www.xda-developers.com/windows-11s-new-beta-build-finally-adds-some-much-desired-start-customization-options/",
+      "published_at": "2026-07-20T23:02:51+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122739",
+      "kind": "media",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "FSR 4.1 may reduce need for handheld GPU upgrades",
+      "url": "https://www.xda-developers.com/fsr-making-handheld-gpu-upgrades-irrelevant-what-the-market-needed/",
+      "published_at": "2026-07-20T23:00:10+00:00",
+      "score": 34,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123061",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD unveils Helios AI Rack with MI455X GPUs and 6th Gen EPYC CPUs",
+      "url": "https://wccftech.com/amd-helios-ai-rack-mi455x-6th-gen-epyc-challenging-nvidia/",
+      "published_at": "2026-07-20T22:45:05+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "OpenAI",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123061",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD unveils Helios AI Rack with MI455X GPUs and 6th Gen EPYC CPUs",
+      "url": "https://wccftech.com/amd-helios-ai-rack-mi455x-6th-gen-epyc-challenging-nvidia/",
+      "published_at": "2026-07-20T22:45:05+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123061",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD unveils Helios AI Rack with MI455X GPUs and 6th Gen EPYC CPUs",
+      "url": "https://wccftech.com/amd-helios-ai-rack-mi455x-6th-gen-epyc-challenging-nvidia/",
+      "published_at": "2026-07-20T22:45:05+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123039",
+      "kind": "media",
+      "source": "Digital Trends",
+      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "NVIDIA introduces AI tool to detect deepfake videos in 22 milliseconds",
+      "url": "https://www.digitaltrends.com/computing/nvidias-new-ai-can-detect-deepfake-videos-in-just-22-milliseconds/",
+      "published_at": "2026-07-20T22:05:58+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
     },
@@ -1843,6 +2336,40 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122742",
+      "kind": "media",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition Review",
+      "url": "https://hothardware.com/reviews/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-review",
+      "published_at": "2026-07-20T18:56:00+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122742",
+      "kind": "media",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition Review",
+      "url": "https://hothardware.com/reviews/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-review",
+      "published_at": "2026-07-20T18:56:00+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
     },
@@ -2558,6 +3085,23 @@
       "is_sponsored": false,
       "brand": "NVIDIA",
       "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122775",
+      "kind": "media",
+      "source": "Trusted Reviews",
+      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
+      "country": "GB",
+      "section": "Competitor Coverage",
+      "title": "Apple’s cancelled Extreme M-series chip for Mac Pro would have been powerful",
+      "url": "https://www.trustedreviews.com/news/apples-cancelled-extreme-m-series-chip-would-have-been-a-beast",
+      "published_at": "2026-07-20T13:33:38+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -5347,34 +5891,274 @@
       "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:119711",
-      "kind": "media",
-      "source": "TechSpot",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "AMD Ryzen 7 5800X3D 10th Anniversary Edition Review",
-      "url": "https://www.techspot.com/review/3149-amd-ryzen-5800x3d-anniversary-edition/",
-      "published_at": "2026-07-17T05:02:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:113651",
+      "id": "media:122272",
       "kind": "media",
       "source": "Adrenaline",
       "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
       "country": "BR",
       "section": "Ecosystem",
-      "title": "Microsoft ends OneDrive support for Windows 10 22H1 on August 15",
-      "url": "https://www.adrenaline.com.br/microsoft/windows/microsoft-encerrara-suporte-ao-onedrive-em-versoes-antigas-do-windows-10/",
-      "published_at": "2026-07-17T00:52:05+00:00",
+      "title": "Intel updates Arc Graphics driver, adds Arc G3 support",
+      "url": "https://www.adrenaline.com.br/intel/driver-intel-arc-graphics-101-8864-corrige-bug-em-black-flag-resynced-e-traz-suporte-ao-arc-g3/",
+      "published_at": "2026-07-21T12:52:36+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122820",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "3D-printed Steam Machine case project gains attention",
+      "url": "https://www.techradar.com/gaming/consoles-pc/ill-fated-companion-cube-case-for-steam-machine-returns-as-a-3d-printed-effort-and-its-not-the-only-striking-diy-project-around-valves-gaming-pc",
+      "published_at": "2026-07-21T12:26:19+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122820",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "3D-printed Steam Machine case project gains attention",
+      "url": "https://www.techradar.com/gaming/consoles-pc/ill-fated-companion-cube-case-for-steam-machine-returns-as-a-3d-printed-effort-and-its-not-the-only-striking-diy-project-around-valves-gaming-pc",
+      "published_at": "2026-07-21T12:26:19+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122488",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Intel lays off Data Center group employees amid AI chip focus",
+      "url": "https://www.tomshardware.com/tech-industry/policy/intel-layoffs-to-hit-data-center-group-division-focused-on-server-cpus-ai-chips-and-data-center-architecture-to-be-hit-by-an-unknown-number-of-cuts",
+      "published_at": "2026-07-21T12:23:05+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122821",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Rushed AI deployments risk business trust due to data governance issues",
+      "url": "https://www.techradar.com/pro/the-trust-problem-with-agentic-ai-is-really-a-data-problem-new-report-shows-rushing-into-ai-deployment-could-cost-your-business-big-time",
+      "published_at": "2026-07-21T12:15:00+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "OpenAI",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122536",
+      "kind": "media",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Windows 11 updates aim to improve touchpad and Start menu functionality",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-is-one-step-closer-to-fixing-laptop-touchpads-and-the-start-menu",
+      "published_at": "2026-07-21T12:10:49+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123051",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Acer Announces Pricing for Intel Arc G3-Based Predator Atlas 8 Handhelds",
+      "url": "https://wccftech.com/acer-reveals-arc-g3-based-predator-atlas-8-will-cost-at-least-1340/",
+      "published_at": "2026-07-21T12:04:08+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123051",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Acer Announces Pricing for Intel Arc G3-Based Predator Atlas 8 Handhelds",
+      "url": "https://wccftech.com/acer-reveals-arc-g3-based-predator-atlas-8-will-cost-at-least-1340/",
+      "published_at": "2026-07-21T12:04:08+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122611",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Leather jacket auction, GTA mod, and Hannah Montana Linux distro",
+      "url": "https://www.pcworld.com/article/3195078/cant-get-a-steam-deck-buy-a-300-mini-pc-instead.html",
+      "published_at": "2026-07-21T12:00:00+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122273",
+      "kind": "media",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "NVIDIA DLSS 5 introduces three modes and individual character/object control",
+      "url": "https://www.adrenaline.com.br/nvidia/nvidia-dlss-5-vai-ter-tres-modos-e-controle-individual-de-personagens-e-objetos/",
+      "published_at": "2026-07-21T11:33:30+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122490",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "title": "Apple offers $400 discount on new 14-inch MacBook Pro M5",
+      "url": "https://www.tomshardware.com/laptops/macbooks/save-usd400-on-a-new-14-inch-macbook-pro-m5-48gb-of-ram-a-1tb-ssd-and-a-16-core-processor-for-usd2-699",
+      "published_at": "2026-07-21T11:28:53+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122492",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "SMIC's N+3 process achieves higher transistor density than TSMC N6 without EUV",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/smics-third-gen-7nm-node-shows-smaller-metal-pitch-than-intel-18a-higher-transistor-density-than-tsmc-n6-without-euv-analysis-of-n-3-shows-significant-advancement-for-chinese-semi-manufacturing",
+      "published_at": "2026-07-21T11:00:00+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122612",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Dell 14S laptop review highlights battery life and cooling but notes weak GPU performance",
+      "url": "https://www.pcworld.com/article/3192849/dell-14s-review.html",
+      "published_at": "2026-07-21T10:30:00+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122612",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Dell 14S laptop review highlights battery life and cooling but notes weak GPU performance",
+      "url": "https://www.pcworld.com/article/3192849/dell-14s-review.html",
+      "published_at": "2026-07-21T10:30:00+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122834",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Agentic AI in enterprise: Architecture vs marketing claims",
+      "url": "https://www.techradar.com/pro/agentic-ai-in-the-enterprise-why-architecture-matters-more-than-marketing-claims",
+      "published_at": "2026-07-21T10:17:24+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "OpenAI",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123075",
+      "kind": "media",
+      "source": "WinFuture",
+      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
+      "country": "DE",
+      "section": "Ecosystem",
+      "title": "Microsoft tests Chinese AI model Kimi K3 for Copilot integration",
+      "url": "https://winfuture.de/news,160112.html",
+      "published_at": "2026-07-21T10:11:00+00:00",
       "score": 50,
       "is_review": false,
       "is_sponsored": false,
@@ -5383,84 +6167,16 @@
       "is_dell_story": false
     },
     {
-      "id": "media:113786",
+      "id": "media:123174",
       "kind": "media",
-      "source": "Mundo Conectado",
-      "source_icon": "https://www.google.com/s2/favicons?domain=mundoconectado.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "Google renames NotebookLM to Gemini Notebook, expands AI integration",
-      "url": "https://www.mundoconectado.com.br/google/google-renomeia-notebooklm-para-gemini-notebook-e-amplia-integracao-com-ia/",
-      "published_at": "2026-07-17T00:36:18+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Google",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:113991",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Apple's new AI-enhanced Siri focuses on practical tasks over companionship",
-      "url": "https://www.pcworld.com/article/3192911/the-new-ai-enhanced-siri-is-quietly-revolutionary-heres-why.html",
-      "published_at": "2026-07-17T00:00:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:114228",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "title": "MacBook users file sharp corners for wrist comfort",
-      "url": "https://www.techradar.com/computing/macbook-users-are-filing-off-the-sharp-corners-of-their-laptops-for-better-wrist-comfort",
-      "published_at": "2026-07-17T00:00:00+00:00",
+      "source": "The Register",
+      "source_icon": "https://www.google.com/s2/favicons?domain=theregister.com&sz=64",
+      "country": "GB",
+      "section": "Dell Coverage",
+      "title": "Startup uses Dell PowerEdge with refrigerants for AI cooling",
+      "url": "https://www.theregister.com/systems/2026/07/21/scalding-hot-ai-accelerators-have-put-datacenters-in-hot-water-two-phase-cooling-could-chill-them-out/5275293",
+      "published_at": "2026-07-21T10:00:00+00:00",
       "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:113703",
-      "kind": "media",
-      "source": "TecMundo",
-      "source_icon": "",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "AMD launches Ryzen 7 7700X3D with strong gaming performance",
-      "url": "https://www.tecmundo.com.br/produto/414608-amd-lanca-ryzen-7-7700x3d-com-performance-forte-para-games.htm",
-      "published_at": "2026-07-16T23:00:00+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:113037",
-      "kind": "media",
-      "source": "XDA Developers",
-      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "DDR5 RAM memory training slower than DDR4 impacts boot times",
-      "url": "https://www.xda-developers.com/am5-boot-time-long-blame-ram-settings/",
-      "published_at": "2026-07-16T21:30:10+00:00",
-      "score": 45,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Dell",
@@ -5468,15 +6184,15 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:77249",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
+      "id": "media:122839",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
       "section": "Competitor Coverage",
-      "title": "Lipe Mal Estar reviews Lenovo IdeaPad Slim 3 as an affordable all-rounder laptop",
-      "url": "https://www.youtube.com/watch?v=nu3TrOmv2oo",
-      "published_at": "2026-07-16T21:15:10+00:00",
+      "title": "Review: Lenovo's Yoga Slim 7x Gen 11: Thin design with notable performance",
+      "url": "https://www.techradar.com/computing/laptops/lenovo-yoga-slim-7x-gen-11-review",
+      "published_at": "2026-07-21T09:51:25+00:00",
       "score": 78,
       "is_review": true,
       "is_sponsored": false,
@@ -5485,287 +6201,15 @@
       "is_dell_story": false
     },
     {
-      "id": "media:113046",
+      "id": "media:122496",
       "kind": "media",
-      "source": "HotHardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
-      "title": "Microsoft sets new Patch Tuesday record with 570 security fixes using AI",
-      "url": "https://hothardware.com/news/ai-helps-microsoft-smash-patch-tuesday-record-with-570-security-fixes",
-      "published_at": "2026-07-16T20:35:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:111701",
-      "kind": "media",
-      "source": "Engadget",
-      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "AMD Ryzen 7 7700X3D chip available at $329",
-      "url": "https://www.engadget.com/2216899/amd-ryzen-7-7700x3d-chip-now-available-for-329/",
-      "published_at": "2026-07-16T18:44:25+00:00",
-      "score": 45,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:112275",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "title": "Microsoft delays deprecation of Exchange Online PowerShell credential parameter",
-      "url": "https://winfuture.de/news,160035.html",
-      "published_at": "2026-07-16T18:05:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:119714",
-      "kind": "media",
-      "source": "TechSpot",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft's July Patch Tuesday addresses 570 bugs, some Dell PCs delayed",
-      "url": "https://www.techspot.com/news/113144-microsoft-latest-patch-tuesday-fixes-570-security-bugs.html",
-      "published_at": "2026-07-16T18:03:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:119714",
-      "kind": "media",
-      "source": "TechSpot",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft's July Patch Tuesday addresses 570 bugs, some Dell PCs delayed",
-      "url": "https://www.techspot.com/news/113144-microsoft-latest-patch-tuesday-fixes-570-security-bugs.html",
-      "published_at": "2026-07-16T18:03:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:112254",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "TSMC CEO Comments on Semiconductor Competition and Samsung's Profits",
-      "url": "https://wccftech.com/tsmc-ceo-stresses-choosing-chipmaking-tech-isnt-like-buying-milk-from-7-eleven-admits-hes-jealous-of-samsungs-profits/",
-      "published_at": "2026-07-16T18:02:31+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:111551",
-      "kind": "media",
-      "source": "TecMundo",
-      "source_icon": "",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "Microsoft suspends Windows 11 update on some Dell PCs",
-      "url": "https://www.tecmundo.com.br/produto/414596-microsoft-suspende-update-do-windows-11-em-alguns-pcs-da-dell-confira-o-motivo.htm",
-      "published_at": "2026-07-16T18:00:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:111551",
-      "kind": "media",
-      "source": "TecMundo",
-      "source_icon": "",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "Microsoft suspends Windows 11 update on some Dell PCs",
-      "url": "https://www.tecmundo.com.br/produto/414596-microsoft-suspende-update-do-windows-11-em-alguns-pcs-da-dell-confira-o-motivo.htm",
-      "published_at": "2026-07-16T18:00:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:112052",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Mozilla accuses Microsoft of anti-competitive browser design in Windows 11",
-      "url": "https://www.techradar.com/computing/browsers/firefox-vs-edge-fresh-shots-fired-in-browser-wars-as-mozilla-report-accuses-microsoft-of-using-harmful-design-to-undermine-choice-in-windows-11",
-      "published_at": "2026-07-16T18:00:00+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:111509",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "AMD ROCm 7.14 adds support for Ryzen AI Max PRO 400 ahead of launch",
-      "url": "https://www.adrenaline.com.br/amd/amd-rocm-7-14-ryzen-ai-max-pro-400/",
-      "published_at": "2026-07-16T17:57:26+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:111509",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "AMD ROCm 7.14 adds support for Ryzen AI Max PRO 400 ahead of launch",
-      "url": "https://www.adrenaline.com.br/amd/amd-rocm-7-14-ryzen-ai-max-pro-400/",
-      "published_at": "2026-07-16T17:57:26+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:111509",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "AMD ROCm 7.14 adds support for Ryzen AI Max PRO 400 ahead of launch",
-      "url": "https://www.adrenaline.com.br/amd/amd-rocm-7-14-ryzen-ai-max-pro-400/",
-      "published_at": "2026-07-16T17:57:26+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:114646",
-      "kind": "media",
-      "source": "TI Inside",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "title": "Lenovo's FIFA AI Pro used by 48 World Cup teams for tactical analysis",
-      "url": "https://tiinside.com.br/16/07/2026/tecnologia-da-lenovo-traz-analises-taticas-para-48-selecoes-na-copa-do-mundo-2026/",
-      "published_at": "2026-07-16T17:17:49+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:111590",
-      "kind": "media",
-      "source": "Tecnoblog",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "title": "ASUS Vivobook Go 15 gets flash sale with 29% discount",
-      "url": "https://tecnoblog.net/achados/para-estudos-asus-vivobook-go-15-tem-oferta-relampago-em-ate-10x-sem-juros/",
-      "published_at": "2026-07-16T17:17:46+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:111590",
-      "kind": "media",
-      "source": "Tecnoblog",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "title": "ASUS Vivobook Go 15 gets flash sale with 29% discount",
-      "url": "https://tecnoblog.net/achados/para-estudos-asus-vivobook-go-15-tem-oferta-relampago-em-ate-10x-sem-juros/",
-      "published_at": "2026-07-16T17:17:46+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:111772",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft adds new Windows 11 Insider features in July",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-gets-6-useful-new-insider-features-in-early-july-and-one-could-save-your-pc",
-      "published_at": "2026-07-16T17:17:46+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:111554",
-      "kind": "media",
-      "source": "TecMundo",
-      "source_icon": "",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "Nvidia launches Cosmos 3 Edge and expands AI partnerships in Japan",
-      "url": "https://www.tecmundo.com.br/mercado/414601-nvidia-lanca-cosmos-3-edge-e-amplia-parcerias-de-ia-no-japao.htm",
-      "published_at": "2026-07-16T17:15:00+00:00",
+      "title": "Nvidia launches Synthetic Video Detector with 92% accuracy for AI video detection",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-new-synthetic-video-detector-can-identify-fake-ai-videos-with-up-to-92-percent-accuracy-microservice-based-on-cutting-edge-research-looks-to-combat-misinformation-in-broadcasts-with-just-22ms-processing-time",
+      "published_at": "2026-07-21T09:30:00+00:00",
       "score": 70,
       "is_review": false,
       "is_sponsored": false,
@@ -5774,49 +6218,15 @@
       "is_dell_story": false
     },
     {
-      "id": "media:112277",
+      "id": "media:122261",
       "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
       "section": "Ecosystem",
-      "title": "Ubuntu Kernel Update Causes AMD GPU Performance Drop",
-      "url": "https://winfuture.de/news,160034.html",
-      "published_at": "2026-07-16T17:10:00+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:112056",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft's Windows 11 faces new zero-day exploit 'LegacyHive'",
-      "url": "https://www.techradar.com/pro/security/microsoft-nemesis-returns-with-another-zero-day-poc-but-is-legacyhive-as-nasty-as-expected",
-      "published_at": "2026-07-16T17:05:00+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:112056",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Microsoft's Windows 11 faces new zero-day exploit 'LegacyHive'",
-      "url": "https://www.techradar.com/pro/security/microsoft-nemesis-returns-with-another-zero-day-poc-but-is-legacyhive-as-nasty-as-expected",
-      "published_at": "2026-07-16T17:05:00+00:00",
+      "title": "Windows 11 26H1 Release Preview improves Start Menu and File Explorer performance",
+      "url": "https://www.tudocelular.com/software/noticias/n259061/windows-11-26h1-recebe-melhorias-no-desempenho.html",
+      "published_at": "2026-07-21T05:32:00+00:00",
       "score": 40,
       "is_review": false,
       "is_sponsored": false,
@@ -5825,33 +6235,33 @@
       "is_dell_story": false
     },
     {
-      "id": "media:111723",
+      "id": "media:122798",
       "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "source": "Computerworld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
-      "title": "AMD Ryzen 7 7700X3D exclusive to Newegg until Q4 2026",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-7700x3d-is-exclusive-to-newegg-in-north-america-usd329-cpu-wont-be-available-at-other-vendors-until-at-least-q4",
-      "published_at": "2026-07-16T16:47:21+00:00",
+      "title": "EU AI Act mandates transparency labels for AI-generated content",
+      "url": "https://www.computerworld.com/article/4199141/the-eus-ai-transparency-deadline-is-weeks-away-is-your-enterprise-ready-2.html",
+      "published_at": "2026-07-21T01:50:08+00:00",
       "score": 40,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
+      "brand": "OpenAI",
+      "family": "Other",
       "is_dell_story": false
     },
     {
-      "id": "media:111556",
+      "id": "media:122276",
       "kind": "media",
-      "source": "TecMundo",
-      "source_icon": "",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
       "country": "BR",
       "section": "Ecosystem",
-      "title": "Virus imitates NVIDIA software to steal PC data",
-      "url": "https://www.tecmundo.com.br/seguranca/414588-virus-imita-programa-da-nvidia-para-invadir-e-roubar-pcs.htm",
-      "published_at": "2026-07-16T16:45:00+00:00",
-      "score": 45,
+      "title": "Brazilian team unlocks per-GDDR6 memory chip temperature reading on NVIDIA GPUs",
+      "url": "https://www.adrenaline.com.br/hardware/equipe-brasileira-desbloqueia-leitura-da-temperatura-de-cada-chip-de-memoria-gddr6-e-gddr6x-das-gpus-nvidia/",
+      "published_at": "2026-07-21T00:21:06+00:00",
+      "score": 34,
       "is_review": false,
       "is_sponsored": false,
       "brand": "NVIDIA",
@@ -5859,41 +6269,22 @@
       "is_dell_story": false
     },
     {
-      "id": "media:111971",
+      "id": "media:123060",
       "kind": "media",
-      "source": "XDA Developers",
-      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
       "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Microsoft offers Sony headphones with Surface purchases, but with a catch",
-      "url": "https://www.xda-developers.com/buy-the-latest-surface-get-free-sony-wh-1000xm6-headphones/",
-      "published_at": "2026-07-16T16:33:36+00:00",
-      "score": 55,
+      "section": "Ecosystem",
+      "title": "NVIDIA Acquires Massive Dark Fiber Capacity for AI Infrastructure",
+      "url": "https://wccftech.com/nvidia-is-secretly-acquiring-massive-dark-fiber-capacity-across-the-us-with-total-bandwidth-potentially-reaching-an-unbelievable-7-6-petabits-sec/",
+      "published_at": "2026-07-20T23:44:52+00:00",
+      "score": 34,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:75898",
-      "kind": "youtube",
-      "source": "JayzTwoCents",
-      "source_icon": "https://yt3.googleusercontent.com/60ZHdHfspX1q6YI8_RW8Zz8fyR8Ne5aDHIwQ0TGN-vFkBWp5J1htI2VsLQQsnVoQbGhIxmJ3lQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Market Trends",
-      "title": "Why I chose Bazzite over SteamOS for my 'J Machine'",
-      "url": "https://www.youtube.com/watch?v=_LB1wSLLsgU",
-      "published_at": "2026-07-16T16:15:33+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
+      "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "youtube:83775",
       "kind": "youtube",
@@ -5908,6 +6299,108 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122738",
+      "kind": "media",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Windows 11 Beta adds Start customization, touchpad tweaks",
+      "url": "https://www.xda-developers.com/windows-11s-new-beta-build-finally-adds-some-much-desired-start-customization-options/",
+      "published_at": "2026-07-20T23:02:51+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122739",
+      "kind": "media",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "FSR 4.1 may reduce need for handheld GPU upgrades",
+      "url": "https://www.xda-developers.com/fsr-making-handheld-gpu-upgrades-irrelevant-what-the-market-needed/",
+      "published_at": "2026-07-20T23:00:10+00:00",
+      "score": 34,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123061",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD unveils Helios AI Rack with MI455X GPUs and 6th Gen EPYC CPUs",
+      "url": "https://wccftech.com/amd-helios-ai-rack-mi455x-6th-gen-epyc-challenging-nvidia/",
+      "published_at": "2026-07-20T22:45:05+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "OpenAI",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123061",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD unveils Helios AI Rack with MI455X GPUs and 6th Gen EPYC CPUs",
+      "url": "https://wccftech.com/amd-helios-ai-rack-mi455x-6th-gen-epyc-challenging-nvidia/",
+      "published_at": "2026-07-20T22:45:05+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123061",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "AMD unveils Helios AI Rack with MI455X GPUs and 6th Gen EPYC CPUs",
+      "url": "https://wccftech.com/amd-helios-ai-rack-mi455x-6th-gen-epyc-challenging-nvidia/",
+      "published_at": "2026-07-20T22:45:05+00:00",
+      "score": 45,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:123039",
+      "kind": "media",
+      "source": "Digital Trends",
+      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "NVIDIA introduces AI tool to detect deepfake videos in 22 milliseconds",
+      "url": "https://www.digitaltrends.com/computing/nvidias-new-ai-can-detect-deepfake-videos-in-just-22-milliseconds/",
+      "published_at": "2026-07-20T22:05:58+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
     },
@@ -6095,6 +6588,40 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122742",
+      "kind": "media",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition Review",
+      "url": "https://hothardware.com/reviews/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-review",
+      "published_at": "2026-07-20T18:56:00+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122742",
+      "kind": "media",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition Review",
+      "url": "https://hothardware.com/reviews/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-review",
+      "published_at": "2026-07-20T18:56:00+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
     },
@@ -6810,6 +7337,23 @@
       "is_sponsored": false,
       "brand": "NVIDIA",
       "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122775",
+      "kind": "media",
+      "source": "Trusted Reviews",
+      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
+      "country": "GB",
+      "section": "Competitor Coverage",
+      "title": "Apple’s cancelled Extreme M-series chip for Mac Pro would have been powerful",
+      "url": "https://www.trustedreviews.com/news/apples-cancelled-extreme-m-series-chip-would-have-been-a-beast",
+      "published_at": "2026-07-20T13:33:38+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {

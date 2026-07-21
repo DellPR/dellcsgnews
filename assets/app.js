@@ -39,6 +39,7 @@
   const brandMetricsEl = document.getElementById("brandMetrics");
   const outletsDashboard = document.getElementById("outletsDashboard");
   const feedHead = document.getElementById("feedHead");
+  const feedContextPanel = document.getElementById("feedContextPanel");
   const metricWindow = document.getElementById("metricWindow");
   const outletWindow = document.getElementById("outletWindow");
 
