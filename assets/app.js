@@ -25,6 +25,7 @@
   const search = document.getElementById("search");
   const tabs = document.getElementById("tabs");
   const refreshFeed = document.getElementById("refreshFeed");
+  const resetFeed = document.getElementById("resetFeed");
   const productFilter = document.getElementById("productFilter");
   const competitorFilter = document.getElementById("competitorFilter");
   const youtubeBrandFilter = document.getElementById("youtubeBrandFilter");
@@ -1251,6 +1252,42 @@
     if (command) command.hidden = name !== "feed";
   }
 
+  function resetFilterButtons() {
+    tabs.querySelectorAll("button[data-filter]").forEach(btn => {
+      btn.classList.toggle("active", btn.dataset.filter === "all");
+    });
+    if (productFilter) {
+      productFilter.querySelectorAll("button[data-product-filter]").forEach(btn => {
+        btn.classList.toggle("active", btn.dataset.productFilter === "all");
+      });
+    }
+    if (competitorFilter) {
+      competitorFilter.querySelectorAll("button[data-competitor-filter]").forEach(btn => {
+        btn.classList.toggle("active", btn.dataset.competitorFilter === "all");
+      });
+    }
+    if (youtubeBrandFilter) {
+      youtubeBrandFilter.querySelectorAll("button[data-youtube-brand-filter]").forEach(btn => {
+        btn.classList.toggle("active", btn.dataset.youtubeBrandFilter === "all");
+      });
+    }
+  }
+
+  function resetFeedView() {
+    clearMetricJump();
+    activateView("feed");
+    state.filter = "all";
+    state.query = "";
+    state.productFilter = "all";
+    state.competitorFilter = "all";
+    state.youtubeBrandFilter = "all";
+    state.visible = 30;
+    if (search) search.value = "";
+    resetFilterButtons();
+    applyFilters();
+    document.getElementById("feedHead")?.scrollIntoView({behavior: "smooth", block: "start"});
+  }
+
   function syncMetricWindowButtons() {
     document.querySelectorAll("[data-metric-window]").forEach(btn => {
       btn.classList.toggle("active", btn.dataset.metricWindow === state.metricWindow);
@@ -1374,6 +1411,10 @@
       const button = event.target.closest("button[data-view]");
       if (!button) return;
       event.preventDefault();
+      if (button.dataset.view === "feed") {
+        resetFeedView();
+        return;
+      }
       activateView(button.dataset.view);
       renderView();
     });
@@ -1451,6 +1492,7 @@
     render();
   });
 
+  if (resetFeed) resetFeed.addEventListener("click", resetFeedView);
   refreshFeed.addEventListener("click", reloadWholeApp);
 
   let touchStartY = 0;

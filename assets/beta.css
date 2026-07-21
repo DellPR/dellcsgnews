@@ -286,7 +286,8 @@ body.beta-app {
   line-height: 1.35;
 }
 
-.beta-app .refresh-button {
+.beta-app .refresh-button,
+.beta-app .reset-button {
   display: inline-flex;
   align-items: center;
   gap: 6px;
@@ -300,7 +301,14 @@ body.beta-app {
   font-weight: 800;
 }
 
-.beta-app .refresh-button svg { width: 14px; height: 14px; }
+.beta-app .reset-button {
+  color: #435365;
+  background: #fff;
+  border-color: #d8e3ea;
+}
+
+.beta-app .refresh-button svg,
+.beta-app .reset-button svg { width: 14px; height: 14px; }
 
 .beta-command {
   margin-top: 16px;
@@ -980,7 +988,8 @@ body.beta-app {
   .beta-app .youtube-brand-filter > span { width: 100%; }
 
   .beta-app .status { font-size: 9px; }
-  .beta-app .refresh-button span { display: none; }
+  .beta-app .refresh-button span,
+  .beta-app .reset-button span { display: none; }
 
   .beta-command { margin-top: 12px; padding: 15px 13px; }
   .beta-command-head { align-items: center; }
