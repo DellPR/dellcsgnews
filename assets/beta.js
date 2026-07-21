@@ -79,18 +79,45 @@
     return Boolean(explicitDell || productDell || titleDell);
   }
 
+  const SHARE_BRANDS = new Set([
+    "dell",
+    "alienware",
+    "apple",
+    "lenovo",
+    "asus",
+    "acer",
+    "hp",
+    "samsung",
+    "microsoft",
+    "framework",
+  ]);
+
+  function metricBrand(item) {
+    return String((item && (item.brand || item.company)) || "").trim();
+  }
+
+  function isShareBrand(item) {
+    return SHARE_BRANDS.has(metricBrand(item).toLowerCase());
+  }
+
+  function metricBrandRowEligible(item) {
+    const brand = metricBrand(item).toLowerCase();
+    if (brand !== "dell" && brand !== "alienware") return true;
+    const blob = `${(item && item.title) || ""} ${(item && item.summary) || ""} ${(item && item.url) || ""}`;
+    return Boolean(item && item.is_dell_story) || /\b(?:dell|alienware|xps|latitude|inspiron|precision|optiplex|dell pro|aurora|aw\d|alienware aw)\b/i.test(blob);
+  }
+
   function computeDellShare() {
     const metrics = window.MONITOR_HUB_BRAND_METRICS || {};
-    const brands = Array.isArray(metrics.brands) ? metrics.brands : [];
-    const total = brands.reduce((sum, brand) => sum + Number(brand.total || 0), 0);
-    const dell = brands.find(brand => String(brand.brand || "").toLowerCase() === "dell");
-    if (total > 0 && dell) return Math.round((Number(dell.total || 0) / total) * 100);
-
-    const data = window.MONITOR_HUB_DATA || {items: []};
-    const items = uniqueItems(Array.isArray(data.items) ? data.items : []);
-    const brandItems = items.filter(item => item.brand || item.company || item.is_dell_story || item.has_dell_mention);
+    const metricItems = Array.isArray(metrics.items) && metrics.items.length
+      ? metrics.items
+      : (Array.isArray(metrics.recent) ? metrics.recent : []);
+    const cutoff = Date.now() - DAY_MS;
+    const last24 = metricItems.filter(item => itemTime(item) >= cutoff);
+    const brandItems = last24.filter(metricBrandRowEligible).filter(isShareBrand);
     if (!brandItems.length) return 0;
-    return Math.round((brandItems.filter(isDellItem).length / brandItems.length) * 100);
+    const dellItems = brandItems.filter(item => metricBrand(item).toLowerCase() === "dell");
+    return Math.round((dellItems.length / brandItems.length) * 100);
   }
 
   function setCommandCenter() {
