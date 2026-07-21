@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T22:33:00.691719+00:00",
-  "total_items": 3536,
+  "generated_at": "2026-07-21T23:51:21.881044+00:00",
+  "total_items": 3542,
   "brands": [
     {
       "brand": "Microsoft",
@@ -209,9 +209,9 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 332,
+      "total": 333,
       "media": 267,
-      "youtube": 65,
+      "youtube": 66,
       "reviews": 46,
       "sponsored": 7,
       "dell_stories": 0,
@@ -257,7 +257,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 86
+          "count": 87
         },
         {
           "section": "Deals",
@@ -272,7 +272,7 @@
           "count": 10
         }
       ],
-      "avg_score": 60.2
+      "avg_score": 60.3
     },
     {
       "brand": "NVIDIA",
@@ -413,9 +413,9 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 253,
+      "total": 254,
       "media": 211,
-      "youtube": 42,
+      "youtube": 43,
       "reviews": 2,
       "sponsored": 0,
       "dell_stories": 0,
@@ -457,7 +457,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 240
+          "count": 241
         },
         {
           "section": "Ecosystem",
@@ -545,9 +545,9 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 167,
+      "total": 169,
       "media": 104,
-      "youtube": 63,
+      "youtube": 65,
       "reviews": 52,
       "sponsored": 1,
       "dell_stories": 0,
@@ -589,7 +589,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 110
+          "count": 112
         },
         {
           "section": "Deals",
@@ -608,16 +608,16 @@
           "count": 5
         }
       ],
-      "avg_score": 59.9
+      "avg_score": 60.1
     },
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 140,
+      "total": 141,
       "media": 130,
-      "youtube": 10,
+      "youtube": 11,
       "reviews": 7,
-      "sponsored": 2,
+      "sponsored": 3,
       "dell_stories": 0,
       "high_signal": 5,
       "top_sources": [
@@ -661,7 +661,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 15
+          "count": 16
         },
         {
           "section": "Deals",
@@ -676,7 +676,7 @@
           "count": 4
         }
       ],
-      "avg_score": 47.2
+      "avg_score": 47.1
     },
     {
       "brand": "HP",
@@ -1077,9 +1077,9 @@
     {
       "brand": "Google",
       "family": "Other",
-      "total": 43,
+      "total": 44,
       "media": 43,
-      "youtube": 0,
+      "youtube": 1,
       "reviews": 0,
       "sponsored": 0,
       "dell_stories": 0,
@@ -1125,7 +1125,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 3
+          "count": 4
         },
         {
           "section": "Market Trends",
@@ -1136,7 +1136,7 @@
           "count": 1
         }
       ],
-      "avg_score": 42.6
+      "avg_score": 43.3
     },
     {
       "brand": "OpenAI",
@@ -1632,24 +1632,75 @@
       "brands": {
         "Microsoft": 262,
         "NVIDIA": 141,
-        "Intel": 139,
+        "Intel": 140,
         "Dell": 138,
         "Apple": 104,
         "AMD": 101,
         "Lenovo": 83,
-        "Valve": 82,
-        "Samsung": 73,
-        "Asus": 71,
+        "Valve": 83,
+        "Samsung": 74,
+        "Asus": 73,
         "HP": 42,
         "Alienware": 31,
+        "Google": 21,
         "Qualcomm": 21,
-        "Google": 20,
         "Amazon": 19,
         "MSI": 19
       }
     }
   ],
   "recent": [
+    {
+      "id": "youtube:85620",
+      "kind": "youtube",
+      "source": "JayzTwoCents",
+      "source_icon": "https://yt3.googleusercontent.com/60ZHdHfspX1q6YI8_RW8Zz8fyR8Ne5aDHIwQ0TGN-vFkBWp5J1htI2VsLQQsnVoQbGhIxmJ3lQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Unboxing and initial impressions of a Steam Machine and Steam Controller",
+      "url": "https://www.youtube.com/watch?v=I5YACV-KgPw",
+      "published_at": "2026-07-21T22:18:05+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:85395",
+      "kind": "youtube",
+      "source": "Alex Ziskind",
+      "source_icon": "https://yt3.googleusercontent.com/At-1Kn54AljCodKZ7G9jxzd-1cCR3BknxIqpwGiXckFOXATpOjSyL-ivxtZQPE7RRAtWC8abFA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Google's Gemini 3.6 Flash AI model improves efficiency and performance",
+      "url": "https://www.youtube.com/watch?v=XSHTyq8Z9jA",
+      "published_at": "2026-07-21T21:06:10+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:85395",
+      "kind": "youtube",
+      "source": "Alex Ziskind",
+      "source_icon": "https://yt3.googleusercontent.com/At-1Kn54AljCodKZ7G9jxzd-1cCR3BknxIqpwGiXckFOXATpOjSyL-ivxtZQPE7RRAtWC8abFA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Google's Gemini 3.6 Flash AI model improves efficiency and performance",
+      "url": "https://www.youtube.com/watch?v=XSHTyq8Z9jA",
+      "published_at": "2026-07-21T21:06:10+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Google",
+      "family": "Other",
+      "is_dell_story": false
+    },
     {
       "id": "media:124736",
       "kind": "media",
@@ -1702,6 +1753,40 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:85725",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Unboxing ASUS Vivobook S 14 with OLED display and premium features",
+      "url": "https://www.youtube.com/watch?v=2BBtllHUkIE",
+      "published_at": "2026-07-21T19:59:06+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:85725",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Unboxing ASUS Vivobook S 14 with OLED display and premium features",
+      "url": "https://www.youtube.com/watch?v=2BBtllHUkIE",
+      "published_at": "2026-07-21T19:59:06+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
       "id": "media:125250",
       "kind": "media",
       "source": "Wccftech",
@@ -1732,6 +1817,23 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:85373",
+      "kind": "youtube",
+      "source": "IGN",
+      "source_icon": "https://yt3.googleusercontent.com/M5xbpJc3JNKQuLgzHr0Qv_ZhjPVpUeSn1BaWhopQFyMGlQmBVY_0Mn5MIf-JWbxTKYZRS67_GcI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Samsung Galaxy Unpacked 2026 event highlights for gamers",
+      "url": "https://www.youtube.com/watch?v=WUbQ7oiPyUs",
+      "published_at": "2026-07-21T19:17:17+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -5797,111 +5899,60 @@
       "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:116856",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "title": "Lenovo Launches Legion C700 with 7.82\" Display and Cloud Gaming Controls",
-      "url": "https://www.adrenaline.com.br/games/lenovo-revela-legion-c700-com-tela-de-782-120-hz-e-controles-tmr-para-jogos-na-nuvem/",
-      "published_at": "2026-07-17T23:06:46+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:79575",
-      "kind": "youtube",
-      "source": "MW Informática",
-      "source_icon": "https://yt3.googleusercontent.com/o8BtikpsYJgccc2is9SvZtZtZ9xgQwesG0PJDWg2zeHWkoltlPThO32qPwo_zi2I_j6TYBGRxA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "title": "Review of Netac NV3000 SSD: Half the Price, Faster Performance?",
-      "url": "https://www.youtube.com/watch?v=lx1jPFy9io8",
-      "published_at": "2026-07-17T22:06:17+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:115827",
-      "kind": "media",
-      "source": "TecMundo",
-      "source_icon": "",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "Windows 11 24H2 support will end soon; users advised to upgrade",
-      "url": "https://www.tecmundo.com.br/produto/414633-windows-11-24h2-tera-suporte-encerrado-em-breve-saiba-o-que-fazer.htm",
-      "published_at": "2026-07-17T21:00:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:116332",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Nvidia RTX 5000 Super GPUs delayed, raising pricing concerns",
-      "url": "https://www.techradar.com/computing/gpu/nvidia-rtx-5000-super-gpus-rumored-to-be-ready-but-theyre-on-hold-and-the-reason-why-makes-me-nervous-about-pricing",
-      "published_at": "2026-07-17T20:56:28+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:116533",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Intel's former CEO admits past dismissal of NVIDIA GPUs during CPU dominance",
-      "url": "https://wccftech.com/intels-gelsinger-admits-firm-scoffed-at-nvidias-gpus-while-riding-high-on-cpu-dominance-makes-big-quantum-computing-claims/",
-      "published_at": "2026-07-17T19:22:34+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:116533",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Intel's former CEO admits past dismissal of NVIDIA GPUs during CPU dominance",
-      "url": "https://wccftech.com/intels-gelsinger-admits-firm-scoffed-at-nvidias-gpus-while-riding-high-on-cpu-dominance-makes-big-quantum-computing-claims/",
-      "published_at": "2026-07-17T19:22:34+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:85620",
+      "kind": "youtube",
+      "source": "JayzTwoCents",
+      "source_icon": "https://yt3.googleusercontent.com/60ZHdHfspX1q6YI8_RW8Zz8fyR8Ne5aDHIwQ0TGN-vFkBWp5J1htI2VsLQQsnVoQbGhIxmJ3lQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Unboxing and initial impressions of a Steam Machine and Steam Controller",
+      "url": "https://www.youtube.com/watch?v=I5YACV-KgPw",
+      "published_at": "2026-07-21T22:18:05+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:85395",
+      "kind": "youtube",
+      "source": "Alex Ziskind",
+      "source_icon": "https://yt3.googleusercontent.com/At-1Kn54AljCodKZ7G9jxzd-1cCR3BknxIqpwGiXckFOXATpOjSyL-ivxtZQPE7RRAtWC8abFA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Google's Gemini 3.6 Flash AI model improves efficiency and performance",
+      "url": "https://www.youtube.com/watch?v=XSHTyq8Z9jA",
+      "published_at": "2026-07-21T21:06:10+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:85395",
+      "kind": "youtube",
+      "source": "Alex Ziskind",
+      "source_icon": "https://yt3.googleusercontent.com/At-1Kn54AljCodKZ7G9jxzd-1cCR3BknxIqpwGiXckFOXATpOjSyL-ivxtZQPE7RRAtWC8abFA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Google's Gemini 3.6 Flash AI model improves efficiency and performance",
+      "url": "https://www.youtube.com/watch?v=XSHTyq8Z9jA",
+      "published_at": "2026-07-21T21:06:10+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Google",
+      "family": "Other",
+      "is_dell_story": false
+    },
     {
       "id": "media:124736",
       "kind": "media",
@@ -5954,6 +6005,40 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:85725",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Unboxing ASUS Vivobook S 14 with OLED display and premium features",
+      "url": "https://www.youtube.com/watch?v=2BBtllHUkIE",
+      "published_at": "2026-07-21T19:59:06+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:85725",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Unboxing ASUS Vivobook S 14 with OLED display and premium features",
+      "url": "https://www.youtube.com/watch?v=2BBtllHUkIE",
+      "published_at": "2026-07-21T19:59:06+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
       "id": "media:125250",
       "kind": "media",
       "source": "Wccftech",
@@ -5984,6 +6069,23 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:85373",
+      "kind": "youtube",
+      "source": "IGN",
+      "source_icon": "https://yt3.googleusercontent.com/M5xbpJc3JNKQuLgzHr0Qv_ZhjPVpUeSn1BaWhopQFyMGlQmBVY_0Mn5MIf-JWbxTKYZRS67_GcI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Samsung Galaxy Unpacked 2026 event highlights for gamers",
+      "url": "https://www.youtube.com/watch?v=WUbQ7oiPyUs",
+      "published_at": "2026-07-21T19:17:17+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
     },
