@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T23:39:53.854199+00:00",
-  "total_items": 3431,
+  "generated_at": "2026-07-21T12:03:55.322057+00:00",
+  "total_items": 3432,
   "brands": [
     {
       "brand": "Microsoft",
@@ -145,7 +145,7 @@
       "media": 259,
       "youtube": 60,
       "reviews": 59,
-      "sponsored": 5,
+      "sponsored": 6,
       "dell_stories": 146,
       "high_signal": 102,
       "top_sources": [
@@ -213,7 +213,7 @@
       "media": 254,
       "youtube": 65,
       "reviews": 42,
-      "sponsored": 6,
+      "sponsored": 7,
       "dell_stories": 0,
       "high_signal": 22,
       "top_sources": [
@@ -413,13 +413,13 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 251,
+      "total": 252,
       "media": 210,
-      "youtube": 41,
+      "youtube": 42,
       "reviews": 2,
       "sponsored": 0,
       "dell_stories": 0,
-      "high_signal": 26,
+      "high_signal": 27,
       "top_sources": [
         {
           "source": "Adrenaline",
@@ -457,7 +457,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 237
+          "count": 238
         },
         {
           "section": "Ecosystem",
@@ -472,7 +472,7 @@
           "count": 1
         }
       ],
-      "avg_score": 61.5
+      "avg_score": 61.6
     },
     {
       "brand": "Lenovo",
@@ -1009,7 +1009,7 @@
       "media": 29,
       "youtube": 17,
       "reviews": 13,
-      "sponsored": 3,
+      "sponsored": 4,
       "dell_stories": 0,
       "high_signal": 1,
       "top_sources": [
@@ -1629,7 +1629,7 @@
         "AMD": 97,
         "Apple": 96,
         "Lenovo": 81,
-        "Valve": 79,
+        "Valve": 80,
         "Samsung": 72,
         "Asus": 69,
         "HP": 41,
@@ -1642,6 +1642,23 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:83775",
+      "kind": "youtube",
+      "source": "PCWorld",
+      "source_icon": "https://yt3.googleusercontent.com/Y9Qeoq6gXw_cDQUpUmmJCoVh66rCotYtyetmYEyd9rryQZoJXLvhjtMupYCG6J02ghSvw6qZDEc=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Podcast discusses Ryzen 7700X3D reviews and Steam Machine sales trends",
+      "url": "https://www.youtube.com/watch?v=DIhqeKRVPpE",
+      "published_at": "2026-07-20T23:26:18+00:00",
+      "score": 90,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:121632",
       "kind": "media",
@@ -1739,7 +1756,7 @@
       "published_at": "2026-07-20T21:19:24+00:00",
       "score": 100,
       "is_review": false,
-      "is_sponsored": false,
+      "is_sponsored": true,
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
@@ -1756,7 +1773,7 @@
       "published_at": "2026-07-20T21:19:24+00:00",
       "score": 100,
       "is_review": false,
-      "is_sponsored": false,
+      "is_sponsored": true,
       "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
@@ -5874,26 +5891,26 @@
       "brand": "Valve",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:112259",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Cadence’s AuraStack AI Stack Addresses PCB & Advanced Packaging Bottleneck with NVIDIA and TSMC Deployment",
-      "url": "https://wccftech.com/cadence-aurastack-ai-stack-addresses-pcb-advanced-packaging-bottleneck/",
-      "published_at": "2026-07-16T15:35:20+00:00",
-      "score": 30,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:83775",
+      "kind": "youtube",
+      "source": "PCWorld",
+      "source_icon": "https://yt3.googleusercontent.com/Y9Qeoq6gXw_cDQUpUmmJCoVh66rCotYtyetmYEyd9rryQZoJXLvhjtMupYCG6J02ghSvw6qZDEc=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Podcast discusses Ryzen 7700X3D reviews and Steam Machine sales trends",
+      "url": "https://www.youtube.com/watch?v=DIhqeKRVPpE",
+      "published_at": "2026-07-20T23:26:18+00:00",
+      "score": 90,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:121632",
       "kind": "media",
@@ -5991,7 +6008,7 @@
       "published_at": "2026-07-20T21:19:24+00:00",
       "score": 100,
       "is_review": false,
-      "is_sponsored": false,
+      "is_sponsored": true,
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
@@ -6008,7 +6025,7 @@
       "published_at": "2026-07-20T21:19:24+00:00",
       "score": 100,
       "is_review": false,
-      "is_sponsored": false,
+      "is_sponsored": true,
       "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
@@ -33174,7 +33191,7 @@
       "published_at": "2026-06-26T19:47:29+00:00",
       "score": 72,
       "is_review": false,
-      "is_sponsored": false,
+      "is_sponsored": true,
       "brand": "Acer",
       "family": "PC competitors",
       "is_dell_story": false
