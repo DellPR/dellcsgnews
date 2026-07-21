@@ -1331,7 +1331,7 @@
     if (search) search.value = "";
     resetFilterButtons();
     applyFilters();
-    document.getElementById("feedHead")?.scrollIntoView({behavior: "smooth", block: "start"});
+    window.scrollTo({top: 0, behavior: "smooth"});
   }
 
   function syncMetricWindowButtons() {
