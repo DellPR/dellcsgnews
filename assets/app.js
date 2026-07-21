@@ -391,12 +391,19 @@
     </article>`;
   }
 
-  function card(item) {
+  function isWideFeedItem(item) {
+    if (!item) return false;
+    if (item.kind === "x") return true;
+    const compact = isDeal(item) || isBrief(item);
+    return item.kind === "youtube" && !compact;
+  }
+
+  function card(item, extraClass = "") {
     if (item.kind === "x") return xCard(item);
     const compact = isDeal(item) || isBrief(item);
     const mini = isMiniSignal(item);
     const withThumb = item.kind === "youtube" && !compact;
-    return `<article class="card ${accentClass(item)} ${compact ? "compact-card" : ""} ${mini ? "mini-card" : ""} ${withThumb ? "has-thumb" : "no-thumb"}">
+    return `<article class="card ${accentClass(item)} ${compact ? "compact-card" : ""} ${mini ? "mini-card" : ""} ${withThumb ? "has-thumb" : "no-thumb"} ${extraClass}">
       ${withThumb ? youtubeThumb(item) : ""}
       <div class="body">
         <div class="chips">${itemChips(item)}</div>
@@ -1112,7 +1119,12 @@
   function render() {
     renderHighlights();
     const shown = state.filtered.slice(0, state.visible);
-    feedEl.innerHTML = shown.length ? shown.map(card).join("") : `<div class="empty">No stories match this filter.</div>`;
+    feedEl.innerHTML = shown.length ? shown.map((item, index) => {
+      const previousWide = index === 0 || isWideFeedItem(shown[index - 1]);
+      const nextWide = index === shown.length - 1 || isWideFeedItem(shown[index + 1]);
+      const isolatedNarrow = !isWideFeedItem(item) && previousWide && nextWide;
+      return card(item, isolatedNarrow ? "span-wide" : "");
+    }).join("") : `<div class="empty">No stories match this filter.</div>`;
     loadMore.style.display = state.visible < state.filtered.length ? "block" : "none";
     renderView();
   }

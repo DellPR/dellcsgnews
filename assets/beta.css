@@ -915,7 +915,8 @@ body.beta-app {
 @media (min-width: 900px) {
   .beta-app .feed { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .beta-app .feed .card.has-thumb,
-  .beta-app .feed .x-card { grid-column: 1 / -1; }
+  .beta-app .feed .x-card,
+  .beta-app .feed .card.span-wide { grid-column: 1 / -1; }
   .beta-app .feed .card.no-thumb:not(.compact-card) { min-height: 210px; }
 }
 
