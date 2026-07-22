@@ -516,6 +516,20 @@ body.beta-app {
   object-fit: cover;
 }
 
+.beta-app .highlight.top-story-card.no-image {
+  display: block;
+  min-height: 0;
+}
+
+.beta-app .highlight.top-story-card.no-image .highlight-body {
+  min-height: 0;
+  padding: 28px;
+}
+
+.beta-app .highlight.top-story-card.no-image p {
+  -webkit-line-clamp: 7;
+}
+
 .beta-app .highlight-body {
   display: flex;
   min-width: 0;

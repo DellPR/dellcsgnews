@@ -444,7 +444,7 @@
       item.is_sponsored ? chip("Sponsored", "sponsored") : "",
       item.is_short ? chip("Shorts", "short") : "",
     ].join("");
-    return `<a class="highlight ${topStory ? "top-story-card" : ""} ${accentClass(item)} ${img ? "with-image" : ""}" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">
+    return `<a class="highlight ${topStory ? "top-story-card" : ""} ${accentClass(item)} ${img ? "with-image" : "no-image"}" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">
       ${img}
       <div class="highlight-body">
         <div class="highlight-source">${sourceChips}</div>
