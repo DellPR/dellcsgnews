@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T22:32:24.824457+00:00",
-  "total_items": 3639,
+  "generated_at": "2026-07-22T22:35:19.118156+00:00",
+  "total_items": 3641,
   "brands": [
     {
       "brand": "Microsoft",
@@ -277,8 +277,8 @@
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 330,
-      "media": 313,
+      "total": 331,
+      "media": 314,
       "youtube": 17,
       "reviews": 9,
       "sponsored": 1,
@@ -321,7 +321,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 275
+          "count": 276
         },
         {
           "section": "Competitor Coverage",
@@ -345,8 +345,8 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 299,
-      "media": 279,
+      "total": 300,
+      "media": 280,
       "youtube": 20,
       "reviews": 15,
       "sponsored": 0,
@@ -389,7 +389,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 218
+          "count": 219
         },
         {
           "section": "Competitor Coverage",
@@ -1252,7 +1252,7 @@
           "count": 1
         }
       ],
-      "avg_score": 66.3
+      "avg_score": 65.9
     },
     {
       "brand": "LG",
@@ -1642,11 +1642,11 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 278,
-        "NVIDIA": 161,
+        "NVIDIA": 162,
         "Dell": 145,
         "Intel": 145,
         "Apple": 116,
-        "AMD": 112,
+        "AMD": 113,
         "Lenovo": 89,
         "Valve": 85,
         "Samsung": 78,
@@ -1736,10 +1736,10 @@
       "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
       "country": "US",
       "section": "Competitor Coverage",
-      "title": "Framework previews AMD Ryzen AI MAX+ PRO 495 desktop with 192 GB unified memory",
+      "title": "Review: Framework desktop with Ryzen AI Max+ 395 runs DeepSeek model locally",
       "url": "https://wccftech.com/framework-amd-ryzen-ai-max-pro-495-pc-desktop-192-gb-memory-runs-deepseek-v4-flash/",
       "published_at": "2026-07-22T20:35:05+00:00",
-      "score": 72,
+      "score": 65,
       "is_review": true,
       "is_sponsored": false,
       "brand": "Framework",
@@ -1753,10 +1753,10 @@
       "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
       "country": "US",
       "section": "Competitor Coverage",
-      "title": "Framework previews AMD Ryzen AI MAX+ PRO 495 desktop with 192 GB unified memory",
+      "title": "Review: Framework desktop with Ryzen AI Max+ 395 runs DeepSeek model locally",
       "url": "https://wccftech.com/framework-amd-ryzen-ai-max-pro-495-pc-desktop-192-gb-memory-runs-deepseek-v4-flash/",
       "published_at": "2026-07-22T20:35:05+00:00",
-      "score": 72,
+      "score": 65,
       "is_review": true,
       "is_sponsored": false,
       "brand": "AMD",
@@ -2186,6 +2186,40 @@
       "is_sponsored": false,
       "brand": "Microsoft",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:134981",
+      "kind": "media",
+      "source": "TI Inside",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "AMD to sell AI server chips to Anthropic with $5B investment",
+      "url": "https://tiinside.com.br/22/07/2026/amd-vendera-dezenas-de-bilhoes-em-servidores-de-ia-para-a-anthropic-com-investimento-de-ate-us-5-bilhoes/",
+      "published_at": "2026-07-22T17:12:44+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:134981",
+      "kind": "media",
+      "source": "TI Inside",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "AMD to sell AI server chips to Anthropic with $5B investment",
+      "url": "https://tiinside.com.br/22/07/2026/amd-vendera-dezenas-de-bilhoes-em-servidores-de-ia-para-a-anthropic-com-investimento-de-ate-us-5-bilhoes/",
+      "published_at": "2026-07-22T17:12:44+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -5876,40 +5910,6 @@
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:122775",
-      "kind": "media",
-      "source": "Trusted Reviews",
-      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "title": "Apple’s cancelled Extreme M-series chip for Mac Pro would have been powerful",
-      "url": "https://www.trustedreviews.com/news/apples-cancelled-extreme-m-series-chip-would-have-been-a-beast",
-      "published_at": "2026-07-20T13:33:38+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:120273",
-      "kind": "media",
-      "source": "Engadget",
-      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "NVIDIA uses 113-degree water to cool data center hardware",
-      "url": "https://www.engadget.com/2214770/nvidia-data-center-liquid-cooling-temperature-heat/",
-      "published_at": "2026-07-20T13:30:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -5988,10 +5988,10 @@
       "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
       "country": "US",
       "section": "Competitor Coverage",
-      "title": "Framework previews AMD Ryzen AI MAX+ PRO 495 desktop with 192 GB unified memory",
+      "title": "Review: Framework desktop with Ryzen AI Max+ 395 runs DeepSeek model locally",
       "url": "https://wccftech.com/framework-amd-ryzen-ai-max-pro-495-pc-desktop-192-gb-memory-runs-deepseek-v4-flash/",
       "published_at": "2026-07-22T20:35:05+00:00",
-      "score": 72,
+      "score": 65,
       "is_review": true,
       "is_sponsored": false,
       "brand": "Framework",
@@ -6005,10 +6005,10 @@
       "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
       "country": "US",
       "section": "Competitor Coverage",
-      "title": "Framework previews AMD Ryzen AI MAX+ PRO 495 desktop with 192 GB unified memory",
+      "title": "Review: Framework desktop with Ryzen AI Max+ 395 runs DeepSeek model locally",
       "url": "https://wccftech.com/framework-amd-ryzen-ai-max-pro-495-pc-desktop-192-gb-memory-runs-deepseek-v4-flash/",
       "published_at": "2026-07-22T20:35:05+00:00",
-      "score": 72,
+      "score": 65,
       "is_review": true,
       "is_sponsored": false,
       "brand": "AMD",
@@ -6438,6 +6438,40 @@
       "is_sponsored": false,
       "brand": "Microsoft",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:134981",
+      "kind": "media",
+      "source": "TI Inside",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "AMD to sell AI server chips to Anthropic with $5B investment",
+      "url": "https://tiinside.com.br/22/07/2026/amd-vendera-dezenas-de-bilhoes-em-servidores-de-ia-para-a-anthropic-com-investimento-de-ate-us-5-bilhoes/",
+      "published_at": "2026-07-22T17:12:44+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:134981",
+      "kind": "media",
+      "source": "TI Inside",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "AMD to sell AI server chips to Anthropic with $5B investment",
+      "url": "https://tiinside.com.br/22/07/2026/amd-vendera-dezenas-de-bilhoes-em-servidores-de-ia-para-a-anthropic-com-investimento-de-ate-us-5-bilhoes/",
+      "published_at": "2026-07-22T17:12:44+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
       "is_dell_story": false
     },
     {

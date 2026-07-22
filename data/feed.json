@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-22T22:32:24.824474+00:00",
+  "generated_at": "2026-07-22T22:35:19.118178+00:00",
   "trigger": "manual",
-  "total": 2534,
+  "total": 2535,
   "counts": {
-    "media": 2154,
+    "media": 2155,
     "youtube": 343,
     "x": 37
   },
   "section_counts": {
-    "Ecosystem": 1215,
+    "Ecosystem": 1216,
     "Competitor Coverage": 546,
     "Market Trends": 397,
     "Deals": 210,
@@ -155,8 +155,8 @@
       "source": "Wccftech",
       "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
       "country": "US",
-      "title": "Framework previews AMD Ryzen AI MAX+ PRO 495 desktop with 192 GB unified memory",
-      "display_title": "Framework previews AMD Ryzen AI MAX+ PRO 495 desktop with 192 GB unified memory",
+      "title": "Review: Framework desktop with Ryzen AI Max+ 395 runs DeepSeek model locally",
+      "display_title": "Review: Framework desktop with Ryzen AI Max+ 395 runs DeepSeek model locally",
       "original_title": "Framework Previews Its AMD Ryzen AI MAX+ PRO 495 PC Desktop With 192 GB Unified Memory That Effortlessly Runs DeepSeek V4-Flash at Q8",
       "url": "https://wccftech.com/framework-amd-ryzen-ai-max-pro-495-pc-desktop-192-gb-memory-runs-deepseek-v4-flash/",
       "published_at": "2026-07-22T20:35:05+00:00",
@@ -164,8 +164,8 @@
       "section": "Competitor Coverage",
       "company": "Framework",
       "product": "",
-      "score": 72,
-      "summary": "Framework previews a new desktop featuring AMD's Ryzen AI MAX+ 495 chip with 192 GB unified memory, offering improved performance over the previous model, showcased at AMD's Advancing AI 2026 event.",
+      "score": 65,
+      "summary": "Wccftech reports on a Framework desktop configuration using AMD Ryzen AI Max+ 395, 192 GB of memory, and local DeepSeek V4 Flash inference. This is a competitor/platform capability story around local AI workloads and high-memory small-form-factor PCs, not a hands-on product review.",
       "why_it_matters": "",
       "tags": [
         "Wccftech",
@@ -181,7 +181,7 @@
       "has_dell_mention": false,
       "is_competitor_story": true,
       "is_market_story": false,
-      "market_interest": "low"
+      "market_interest": "high"
     },
     {
       "id": "media:137371",
@@ -841,6 +841,39 @@
       "is_competitor_story": false,
       "is_market_story": true,
       "market_interest": "low"
+    },
+    {
+      "id": "media:134981",
+      "kind": "media",
+      "source": "TI Inside",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
+      "country": "BR",
+      "title": "AMD to sell AI server chips to Anthropic with $5B investment",
+      "display_title": "AMD to sell AI server chips to Anthropic with $5B investment",
+      "original_title": "AMD venderá bilhões de dólares em chips para servidores de IA da Anthropic, com investimento de até US$ 5 bilhões",
+      "url": "https://tiinside.com.br/22/07/2026/amd-vendera-dezenas-de-bilhoes-em-servidores-de-ia-para-a-anthropic-com-investimento-de-ate-us-5-bilhoes/",
+      "published_at": "2026-07-22T17:12:44+00:00",
+      "captured_at": "2026-07-22 22:00:29",
+      "section": "Ecosystem",
+      "company": "AMD",
+      "product": "",
+      "score": 65,
+      "summary": "AMD has agreed to sell up to 2 gigawatts of its Instinct MI450 AI chips to Anthropic, with a potential $5 billion investment tied to implementation milestones. The deal underscores AMD's growing role in AI infrastructure and its competition with Nvidia.",
+      "why_it_matters": "",
+      "tags": [
+        "TI Inside",
+        "BR",
+        "AMD",
+        "Ecosystem"
+      ],
+      "is_review": false,
+      "is_short": false,
+      "is_sponsored": false,
+      "is_dell_story": false,
+      "has_dell_mention": false,
+      "is_competitor_story": false,
+      "is_market_story": true,
+      "market_interest": "high"
     },
     {
       "id": "media:130656",
