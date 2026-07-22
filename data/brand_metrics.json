@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T03:43:27.013676+00:00",
-  "total_items": 3542,
+  "generated_at": "2026-07-22T12:14:27.158172+00:00",
+  "total_items": 3544,
   "brands": [
     {
       "brand": "Microsoft",
@@ -681,10 +681,10 @@
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 92,
+      "total": 93,
       "media": 69,
-      "youtube": 23,
-      "reviews": 19,
+      "youtube": 24,
+      "reviews": 20,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 8,
@@ -725,7 +725,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 45
+          "count": 46
         },
         {
           "section": "Deals",
@@ -744,7 +744,7 @@
           "count": 2
         }
       ],
-      "avg_score": 58.3
+      "avg_score": 58.5
     },
     {
       "brand": "Amazon",
@@ -1313,10 +1313,10 @@
     {
       "brand": "Razer",
       "family": "PC competitors",
-      "total": 10,
+      "total": 11,
       "media": 7,
-      "youtube": 3,
-      "reviews": 6,
+      "youtube": 4,
+      "reviews": 7,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 0,
@@ -1327,6 +1327,10 @@
         },
         {
           "source": "Adrenaline",
+          "count": 1
+        },
+        {
+          "source": "Crimson Tech",
           "count": 1
         },
         {
@@ -1348,23 +1352,19 @@
         {
           "source": "PCWorld",
           "count": 1
-        },
-        {
-          "source": "TechRadar",
-          "count": 1
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 9
+          "count": 10
         },
         {
           "section": "Dell Coverage",
           "count": 1
         }
       ],
-      "avg_score": 70.6
+      "avg_score": 70.7
     },
     {
       "brand": "Meta",
@@ -1640,7 +1640,7 @@
         "Valve": 83,
         "Samsung": 74,
         "Asus": 73,
-        "HP": 42,
+        "HP": 43,
         "Alienware": 31,
         "Google": 21,
         "Qualcomm": 21,
@@ -1650,6 +1650,40 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:86430",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Razer Blade 16 (2026) Unboxing - Premium 16\" Gaming Laptop",
+      "url": "https://www.youtube.com/watch?v=X_mIqDky33Y",
+      "published_at": "2026-07-22T08:00:38+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Razer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:86220",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Bought a Complete Gaming PC Setup for R$2000",
+      "url": "https://www.youtube.com/watch?v=amMtiAuJM5U",
+      "published_at": "2026-07-22T00:19:54+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:85620",
       "kind": "youtube",
@@ -5865,43 +5899,43 @@
       "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
+    }
+  ],
+  "items": [
+    {
+      "id": "youtube:86430",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Razer Blade 16 (2026) Unboxing - Premium 16\" Gaming Laptop",
+      "url": "https://www.youtube.com/watch?v=X_mIqDky33Y",
+      "published_at": "2026-07-22T08:00:38+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Razer",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
-      "id": "media:117193",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "HP sells EliteBook 840 G8 refurbished for under $300",
-      "url": "https://www.pcworld.com/article/3192019/stop-babysitting-your-laptop-through-every-video-call-this-hp-certified-refurb-is-under-300.html",
-      "published_at": "2026-07-18T08:00:00+00:00",
-      "score": 35,
-      "is_review": false,
+      "id": "youtube:86220",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "title": "Bought a Complete Gaming PC Setup for R$2000",
+      "url": "https://www.youtube.com/watch?v=amMtiAuJM5U",
+      "published_at": "2026-07-22T00:19:54+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
       "brand": "HP",
       "family": "PC competitors",
       "is_dell_story": false
     },
-    {
-      "id": "media:117193",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "HP sells EliteBook 840 G8 refurbished for under $300",
-      "url": "https://www.pcworld.com/article/3192019/stop-babysitting-your-laptop-through-every-video-call-this-hp-certified-refurb-is-under-300.html",
-      "published_at": "2026-07-18T08:00:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    }
-  ],
-  "items": [
     {
       "id": "youtube:85620",
       "kind": "youtube",
