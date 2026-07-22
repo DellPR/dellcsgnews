@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T13:50:30.099576+00:00",
-  "total_items": 3567,
+  "generated_at": "2026-07-22T18:39:56.075676+00:00",
+  "total_items": 3579,
   "brands": [
     {
       "brand": "Microsoft",
@@ -73,13 +73,13 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 371,
+      "total": 374,
       "media": 297,
-      "youtube": 74,
-      "reviews": 49,
+      "youtube": 77,
+      "reviews": 51,
       "sponsored": 4,
       "dell_stories": 0,
-      "high_signal": 26,
+      "high_signal": 27,
       "top_sources": [
         {
           "source": "Wccftech",
@@ -117,7 +117,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 215
+          "count": 217
         },
         {
           "section": "Market Trends",
@@ -133,21 +133,21 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 22
+          "count": 23
         }
       ],
-      "avg_score": 57.9
+      "avg_score": 58.1
     },
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 338,
+      "total": 339,
       "media": 277,
-      "youtube": 61,
-      "reviews": 65,
+      "youtube": 62,
+      "reviews": 66,
       "sponsored": 6,
-      "dell_stories": 179,
-      "high_signal": 145,
+      "dell_stories": 180,
+      "high_signal": 146,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -185,7 +185,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 142
+          "count": 143
         },
         {
           "section": "Ecosystem",
@@ -209,11 +209,11 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 335,
+      "total": 336,
       "media": 269,
-      "youtube": 66,
+      "youtube": 67,
       "reviews": 46,
-      "sponsored": 7,
+      "sponsored": 8,
       "dell_stories": 0,
       "high_signal": 28,
       "top_sources": [
@@ -253,7 +253,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 180
+          "count": 181
         },
         {
           "section": "Competitor Coverage",
@@ -272,7 +272,7 @@
           "count": 10
         }
       ],
-      "avg_score": 60.2
+      "avg_score": 60.1
     },
     {
       "brand": "NVIDIA",
@@ -613,10 +613,10 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 144,
+      "total": 148,
       "media": 133,
-      "youtube": 11,
-      "reviews": 7,
+      "youtube": 15,
+      "reviews": 9,
       "sponsored": 3,
       "dell_stories": 0,
       "high_signal": 6,
@@ -661,7 +661,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 16
+          "count": 20
         },
         {
           "section": "Deals",
@@ -676,14 +676,14 @@
           "count": 5
         }
       ],
-      "avg_score": 47.4
+      "avg_score": 47.8
     },
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 92,
+      "total": 93,
       "media": 69,
-      "youtube": 23,
+      "youtube": 24,
       "reviews": 19,
       "sponsored": 1,
       "dell_stories": 0,
@@ -725,7 +725,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 45
+          "count": 46
         },
         {
           "section": "Deals",
@@ -744,7 +744,7 @@
           "count": 2
         }
       ],
-      "avg_score": 58.3
+      "avg_score": 58.5
     },
     {
       "brand": "Amazon",
@@ -813,10 +813,10 @@
     {
       "brand": "Qualcomm",
       "family": "Ecosystem",
-      "total": 86,
+      "total": 87,
       "media": 75,
-      "youtube": 11,
-      "reviews": 12,
+      "youtube": 12,
+      "reviews": 13,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 3,
@@ -861,7 +861,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 33
+          "count": 34
         },
         {
           "section": "Deals",
@@ -876,7 +876,7 @@
           "count": 1
         }
       ],
-      "avg_score": 57.2
+      "avg_score": 56.9
     },
     {
       "brand": "MSI",
@@ -1013,11 +1013,11 @@
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 48,
+      "total": 49,
       "media": 31,
-      "youtube": 17,
+      "youtube": 18,
       "reviews": 14,
-      "sponsored": 4,
+      "sponsored": 5,
       "dell_stories": 0,
       "high_signal": 1,
       "top_sources": [
@@ -1070,9 +1070,13 @@
         {
           "section": "Market Trends",
           "count": 2
+        },
+        {
+          "section": "Ecosystem",
+          "count": 1
         }
       ],
-      "avg_score": 56.4
+      "avg_score": 55.9
     },
     {
       "brand": "Google",
@@ -1632,24 +1636,228 @@
       "brands": {
         "Microsoft": 264,
         "NVIDIA": 147,
-        "Intel": 142,
-        "Dell": 140,
-        "Apple": 106,
+        "Intel": 143,
+        "Dell": 141,
+        "Apple": 109,
         "AMD": 104,
         "Lenovo": 85,
         "Valve": 83,
-        "Samsung": 77,
+        "Samsung": 81,
         "Asus": 75,
-        "HP": 42,
+        "HP": 43,
         "Alienware": 31,
+        "Qualcomm": 22,
         "Google": 21,
-        "Qualcomm": 21,
         "MSI": 20,
         "Amazon": 19
       }
     }
   ],
   "recent": [
+    {
+      "id": "youtube:87150",
+      "kind": "youtube",
+      "source": "UrAvgConsumer",
+      "source_icon": "https://yt3.googleusercontent.com/8-YFq0watPvwsxWIUpCusG9TotYWxcgmaAgMRmeUB2vUBIart9TfVx_jIIFYn9fZEs5pkE-D_Q=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Samsung Galaxy ZFold 8 review highlights durability, camera upgrades, and new hinge tech",
+      "url": "https://www.youtube.com/watch?v=RQQufsYtP2M",
+      "published_at": "2026-07-22T16:23:46+00:00",
+      "score": 30,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:87150",
+      "kind": "youtube",
+      "source": "UrAvgConsumer",
+      "source_icon": "https://yt3.googleusercontent.com/8-YFq0watPvwsxWIUpCusG9TotYWxcgmaAgMRmeUB2vUBIart9TfVx_jIIFYn9fZEs5pkE-D_Q=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Samsung Galaxy ZFold 8 review highlights durability, camera upgrades, and new hinge tech",
+      "url": "https://www.youtube.com/watch?v=RQQufsYtP2M",
+      "published_at": "2026-07-22T16:23:46+00:00",
+      "score": 30,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:86910",
+      "kind": "youtube",
+      "source": "TecMundo",
+      "source_icon": "https://yt3.googleusercontent.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Explaining NPU technology in AI PCs and Acer's anniversary promotion",
+      "url": "https://www.youtube.com/shorts/0YtmO_HtWB4",
+      "published_at": "2026-07-22T15:41:27+00:00",
+      "score": 30,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:86910",
+      "kind": "youtube",
+      "source": "TecMundo",
+      "source_icon": "https://yt3.googleusercontent.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Explaining NPU technology in AI PCs and Acer's anniversary promotion",
+      "url": "https://www.youtube.com/shorts/0YtmO_HtWB4",
+      "published_at": "2026-07-22T15:41:27+00:00",
+      "score": 30,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:87090",
+      "kind": "youtube",
+      "source": "Marques Brownlee (MKBHD)",
+      "source_icon": "https://yt3.googleusercontent.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Samsung Galaxy Z Fold 8 review: Incremental upgrades and new form factor",
+      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
+      "published_at": "2026-07-22T13:01:05+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:87090",
+      "kind": "youtube",
+      "source": "Marques Brownlee (MKBHD)",
+      "source_icon": "https://yt3.googleusercontent.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Samsung Galaxy Z Fold 8 review: Incremental upgrades and new form factor",
+      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
+      "published_at": "2026-07-22T13:01:05+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:86880",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "title": "Dell XPS 13 2026 review: Premium build, 120Hz display, and budget-friendly pricing",
+      "url": "https://www.youtube.com/watch?v=f0aRFEiP42o",
+      "published_at": "2026-07-22T13:00:15+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:86880",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "title": "Dell XPS 13 2026 review: Premium build, 120Hz display, and budget-friendly pricing",
+      "url": "https://www.youtube.com/watch?v=f0aRFEiP42o",
+      "published_at": "2026-07-22T13:00:15+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:86791",
+      "kind": "youtube",
+      "source": "PCMag",
+      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Samsung Galaxy Z Flip 8 and Z Fold 8 review highlights design, durability, and features",
+      "url": "https://www.youtube.com/watch?v=mXTN_lMIuuY",
+      "published_at": "2026-07-22T13:00:08+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:86791",
+      "kind": "youtube",
+      "source": "PCMag",
+      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Samsung Galaxy Z Flip 8 and Z Fold 8 review highlights design, durability, and features",
+      "url": "https://www.youtube.com/watch?v=mXTN_lMIuuY",
+      "published_at": "2026-07-22T13:00:08+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:86641",
+      "kind": "youtube",
+      "source": "Dave2D",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "title": "Samsung's New Short Foldable Phone",
+      "url": "https://www.youtube.com/watch?v=N_ZrjKeDcfw",
+      "published_at": "2026-07-22T13:00:06+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:86641",
+      "kind": "youtube",
+      "source": "Dave2D",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "title": "Samsung's New Short Foldable Phone",
+      "url": "https://www.youtube.com/watch?v=N_ZrjKeDcfw",
+      "published_at": "2026-07-22T13:00:06+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:125571",
       "kind": "media",
@@ -5695,18 +5903,37 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
+    }
+  ],
+  "items": [
+    {
+      "id": "youtube:87150",
+      "kind": "youtube",
+      "source": "UrAvgConsumer",
+      "source_icon": "https://yt3.googleusercontent.com/8-YFq0watPvwsxWIUpCusG9TotYWxcgmaAgMRmeUB2vUBIart9TfVx_jIIFYn9fZEs5pkE-D_Q=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Samsung Galaxy ZFold 8 review highlights durability, camera upgrades, and new hinge tech",
+      "url": "https://www.youtube.com/watch?v=RQQufsYtP2M",
+      "published_at": "2026-07-22T16:23:46+00:00",
+      "score": 30,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
-      "id": "youtube:80715",
+      "id": "youtube:87150",
       "kind": "youtube",
-      "source": "Hardware Canucks",
-      "source_icon": "https://yt3.googleusercontent.com/C-HUUT9dZSMpImqVMDuDOJEr_5b1j2_5v5TwXZhEED8qt958ndFDd0mEmdTVs7EaIlK24N3h=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Market Trends",
-      "title": "MacBook Neo vs Lenovo Slim 5X: Performance comparison in everyday tasks",
-      "url": "https://www.youtube.com/watch?v=oGrjnsl-Pf4",
-      "published_at": "2026-07-19T16:30:19+00:00",
-      "score": 100,
+      "source": "UrAvgConsumer",
+      "source_icon": "https://yt3.googleusercontent.com/8-YFq0watPvwsxWIUpCusG9TotYWxcgmaAgMRmeUB2vUBIart9TfVx_jIIFYn9fZEs5pkE-D_Q=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Samsung Galaxy ZFold 8 review highlights durability, camera upgrades, and new hinge tech",
+      "url": "https://www.youtube.com/watch?v=RQQufsYtP2M",
+      "published_at": "2026-07-22T16:23:46+00:00",
+      "score": 30,
       "is_review": true,
       "is_sponsored": false,
       "brand": "Qualcomm",
@@ -5714,50 +5941,152 @@
       "is_dell_story": false
     },
     {
-      "id": "media:118664",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
+      "id": "youtube:86910",
+      "kind": "youtube",
+      "source": "TecMundo",
+      "source_icon": "https://yt3.googleusercontent.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
       "section": "Ecosystem",
-      "title": "NVIDIA releases first Windows on Arm drivers for RTX Spark ahead of fall launch",
-      "url": "https://wccftech.com/nvidia-rtx-spark-first-driver-ahead-of-launch-native-windows-on-arm-support/",
-      "published_at": "2026-07-19T14:35:11+00:00",
-      "score": 65,
+      "title": "Explaining NPU technology in AI PCs and Acer's anniversary promotion",
+      "url": "https://www.youtube.com/shorts/0YtmO_HtWB4",
+      "published_at": "2026-07-22T15:41:27+00:00",
+      "score": 30,
       "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
+      "is_sponsored": true,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:86910",
+      "kind": "youtube",
+      "source": "TecMundo",
+      "source_icon": "https://yt3.googleusercontent.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Ecosystem",
+      "title": "Explaining NPU technology in AI PCs and Acer's anniversary promotion",
+      "url": "https://www.youtube.com/shorts/0YtmO_HtWB4",
+      "published_at": "2026-07-22T15:41:27+00:00",
+      "score": 30,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
     },
     {
-      "id": "media:118128",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "AMD's Medusa Point APU shows strong single-core performance in leaked benchmarks",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amds-next-gen-10-core-medusa-point-apu-shows-up-on-geekbench-again-with-its-best-score-yet-leaked-sku-outpaces-every-other-x86-mobile-chip-in-the-single-core-test",
-      "published_at": "2026-07-19T14:35:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:118465",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "id": "youtube:87090",
+      "kind": "youtube",
+      "source": "Marques Brownlee (MKBHD)",
+      "source_icon": "https://yt3.googleusercontent.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj",
       "country": "US",
       "section": "Competitor Coverage",
-      "title": "Apple's M7/M8 chip rumors spark concerns over MacBook future",
-      "url": "https://www.techradar.com/computing/macbooks/im-worried-about-the-future-of-macbooks-and-these-m7-chip-rumors-are-to-blame",
-      "published_at": "2026-07-19T14:00:00+00:00",
-      "score": 65,
+      "title": "Samsung Galaxy Z Fold 8 review: Incremental upgrades and new form factor",
+      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
+      "published_at": "2026-07-22T13:01:05+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:87090",
+      "kind": "youtube",
+      "source": "Marques Brownlee (MKBHD)",
+      "source_icon": "https://yt3.googleusercontent.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Samsung Galaxy Z Fold 8 review: Incremental upgrades and new form factor",
+      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
+      "published_at": "2026-07-22T13:01:05+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:86880",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "title": "Dell XPS 13 2026 review: Premium build, 120Hz display, and budget-friendly pricing",
+      "url": "https://www.youtube.com/watch?v=f0aRFEiP42o",
+      "published_at": "2026-07-22T13:00:15+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:86880",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "title": "Dell XPS 13 2026 review: Premium build, 120Hz display, and budget-friendly pricing",
+      "url": "https://www.youtube.com/watch?v=f0aRFEiP42o",
+      "published_at": "2026-07-22T13:00:15+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:86791",
+      "kind": "youtube",
+      "source": "PCMag",
+      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Samsung Galaxy Z Flip 8 and Z Fold 8 review highlights design, durability, and features",
+      "url": "https://www.youtube.com/watch?v=mXTN_lMIuuY",
+      "published_at": "2026-07-22T13:00:08+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:86791",
+      "kind": "youtube",
+      "source": "PCMag",
+      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "title": "Samsung Galaxy Z Flip 8 and Z Fold 8 review highlights design, durability, and features",
+      "url": "https://www.youtube.com/watch?v=mXTN_lMIuuY",
+      "published_at": "2026-07-22T13:00:08+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:86641",
+      "kind": "youtube",
+      "source": "Dave2D",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "title": "Samsung's New Short Foldable Phone",
+      "url": "https://www.youtube.com/watch?v=N_ZrjKeDcfw",
+      "published_at": "2026-07-22T13:00:06+00:00",
+      "score": 72,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
@@ -5765,143 +6094,22 @@
       "is_dell_story": false
     },
     {
-      "id": "media:118177",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Windows 11 2026 update details revealed with hardware requirements and upgrade options",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-version-26h2-2026-update-10-things-to-know",
-      "published_at": "2026-07-19T13:43:12+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:119693",
-      "kind": "media",
-      "source": "TechSpot",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Nvidia RTX 5000 Super GPUs delayed due to costly GDDR7 memory",
-      "url": "https://www.techspot.com/news/113167-nvidia-may-have-rtx-5000-super-cards-ready.html",
-      "published_at": "2026-07-19T13:33:00+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:80970",
+      "id": "youtube:86641",
       "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "title": "New Dell 14: Complete Laptop for Work and Study",
-      "url": "https://www.youtube.com/watch?v=7Exkkua6Oa0",
-      "published_at": "2026-07-19T13:15:30+00:00",
-      "score": 85,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:80595",
-      "kind": "youtube",
-      "source": "Just Josh",
-      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "source": "Dave2D",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
       "country": "CA",
-      "section": "Dell Coverage",
-      "title": "Review of HP Omnibook 5: Budget vs. Premium Configurations",
-      "url": "https://www.youtube.com/watch?v=d6-MKB71NmQ",
-      "published_at": "2026-07-19T13:00:38+00:00",
-      "score": 100,
-      "is_review": true,
+      "section": "Competitor Coverage",
+      "title": "Samsung's New Short Foldable Phone",
+      "url": "https://www.youtube.com/watch?v=N_ZrjKeDcfw",
+      "published_at": "2026-07-22T13:00:06+00:00",
+      "score": 72,
+      "is_review": false,
       "is_sponsored": false,
-      "brand": "HP",
+      "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
     },
-    {
-      "id": "media:118180",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Windows 11 removes Bing ads from search, improves user experience",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-trades-noisy-bing-ads-for-the-clean-search-experience-it-always-needed",
-      "published_at": "2026-07-19T13:00:00+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:118688",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "title": "Microsoft releases three new Windows 11 Recovery updates",
-      "url": "https://winfuture.de/news,160075.html",
-      "published_at": "2026-07-19T10:01:00+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:117903",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "title": "Qualcomm Snapdragon 4 Gen 6 leak shows 4nm TSMC process, 2027 launch",
-      "url": "https://www.tudocelular.com/tech/noticias/n258947/qualcomm-snapdragon-4-gen-6-vazamento.html",
-      "published_at": "2026-07-19T09:16:00+00:00",
-      "score": 30,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:117904",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "title": "ASUS TUF Gaming A15 listed at Black Friday price on Mercado Livre",
-      "url": "https://www.tudocelular.com/asus/noticias/n258946/notebook-asus-tuf-gaming-a15-oferta-meli-19072026.html",
-      "published_at": "2026-07-19T09:03:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    }
-  ],
-  "items": [
     {
       "id": "media:125571",
       "kind": "media",
@@ -19337,7 +19545,7 @@
       "kind": "media",
       "source": "Tom's Guide",
       "source_icon": "",
-      "country": "",
+      "country": "GB",
       "section": "Dell Coverage",
       "title": "Review: Tom's Guide evaluates the Alienware AW3426DW 280Hz QD-OLED monitor",
       "url": "https://www.tomsguide.com/computing/monitors/alienware-34-280hz-qd-oled-aw3426dw-review",
@@ -19354,7 +19562,7 @@
       "kind": "media",
       "source": "Tom's Guide",
       "source_icon": "",
-      "country": "",
+      "country": "GB",
       "section": "Dell Coverage",
       "title": "Review: Tom's Guide evaluates the Alienware AW3426DW 280Hz QD-OLED monitor",
       "url": "https://www.tomsguide.com/computing/monitors/alienware-34-280hz-qd-oled-aw3426dw-review",
@@ -19405,7 +19613,7 @@
       "kind": "media",
       "source": "T3",
       "source_icon": "",
-      "country": "",
+      "country": "GB",
       "section": "Dell Coverage",
       "title": "Review: T3 evaluates the Alienware AW3426DW gaming monitor",
       "url": "https://www.t3.com/tech/monitors/alienware-aw3426dw-review",
@@ -19422,7 +19630,7 @@
       "kind": "media",
       "source": "T3",
       "source_icon": "",
-      "country": "",
+      "country": "GB",
       "section": "Dell Coverage",
       "title": "Review: T3 evaluates the Alienware AW3426DW gaming monitor",
       "url": "https://www.t3.com/tech/monitors/alienware-aw3426dw-review",
