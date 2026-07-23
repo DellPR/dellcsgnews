@@ -938,9 +938,9 @@
       return;
     }
     if (topStoryHead) topStoryHead.style.display = "";
-    const forcedTopStory = state.items.find(item => item.url === TOP_STORY_URL);
+    const forcedTopStory = state.items.find(item => item.url === TOP_STORY_URL && !isDeal(item));
     const topStory = forcedTopStory || [...state.items]
-      .filter(item => item.kind !== "x")
+      .filter(item => item.kind !== "x" && !isDeal(item))
       .filter(item => Number(item.score || 0) >= 90)
       .sort((a, b) => Number(b.score || 0) - Number(a.score || 0) || itemTime(b) - itemTime(a))[0];
     highlightsEl.innerHTML = topStory ? highlight(topStory, true) : "";
