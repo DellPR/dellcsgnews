@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T00:32:58.257672+00:00",
-  "total_items": 3644,
+  "generated_at": "2026-07-23T00:59:39.449596+00:00",
+  "total_items": 3645,
   "brands": [
     {
       "brand": "Microsoft",
@@ -141,8 +141,8 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 344,
-      "media": 282,
+      "total": 345,
+      "media": 283,
       "youtube": 62,
       "reviews": 63,
       "sponsored": 6,
@@ -155,7 +155,7 @@
         },
         {
           "source": "PCWorld",
-          "count": 26
+          "count": 27
         },
         {
           "source": "Windows Central",
@@ -189,7 +189,7 @@
         },
         {
           "section": "Ecosystem",
-          "count": 115
+          "count": 116
         },
         {
           "section": "Deals",
@@ -204,7 +204,7 @@
           "count": 15
         }
       ],
-      "avg_score": 69.3
+      "avg_score": 69.2
     },
     {
       "brand": "Intel",
@@ -413,8 +413,8 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 257,
-      "media": 213,
+      "total": 259,
+      "media": 215,
       "youtube": 44,
       "reviews": 3,
       "sponsored": 0,
@@ -457,7 +457,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 243
+          "count": 245
         },
         {
           "section": "Ecosystem",
@@ -521,7 +521,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 134
+          "count": 132
         },
         {
           "section": "Deals",
@@ -537,10 +537,10 @@
         },
         {
           "section": "Market Trends",
-          "count": 4
+          "count": 6
         }
       ],
-      "avg_score": 63.7
+      "avg_score": 63.6
     },
     {
       "brand": "Asus",
@@ -613,8 +613,8 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 142,
-      "media": 132,
+      "total": 141,
+      "media": 131,
       "youtube": 10,
       "reviews": 7,
       "sponsored": 3,
@@ -660,12 +660,12 @@
           "count": 93
         },
         {
-          "section": "Competitor Coverage",
+          "section": "Deals",
           "count": 15
         },
         {
-          "section": "Deals",
-          "count": 15
+          "section": "Competitor Coverage",
+          "count": 14
         },
         {
           "section": "Market Trends",
@@ -676,7 +676,7 @@
           "count": 5
         }
       ],
-      "avg_score": 47.2
+      "avg_score": 47.0
     },
     {
       "brand": "HP",
@@ -1201,8 +1201,8 @@
     {
       "brand": "Framework",
       "family": "PC competitors",
-      "total": 18,
-      "media": 15,
+      "total": 17,
+      "media": 14,
       "youtube": 3,
       "reviews": 1,
       "sponsored": 0,
@@ -1215,7 +1215,7 @@
         },
         {
           "source": "TI Inside",
-          "count": 3
+          "count": 2
         },
         {
           "source": "Digital Trends",
@@ -1245,14 +1245,14 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 17
+          "count": 16
         },
         {
           "section": "Dell Coverage",
           "count": 1
         }
       ],
-      "avg_score": 65.9
+      "avg_score": 65.6
     },
     {
       "brand": "LG",
@@ -1643,14 +1643,14 @@
       "brands": {
         "Microsoft": 279,
         "NVIDIA": 162,
-        "Dell": 146,
+        "Dell": 147,
         "Intel": 146,
         "Apple": 116,
         "AMD": 113,
         "Lenovo": 89,
-        "Valve": 86,
-        "Samsung": 77,
+        "Valve": 88,
         "Asus": 76,
+        "Samsung": 76,
         "HP": 44,
         "Alienware": 31,
         "Google": 22,
@@ -2246,14 +2246,14 @@
       "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
-      "title": "Microsoft brings old Xbox games to PC via Xbox Backwards Compatibility",
+      "title": "Microsoft brings older Xbox games to PC through compatibility program",
       "url": "https://www.pcworld.com/article/3197007/microsoft-ports-old-school-xbox-games-to-pc-including-my-personal-favorite.html",
       "published_at": "2026-07-22T17:08:48+00:00",
       "score": 40,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
+      "brand": "Dell",
+      "family": "Dell family",
       "is_dell_story": false
     },
     {
@@ -2263,7 +2263,7 @@
       "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
-      "title": "Microsoft brings old Xbox games to PC via Xbox Backwards Compatibility",
+      "title": "Microsoft brings older Xbox games to PC through compatibility program",
       "url": "https://www.pcworld.com/article/3197007/microsoft-ports-old-school-xbox-games-to-pc-including-my-personal-favorite.html",
       "published_at": "2026-07-22T17:08:48+00:00",
       "score": 40,
@@ -2271,6 +2271,23 @@
       "is_sponsored": false,
       "brand": "Microsoft",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:130656",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Microsoft brings older Xbox games to PC through compatibility program",
+      "url": "https://www.pcworld.com/article/3197007/microsoft-ports-old-school-xbox-games-to-pc-including-my-personal-favorite.html",
+      "published_at": "2026-07-22T17:08:48+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -4642,11 +4659,28 @@
       "source": "PCWorld",
       "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
       "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Leather jacket auction, GTA mod, and Hannah Montana Linux distro",
+      "section": "Market Trends",
+      "title": "Mini PC positioned as a low-cost alternative to Steam Deck-style use",
       "url": "https://www.pcworld.com/article/3195078/cant-get-a-steam-deck-buy-a-300-mini-pc-instead.html",
       "published_at": "2026-07-21T12:00:00+00:00",
-      "score": 75,
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122611",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Mini PC positioned as a low-cost alternative to Steam Deck-style use",
+      "url": "https://www.pcworld.com/article/3195078/cant-get-a-steam-deck-buy-a-300-mini-pc-instead.html",
+      "published_at": "2026-07-21T12:00:00+00:00",
+      "score": 50,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Lenovo",
@@ -5034,13 +5068,13 @@
       "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
       "section": "Competitor Coverage",
-      "title": "of Samsung Galaxy Book4 with Core i5 and MX570 graphics",
+      "title": "Samsung Galaxy Book4 with Core i5 and MX570 graphics",
       "url": "https://www.youtube.com/shorts/ov3irqTUQ4s",
       "published_at": "2026-07-20T21:28:19+00:00",
       "score": 72,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "HP",
+      "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -5051,13 +5085,13 @@
       "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
       "section": "Competitor Coverage",
-      "title": "of Samsung Galaxy Book4 with Core i5 and MX570 graphics",
+      "title": "Samsung Galaxy Book4 with Core i5 and MX570 graphics",
       "url": "https://www.youtube.com/shorts/ov3irqTUQ4s",
       "published_at": "2026-07-20T21:28:19+00:00",
       "score": 72,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Samsung",
+      "brand": "HP",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -5876,40 +5910,6 @@
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:120636",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "HP Victus laptop gets $550 discount at Best Buy for creators",
-      "url": "https://www.techradar.com/pro/best-buy-black-friday-in-july-save-usd550-on-the-hp-victus-one-of-our-our-favorite-budget-laptops-for-creators-with-ryzen-5-and-rtx-3050-performance",
-      "published_at": "2026-07-20T14:05:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:120859",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "title": "Nvidia RTX 5060 GPUs use GB205 die in some vendor models",
-      "url": "https://wccftech.com/some-newer-geforce-rtx-5060-gpus-transition-to-16-pin-connector-as-vendors-deploy-cut-down-gb205-die/",
-      "published_at": "2026-07-20T13:44:20+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6498,14 +6498,14 @@
       "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
-      "title": "Microsoft brings old Xbox games to PC via Xbox Backwards Compatibility",
+      "title": "Microsoft brings older Xbox games to PC through compatibility program",
       "url": "https://www.pcworld.com/article/3197007/microsoft-ports-old-school-xbox-games-to-pc-including-my-personal-favorite.html",
       "published_at": "2026-07-22T17:08:48+00:00",
       "score": 40,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
+      "brand": "Dell",
+      "family": "Dell family",
       "is_dell_story": false
     },
     {
@@ -6515,7 +6515,7 @@
       "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
-      "title": "Microsoft brings old Xbox games to PC via Xbox Backwards Compatibility",
+      "title": "Microsoft brings older Xbox games to PC through compatibility program",
       "url": "https://www.pcworld.com/article/3197007/microsoft-ports-old-school-xbox-games-to-pc-including-my-personal-favorite.html",
       "published_at": "2026-07-22T17:08:48+00:00",
       "score": 40,
@@ -6523,6 +6523,23 @@
       "is_sponsored": false,
       "brand": "Microsoft",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:130656",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Microsoft brings older Xbox games to PC through compatibility program",
+      "url": "https://www.pcworld.com/article/3197007/microsoft-ports-old-school-xbox-games-to-pc-including-my-personal-favorite.html",
+      "published_at": "2026-07-22T17:08:48+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -8894,11 +8911,28 @@
       "source": "PCWorld",
       "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
       "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Leather jacket auction, GTA mod, and Hannah Montana Linux distro",
+      "section": "Market Trends",
+      "title": "Mini PC positioned as a low-cost alternative to Steam Deck-style use",
       "url": "https://www.pcworld.com/article/3195078/cant-get-a-steam-deck-buy-a-300-mini-pc-instead.html",
       "published_at": "2026-07-21T12:00:00+00:00",
-      "score": 75,
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:122611",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Mini PC positioned as a low-cost alternative to Steam Deck-style use",
+      "url": "https://www.pcworld.com/article/3195078/cant-get-a-steam-deck-buy-a-300-mini-pc-instead.html",
+      "published_at": "2026-07-21T12:00:00+00:00",
+      "score": 50,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Lenovo",
@@ -9286,13 +9320,13 @@
       "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
       "section": "Competitor Coverage",
-      "title": "of Samsung Galaxy Book4 with Core i5 and MX570 graphics",
+      "title": "Samsung Galaxy Book4 with Core i5 and MX570 graphics",
       "url": "https://www.youtube.com/shorts/ov3irqTUQ4s",
       "published_at": "2026-07-20T21:28:19+00:00",
       "score": 72,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "HP",
+      "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -9303,13 +9337,13 @@
       "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
       "section": "Competitor Coverage",
-      "title": "of Samsung Galaxy Book4 with Core i5 and MX570 graphics",
+      "title": "Samsung Galaxy Book4 with Core i5 and MX570 graphics",
       "url": "https://www.youtube.com/shorts/ov3irqTUQ4s",
       "published_at": "2026-07-20T21:28:19+00:00",
       "score": 72,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Samsung",
+      "brand": "HP",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -12090,8 +12124,25 @@
       "source": "PCWorld",
       "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
       "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Steam Machine criticized for poor value and performance",
+      "section": "Market Trends",
+      "title": "Steam Machine review criticizes value and performance positioning",
+      "url": "https://www.pcworld.com/article/3193855/my-new-steam-machine-is-adorably-disappointing.html",
+      "published_at": "2026-07-17T18:57:59+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:115055",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Market Trends",
+      "title": "Steam Machine review criticizes value and performance positioning",
       "url": "https://www.pcworld.com/article/3193855/my-new-steam-machine-is-adorably-disappointing.html",
       "published_at": "2026-07-17T18:57:59+00:00",
       "score": 75,
@@ -16365,40 +16416,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:108220",
-      "kind": "media",
-      "source": "TI Inside",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "title": "Samsung expands B2B strategy with new security features and PepsiCo partnership",
-      "url": "https://tiinside.com.br/14/07/2026/pepsico-transforma-mobilidade-corporativa-e-acelera-forca-de-vendas-com-plataforma-da-samsung/",
-      "published_at": "2026-07-14T13:41:05+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:108220",
-      "kind": "media",
-      "source": "TI Inside",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "title": "Samsung expands B2B strategy with new security features and PepsiCo partnership",
-      "url": "https://tiinside.com.br/14/07/2026/pepsico-transforma-mobilidade-corporativa-e-acelera-forca-de-vendas-com-plataforma-da-samsung/",
-      "published_at": "2026-07-14T13:41:05+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
     },
