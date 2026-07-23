@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T00:09:59.072301+00:00",
-  "total_items": 3646,
+  "generated_at": "2026-07-23T00:32:58.257672+00:00",
+  "total_items": 3644,
   "brands": [
     {
       "brand": "Microsoft",
@@ -613,10 +613,10 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 143,
+      "total": 142,
       "media": 132,
-      "youtube": 11,
-      "reviews": 8,
+      "youtube": 10,
+      "reviews": 7,
       "sponsored": 3,
       "dell_stories": 0,
       "high_signal": 6,
@@ -661,7 +661,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 16
+          "count": 15
         },
         {
           "section": "Deals",
@@ -676,7 +676,7 @@
           "count": 5
         }
       ],
-      "avg_score": 47.0
+      "avg_score": 47.2
     },
     {
       "brand": "HP",
@@ -747,74 +747,6 @@
       "avg_score": 58.5
     },
     {
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "total": 88,
-      "media": 76,
-      "youtube": 12,
-      "reviews": 12,
-      "sponsored": 2,
-      "dell_stories": 0,
-      "high_signal": 3,
-      "top_sources": [
-        {
-          "source": "Windows Central",
-          "count": 14
-        },
-        {
-          "source": "Wccftech",
-          "count": 10
-        },
-        {
-          "source": "TudoCelular",
-          "count": 9
-        },
-        {
-          "source": "HotHardware",
-          "count": 5
-        },
-        {
-          "source": "Mundo Conectado",
-          "count": 4
-        },
-        {
-          "source": "PCWorld",
-          "count": 4
-        },
-        {
-          "source": "TechRadar",
-          "count": 4
-        },
-        {
-          "source": "The Register",
-          "count": 4
-        }
-      ],
-      "sections": [
-        {
-          "section": "Ecosystem",
-          "count": 40
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 35
-        },
-        {
-          "section": "Deals",
-          "count": 9
-        },
-        {
-          "section": "Market Trends",
-          "count": 3
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 1
-        }
-      ],
-      "avg_score": 57.0
-    },
-    {
       "brand": "Amazon",
       "family": "Other",
       "total": 87,
@@ -877,6 +809,74 @@
         }
       ],
       "avg_score": 37.3
+    },
+    {
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "total": 87,
+      "media": 76,
+      "youtube": 11,
+      "reviews": 11,
+      "sponsored": 2,
+      "dell_stories": 0,
+      "high_signal": 3,
+      "top_sources": [
+        {
+          "source": "Windows Central",
+          "count": 14
+        },
+        {
+          "source": "Wccftech",
+          "count": 10
+        },
+        {
+          "source": "TudoCelular",
+          "count": 9
+        },
+        {
+          "source": "HotHardware",
+          "count": 5
+        },
+        {
+          "source": "Mundo Conectado",
+          "count": 4
+        },
+        {
+          "source": "PCWorld",
+          "count": 4
+        },
+        {
+          "source": "TechRadar",
+          "count": 4
+        },
+        {
+          "source": "The Register",
+          "count": 4
+        }
+      ],
+      "sections": [
+        {
+          "section": "Ecosystem",
+          "count": 40
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 34
+        },
+        {
+          "section": "Deals",
+          "count": 9
+        },
+        {
+          "section": "Market Trends",
+          "count": 3
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 1
+        }
+      ],
+      "avg_score": 57.3
     },
     {
       "brand": "MSI",
@@ -1649,13 +1649,13 @@
         "AMD": 113,
         "Lenovo": 89,
         "Valve": 86,
-        "Samsung": 78,
+        "Samsung": 77,
         "Asus": 76,
         "HP": 44,
         "Alienware": 31,
-        "Qualcomm": 23,
         "Google": 22,
         "MSI": 22,
+        "Qualcomm": 22,
         "OpenAI": 21
       }
     }
@@ -2338,40 +2338,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:87150",
-      "kind": "youtube",
-      "source": "UrAvgConsumer",
-      "source_icon": "https://yt3.googleusercontent.com/8-YFq0watPvwsxWIUpCusG9TotYWxcgmaAgMRmeUB2vUBIart9TfVx_jIIFYn9fZEs5pkE-D_Q=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Samsung Galaxy ZFold 8 review highlights durability, camera upgrades, and new hinge tech",
-      "url": "https://www.youtube.com/watch?v=RQQufsYtP2M",
-      "published_at": "2026-07-22T16:23:46+00:00",
-      "score": 30,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:87150",
-      "kind": "youtube",
-      "source": "UrAvgConsumer",
-      "source_icon": "https://yt3.googleusercontent.com/8-YFq0watPvwsxWIUpCusG9TotYWxcgmaAgMRmeUB2vUBIart9TfVx_jIIFYn9fZEs5pkE-D_Q=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Samsung Galaxy ZFold 8 review highlights durability, camera upgrades, and new hinge tech",
-      "url": "https://www.youtube.com/watch?v=RQQufsYtP2M",
-      "published_at": "2026-07-22T16:23:46+00:00",
-      "score": 30,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Qualcomm",
       "family": "Ecosystem",
       "is_dell_story": false
     },
@@ -5910,6 +5876,40 @@
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
+    },
+    {
+      "id": "media:120636",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "title": "HP Victus laptop gets $550 discount at Best Buy for creators",
+      "url": "https://www.techradar.com/pro/best-buy-black-friday-in-july-save-usd550-on-the-hp-victus-one-of-our-our-favorite-budget-laptops-for-creators-with-ryzen-5-and-rtx-3050-performance",
+      "published_at": "2026-07-20T14:05:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:120859",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "title": "Nvidia RTX 5060 GPUs use GB205 die in some vendor models",
+      "url": "https://wccftech.com/some-newer-geforce-rtx-5060-gpus-transition-to-16-pin-connector-as-vendors-deploy-cut-down-gb205-die/",
+      "published_at": "2026-07-20T13:44:20+00:00",
+      "score": 34,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
     }
   ],
   "items": [
@@ -6590,40 +6590,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:87150",
-      "kind": "youtube",
-      "source": "UrAvgConsumer",
-      "source_icon": "https://yt3.googleusercontent.com/8-YFq0watPvwsxWIUpCusG9TotYWxcgmaAgMRmeUB2vUBIart9TfVx_jIIFYn9fZEs5pkE-D_Q=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Samsung Galaxy ZFold 8 review highlights durability, camera upgrades, and new hinge tech",
-      "url": "https://www.youtube.com/watch?v=RQQufsYtP2M",
-      "published_at": "2026-07-22T16:23:46+00:00",
-      "score": 30,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:87150",
-      "kind": "youtube",
-      "source": "UrAvgConsumer",
-      "source_icon": "https://yt3.googleusercontent.com/8-YFq0watPvwsxWIUpCusG9TotYWxcgmaAgMRmeUB2vUBIart9TfVx_jIIFYn9fZEs5pkE-D_Q=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "title": "Samsung Galaxy ZFold 8 review highlights durability, camera upgrades, and new hinge tech",
-      "url": "https://www.youtube.com/watch?v=RQQufsYtP2M",
-      "published_at": "2026-07-22T16:23:46+00:00",
-      "score": 30,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Qualcomm",
       "family": "Ecosystem",
       "is_dell_story": false
     },
