@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-22T22:59:10.216687+00:00",
-  "trigger": "manual",
-  "total": 2536,
+  "generated_at": "2026-07-23T00:00:38.912179+00:00",
+  "trigger": "youtube",
+  "total": 2537,
   "counts": {
     "media": 2156,
-    "youtube": 343,
+    "youtube": 344,
     "x": 37
   },
   "section_counts": {
     "Ecosystem": 1215,
     "Competitor Coverage": 546,
-    "Market Trends": 398,
+    "Market Trends": 399,
     "Deals": 211,
     "Dell Coverage": 129,
     "X Watch": 37
@@ -511,6 +511,44 @@
       "is_competitor_story": false,
       "is_market_story": true,
       "market_interest": "low"
+    },
+    {
+      "id": "youtube:87360",
+      "kind": "youtube",
+      "source": "Linus Tech Tips",
+      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "title": "Steam Machine review: Linux desktop PC with SteamOS integration",
+      "display_title": "Steam Machine review: Linux desktop PC with SteamOS integration",
+      "original_title": "Valve Accidentally Made the Best Desktop PC I’ve Ever Used",
+      "url": "https://www.youtube.com/watch?v=5fXAELrljqs",
+      "published_at": "2026-07-22T18:18:57+00:00",
+      "captured_at": "2026-07-22 23:30:01",
+      "section": "Market Trends",
+      "company": "Valve",
+      "product": "",
+      "score": 90,
+      "summary": "The video reviews Valve's Steam Machine, highlighting its design as a compact desktop PC with SteamOS pre-installed. It praises the KDE Plasma desktop's user-friendliness for Windows users and the seamless integration with Steam's ecosystem, though notes hardware limitations like the USB-C port's lack of display output and challenges with iPhone file transfers. The reviewer concludes it's a compelling Linux desktop option despite minor drawbacks.",
+      "why_it_matters": "",
+      "thumbnail": "https://i2.ytimg.com/vi/5fXAELrljqs/hqdefault.jpg",
+      "tags": [
+        "Linus Tech Tips",
+        "CA",
+        "Valve",
+        "Review",
+        "Market Trends"
+      ],
+      "is_review": true,
+      "is_short": false,
+      "is_sponsored": false,
+      "sponsor_brand": "",
+      "is_dell_story": false,
+      "has_dell_mention": false,
+      "is_competitor_story": false,
+      "is_market_story": true,
+      "also_competitor_story": true,
+      "review_type": "review",
+      "tone": "mixed"
     },
     {
       "id": "media:134265",
@@ -2081,7 +2119,7 @@
       "published_at": "2026-07-22T12:00:00+00:00",
       "captured_at": "2026-07-22 18:00:10",
       "section": "Dell Coverage",
-      "company": "Dell",
+      "company": "Apple",
       "product": "Dell XPS 13",
       "score": 100,
       "summary": "Andrew Marc David reviews Dell’s latest XPS 13 positioning as a stronger MacBook alternative, focusing on the premium design, display quality, portability, and everyday performance improvements. The video frames Dell as having corrected key pain points in the XPS line while keeping the product relevant for students and professionals looking for a compact Windows laptop. For Dell, the value is strong third-party validation from a creator who often compares Windows laptops directly against Apple’s MacBook lineup.",
@@ -2090,10 +2128,11 @@
       "tags": [
         "Andrew Marc David",
         "US",
-        "Dell",
+        "Apple",
         "Dell XPS 13",
         "Review",
-        "Dell Coverage"
+        "Dell Coverage",
+        "Dell"
       ],
       "is_review": true,
       "is_short": false,

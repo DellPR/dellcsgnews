@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T22:59:10.216664+00:00",
-  "total_items": 3645,
+  "generated_at": "2026-07-23T00:00:38.912161+00:00",
+  "total_items": 3646,
   "brands": [
     {
       "brand": "Microsoft",
@@ -413,13 +413,13 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 256,
+      "total": 257,
       "media": 213,
-      "youtube": 43,
-      "reviews": 2,
+      "youtube": 44,
+      "reviews": 3,
       "sponsored": 0,
       "dell_stories": 0,
-      "high_signal": 27,
+      "high_signal": 28,
       "top_sources": [
         {
           "source": "Adrenaline",
@@ -457,7 +457,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 242
+          "count": 243
         },
         {
           "section": "Ecosystem",
@@ -472,7 +472,7 @@
           "count": 1
         }
       ],
-      "avg_score": 61.6
+      "avg_score": 61.7
     },
     {
       "brand": "Lenovo",
@@ -1648,7 +1648,7 @@
         "Apple": 116,
         "AMD": 113,
         "Lenovo": 89,
-        "Valve": 85,
+        "Valve": 86,
         "Samsung": 78,
         "Asus": 76,
         "HP": 44,
@@ -1965,6 +1965,23 @@
       "is_sponsored": false,
       "brand": "Microsoft",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:87360",
+      "kind": "youtube",
+      "source": "Linus Tech Tips",
+      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Market Trends",
+      "title": "Steam Machine review: Linux desktop PC with SteamOS integration",
+      "url": "https://www.youtube.com/watch?v=5fXAELrljqs",
+      "published_at": "2026-07-22T18:18:57+00:00",
+      "score": 90,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -5893,23 +5910,6 @@
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:120636",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "title": "HP Victus laptop gets $550 discount at Best Buy for creators",
-      "url": "https://www.techradar.com/pro/best-buy-black-friday-in-july-save-usd550-on-the-hp-victus-one-of-our-our-favorite-budget-laptops-for-creators-with-ryzen-5-and-rtx-3050-performance",
-      "published_at": "2026-07-20T14:05:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6217,6 +6217,23 @@
       "is_sponsored": false,
       "brand": "Microsoft",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:87360",
+      "kind": "youtube",
+      "source": "Linus Tech Tips",
+      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Market Trends",
+      "title": "Steam Machine review: Linux desktop PC with SteamOS integration",
+      "url": "https://www.youtube.com/watch?v=5fXAELrljqs",
+      "published_at": "2026-07-22T18:18:57+00:00",
+      "score": 90,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
