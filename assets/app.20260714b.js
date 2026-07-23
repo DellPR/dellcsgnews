@@ -43,6 +43,24 @@
     }[ch]));
   }
 
+  function normalizeCountryCode(value) {
+    const raw = String(value || "").trim().toUpperCase();
+    const match = raw.match(/\b[A-Z]{2}\b/);
+    const code = match ? match[0] : raw;
+    return code === "UK" ? "GB" : code;
+  }
+
+  function countryChip(value) {
+    if (!value) return "";
+    const code = normalizeCountryCode(value);
+    if (!/^[A-Z]{2}$/.test(code)) return chip(String(value || "").trim());
+    const display = code === "GB" && String(value || "").toUpperCase().includes("UK") ? "UK" : code;
+    const flagCode = code.toLowerCase();
+    const src = `https://flagcdn.com/w40/${flagCode}.png`;
+    const srcset = `https://flagcdn.com/w40/${flagCode}.png 1x, https://flagcdn.com/w80/${flagCode}.png 2x`;
+    return `<span class="chip country" title="${escapeHtml(display)}" aria-label="${escapeHtml(display)}"><img class="flag-img" src="${escapeHtml(src)}" srcset="${escapeHtml(srcset)}" alt=""><span class="flag-code">${escapeHtml(display)}</span></span>`;
+  }
+
   function itemTime(item) {
     const raw = item.published_at || item.captured_at;
     const date = raw ? new Date(raw) : null;
@@ -367,7 +385,7 @@
   function itemChips(item) {
     const parts = [];
     parts.push(chip(item.source || "Source", "source", item.source_icon));
-    if (item.country) parts.push(chip(item.country));
+    if (item.country) parts.push(countryChip(item.country));
     if (item.kind === "youtube") parts.push(chip("YouTube", "youtube"));
     if (item.is_review) parts.push(chip("Review", "review"));
     if (item.is_sponsored) parts.push(chip("Sponsored", "sponsored"));
@@ -422,7 +440,7 @@
     const sourceChips = [
       chip(item.source || "Source", "source", item.source_icon),
       item.kind === "youtube" ? chip("YouTube", "youtube") : "",
-      item.country ? chip(item.country) : "",
+      item.country ? countryChip(item.country) : "",
       item.is_review ? chip("Review", "review") : "",
       item.is_sponsored ? chip("Sponsored", "sponsored") : "",
       item.is_short ? chip("Shorts", "short") : "",

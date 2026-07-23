@@ -1299,3 +1299,32 @@ body {
   text-overflow: clip !important;
   max-height: none !important;
 }
+
+/* Country chips use image flags because Windows/Edge can render flag emoji as plain letters. */
+.chip.country {
+  gap: 5px;
+  min-width: 0;
+  justify-content: center;
+  padding: 2px 7px;
+  background: #edf3f8;
+  color: #24364b;
+  line-height: 1;
+}
+.chip.country .flag-img {
+  width: 18px;
+  height: 12px;
+  border-radius: 2px;
+  object-fit: cover;
+  flex: 0 0 auto;
+  box-shadow: 0 0 0 1px rgba(15, 23, 42, .12);
+}
+.chip.country .flag-emoji {
+  display: none;
+}
+.chip.country .flag-code {
+  display: inline-block;
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: 0;
+}

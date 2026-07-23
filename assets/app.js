@@ -49,18 +49,23 @@
     }[ch]));
   }
 
-  function countryFlag(value) {
+
+  function normalizeCountryCode(value) {
     const raw = String(value || "").trim().toUpperCase();
-    const code = raw === "UK" ? "GB" : raw;
-    if (!/^[A-Z]{2}$/.test(code)) return raw;
-    return String.fromCodePoint(...[...code].map(ch => 0x1F1E6 + ch.charCodeAt(0) - 65));
+    const match = raw.match(/\b[A-Z]{2}\b/);
+    const code = match ? match[0] : raw;
+    return code === "UK" ? "GB" : code;
   }
 
   function countryChip(value) {
     if (!value) return "";
-    const raw = String(value || "").trim().toUpperCase();
-    const flag = countryFlag(raw);
-    return `<span class="chip country" title="${escapeHtml(raw)}" aria-label="${escapeHtml(raw)}"><span class="flag-emoji">${escapeHtml(flag)}</span><span class="flag-code">${escapeHtml(raw)}</span></span>`;
+    const code = normalizeCountryCode(value);
+    if (!/^[A-Z]{2}$/.test(code)) return chip(String(value || "").trim());
+    const display = code === "GB" && String(value || "").toUpperCase().includes("UK") ? "UK" : code;
+    const flagCode = code.toLowerCase();
+    const src = `https://flagcdn.com/w40/${flagCode}.png`;
+    const srcset = `https://flagcdn.com/w40/${flagCode}.png 1x, https://flagcdn.com/w80/${flagCode}.png 2x`;
+    return `<span class="chip country" title="${escapeHtml(display)}" aria-label="${escapeHtml(display)}"><img class="flag-img" src="${escapeHtml(src)}" srcset="${escapeHtml(srcset)}" alt=""><span class="flag-code">${escapeHtml(display)}</span></span>`;
   }
 
   function itemTime(item) {
