@@ -321,6 +321,7 @@
   }
 
   function isDeal(item) {
+    if (item.is_deal || String(item.section || "").toLowerCase() === "deals") return true;
     const directDealsUrl = /\/(?:deals?|offers?|coupons?)(?:\/|$|[?#-])/i.test(String(item.url || ""));
     if (looksEditorialReview(item) && !directDealsUrl) return false;
     return explicitDealText(item);
@@ -336,6 +337,7 @@
 
   function matchesFilter(item) {
     const blob = itemBlob(item);
+    if (state.filter !== "deals" && isDeal(item)) return false;
     if (state.filter === "all") return true;
     if (state.filter === "dell") return Boolean(item.has_dell_mention);
     if (state.filter === "competitor") return isCompetitorStory(item);
@@ -514,7 +516,11 @@
   }
 
   function shareMetricRows(rows) {
-    return rows.filter(item => isShareBrand(item.brand));
+    return rows.filter(item => !item.deal_metric_only && isShareBrand(item.brand));
+  }
+
+  function dealMetricRows(rows) {
+    return rows.filter(item => metricIsDeal(item) && isShareBrand(item.brand));
   }
 
   function brandMetricsData() {
@@ -1002,11 +1008,16 @@
   function renderBrandMetrics() {
     if (!brandMetricsEl) return;
     const data = brandMetricsData();
-    const rows = metricWindowRows(data).sort((a, b) => metricItemTime(b) - metricItemTime(a));
+    const allRows = metricWindowRows(data).sort((a, b) => metricItemTime(b) - metricItemTime(a));
+    const rows = allRows.filter(item => !item.deal_metric_only);
     const brands = summarizeMetricRows(rows);
-    const shareBrands = summarizeMetricRows(shareMetricRows(rows));
-    const brazilBrands = summarizeMetricRows(rows.filter(item => String(item.country || "").toUpperCase() === "BR"));
-    const brazilShareBrands = summarizeMetricRows(shareMetricRows(rows).filter(item => String(item.country || "").toUpperCase() === "BR"));
+    const shareBrands = summarizeMetricRows(shareMetricRows(allRows));
+    const dealBrands = summarizeMetricRows(dealMetricRows(allRows));
+    const brazilRows = rows.filter(item => String(item.country || "").toUpperCase() === "BR");
+    const brazilAllRows = allRows.filter(item => String(item.country || "").toUpperCase() === "BR");
+    const brazilBrands = summarizeMetricRows(brazilRows);
+    const brazilShareBrands = summarizeMetricRows(shareMetricRows(brazilAllRows));
+    const brazilDealBrands = summarizeMetricRows(dealMetricRows(brazilAllRows));
     const selected = brands.slice(0, 14);
     const maxTotal = Math.max(1, ...selected.map(b => Number(b.total || 0)));
     const brandByName = name => brands.find(b => String(b.brand || "").toLowerCase() === name) || {};
@@ -1016,7 +1027,7 @@
     const alienwareStories = Number(alienwareBrand.total || 0);
     const competitors = brands.filter(b => b.family === "PC competitors").reduce((sum, b) => sum + Number(b.total || 0), 0);
     const reviews = brands.reduce((sum, b) => sum + Number(b.reviews || 0), 0);
-    const deals = brands.reduce((sum, b) => sum + Number(b.deals || 0), 0);
+    const deals = dealBrands.reduce((sum, b) => sum + Number(b.deals || 0), 0);
     const dellReviews = Number(dellBrand.reviews || 0);
     const alienwareReviews = Number(alienwareBrand.reviews || 0);
     const topSources = {};
@@ -1065,14 +1076,14 @@
         ${renderPieChart("Share of voice", shareBrands, "total", "No CSG/OEM brand coverage in this period.", ["Dell", "Alienware"])}
         ${renderPieChart("YouTube share of voice", shareBrands, "youtube", "No CSG/OEM YouTube brand coverage in this period.", ["Dell", "Alienware"])}
         ${renderPieChart("Share of product reviews", shareBrands, "reviews", "No CSG/OEM product reviews in this period.", ["Dell", "Alienware"])}
-        ${renderPieChart("Share of deals", shareBrands, "deals", "No CSG/OEM deals coverage in this period.", ["Dell", "Alienware"])}
+        ${renderPieChart("Share of deals", dealBrands, "deals", "No CSG/OEM deals coverage in this period.", ["Dell", "Alienware"])}
       </div>
       <h3 class="metric-section-title">Brazil only</h3>
       <div class="metrics-grid pie-grid">
         ${renderPieChart("Share of voice (Brazil only)", brazilShareBrands, "total", "No Brazil CSG/OEM brand coverage in this period.", ["Dell", "Alienware"])}
         ${renderPieChart("YouTube share of voice (Brazil only)", brazilShareBrands, "youtube", "No Brazil CSG/OEM YouTube brand coverage in this period.", ["Dell", "Alienware"])}
         ${renderPieChart("Share of product reviews (Brazil only)", brazilShareBrands, "reviews", "No Brazil CSG/OEM product reviews in this period.", ["Dell", "Alienware"])}
-        ${renderPieChart("Share of deals (Brazil only)", brazilShareBrands, "deals", "No Brazil CSG/OEM deals coverage in this period.", ["Dell", "Alienware"])}
+        ${renderPieChart("Share of deals (Brazil only)", brazilDealBrands, "deals", "No Brazil CSG/OEM deals coverage in this period.", ["Dell", "Alienware"])}
       </div>
       ${renderWeeklyMetricLineCharts(rows)}
       <section class="metric-panel">
