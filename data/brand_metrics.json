@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-23T23:39:51.962145+00:00",
-  "total_items": 1977,
+  "generated_at": "2026-07-23T23:40:33.560698+00:00",
+  "total_items": 1970,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 246,
+      "total": 245,
       "media": 176,
-      "youtube": 70,
-      "reviews": 39,
+      "youtube": 69,
+      "reviews": 38,
       "sponsored": 3,
       "dell_stories": 0,
       "high_signal": 21,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 162
+          "count": 161
         },
         {
           "section": "Deals",
@@ -68,18 +68,18 @@
           "count": 8
         }
       ],
-      "avg_score": 62.9
+      "avg_score": 62.8
     },
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 207,
+      "total": 206,
       "media": 192,
-      "youtube": 15,
+      "youtube": 14,
       "reviews": 10,
       "sponsored": 0,
       "dell_stories": 0,
-      "high_signal": 13,
+      "high_signal": 12,
       "top_sources": [
         {
           "source": "Windows Central",
@@ -129,14 +129,14 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 14
+          "count": 13
         },
         {
           "section": "Market Trends",
           "count": 9
         }
       ],
-      "avg_score": 55.7
+      "avg_score": 55.5
     },
     {
       "brand": "Intel",
@@ -273,13 +273,13 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 172,
+      "total": 171,
       "media": 94,
-      "youtube": 78,
+      "youtube": 77,
       "reviews": 56,
       "sponsored": 5,
       "dell_stories": 0,
-      "high_signal": 12,
+      "high_signal": 11,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -325,7 +325,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 9
+          "count": 8
         },
         {
           "section": "Ecosystem",
@@ -336,18 +336,18 @@
           "count": 2
         }
       ],
-      "avg_score": 62.1
+      "avg_score": 61.9
     },
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 161,
+      "total": 159,
       "media": 100,
-      "youtube": 61,
-      "reviews": 62,
+      "youtube": 59,
+      "reviews": 61,
       "sponsored": 6,
-      "dell_stories": 157,
-      "high_signal": 122,
+      "dell_stories": 155,
+      "high_signal": 120,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -378,14 +378,14 @@
           "count": 5
         },
         {
-          "source": "Andrew Marc David",
+          "source": "Just Josh",
           "count": 4
         }
       ],
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 112
+          "count": 110
         },
         {
           "section": "Deals",
@@ -404,18 +404,18 @@
           "count": 1
         }
       ],
-      "avg_score": 84.0
+      "avg_score": 83.8
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 142,
+      "total": 140,
       "media": 74,
-      "youtube": 68,
-      "reviews": 51,
+      "youtube": 66,
+      "reviews": 50,
       "sponsored": 1,
       "dell_stories": 0,
-      "high_signal": 9,
+      "high_signal": 8,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -453,7 +453,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 90
+          "count": 89
         },
         {
           "section": "Deals",
@@ -461,7 +461,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 7
+          "count": 6
         },
         {
           "section": "Ecosystem",
@@ -472,7 +472,7 @@
           "count": 2
         }
       ],
-      "avg_score": 61.2
+      "avg_score": 60.9
     },
     {
       "brand": "AMD",
@@ -1489,14 +1489,14 @@
     {
       "month": "2026-06",
       "brands": {
-        "Apple": 130,
+        "Apple": 129,
         "Valve": 109,
         "Microsoft": 72,
         "Amazon": 65,
         "Intel": 59,
         "Dell": 56,
-        "Asus": 52,
         "Lenovo": 52,
+        "Asus": 51,
         "AMD": 40,
         "NVIDIA": 34,
         "Samsung": 29,
@@ -1510,13 +1510,13 @@
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 133,
+        "Microsoft": 132,
         "Intel": 116,
         "Apple": 100,
-        "Lenovo": 96,
-        "Dell": 94,
+        "Lenovo": 95,
+        "Dell": 92,
         "AMD": 85,
-        "Asus": 71,
+        "Asus": 70,
         "Valve": 64,
         "NVIDIA": 59,
         "HP": 39,
@@ -2192,82 +2192,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:88905",
-      "kind": "youtube",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MicroSD adapter compatibility with laptops including Dell",
-      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
-      "published_at": "2026-07-23T16:00:02+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:88905",
-      "kind": "youtube",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MicroSD adapter compatibility with laptops including Dell",
-      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
-      "published_at": "2026-07-23T16:00:02+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:88905",
-      "kind": "youtube",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MicroSD adapter compatibility with laptops including Dell",
-      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
-      "published_at": "2026-07-23T16:00:02+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:88905",
-      "kind": "youtube",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MicroSD adapter compatibility with laptops including Dell",
-      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
-      "published_at": "2026-07-23T16:00:02+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -6279,6 +6203,82 @@
       "brand": "Qualcomm",
       "family": "Ecosystem",
       "is_dell_story": false
+    },
+    {
+      "id": "media:119757",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Lenovo's IdeaPad Slim X with Snapdragon X2 Plus now $75 off on Amazon",
+      "url": "https://wccftech.com/lenovo-ideapad-slim-x-with-snapdragon-x2-plus/",
+      "published_at": "2026-07-19T20:53:23+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Amazon",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:118661",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "CXMT transitions to DDR6 manufacturing to challenge Samsung and SK hynix",
+      "url": "https://wccftech.com/cxmt-supply-chain-process-transition-to-capture-ddr6-opportunity-before-mass-production/",
+      "published_at": "2026-07-19T17:34:35+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:81000",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo compares Yoga Pro 7i, LO 15, and Legion 5 with RTX 5060 GPUs",
+      "url": "https://www.youtube.com/watch?v=OwuCk1w-fcg",
+      "published_at": "2026-07-19T16:50:47+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:81000",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo compares Yoga Pro 7i, LO 15, and Legion 5 with RTX 5060 GPUs",
+      "url": "https://www.youtube.com/watch?v=OwuCk1w-fcg",
+      "published_at": "2026-07-19T16:50:47+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
     }
   ],
   "items": [
@@ -6944,82 +6944,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:88905",
-      "kind": "youtube",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MicroSD adapter compatibility with laptops including Dell",
-      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
-      "published_at": "2026-07-23T16:00:02+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:88905",
-      "kind": "youtube",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MicroSD adapter compatibility with laptops including Dell",
-      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
-      "published_at": "2026-07-23T16:00:02+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:88905",
-      "kind": "youtube",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MicroSD adapter compatibility with laptops including Dell",
-      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
-      "published_at": "2026-07-23T16:00:02+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:88905",
-      "kind": "youtube",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MicroSD adapter compatibility with laptops including Dell",
-      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
-      "published_at": "2026-07-23T16:00:02+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -15876,25 +15800,6 @@
       "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:70408",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell 14S and 16S 2026 review: Build, display, and performance analysis",
-      "url": "https://www.youtube.com/watch?v=leWiFw52PJ4",
-      "published_at": "2026-07-13T13:00:11+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
     },
     {
       "id": "media:103714",
@@ -40042,44 +39947,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:34825",
-      "kind": "youtube",
-      "source": "Just Josh",
-      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ASUS Zephyrus G14 2077 review: improved performance and cooling but high price",
-      "url": "https://www.youtube.com/watch?v=sO1WGaskRNc",
-      "published_at": "2026-06-10T15:35:47+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:34825",
-      "kind": "youtube",
-      "source": "Just Josh",
-      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ASUS Zephyrus G14 2077 review: improved performance and cooling but high price",
-      "url": "https://www.youtube.com/watch?v=sO1WGaskRNc",
-      "published_at": "2026-06-10T15:35:47+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
