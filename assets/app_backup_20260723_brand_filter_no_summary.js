@@ -169,14 +169,8 @@
   }
 
   function competitorBrand(item) {
-    // Brand filters must use the primary subject only. Summaries often include
-    // comparison mentions ("compared to HP/Dell") and should not file the card
-    // under that secondary brand.
-    const blob = `${item.company || ""} ${item.product || ""} ${item.title || ""} ${item.original_title || ""}`.toLowerCase();
+    const blob = itemBlob(item).toLowerCase();
     const company = String(item.company || "").toLowerCase();
-    if (company === "dell" || company === "alienware" || /\b(dell|alienware|xps|latitude|precision|inspiron|optiplex)\b/.test(blob)) {
-      return "other";
-    }
     const checks = [
       ["hp", /\b(hp|omnibook|elitebook|probook|omen|victus|zbook)\b/],
       ["lenovo", /\b(lenovo|thinkpad|thinkbook|ideapad|yoga|legion|loq)\b/],
