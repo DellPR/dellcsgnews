@@ -989,7 +989,7 @@
       return;
     }
     const rows = metricWindowRows(brandMetricsData()).sort((a, b) => metricItemTime(b) - metricItemTime(a));
-    const shareBrands = summarizeMetricRows(shareMetricRows(rows));
+    const shareBrands = summarizeMetricRows(config.valueKey === "deals" ? dealMetricRows(rows) : shareMetricRows(rows));
     feedContextPanel.innerHTML = `
       <div class="feed-context-head">
         <span class="beta-kicker">Filtered intelligence</span>
