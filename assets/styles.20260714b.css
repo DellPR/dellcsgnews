@@ -1156,10 +1156,10 @@ body {
     font-size: clamp(20px, 1.75vw, 25px) !important;
   }
   .top-story-card p {
-    display: -webkit-box !important;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 4;
-    overflow: hidden !important;
+    display: block !important;
+    -webkit-box-orient: initial;
+    -webkit-line-clamp: unset;
+    overflow: visible !important;
   }
 }
 
@@ -1288,4 +1288,14 @@ body {
   .line-legend {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+}
+
+/* Top Story must never visually end mid-sentence with an ellipsis. */
+.top-story-card .highlight-body p {
+  display: block !important;
+  -webkit-box-orient: initial !important;
+  -webkit-line-clamp: unset !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
+  max-height: none !important;
 }

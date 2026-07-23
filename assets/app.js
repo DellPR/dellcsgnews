@@ -380,6 +380,17 @@
     return "Summary pending.";
   }
 
+  function completeSentenceSummary(item, maxChars = 560) {
+    const summary = displaySummary(item);
+    if (summary.length <= maxChars) return summary;
+    const slice = summary.slice(0, maxChars + 1);
+    const sentenceEnds = [...slice.matchAll(/[.!?](?=\s|$)/g)];
+    if (sentenceEnds.length) {
+      return slice.slice(0, sentenceEnds[sentenceEnds.length - 1].index + 1).trim();
+    }
+    return summary;
+  }
+
   function itemChips(item) {
     const parts = [];
     parts.push(chip(item.source || "Source", "source", item.source_icon));
@@ -456,7 +467,7 @@
         <div class="highlight-source">${sourceChips}</div>
         <div class="label section-chip">${escapeHtml(item.section || item.kind)}</div>
         <h2>${escapeHtml(displayTitle(item))}</h2>
-        <p>${escapeHtml(displaySummary(item))}</p>
+        <p>${escapeHtml(topStory ? completeSentenceSummary(item) : displaySummary(item))}</p>
         <div class="foot"><span>${formatRelativeTime(item.published_at || item.captured_at)}</span>${scoreText(item)}</div>
       </div>
     </a>`;
