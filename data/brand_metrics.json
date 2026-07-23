@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T18:32:09.564463+00:00",
-  "total_items": 1960,
+  "generated_at": "2026-07-23T18:37:52.143290+00:00",
+  "total_items": 1965,
   "brands": [
     {
       "brand": "Apple",
@@ -73,13 +73,13 @@
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 204,
+      "total": 205,
       "media": 190,
-      "youtube": 14,
+      "youtube": 15,
       "reviews": 10,
       "sponsored": 0,
       "dell_stories": 0,
-      "high_signal": 12,
+      "high_signal": 13,
       "top_sources": [
         {
           "source": "Windows Central",
@@ -129,14 +129,14 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 13
+          "count": 14
         },
         {
           "section": "Market Trends",
           "count": 9
         }
       ],
-      "avg_score": 55.5
+      "avg_score": 55.7
     },
     {
       "brand": "Intel",
@@ -273,13 +273,13 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 168,
+      "total": 169,
       "media": 93,
-      "youtube": 75,
+      "youtube": 76,
       "reviews": 54,
       "sponsored": 5,
       "dell_stories": 0,
-      "high_signal": 11,
+      "high_signal": 12,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -325,7 +325,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 8
+          "count": 9
         },
         {
           "section": "Ecosystem",
@@ -336,18 +336,18 @@
           "count": 2
         }
       ],
-      "avg_score": 61.7
+      "avg_score": 62.0
     },
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 163,
+      "total": 164,
       "media": 103,
-      "youtube": 60,
+      "youtube": 61,
       "reviews": 62,
       "sponsored": 6,
-      "dell_stories": 159,
-      "high_signal": 124,
+      "dell_stories": 160,
+      "high_signal": 125,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -385,7 +385,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 113
+          "count": 114
         },
         {
           "section": "Deals",
@@ -404,18 +404,18 @@
           "count": 1
         }
       ],
-      "avg_score": 84.2
+      "avg_score": 84.3
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 140,
+      "total": 141,
       "media": 73,
-      "youtube": 67,
+      "youtube": 68,
       "reviews": 51,
       "sponsored": 1,
       "dell_stories": 0,
-      "high_signal": 8,
+      "high_signal": 9,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -461,7 +461,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 6
+          "count": 7
         },
         {
           "section": "Ecosystem",
@@ -472,7 +472,7 @@
           "count": 2
         }
       ],
-      "avg_score": 61.0
+      "avg_score": 61.3
     },
     {
       "brand": "AMD",
@@ -1257,9 +1257,9 @@
     {
       "brand": "Positivo",
       "family": "PC competitors",
-      "total": 4,
+      "total": 5,
       "media": 1,
-      "youtube": 3,
+      "youtube": 4,
       "reviews": 2,
       "sponsored": 0,
       "dell_stories": 0,
@@ -1274,6 +1274,10 @@
           "count": 1
         },
         {
+          "source": "Qual Notebook Comprar?",
+          "count": 1
+        },
+        {
           "source": "TI Inside",
           "count": 1
         },
@@ -1285,14 +1289,14 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 3
+          "count": 4
         },
         {
           "section": "Market Trends",
           "count": 1
         }
       ],
-      "avg_score": 70.2
+      "avg_score": 70.6
     },
     {
       "brand": "Meta",
@@ -1510,13 +1514,13 @@
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 130,
+        "Microsoft": 131,
         "Intel": 111,
         "Apple": 97,
-        "Dell": 91,
-        "Lenovo": 91,
+        "Dell": 92,
+        "Lenovo": 92,
         "AMD": 74,
-        "Asus": 68,
+        "Asus": 69,
         "Valve": 62,
         "NVIDIA": 55,
         "HP": 39,
@@ -1530,6 +1534,82 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:88905",
+      "kind": "youtube",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MicroSD adapter compatibility with laptops including Dell",
+      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
+      "published_at": "2026-07-23T16:00:02+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:88905",
+      "kind": "youtube",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MicroSD adapter compatibility with laptops including Dell",
+      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
+      "published_at": "2026-07-23T16:00:02+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:88905",
+      "kind": "youtube",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MicroSD adapter compatibility with laptops including Dell",
+      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
+      "published_at": "2026-07-23T16:00:02+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:88905",
+      "kind": "youtube",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MicroSD adapter compatibility with laptops including Dell",
+      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
+      "published_at": "2026-07-23T16:00:02+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:143165",
       "kind": "media",
@@ -1546,6 +1626,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:89475",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Best Notebook Under 3K? Positivo Vision R15M",
+      "url": "https://www.youtube.com/shorts/gIWSZdjA3c0",
+      "published_at": "2026-07-23T15:04:27+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Positivo",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -6184,20 +6283,41 @@
       "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:114767",
-      "kind": "media",
-      "source": "TecMundo",
-      "source_icon": "",
-      "country": "BR",
-      "section": "Competitor Coverage",
+      "id": "youtube:88905",
+      "kind": "youtube",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Lenovo announces first OLED-printed notebook",
-      "url": "https://www.tecmundo.com.br/produto/414621-lenovo-anuncia-1-notebook-com-tela-oled-impressa-do-mundo.htm",
-      "published_at": "2026-07-17T16:00:00+00:00",
-      "score": 65,
+      "title": "MicroSD adapter compatibility with laptops including Dell",
+      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
+      "published_at": "2026-07-23T16:00:02+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:88905",
+      "kind": "youtube",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MicroSD adapter compatibility with laptops including Dell",
+      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
+      "published_at": "2026-07-23T16:00:02+00:00",
+      "score": 100,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Lenovo",
@@ -6205,18 +6325,18 @@
       "is_dell_story": false
     },
     {
-      "id": "media:115243",
-      "kind": "media",
-      "source": "Computerworld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
+      "id": "youtube:88905",
+      "kind": "youtube",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
       "country": "US",
-      "section": "Competitor Coverage",
+      "section": "Dell Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Microsoft releases July 2026 security updates with 722 CVEs",
-      "url": "https://www.computerworld.com/article/4198400/julys-patch-tuesday-sees-an-end-of-support-collision-amidst-a-massive-record-setting-patch-wave.html",
-      "published_at": "2026-07-17T16:00:00+00:00",
-      "score": 55,
+      "title": "MicroSD adapter compatibility with laptops including Dell",
+      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
+      "published_at": "2026-07-23T16:00:02+00:00",
+      "score": 100,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Microsoft",
@@ -6224,64 +6344,24 @@
       "is_dell_story": false
     },
     {
-      "id": "media:115268",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "HP's Elite Mini 800 G9 desktop on sale for $700 off at Amazon",
-      "url": "https://www.techradar.com/pro/hps-20-core-elite-mini-800-g9-is-a-heavy-duty-desktop-replacement-and-its-usd700-off-at-amazon",
-      "published_at": "2026-07-17T15:23:12+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:115268",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "HP's Elite Mini 800 G9 desktop on sale for $700 off at Amazon",
-      "url": "https://www.techradar.com/pro/hps-20-core-elite-mini-800-g9-is-a-heavy-duty-desktop-replacement-and-its-usd700-off-at-amazon",
-      "published_at": "2026-07-17T15:23:12+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Amazon",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:78945",
+      "id": "youtube:88905",
       "kind": "youtube",
-      "source": "Max Tech",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
       "country": "US",
       "section": "Dell Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "MacBook Air M5 vs Dell 14S: Display, ports, performance, and design comparison",
-      "url": "https://www.youtube.com/watch?v=qLDAobp6j_A",
-      "published_at": "2026-07-17T15:21:04+00:00",
+      "title": "MicroSD adapter compatibility with laptops including Dell",
+      "url": "https://www.youtube.com/shorts/Hf-xCm2Llp8",
+      "published_at": "2026-07-23T16:00:02+00:00",
       "score": 100,
-      "is_review": true,
+      "is_review": false,
       "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    }
-  ],
-  "items": [
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:143165",
       "kind": "media",
@@ -6298,6 +6378,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:89475",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Best Notebook Under 3K? Positivo Vision R15M",
+      "url": "https://www.youtube.com/shorts/gIWSZdjA3c0",
+      "published_at": "2026-07-23T15:04:27+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Positivo",
       "family": "PC competitors",
       "is_dell_story": false
     },
