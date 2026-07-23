@@ -60,7 +60,7 @@
     if (!value) return "";
     const raw = String(value || "").trim().toUpperCase();
     const flag = countryFlag(raw);
-    return `<span class="chip country" title="${escapeHtml(raw)}" aria-label="${escapeHtml(raw)}">${escapeHtml(flag)}</span>`;
+    return `<span class="chip country" title="${escapeHtml(raw)}" aria-label="${escapeHtml(raw)}"><span class="flag-emoji">${escapeHtml(flag)}</span><span class="flag-code">${escapeHtml(raw)}</span></span>`;
   }
 
   function itemTime(item) {
