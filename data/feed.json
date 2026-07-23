@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:00:29.888610+00:00",
+  "generated_at": "2026-07-23T08:02:06.237937+00:00",
   "trigger": "manual",
   "total": 2534,
   "counts": {
@@ -9,10 +9,10 @@
   },
   "section_counts": {
     "Ecosystem": 1214,
-    "Competitor Coverage": 541,
+    "Competitor Coverage": 540,
     "Market Trends": 401,
     "Deals": 211,
-    "Dell Coverage": 130,
+    "Dell Coverage": 131,
     "X Watch": 37
   },
   "brand_metrics": "data/brand_metrics.json",
@@ -82159,31 +82159,31 @@
       "url": "https://www.youtube.com/watch?v=ygZ0CayoT6s",
       "published_at": "2026-06-01T16:12:16+00:00",
       "captured_at": "2026-06-25 17:51:48",
-      "section": "Competitor Coverage",
-      "company": "HP",
-      "product": "HP Omnibook 5 (Wildcat Lake) vs MacBook Neo",
-      "score": 72,
+      "section": "Dell Coverage",
+      "company": "Dell",
+      "product": "Alienware 15",
+      "score": 100,
       "summary": "A detailed comparison of the HP Omnibook 5 with Intel's Wildcat Lake processor and the MacBook Neo, focusing on single-core and multi-core performance, battery life, memory, GPU capabilities, and port selection. The video highlights Wildcat Lake's lower core count but higher clock speeds, better power efficiency, and the MacBook Neo's advantages in memory and GPU for creative tasks.",
       "why_it_matters": "",
       "thumbnail": "https://i2.ytimg.com/vi/ygZ0CayoT6s/hqdefault.jpg",
       "tags": [
         "Just Josh",
         "CA",
-        "HP",
-        "HP Omnibook 5 (Wildcat Lake) vs MacBook Neo",
+        "Dell",
+        "Alienware 15",
         "Review",
-        "Competitor Coverage"
+        "Dell Coverage"
       ],
       "is_review": true,
       "is_short": false,
       "is_sponsored": false,
       "sponsor_brand": "",
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": true,
+      "is_dell_story": true,
+      "has_dell_mention": true,
+      "is_competitor_story": false,
       "is_market_story": false,
       "also_competitor_story": true,
-      "review_type": "comparison",
+      "review_type": "review",
       "tone": "neutral"
     },
     {
