@@ -1061,3 +1061,38 @@ h1 {
   font-weight: 900;
   letter-spacing: 0;
 }
+
+
+.metric-country-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: -2px 0 2px;
+}
+.metric-country-filter button {
+  border: 1px solid #cbd9e6;
+  background: #fff;
+  color: #263648;
+  border-radius: 999px;
+  min-height: 32px;
+  padding: 0 13px;
+  font-size: 12px;
+  font-weight: 900;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+.metric-country-filter button span {
+  color: #7b8797;
+  font-size: 11px;
+  font-weight: 800;
+}
+.metric-country-filter button.active {
+  background: var(--dell-blue);
+  border-color: var(--dell-blue);
+  color: #fff;
+}
+.metric-country-filter button.active span {
+  color: rgba(255, 255, 255, .78);
+}

@@ -12,6 +12,7 @@
     refreshing: false,
     view: "feed",
     metricWindow: "all",
+    metricCountry: "all",
     outletQuery: "",
     metricJumpIds: null,
     metricJumpLabel: "",
@@ -540,6 +541,61 @@
     return "all time";
   }
 
+  function metricCountryLabel() {
+    if (state.metricCountry === "all") return "all countries";
+    return state.metricCountry;
+  }
+
+  function countryName(code) {
+    const normalized = normalizeCountryCode(code);
+    const names = {
+      BR: "Brazil",
+      US: "United States",
+      CA: "Canada",
+      GB: "United Kingdom",
+      DE: "Germany",
+      FR: "France",
+      ES: "Spain",
+      IT: "Italy",
+      AU: "Australia",
+      IN: "India",
+      JP: "Japan",
+      CN: "China",
+      TW: "Taiwan",
+      KR: "South Korea",
+    };
+    return names[normalized] || normalized || "Unknown";
+  }
+
+  function metricCountryRows(rows) {
+    if (state.metricCountry === "all") return rows;
+    return rows.filter(item => normalizeCountryCode(item.country) === state.metricCountry);
+  }
+
+  function metricScopedRows(data) {
+    return metricCountryRows(metricWindowRows(data));
+  }
+
+  function metricAvailableCountries(data) {
+    const counts = {};
+    metricWindowRows(data).forEach(item => {
+      const country = normalizeCountryCode(item.country);
+      if (!country || !/^[A-Z]{2}$/.test(country)) return;
+      counts[country] = (counts[country] || 0) + 1;
+    });
+    return Object.entries(counts)
+      .sort((a, b) => b[1] - a[1] || countryName(a[0]).localeCompare(countryName(b[0])));
+  }
+
+  function renderMetricCountryFilter(data) {
+    const countries = metricAvailableCountries(data);
+    const buttons = [
+      `<button type="button" class="${state.metricCountry === "all" ? "active" : ""}" data-metric-country="all">All countries</button>`,
+      ...countries.map(([code, count]) => `<button type="button" class="${state.metricCountry === code ? "active" : ""}" data-metric-country="${escapeHtml(code)}">${escapeHtml(countryName(code))}<span>${metricNumber(count)}</span></button>`)
+    ].join("");
+    return `<div class="metric-country-filter" id="metricCountryFilter" aria-label="Brand metrics country filter">${buttons}</div>`;
+  }
+
   function metricBrandRowEligible(item) {
     const brand = String(item.brand || "").toLowerCase();
     if (brand !== "dell" && brand !== "alienware") return true;
@@ -619,13 +675,13 @@
 
   function metricRowsForBrandJump(brand, metricKey) {
     const wanted = String(brand || "").toLowerCase();
-    return metricWindowRows(brandMetricsData())
+    return metricScopedRows(brandMetricsData())
       .filter(item => String(item.brand || "").toLowerCase() === wanted)
       .filter(item => metricRowMatchesKey(item, metricKey));
   }
 
   function metricRowsForKpiJump(filterName) {
-    const rows = metricWindowRows(brandMetricsData());
+    const rows = metricScopedRows(brandMetricsData());
     if (filterName === "competitor") return rows.filter(item => item.family === "PC competitors");
     return rows.filter(item => metricRowMatchesKey(item, filterName));
   }
@@ -1008,16 +1064,11 @@
   function renderBrandMetrics() {
     if (!brandMetricsEl) return;
     const data = brandMetricsData();
-    const allRows = metricWindowRows(data).sort((a, b) => metricItemTime(b) - metricItemTime(a));
+    const allRows = metricScopedRows(data).sort((a, b) => metricItemTime(b) - metricItemTime(a));
     const rows = allRows.filter(item => !item.deal_metric_only);
     const brands = summarizeMetricRows(rows);
     const shareBrands = summarizeMetricRows(shareMetricRows(allRows));
     const dealBrands = summarizeMetricRows(dealMetricRows(allRows));
-    const brazilRows = rows.filter(item => String(item.country || "").toUpperCase() === "BR");
-    const brazilAllRows = allRows.filter(item => String(item.country || "").toUpperCase() === "BR");
-    const brazilBrands = summarizeMetricRows(brazilRows);
-    const brazilShareBrands = summarizeMetricRows(shareMetricRows(brazilAllRows));
-    const brazilDealBrands = summarizeMetricRows(dealMetricRows(brazilAllRows));
     const selected = brands.slice(0, 14);
     const maxTotal = Math.max(1, ...selected.map(b => Number(b.total || 0)));
     const brandByName = name => brands.find(b => String(b.brand || "").toLowerCase() === name) || {};
@@ -1044,12 +1095,13 @@
         return `<li><span>${icon}${escapeHtml(source)}</span><b>${metricNumber(count)}</b></li>`;
       })
       .join("");
-    const empty = !rows.length ? `<div class="empty">No brand-coded coverage found for ${metricWindowLabel()}.</div>` : "";
+    const empty = !rows.length ? `<div class="empty">No brand-coded coverage found for ${metricWindowLabel()} in ${metricCountryLabel()}.</div>` : "";
     brandMetricsEl.innerHTML = `
       <div class="metrics-intro">
         <h3>Brand coverage intelligence</h3>
-        <p>Newsletter-ready Media Monitor and YouTube Monitor coverage, normalized by brand for PR planning and share-of-voice tracking. Current view: <strong>${metricWindowLabel()}</strong>.</p>
+        <p>Newsletter-ready Media Monitor and YouTube Monitor coverage, normalized by brand for PR planning and share-of-voice tracking. Current view: <strong>${metricWindowLabel()}</strong> across <strong>${metricCountryLabel()}</strong>.</p>
       </div>
+      ${renderMetricCountryFilter(data)}
       ${empty}
       <div class="metric-kpis">
         <button type="button" class="metric-kpi" data-brand-jump="dell" data-metric-key="total"><span>Dell stories</span><strong>${metricNumber(dellStories)}</strong></button>
@@ -1077,13 +1129,6 @@
         ${renderPieChart("YouTube share of voice", shareBrands, "youtube", "No CSG/OEM YouTube brand coverage in this period.", ["Dell", "Alienware"])}
         ${renderPieChart("Share of product reviews", shareBrands, "reviews", "No CSG/OEM product reviews in this period.", ["Dell", "Alienware"])}
         ${renderPieChart("Share of deals", dealBrands, "deals", "No CSG/OEM deals coverage in this period.", ["Dell", "Alienware"])}
-      </div>
-      <h3 class="metric-section-title">Brazil only</h3>
-      <div class="metrics-grid pie-grid">
-        ${renderPieChart("Share of voice (Brazil only)", brazilShareBrands, "total", "No Brazil CSG/OEM brand coverage in this period.", ["Dell", "Alienware"])}
-        ${renderPieChart("YouTube share of voice (Brazil only)", brazilShareBrands, "youtube", "No Brazil CSG/OEM YouTube brand coverage in this period.", ["Dell", "Alienware"])}
-        ${renderPieChart("Share of product reviews (Brazil only)", brazilShareBrands, "reviews", "No Brazil CSG/OEM product reviews in this period.", ["Dell", "Alienware"])}
-        ${renderPieChart("Share of deals (Brazil only)", brazilDealBrands, "deals", "No Brazil CSG/OEM deals coverage in this period.", ["Dell", "Alienware"])}
       </div>
       ${renderWeeklyMetricLineCharts(rows)}
       <section class="metric-panel">
@@ -1464,7 +1509,15 @@
         return;
       }
       const kpiBtn = event.target.closest("[data-kpi-filter]");
-      if (kpiBtn) jumpToKpiFilter(kpiBtn.dataset.kpiFilter);
+      if (kpiBtn) {
+        jumpToKpiFilter(kpiBtn.dataset.kpiFilter);
+        return;
+      }
+      const countryBtn = event.target.closest("[data-metric-country]");
+      if (countryBtn) {
+        state.metricCountry = countryBtn.dataset.metricCountry || "all";
+        renderBrandMetrics();
+      }
     });
   }
 
