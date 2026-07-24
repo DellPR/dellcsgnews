@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-24T22:35:38.390353+00:00",
-  "total_items": 1874,
+  "generated_at": "2026-07-24T23:51:04.475525+00:00",
+  "total_items": 1880,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 240,
+      "total": 241,
       "media": 168,
-      "youtube": 72,
+      "youtube": 73,
       "reviews": 37,
       "sponsored": 3,
       "dell_stories": 0,
-      "high_signal": 21,
+      "high_signal": 22,
       "top_sources": [
         {
           "source": "Wccftech",
@@ -57,7 +57,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 18
+          "count": 19
         },
         {
           "section": "Ecosystem",
@@ -68,18 +68,18 @@
           "count": 7
         }
       ],
-      "avg_score": 63.4
+      "avg_score": 63.5
     },
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 202,
+      "total": 203,
       "media": 139,
-      "youtube": 63,
-      "reviews": 38,
+      "youtube": 64,
+      "reviews": 39,
       "sponsored": 8,
       "dell_stories": 0,
-      "high_signal": 26,
+      "high_signal": 27,
       "top_sources": [
         {
           "source": "Wccftech",
@@ -129,14 +129,14 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 24
+          "count": 25
         },
         {
           "section": "Market Trends",
           "count": 4
         }
       ],
-      "avg_score": 67.0
+      "avg_score": 67.2
     },
     {
       "brand": "Microsoft",
@@ -477,13 +477,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 114,
+      "total": 116,
       "media": 74,
-      "youtube": 40,
-      "reviews": 34,
+      "youtube": 42,
+      "reviews": 35,
       "sponsored": 6,
-      "dell_stories": 110,
-      "high_signal": 89,
+      "dell_stories": 112,
+      "high_signal": 91,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -496,6 +496,10 @@
         {
           "source": "PCWorld",
           "count": 6
+        },
+        {
+          "source": "Andrew Marc David",
+          "count": 4
         },
         {
           "source": "Futura",
@@ -512,16 +516,12 @@
         {
           "source": "Techaeris",
           "count": 4
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 4
         }
       ],
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 81
+          "count": 83
         },
         {
           "section": "Deals",
@@ -540,7 +540,7 @@
           "count": 1
         }
       ],
-      "avg_score": 85.4
+      "avg_score": 85.6
     },
     {
       "brand": "NVIDIA",
@@ -801,14 +801,18 @@
     {
       "brand": "Alienware",
       "family": "Dell family",
-      "total": 48,
+      "total": 49,
       "media": 26,
-      "youtube": 22,
-      "reviews": 25,
+      "youtube": 23,
+      "reviews": 26,
       "sponsored": 1,
-      "dell_stories": 47,
-      "high_signal": 38,
+      "dell_stories": 48,
+      "high_signal": 39,
       "top_sources": [
+        {
+          "source": "Short Circuit",
+          "count": 4
+        },
         {
           "source": "Tom's Hardware",
           "count": 4
@@ -830,10 +834,6 @@
           "count": 3
         },
         {
-          "source": "Short Circuit",
-          "count": 3
-        },
-        {
           "source": "TechRadar",
           "count": 3
         },
@@ -845,7 +845,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 34
+          "count": 35
         },
         {
           "section": "Deals",
@@ -856,7 +856,7 @@
           "count": 1
         }
       ],
-      "avg_score": 86.0
+      "avg_score": 86.3
     },
     {
       "brand": "Acer",
@@ -1173,13 +1173,13 @@
     {
       "brand": "Razer",
       "family": "PC competitors",
-      "total": 9,
+      "total": 10,
       "media": 5,
-      "youtube": 4,
-      "reviews": 7,
+      "youtube": 5,
+      "reviews": 8,
       "sponsored": 1,
       "dell_stories": 0,
-      "high_signal": 0,
+      "high_signal": 1,
       "top_sources": [
         {
           "source": "Tom's Hardware",
@@ -1208,6 +1208,10 @@
         {
           "source": "Notebookcheck Reviews",
           "count": 1
+        },
+        {
+          "source": "Short Circuit",
+          "count": 1
         }
       ],
       "sections": [
@@ -1217,10 +1221,10 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 1
+          "count": 2
         }
       ],
-      "avg_score": 71.1
+      "avg_score": 74.0
     },
     {
       "brand": "Positivo",
@@ -1545,18 +1549,18 @@
     {
       "month": "2026-07",
       "brands": {
-        "Intel": 136,
+        "Intel": 137,
         "Microsoft": 136,
-        "Apple": 106,
+        "Apple": 107,
         "Lenovo": 105,
         "AMD": 99,
         "Asus": 71,
-        "Dell": 69,
+        "Dell": 71,
         "NVIDIA": 65,
         "Valve": 64,
         "HP": 40,
         "Amazon": 36,
-        "Alienware": 28,
+        "Alienware": 29,
         "MSI": 28,
         "Samsung": 26,
         "Acer": 23,
@@ -1565,6 +1569,63 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:92130",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell XPS 13 2026 Premium Design, $599 Student Pricing",
+      "url": "https://www.youtube.com/shorts/qa5VUY1ObDc",
+      "published_at": "2026-07-24T22:56:06+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:92130",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell XPS 13 2026 Premium Design, $599 Student Pricing",
+      "url": "https://www.youtube.com/shorts/qa5VUY1ObDc",
+      "published_at": "2026-07-24T22:56:06+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:92122",
+      "kind": "youtube",
+      "source": "IGN",
+      "source_icon": "https://yt3.googleusercontent.com/M5xbpJc3JNKQuLgzHr0Qv_ZhjPVpUeSn1BaWhopQFyMGlQmBVY_0Mn5MIf-JWbxTKYZRS67_GcI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell XPS 16 review highlights performance and display quality",
+      "url": "https://www.youtube.com/watch?v=1X5ViYlYpIg",
+      "published_at": "2026-07-24T22:46:04+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
     {
       "id": "media:163130",
       "kind": "media",
@@ -1676,6 +1737,63 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:91875",
+      "kind": "youtube",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Alienware x16 review highlights performance, display, and portability tradeoffs",
+      "url": "https://www.youtube.com/watch?v=gmKvOIgy-iM",
+      "published_at": "2026-07-24T18:54:05+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:91875",
+      "kind": "youtube",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Alienware x16 review highlights performance, display, and portability tradeoffs",
+      "url": "https://www.youtube.com/watch?v=gmKvOIgy-iM",
+      "published_at": "2026-07-24T18:54:05+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Razer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:91875",
+      "kind": "youtube",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Alienware x16 review highlights performance, display, and portability tradeoffs",
+      "url": "https://www.youtube.com/watch?v=gmKvOIgy-iM",
+      "published_at": "2026-07-24T18:54:05+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
     },
@@ -6200,95 +6318,21 @@
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:124468",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "ASUS Vivobook S 14 with 32 GB RAM and OLED display on Amazon sale",
-      "url": "https://www.tudocelular.com/asus/noticias/n259122/asus-vivobook-s-14-s5406-oferta-ate-21x-sem-juros.html",
-      "published_at": "2026-07-21T14:12:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:124468",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "ASUS Vivobook S 14 with 32 GB RAM and OLED display on Amazon sale",
-      "url": "https://www.tudocelular.com/asus/noticias/n259122/asus-vivobook-s-14-s5406-oferta-ate-21x-sem-juros.html",
-      "published_at": "2026-07-21T14:12:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:124468",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "ASUS Vivobook S 14 with 32 GB RAM and OLED display on Amazon sale",
-      "url": "https://www.tudocelular.com/asus/noticias/n259122/asus-vivobook-s-14-s5406-oferta-ate-21x-sem-juros.html",
-      "published_at": "2026-07-21T14:12:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Amazon",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:152507",
-      "kind": "media",
-      "source": "VideoCardz",
-      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "NVIDIA raises Jetson prices by up to 101%, AGX Thor now $5,499",
-      "url": "https://videocardz.com/newz/nvidia-raises-jetson-prices-by-up-to-101-agx-thor-now-costs-5499",
-      "published_at": "2026-07-21T13:50:28+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:123720",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "id": "youtube:92130",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
       "country": "US",
       "section": "Dell Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Microsoft releases Windows 11 update to fix Dell PC performance issues",
-      "url": "https://www.pcworld.com/article/3195832/microsoft-fixes-the-windows-11-bug-slowing-down-some-dell-pcs.html",
-      "published_at": "2026-07-21T13:26:37+00:00",
+      "title": "Dell XPS 13 2026 Premium Design, $599 Student Pricing",
+      "url": "https://www.youtube.com/shorts/qa5VUY1ObDc",
+      "published_at": "2026-07-24T22:56:06+00:00",
       "score": 100,
       "is_review": false,
       "is_sponsored": false,
@@ -6297,26 +6341,43 @@
       "is_dell_story": true
     },
     {
-      "id": "media:123720",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "id": "youtube:92130",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
       "country": "US",
       "section": "Dell Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Microsoft releases Windows 11 update to fix Dell PC performance issues",
-      "url": "https://www.pcworld.com/article/3195832/microsoft-fixes-the-windows-11-bug-slowing-down-some-dell-pcs.html",
-      "published_at": "2026-07-21T13:26:37+00:00",
+      "title": "Dell XPS 13 2026 Premium Design, $599 Student Pricing",
+      "url": "https://www.youtube.com/shorts/qa5VUY1ObDc",
+      "published_at": "2026-07-24T22:56:06+00:00",
       "score": 100,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Microsoft",
+      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "youtube:92122",
+      "kind": "youtube",
+      "source": "IGN",
+      "source_icon": "https://yt3.googleusercontent.com/M5xbpJc3JNKQuLgzHr0Qv_ZhjPVpUeSn1BaWhopQFyMGlQmBVY_0Mn5MIf-JWbxTKYZRS67_GcI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell XPS 16 review highlights performance and display quality",
+      "url": "https://www.youtube.com/watch?v=1X5ViYlYpIg",
+      "published_at": "2026-07-24T22:46:04+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
     {
       "id": "media:163130",
       "kind": "media",
@@ -6428,6 +6489,63 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:91875",
+      "kind": "youtube",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Alienware x16 review highlights performance, display, and portability tradeoffs",
+      "url": "https://www.youtube.com/watch?v=gmKvOIgy-iM",
+      "published_at": "2026-07-24T18:54:05+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:91875",
+      "kind": "youtube",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Alienware x16 review highlights performance, display, and portability tradeoffs",
+      "url": "https://www.youtube.com/watch?v=gmKvOIgy-iM",
+      "published_at": "2026-07-24T18:54:05+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Razer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:91875",
+      "kind": "youtube",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Alienware x16 review highlights performance, display, and portability tradeoffs",
+      "url": "https://www.youtube.com/watch?v=gmKvOIgy-iM",
+      "published_at": "2026-07-24T18:54:05+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
     },
