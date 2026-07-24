@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-24T17:44:21.534961+00:00",
-  "total_items": 1911,
+  "generated_at": "2026-07-24T18:08:33.956392+00:00",
+  "total_items": 1916,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 245,
+      "total": 246,
       "media": 174,
-      "youtube": 71,
-      "reviews": 36,
+      "youtube": 72,
+      "reviews": 37,
       "sponsored": 3,
       "dell_stories": 0,
       "high_signal": 21,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 161
+          "count": 162
         },
         {
           "section": "Deals",
@@ -141,10 +141,10 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 194,
+      "total": 195,
       "media": 132,
-      "youtube": 62,
-      "reviews": 37,
+      "youtube": 63,
+      "reviews": 38,
       "sponsored": 8,
       "dell_stories": 0,
       "high_signal": 24,
@@ -189,7 +189,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 65
+          "count": 66
         },
         {
           "section": "Deals",
@@ -204,15 +204,15 @@
           "count": 5
         }
       ],
-      "avg_score": 67.0
+      "avg_score": 67.1
     },
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 177,
+      "total": 178,
       "media": 98,
-      "youtube": 79,
-      "reviews": 51,
+      "youtube": 80,
+      "reviews": 52,
       "sponsored": 5,
       "dell_stories": 0,
       "high_signal": 11,
@@ -253,7 +253,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 118
+          "count": 119
         },
         {
           "section": "Deals",
@@ -272,7 +272,7 @@
           "count": 2
         }
       ],
-      "avg_score": 61.3
+      "avg_score": 61.4
     },
     {
       "brand": "Asus",
@@ -409,10 +409,10 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 133,
+      "total": 134,
       "media": 116,
-      "youtube": 17,
-      "reviews": 13,
+      "youtube": 18,
+      "reviews": 14,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 3,
@@ -461,7 +461,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 25
+          "count": 26
         },
         {
           "section": "Market Trends",
@@ -472,7 +472,7 @@
           "count": 2
         }
       ],
-      "avg_score": 60.1
+      "avg_score": 60.2
     },
     {
       "brand": "Dell",
@@ -1165,10 +1165,10 @@
     {
       "brand": "Razer",
       "family": "PC competitors",
-      "total": 8,
+      "total": 9,
       "media": 5,
-      "youtube": 3,
-      "reviews": 6,
+      "youtube": 4,
+      "reviews": 7,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 0,
@@ -1190,6 +1190,10 @@
           "count": 1
         },
         {
+          "source": "Just Josh",
+          "count": 1
+        },
+        {
           "source": "MobileTechReview",
           "count": 1
         },
@@ -1201,14 +1205,14 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 7
+          "count": 8
         },
         {
           "section": "Dell Coverage",
           "count": 1
         }
       ],
-      "avg_score": 70.2
+      "avg_score": 71.1
     },
     {
       "brand": "Positivo",
@@ -1534,10 +1538,10 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 133,
-        "Intel": 126,
-        "Apple": 103,
-        "Lenovo": 100,
-        "AMD": 94,
+        "Intel": 127,
+        "Apple": 104,
+        "Lenovo": 101,
+        "AMD": 95,
         "Asus": 70,
         "Dell": 65,
         "Valve": 64,
@@ -1553,6 +1557,101 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:91440",
+      "kind": "youtube",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Testing the new Lenovo LOQ-E with an RTX 5050: Is it very throttled?",
+      "url": "https://www.youtube.com/watch?v=xnTE7ior8ns",
+      "published_at": "2026-07-24T17:15:10+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:91485",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MacBook review highlights build quality, port issues, and battery concerns",
+      "url": "https://www.youtube.com/watch?v=Ia6-5-cUGEc",
+      "published_at": "2026-07-24T14:00:09+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:91095",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Razer Blade 16 review: Intel CPU boosts performance but battery lags",
+      "url": "https://www.youtube.com/watch?v=I8mpTNjqfMA",
+      "published_at": "2026-07-24T13:00:16+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Razer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:91095",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Razer Blade 16 review: Intel CPU boosts performance but battery lags",
+      "url": "https://www.youtube.com/watch?v=I8mpTNjqfMA",
+      "published_at": "2026-07-24T13:00:16+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:91095",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Razer Blade 16 review: Intel CPU boosts performance but battery lags",
+      "url": "https://www.youtube.com/watch?v=I8mpTNjqfMA",
+      "published_at": "2026-07-24T13:00:16+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:155934",
       "kind": "media",
@@ -6207,104 +6306,104 @@
       "brand": "Alienware",
       "family": "Dell family",
       "is_dell_story": true
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:120153",
-      "kind": "media",
-      "source": "Tecnoblog",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Windows 10 still in use by 16% of active PCs post-support end",
-      "url": "https://tecnoblog.net/noticias/windows-10-ainda-resiste-mesmo-sem-suporte-oficial/",
-      "published_at": "2026-07-20T16:16:40+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:82725",
+      "id": "youtube:91440",
       "kind": "youtube",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "ASUS VivoBook S14 OLED laptop premium features at an entry-level price",
-      "url": "https://www.youtube.com/shorts/EHRFeZoFQf0",
-      "published_at": "2026-07-20T15:41:59+00:00",
+      "title": "Testing the new Lenovo LOQ-E with an RTX 5050: Is it very throttled?",
+      "url": "https://www.youtube.com/watch?v=xnTE7ior8ns",
+      "published_at": "2026-07-24T17:15:10+00:00",
       "score": 72,
-      "is_review": false,
+      "is_review": true,
       "is_sponsored": false,
-      "brand": "Asus",
+      "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "youtube:82725",
+      "id": "youtube:91485",
       "kind": "youtube",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "ASUS VivoBook S14 OLED laptop premium features at an entry-level price",
-      "url": "https://www.youtube.com/shorts/EHRFeZoFQf0",
-      "published_at": "2026-07-20T15:41:59+00:00",
+      "title": "MacBook review highlights build quality, port issues, and battery concerns",
+      "url": "https://www.youtube.com/watch?v=Ia6-5-cUGEc",
+      "published_at": "2026-07-24T14:00:09+00:00",
       "score": 72,
-      "is_review": false,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:91095",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Razer Blade 16 review: Intel CPU boosts performance but battery lags",
+      "url": "https://www.youtube.com/watch?v=I8mpTNjqfMA",
+      "published_at": "2026-07-24T13:00:16+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Razer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:91095",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Razer Blade 16 review: Intel CPU boosts performance but battery lags",
+      "url": "https://www.youtube.com/watch?v=I8mpTNjqfMA",
+      "published_at": "2026-07-24T13:00:16+00:00",
+      "score": 78,
+      "is_review": true,
       "is_sponsored": false,
       "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
     },
     {
-      "id": "media:120855",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
+      "id": "youtube:91095",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "NVIDIA presents 22 AI and simulation breakthroughs at SIGGRAPH 2026",
-      "url": "https://wccftech.com/nvidia-graphics-research-accelerates-simulation-physical-ai-21-breakthroughs-siggraph/",
-      "published_at": "2026-07-20T15:00:14+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:120078",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft partners with AMD for AI accelerators on Helios platform",
-      "url": "https://www.adrenaline.com.br/ia/microsoft-vai-usar-plataforma-amd-helios-para-ia-com-epyc-venice-e-instinct-mi455x/",
-      "published_at": "2026-07-20T14:24:49+00:00",
-      "score": 65,
-      "is_review": false,
+      "title": "Razer Blade 16 review: Intel CPU boosts performance but battery lags",
+      "url": "https://www.youtube.com/watch?v=I8mpTNjqfMA",
+      "published_at": "2026-07-24T13:00:16+00:00",
+      "score": 78,
+      "is_review": true,
       "is_sponsored": false,
       "brand": "AMD",
       "family": "Ecosystem",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "media:155934",
       "kind": "media",
