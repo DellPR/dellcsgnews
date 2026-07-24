@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T13:12:50.499751+00:00",
-  "total_items": 1989,
+  "generated_at": "2026-07-24T13:31:13.098537+00:00",
+  "total_items": 1948,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 245,
-      "media": 174,
+      "total": 244,
+      "media": 173,
       "youtube": 71,
       "reviews": 38,
       "sponsored": 3,
@@ -27,7 +27,7 @@
         },
         {
           "source": "TudoCelular",
-          "count": 13
+          "count": 12
         },
         {
           "source": "The Verge",
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 161
+          "count": 160
         },
         {
           "section": "Deals",
@@ -141,8 +141,8 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 188,
-      "media": 126,
+      "total": 192,
+      "media": 130,
       "youtube": 62,
       "reviews": 39,
       "sponsored": 8,
@@ -185,11 +185,11 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 67
+          "count": 68
         },
         {
           "section": "Competitor Coverage",
-          "count": 62
+          "count": 65
         },
         {
           "section": "Deals",
@@ -209,8 +209,8 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 173,
-      "media": 94,
+      "total": 174,
+      "media": 95,
       "youtube": 79,
       "reviews": 56,
       "sponsored": 5,
@@ -253,7 +253,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 115
+          "count": 116
         },
         {
           "section": "Deals",
@@ -277,8 +277,8 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 173,
-      "media": 133,
+      "total": 172,
+      "media": 132,
       "youtube": 40,
       "reviews": 2,
       "sponsored": 0,
@@ -303,7 +303,7 @@
         },
         {
           "source": "Tom's Hardware",
-          "count": 12
+          "count": 11
         },
         {
           "source": "XDA Developers",
@@ -321,7 +321,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 159
+          "count": 158
         },
         {
           "section": "Deals",
@@ -337,74 +337,6 @@
         }
       ],
       "avg_score": 67.1
-    },
-    {
-      "brand": "Dell",
-      "family": "Dell family",
-      "total": 160,
-      "media": 101,
-      "youtube": 59,
-      "reviews": 61,
-      "sponsored": 6,
-      "dell_stories": 156,
-      "high_signal": 120,
-      "top_sources": [
-        {
-          "source": "TechRadar",
-          "count": 21
-        },
-        {
-          "source": "Windows Central",
-          "count": 17
-        },
-        {
-          "source": "PCWorld",
-          "count": 10
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 10
-        },
-        {
-          "source": "Lipe Mal Estar",
-          "count": 7
-        },
-        {
-          "source": "PCMag",
-          "count": 5
-        },
-        {
-          "source": "Techaeris",
-          "count": 5
-        },
-        {
-          "source": "Just Josh",
-          "count": 4
-        }
-      ],
-      "sections": [
-        {
-          "section": "Dell Coverage",
-          "count": 110
-        },
-        {
-          "section": "Deals",
-          "count": 45
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 3
-        },
-        {
-          "section": "Ecosystem",
-          "count": 1
-        },
-        {
-          "section": "Market Trends",
-          "count": 1
-        }
-      ],
-      "avg_score": 83.5
     },
     {
       "brand": "Asus",
@@ -543,72 +475,72 @@
       "avg_score": 59.8
     },
     {
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "total": 97,
-      "media": 84,
-      "youtube": 13,
-      "reviews": 8,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 7,
+      "brand": "Dell",
+      "family": "Dell family",
+      "total": 114,
+      "media": 74,
+      "youtube": 40,
+      "reviews": 36,
+      "sponsored": 6,
+      "dell_stories": 110,
+      "high_signal": 86,
       "top_sources": [
         {
-          "source": "Tom's Hardware",
-          "count": 19
-        },
-        {
-          "source": "Wccftech",
-          "count": 13
-        },
-        {
-          "source": "Adrenaline",
-          "count": 9
-        },
-        {
           "source": "TechRadar",
-          "count": 9
+          "count": 18
         },
         {
-          "source": "HotHardware",
-          "count": 8
+          "source": "Windows Central",
+          "count": 15
         },
         {
-          "source": "TudoCelular",
+          "source": "PCWorld",
           "count": 6
         },
         {
-          "source": "Exame",
-          "count": 5
+          "source": "Tom's Hardware",
+          "count": 6
         },
         {
-          "source": "Digital Trends",
+          "source": "Lipe Mal Estar",
+          "count": 4
+        },
+        {
+          "source": "PCMag",
+          "count": 4
+        },
+        {
+          "source": "Techaeris",
+          "count": 4
+        },
+        {
+          "source": "Andrew Marc David",
           "count": 3
         }
       ],
       "sections": [
         {
-          "section": "Ecosystem",
-          "count": 48
+          "section": "Dell Coverage",
+          "count": 78
         },
         {
           "section": "Deals",
-          "count": 23
+          "count": 31
         },
         {
           "section": "Competitor Coverage",
-          "count": 12
+          "count": 3
+        },
+        {
+          "section": "Ecosystem",
+          "count": 1
         },
         {
           "section": "Market Trends",
-          "count": 9
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 5
+          "count": 1
         }
       ],
-      "avg_score": 60.7
+      "avg_score": 83.7
     },
     {
       "brand": "Amazon",
@@ -667,10 +599,78 @@
       "avg_score": 32.8
     },
     {
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "total": 96,
+      "media": 83,
+      "youtube": 13,
+      "reviews": 8,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 7,
+      "top_sources": [
+        {
+          "source": "Tom's Hardware",
+          "count": 19
+        },
+        {
+          "source": "Wccftech",
+          "count": 13
+        },
+        {
+          "source": "TechRadar",
+          "count": 9
+        },
+        {
+          "source": "Adrenaline",
+          "count": 8
+        },
+        {
+          "source": "HotHardware",
+          "count": 8
+        },
+        {
+          "source": "TudoCelular",
+          "count": 6
+        },
+        {
+          "source": "Exame",
+          "count": 5
+        },
+        {
+          "source": "Digital Trends",
+          "count": 3
+        }
+      ],
+      "sections": [
+        {
+          "section": "Ecosystem",
+          "count": 47
+        },
+        {
+          "section": "Deals",
+          "count": 23
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 12
+        },
+        {
+          "section": "Market Trends",
+          "count": 9
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 5
+        }
+      ],
+      "avg_score": 60.7
+    },
+    {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 68,
-      "media": 54,
+      "total": 69,
+      "media": 55,
       "youtube": 14,
       "reviews": 13,
       "sponsored": 1,
@@ -683,7 +683,7 @@
         },
         {
           "source": "Tom's Hardware",
-          "count": 8
+          "count": 9
         },
         {
           "source": "Windows Central",
@@ -713,7 +713,7 @@
       "sections": [
         {
           "section": "Deals",
-          "count": 37
+          "count": 38
         },
         {
           "section": "Competitor Coverage",
@@ -728,7 +728,7 @@
           "count": 1
         }
       ],
-      "avg_score": 53.1
+      "avg_score": 52.9
     },
     {
       "brand": "MSI",
@@ -867,6 +867,70 @@
       "avg_score": 49.9
     },
     {
+      "brand": "Acer",
+      "family": "PC competitors",
+      "total": 49,
+      "media": 25,
+      "youtube": 24,
+      "reviews": 12,
+      "sponsored": 5,
+      "dell_stories": 0,
+      "high_signal": 1,
+      "top_sources": [
+        {
+          "source": "Lipe Mal Estar",
+          "count": 5
+        },
+        {
+          "source": "Adrenaline",
+          "count": 4
+        },
+        {
+          "source": "Qual Notebook Comprar?",
+          "count": 4
+        },
+        {
+          "source": "Tech BR",
+          "count": 3
+        },
+        {
+          "source": "Wccftech",
+          "count": 3
+        },
+        {
+          "source": "Andrew Marc David",
+          "count": 2
+        },
+        {
+          "source": "Jarrod's Tech",
+          "count": 2
+        },
+        {
+          "source": "Just Josh",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 25
+        },
+        {
+          "section": "Deals",
+          "count": 21
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 2
+        },
+        {
+          "section": "Ecosystem",
+          "count": 1
+        }
+      ],
+      "avg_score": 52.4
+    },
+    {
       "brand": "Alienware",
       "family": "Dell family",
       "total": 49,
@@ -925,70 +989,6 @@
         }
       ],
       "avg_score": 83.7
-    },
-    {
-      "brand": "Acer",
-      "family": "PC competitors",
-      "total": 47,
-      "media": 23,
-      "youtube": 24,
-      "reviews": 11,
-      "sponsored": 5,
-      "dell_stories": 0,
-      "high_signal": 1,
-      "top_sources": [
-        {
-          "source": "Lipe Mal Estar",
-          "count": 5
-        },
-        {
-          "source": "Adrenaline",
-          "count": 4
-        },
-        {
-          "source": "Qual Notebook Comprar?",
-          "count": 4
-        },
-        {
-          "source": "Tech BR",
-          "count": 3
-        },
-        {
-          "source": "Wccftech",
-          "count": 3
-        },
-        {
-          "source": "Andrew Marc David",
-          "count": 2
-        },
-        {
-          "source": "Jarrod's Tech",
-          "count": 2
-        },
-        {
-          "source": "Just Josh",
-          "count": 2
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 23
-        },
-        {
-          "section": "Deals",
-          "count": 21
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 2
-        },
-        {
-          "section": "Ecosystem",
-          "count": 1
-        }
-      ],
-      "avg_score": 51.6
     },
     {
       "brand": "Qualcomm",
@@ -1416,7 +1416,6 @@
       "month": "2025-09",
       "brands": {
         "Alienware": 1,
-        "Dell": 1,
         "Lenovo": 1,
         "MSI": 1
       }
@@ -1436,7 +1435,6 @@
         "Acer": 2,
         "Asus": 2,
         "Alienware": 1,
-        "Dell": 1,
         "HP": 1,
         "MSI": 1,
         "Qualcomm": 1,
@@ -1487,10 +1485,10 @@
         "Asus": 11,
         "Intel": 8,
         "Apple": 6,
-        "Dell": 5,
         "Acer": 4,
         "Alienware": 3,
         "AMD": 2,
+        "Dell": 2,
         "MSI": 2,
         "Microsoft": 2,
         "HP": 1,
@@ -1502,16 +1500,16 @@
     {
       "month": "2026-06",
       "brands": {
-        "Apple": 129,
-        "Valve": 109,
+        "Apple": 128,
+        "Valve": 108,
         "Microsoft": 72,
         "Amazon": 64,
         "Intel": 59,
-        "Dell": 56,
         "Asus": 53,
         "Lenovo": 53,
+        "Dell": 43,
         "AMD": 40,
-        "NVIDIA": 36,
+        "NVIDIA": 35,
         "Samsung": 29,
         "MSI": 28,
         "HP": 26,
@@ -1524,20 +1522,20 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 132,
-        "Intel": 116,
+        "Intel": 120,
         "Apple": 100,
-        "Lenovo": 96,
-        "Dell": 93,
+        "Lenovo": 97,
         "AMD": 86,
         "Asus": 70,
+        "Dell": 65,
         "Valve": 64,
         "NVIDIA": 60,
-        "HP": 39,
+        "HP": 40,
         "Amazon": 32,
         "Alienware": 28,
         "MSI": 25,
         "Samsung": 24,
-        "Acer": 19,
+        "Acer": 21,
         "Qualcomm": 19
       }
     }
@@ -1563,23 +1561,156 @@
       "is_dell_story": true
     },
     {
-      "id": "media:155934",
+      "id": "media:156963",
       "kind": "media",
-      "source": "Engadget",
-      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Alienware 15 review highlights budget gaming laptop value",
-      "url": "https://www.engadget.com/2222040/alienware-15-review/",
-      "published_at": "2026-07-24T12:30:00+00:00",
-      "score": 100,
+      "title": "Lenovo launches ThinkCentre Neo 50q Gen 6 Tiny with Intel Lunar Lake and 2.5-GbE",
+      "url": "https://www.notebookcheck.com/Lenovo-laucht-ThinkCentre-Desktop-mit-Intel-Lunar-Lake-und-2-5-Gigabit-Ethernet-weltweit.1350993.0.html",
+      "published_at": "2026-07-24T12:19:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:156963",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo launches ThinkCentre Neo 50q Gen 6 Tiny with Intel Lunar Lake and 2.5-GbE",
+      "url": "https://www.notebookcheck.com/Lenovo-laucht-ThinkCentre-Desktop-mit-Intel-Lunar-Lake-und-2-5-Gigabit-Ethernet-weltweit.1350993.0.html",
+      "published_at": "2026-07-24T12:19:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:156966",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer Launches TravelMate P4 with Core Ultra 7 and 32 GB RAM",
+      "url": "https://www.notebookcheck.com/Acer-Office-Notebook-16-Zoll-mit-Core-Ultra-7-32-GB-RAM-1-TB-SSD-im-Angebot.1350986.0.html",
+      "published_at": "2026-07-24T11:53:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:156966",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer Launches TravelMate P4 with Core Ultra 7 and 32 GB RAM",
+      "url": "https://www.notebookcheck.com/Acer-Office-Notebook-16-Zoll-mit-Core-Ultra-7-32-GB-RAM-1-TB-SSD-im-Angebot.1350986.0.html",
+      "published_at": "2026-07-24T11:53:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:156967",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "NEC unveils 999g laptop with 99.9Wh battery, 50.8h standby",
+      "url": "https://www.notebookcheck.com/NEC-baut-99-9-Wh-Akku-in-999-Gramm-Laptop-verspricht-2-Tage-Laufzeit-ohne-Ladegeraet.1350977.0.html",
+      "published_at": "2026-07-24T11:34:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:155955",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "HP slashes HyperX Omen 16 gaming laptop to $1,099 with RTX 5060",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/45-percent-off-slashed-to-just-usd1-099-this-bargain-rtx-5060-powered-gaming-laptop-is-discounted-by-usd900-at-hp-near-half-price-hyperx-omen-16-is-the-perfect-gaming-laptop-for-heading-back-to-school",
+      "published_at": "2026-07-24T11:21:42+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:156913",
+      "kind": "media",
+      "source": "PC Gamer",
+      "source_icon": "",
+      "country": "GB",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Intel CEO expresses confidence in future computing role",
+      "url": "https://www.pcgamer.com/hardware/processors/is-intel-back-companys-latest-earnings-report-remarkably-different-in-tone-to-12-months-ago/",
+      "published_at": "2026-07-24T11:21:31+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:156265",
+      "kind": "media",
+      "source": "Trusted Reviews",
+      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
+      "country": "GB",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer Chromebook Plus Spin 514 (2026) Review",
+      "url": "https://www.trustedreviews.com/reviews/acer-chromebook-plus-spin-514-2026",
+      "published_at": "2026-07-24T11:00:09+00:00",
+      "score": 78,
       "is_review": true,
       "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "youtube:90720",
@@ -5454,25 +5585,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:120437",
-      "kind": "media",
-      "source": "Gizmodo",
-      "source_icon": "https://www.google.com/s2/favicons?domain=gizmodo.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware AW3426DW Review: Gaming Monitor Gets Thrown a Curveball",
-      "url": "https://gizmodo.com/alienware-aw3426dw-review-gaming-monitors-get-thrown-a-curveball-2000786694",
-      "published_at": "2026-07-20T16:30:40+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -6178,120 +6290,6 @@
       "brand": "HP",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:119449",
-      "kind": "media",
-      "source": "XDA Developers",
-      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Linux 7.2-rc4 fixes audio issues on Asus ROG Ally X",
-      "url": "https://www.xda-developers.com/linux-72-4c4-finally-fixes-audio-issues-with-the-asus-rog-ally-x/",
-      "published_at": "2026-07-20T06:37:52+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:119785",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Valve's Steam Machine faces rising costs due to AI boom",
-      "url": "https://winfuture.de/news,160084.html",
-      "published_at": "2026-07-20T06:10:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:119729",
-      "kind": "media",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple cancels M3 Extreme chip for Mac Pro",
-      "url": "https://www.digitaltrends.com/computing/the-mac-pro-nearly-received-an-m3-extreme-chip-twice-as-powerful-as-m3-ultra/",
-      "published_at": "2026-07-20T00:39:16+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:81795",
-      "kind": "youtube",
-      "source": "Tech BR",
-      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Sincere review of Lenovo LOQ 2026 budget gaming laptop vs Dell G15",
-      "url": "https://www.youtube.com/watch?v=gu2j2a7LYOw",
-      "published_at": "2026-07-19T23:05:00+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:119543",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Legion R9000P features inkjet-printed OLED display technology",
-      "url": "https://www.techradar.com/pro/finally-some-good-news-for-budget-conscious-laptop-fans-lenovo-legion-r9000p-is-the-worlds-first-laptop-with-inkjet-printed-oled",
-      "published_at": "2026-07-19T21:05:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:119757",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Lenovo's IdeaPad Slim X with Snapdragon X2 Plus now $75 off on Amazon",
-      "url": "https://wccftech.com/lenovo-ideapad-slim-x-with-snapdragon-x2-plus/",
-      "published_at": "2026-07-19T20:53:23+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6315,23 +6313,156 @@
       "is_dell_story": true
     },
     {
-      "id": "media:155934",
+      "id": "media:156963",
       "kind": "media",
-      "source": "Engadget",
-      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Alienware 15 review highlights budget gaming laptop value",
-      "url": "https://www.engadget.com/2222040/alienware-15-review/",
-      "published_at": "2026-07-24T12:30:00+00:00",
-      "score": 100,
+      "title": "Lenovo launches ThinkCentre Neo 50q Gen 6 Tiny with Intel Lunar Lake and 2.5-GbE",
+      "url": "https://www.notebookcheck.com/Lenovo-laucht-ThinkCentre-Desktop-mit-Intel-Lunar-Lake-und-2-5-Gigabit-Ethernet-weltweit.1350993.0.html",
+      "published_at": "2026-07-24T12:19:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:156963",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo launches ThinkCentre Neo 50q Gen 6 Tiny with Intel Lunar Lake and 2.5-GbE",
+      "url": "https://www.notebookcheck.com/Lenovo-laucht-ThinkCentre-Desktop-mit-Intel-Lunar-Lake-und-2-5-Gigabit-Ethernet-weltweit.1350993.0.html",
+      "published_at": "2026-07-24T12:19:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:156966",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer Launches TravelMate P4 with Core Ultra 7 and 32 GB RAM",
+      "url": "https://www.notebookcheck.com/Acer-Office-Notebook-16-Zoll-mit-Core-Ultra-7-32-GB-RAM-1-TB-SSD-im-Angebot.1350986.0.html",
+      "published_at": "2026-07-24T11:53:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:156966",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer Launches TravelMate P4 with Core Ultra 7 and 32 GB RAM",
+      "url": "https://www.notebookcheck.com/Acer-Office-Notebook-16-Zoll-mit-Core-Ultra-7-32-GB-RAM-1-TB-SSD-im-Angebot.1350986.0.html",
+      "published_at": "2026-07-24T11:53:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:156967",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "NEC unveils 999g laptop with 99.9Wh battery, 50.8h standby",
+      "url": "https://www.notebookcheck.com/NEC-baut-99-9-Wh-Akku-in-999-Gramm-Laptop-verspricht-2-Tage-Laufzeit-ohne-Ladegeraet.1350977.0.html",
+      "published_at": "2026-07-24T11:34:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:155955",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "HP slashes HyperX Omen 16 gaming laptop to $1,099 with RTX 5060",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/45-percent-off-slashed-to-just-usd1-099-this-bargain-rtx-5060-powered-gaming-laptop-is-discounted-by-usd900-at-hp-near-half-price-hyperx-omen-16-is-the-perfect-gaming-laptop-for-heading-back-to-school",
+      "published_at": "2026-07-24T11:21:42+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:156913",
+      "kind": "media",
+      "source": "PC Gamer",
+      "source_icon": "",
+      "country": "GB",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Intel CEO expresses confidence in future computing role",
+      "url": "https://www.pcgamer.com/hardware/processors/is-intel-back-companys-latest-earnings-report-remarkably-different-in-tone-to-12-months-ago/",
+      "published_at": "2026-07-24T11:21:31+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:156265",
+      "kind": "media",
+      "source": "Trusted Reviews",
+      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
+      "country": "GB",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer Chromebook Plus Spin 514 (2026) Review",
+      "url": "https://www.trustedreviews.com/reviews/acer-chromebook-plus-spin-514-2026",
+      "published_at": "2026-07-24T11:00:09+00:00",
+      "score": 78,
       "is_review": true,
       "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "youtube:90720",
@@ -10206,25 +10337,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:120437",
-      "kind": "media",
-      "source": "Gizmodo",
-      "source_icon": "https://www.google.com/s2/favicons?domain=gizmodo.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware AW3426DW Review: Gaming Monitor Gets Thrown a Curveball",
-      "url": "https://gizmodo.com/alienware-aw3426dw-review-gaming-monitors-get-thrown-a-curveball-2000786694",
-      "published_at": "2026-07-20T16:30:40+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -13136,25 +13248,6 @@
       "is_dell_story": true
     },
     {
-      "id": "youtube:76123",
-      "kind": "youtube",
-      "source": "Escolha Segura",
-      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Escolha Segura reviews Alienware 15 as Dell's new accessible gaming notebook in Brazil",
-      "url": "https://www.youtube.com/watch?v=l0USxQ1QMMc",
-      "published_at": "2026-07-16T14:24:59+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "media:111983",
       "kind": "media",
       "source": "HotHardware",
@@ -13170,25 +13263,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:111983",
-      "kind": "media",
-      "source": "HotHardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Alienware Ryzen Laptop on Sale at Walmart for $899",
-      "url": "https://hothardware.com/news/alienware-ryzen-gaming-laptop-deal-walmart-899",
-      "published_at": "2026-07-16T14:07:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -14025,25 +14099,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:109634",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware 15 AMD 2026 full product review highlights RTX 5050 tradeoffs",
-      "url": "https://www.windowscentral.com/hardware/dell/alienware-15-amd-2026-review",
-      "published_at": "2026-07-15T16:44:31+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -15834,25 +15889,6 @@
       "is_dell_story": true
     },
     {
-      "id": "media:104525",
-      "kind": "media",
-      "source": "ZDNet",
-      "source_icon": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Alienware 15 tested; alternatives suggested for budget gaming",
-      "url": "https://www.zdnet.com/article/alienware-15-review/",
-      "published_at": "2026-07-13T14:37:30+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "media:106657",
       "kind": "media",
       "source": "Trusted Reviews",
@@ -16689,25 +16725,6 @@
       "is_dell_story": true
     },
     {
-      "id": "youtube:68248",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Influencer setup video features Alienware AW3425DW monitor",
-      "url": "https://www.youtube.com/watch?v=l9_ZY8jxboU",
-      "published_at": "2026-07-11T13:30:23+00:00",
-      "score": 88,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "media:101075",
       "kind": "media",
       "source": "Windows Central",
@@ -17236,25 +17253,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:66718",
-      "kind": "youtube",
-      "source": "Lucas Ishii",
-      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware AW3426DW 34\" QD-OLED monitor with 280Hz and HDR TrueBlack 500",
-      "url": "https://www.youtube.com/shorts/9WLNPrV9iac",
-      "published_at": "2026-07-10T16:08:45+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -17848,25 +17846,6 @@
       "is_dell_story": true
     },
     {
-      "id": "media:97264",
-      "kind": "media",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell launches new Alienware OLED monitors with improved specs and lower prices",
-      "url": "https://www.digitaltrends.com/gaming/dells-new-alienware-monitors-are-brighter-sharper-and-cost-less-than-expected-for-oled-upgrade/",
-      "published_at": "2026-07-09T19:05:13+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "media:95937",
       "kind": "media",
       "source": "HotHardware",
@@ -17962,25 +17941,6 @@
       "is_dell_story": true
     },
     {
-      "id": "media:95441",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Tom's Hardware tests the Alienware AW3426DW 34-inch QD-OLED monitor",
-      "url": "https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw3426dw-34-inch-qd-oled-gaming-monitor-review",
-      "published_at": "2026-07-09T18:13:27+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "media:95442",
       "kind": "media",
       "source": "PCMag",
@@ -17996,25 +17956,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:95442",
-      "kind": "media",
-      "source": "PCMag",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcmag.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: PCMag evaluates the Alienware AW3426DW 280Hz QD-OLED monitor",
-      "url": "https://www.pcmag.com/reviews/alienware-34-280hz-qd-oled-aw3426dw",
-      "published_at": "2026-07-09T18:13:27+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -18038,25 +17979,6 @@
       "is_dell_story": true
     },
     {
-      "id": "media:95443",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Windows Central tests the Alienware AW3426DW QD-OLED monitor",
-      "url": "https://www.windowscentral.com/hardware/dell/alienware-aw3426dw-review",
-      "published_at": "2026-07-09T18:13:27+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "media:95444",
       "kind": "media",
       "source": "Tom's Guide",
@@ -18072,25 +17994,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:95444",
-      "kind": "media",
-      "source": "Tom's Guide",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Tom's Guide evaluates the Alienware AW3426DW 280Hz QD-OLED monitor",
-      "url": "https://www.tomsguide.com/computing/monitors/alienware-34-280hz-qd-oled-aw3426dw-review",
-      "published_at": "2026-07-09T18:13:27+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -18114,25 +18017,6 @@
       "is_dell_story": true
     },
     {
-      "id": "media:95445",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: TechRadar tests the Alienware AW3426DW ultrawide QD-OLED monitor",
-      "url": "https://www.techradar.com/computing/monitors/alienware-aw3426dw",
-      "published_at": "2026-07-09T18:13:27+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "media:95446",
       "kind": "media",
       "source": "T3",
@@ -18148,25 +18032,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:95446",
-      "kind": "media",
-      "source": "T3",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: T3 evaluates the Alienware AW3426DW gaming monitor",
-      "url": "https://www.t3.com/tech/monitors/alienware-aw3426dw-review",
-      "published_at": "2026-07-09T18:13:27+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -18361,25 +18226,6 @@
       "is_dell_story": true
     },
     {
-      "id": "youtube:64136",
-      "kind": "youtube",
-      "source": "Lucas Ishii",
-      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Lucas Ishii covers Alienware AW3426DW ultrawide QD-OLED monitor",
-      "url": "https://www.youtube.com/watch?v=rSOIzq3fujk",
-      "published_at": "2026-07-09T15:43:38+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "media:96243",
       "kind": "media",
       "source": "WinFuture",
@@ -18551,25 +18397,6 @@
       "is_dell_story": true
     },
     {
-      "id": "youtube:63011",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Lipe Mal Estar covers Alienware AW3426DW 34-inch QD-OLED monitor",
-      "url": "https://www.youtube.com/watch?v=7nKYf2t34mM",
-      "published_at": "2026-07-09T14:00:22+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "media:96221",
       "kind": "media",
       "source": "Wccftech",
@@ -18604,25 +18431,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:63041",
-      "kind": "youtube",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
-      "country": "DE",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Notebookcheck covers Alienware AW3426DW as an affordable ultrawide gaming monitor",
-      "url": "https://www.youtube.com/watch?v=MrQuoIY_If0",
-      "published_at": "2026-07-09T13:03:05+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -18679,25 +18487,6 @@
       "score": 100,
       "is_review": true,
       "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:95669",
-      "kind": "media",
-      "source": "Engadget",
-      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware 34 QD-OLED review highlights improved brightness and text clarity",
-      "url": "https://www.engadget.com/2210970/alienware-34-qd-oled-aw3426dw-review/",
-      "published_at": "2026-07-09T13:00:00+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
       "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
@@ -18718,25 +18507,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:95814",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware AW3426DW QD-OLED monitor review highlights HDR and color performance",
-      "url": "https://www.pcworld.com/article/3186295/alienware-aw3426dw-review.html",
-      "published_at": "2026-07-09T13:00:00+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -19819,25 +19589,6 @@
       "score": 100,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:92237",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell and Alienware monitors display ads on Windows 10/11 due to Windows behavior",
-      "url": "https://www.tudocelular.com/dell/noticias/n258207/monitores-lg-dell-alienware-usuarios-instalar.html",
-      "published_at": "2026-07-08T13:38:00+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
       "brand": "LG",
       "family": "PC competitors",
       "is_dell_story": false
@@ -20447,25 +20198,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:89394",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Alienware OLED ultrawide monitor discounted to $650 on Amazon",
-      "url": "https://www.pcworld.com/article/3186129/alienwares-oled-ultrawide-gaming-monitor-is-650-on-amazon.html",
-      "published_at": "2026-07-07T15:18:37+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -22080,25 +21812,6 @@
       "score": 100,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:84173",
-      "kind": "media",
-      "source": "HotHardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": false,
-      "title": "Alienware Gaming PCs Get Big Discounts in Best Buy's 4th of July Sale",
-      "url": "https://hothardware.com/news/alienware-gaming-pcs-hit-big-discounts-in-best-buys-4th-of-july-flash-sale",
-      "published_at": "2026-07-05T18:42:00+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
@@ -22693,25 +22406,6 @@
       "is_dell_story": true
     },
     {
-      "id": "media:82856",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Dell slashes Alienware Area-51 price by $2,580",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/the-ultimate-4k-rtx-5090-gaming-titan-plummets-usd2-580-huge-discount-makes-the-alienware-area-51-with-24-core-cpu-and-64gb-ram-irresistible",
-      "published_at": "2026-07-04T11:43:13+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "media:83202",
       "kind": "media",
       "source": "TechRadar",
@@ -23049,25 +22743,6 @@
       "score": 35,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:81434",
-      "kind": "media",
-      "source": "Showmetech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=showmetech.com.br&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Alienware Monitors on Sale During Prime Day 2026",
-      "url": "https://www.showmetech.com.br/monitores-gamer-com-desconto-no-prime-day-2026/",
-      "published_at": "2026-07-03T16:00:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
       "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
@@ -23202,25 +22877,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:52243",
-      "kind": "youtube",
-      "source": "Tom's Guide",
-      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware AW2726DM Review - How is this OLED so CHEAP!?",
-      "url": "https://www.youtube.com/shorts/KgU96ljoFlg",
-      "published_at": "2026-07-03T15:00:23+00:00",
-      "score": 95,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -23411,25 +23067,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:80719",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "July 4th flash sale offers up to 47% off Dell/Alienware gaming PCs and laptops",
-      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-47-percent-on-dell-and-alienware-gaming-pcs-and-laptops-in-this-july-4th-flash-sale-big-sale-discounts-on-pricey-kit-including-gaming-chairs-and-monitors-for-a-limited-time-only",
-      "published_at": "2026-07-03T13:00:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -25197,25 +24834,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:48386",
-      "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Short Circuit reviews Alienware AW2726DM as a QD-OLED gaming monitor value play",
-      "url": "https://www.youtube.com/watch?v=cTLEP1oif-4",
-      "published_at": "2026-07-01T19:39:22.340781+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -27686,25 +27304,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:45655",
-      "kind": "youtube",
-      "source": "Techaeris",
-      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware 15 overview: design, specs, and pricing details",
-      "url": "https://www.youtube.com/watch?v=r2d9VCVibjs",
-      "published_at": "2026-06-29T14:40:10+00:00",
-      "score": 85,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -31319,25 +30918,6 @@
       "is_dell_story": true
     },
     {
-      "id": "media:59653",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Alienware OLED monitor highlights affordability on Prime Day",
-      "url": "https://www.techradar.com/computing/monitors/i-hate-ai-and-its-impact-on-ram-but-i-love-oleds-and-how-affordable-they-are-now-and-this-alienware-ultrawide-is-the-best-example-on-prime-day",
-      "published_at": "2026-06-25T19:35:05+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "media:59423",
       "kind": "media",
       "source": "CNET",
@@ -31467,25 +31047,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:58578",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Alienware RTX 5060 laptop outperforms Steam Machine at same price during Prime Day sale",
-      "url": "https://www.techradar.com/computing/gaming-laptops/this-alienware-rtx-5060-gaming-laptop-is-more-powerful-than-the-steam-machine-at-the-same-price-get-it-before-prime-day-ends",
-      "published_at": "2026-06-25T18:45:26+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -32550,25 +32111,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:58017",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Alienware Aurora 16 with RTX 4050 on sale with coupon",
-      "url": "https://www.tudocelular.com/dell/noticias/n257285/notebook-alienware-aurora-16-com-placa-rtx-4050-entra-em-oferta-com-cupom.html",
-      "published_at": "2026-06-25T13:02:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -34036,25 +33578,6 @@
       "is_dell_story": true
     },
     {
-      "id": "media:54223",
-      "kind": "media",
-      "source": "HotHardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": false,
-      "title": "Best Buy slashes $1,350 off Alienware gaming PC with RTX 5080",
-      "url": "https://hothardware.com/news/best-buy-slashed-1350-off-alienware-gaming-pc-rtx-5080",
-      "published_at": "2026-06-24T15:19:00+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "media:54522",
       "kind": "media",
       "source": "WinFuture",
@@ -34165,25 +33688,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:54099",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": false,
-      "title": "Alienware 34-inch OLED monitor drops to $629.99 on Prime Day",
-      "url": "https://www.pcworld.com/article/3172979/alienwares-34-inch-oled-ultrawide-just-crashed-to-an-all-time-low-price.html",
-      "published_at": "2026-06-24T14:27:16+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -34431,25 +33935,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:29795",
-      "kind": "youtube",
-      "source": "Jarrod's Tech",
-      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "AU",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware 15\" Laptop Review: Pros, Cons, and Upgradeability Analysis",
-      "url": "https://www.youtube.com/watch?v=-5mcKMtkUuA",
-      "published_at": "2026-06-24T11:30:15+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -35247,25 +34732,6 @@
       "score": 35,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:49687",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Amazon Prime Day 2026 offers Dell, Alienware gaming laptop deals",
-      "url": "https://www.tomshardware.com/laptops/gaming-laptops/best-gaming-laptop-deals-discount",
-      "published_at": "2026-06-23T17:19:10+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
       "brand": "MSI",
       "family": "PC competitors",
       "is_dell_story": false
@@ -35894,25 +35360,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:48746",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Alienware 34-inch OLED monitor drops to $629.99 on Prime Day",
-      "url": "https://www.pcworld.com/article/3172979/alienware-34-inch-1440p-oled-ultrawide-hits-new-low-for-prime-day.html",
-      "published_at": "2026-06-23T14:30:58+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -38558,63 +38005,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:44339",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Valve opens Steam Machine reservations with $1,049 price and anti-scalper measures",
-      "url": "https://www.tomshardware.com/video-games/console-gaming/valve-opens-steam-machine-reservations-details-usd1-049-starting-price-randomized-queue-to-stop-scalpers-and-limited-inventory",
-      "published_at": "2026-06-22T17:00:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:44125",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "NVIDIA hints at Blackwell successor in Linux kernel patch",
-      "url": "https://www.adrenaline.com.br/nvidia/nvidia-blackwell-next-linux-kernel/",
-      "published_at": "2026-06-22T16:45:54+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:46248",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple turns defective MacBook M2 Max into Apple Care+ PR win in Australia",
-      "url": "https://www.tudocelular.com/mercado/noticias/n256992/apple-dono-macbook-m2-max-defeituoso.html",
-      "published_at": "2026-06-22T16:16:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:23132",
       "kind": "youtube",
       "source": "Lipe Mal Estar",
@@ -38877,25 +38267,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:21152",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware 16 Aurora RTX 4050 Review: Worth the Price?",
-      "url": "https://www.youtube.com/watch?v=onV2X-ku-i0",
-      "published_at": "2026-06-19T21:09:23+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -39675,25 +39046,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:287",
-      "kind": "youtube",
-      "source": "TudoCelular",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_kLxUVQDnPaMByr20iK1JsJiMjDHuiB7KDIhTzl7cdDu6Y=s900-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell Alienware 16 Area-51 review and specs in Brazil",
-      "url": "https://www.youtube.com/shorts/8fZSPGsg7ow",
-      "published_at": "2026-06-11T18:45:28+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -41085,25 +40437,6 @@
       "is_dell_story": true
     },
     {
-      "id": "youtube:756",
-      "kind": "youtube",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
-      "country": "DE",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware's new 39\" 5K monitor announced at Computex 2026",
-      "url": "https://www.youtube.com/shorts/7907a7MoAds",
-      "published_at": "2026-06-05T13:23:48+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "youtube:769",
       "kind": "youtube",
       "source": "The Tech Chap",
@@ -41631,25 +40964,6 @@
       "score": 100,
       "is_review": true,
       "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:34828",
-      "kind": "youtube",
-      "source": "Just Josh",
-      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "HP Omnibook 5 vs MacBook Neo: Intel Wildcat Lake vs Apple Neo performance and features",
-      "url": "https://www.youtube.com/watch?v=ygZ0CayoT6s",
-      "published_at": "2026-06-01T16:12:16+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
@@ -42087,25 +41401,6 @@
       "score": 100,
       "is_review": true,
       "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:34829",
-      "kind": "youtube",
-      "source": "Just Josh",
-      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Legion Pro 7i vs Alienware 16: Gaming and Creator Workload Comparison",
-      "url": "https://www.youtube.com/watch?v=ErUGNqeKyIs",
-      "published_at": "2026-05-28T15:41:19+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
@@ -42221,25 +41516,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:40",
-      "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": false,
-      "title": "Alienware Area-51 gaming laptop review highlights design and performance",
-      "url": "https://www.youtube.com/watch?v=dlauW0JSiuY",
-      "published_at": "2026-05-26T21:30:34+00:00",
-      "score": 90,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -42791,25 +42067,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:34834",
-      "kind": "youtube",
-      "source": "Just Josh",
-      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Harsh review of Alienware 15's display, CPU, and GPU performance",
-      "url": "https://www.youtube.com/watch?v=P-RdDGJZVf4",
-      "published_at": "2026-05-17T16:42:51+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
@@ -43607,25 +42864,6 @@
       "score": 65,
       "is_review": true,
       "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:795",
-      "kind": "youtube",
-      "source": "Jarrod's Tech",
-      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "AU",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Ranking 35 gaming laptops from multiple brands including Alienware",
-      "url": "https://www.youtube.com/watch?v=OnqojEdCUTU",
-      "published_at": "2025-11-21T12:30:39+00:00",
-      "score": 65,
-      "is_review": true,
-      "is_sponsored": false,
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
@@ -43798,25 +43036,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:17458",
-      "kind": "youtube",
-      "source": "MobileTechReview",
-      "source_icon": "https://yt3.googleusercontent.com/zQ_Xo3V4VSqpUR3h8rqxOs2hKnMH9wiO55Bwp8IVg3rHzFE0zKbclHtBU3e8RcNsKvM_J34z=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware 2026 laptop review: Cooling, design, and price analysis",
-      "url": "https://www.youtube.com/watch?v=YrUwhnoVs8M",
-      "published_at": "2025-09-11T23:09:35+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
