@@ -591,7 +591,7 @@
     const countries = metricAvailableCountries(data);
     const buttons = [
       `<button type="button" class="${state.metricCountry === "all" ? "active" : ""}" data-metric-country="all">Global</button>`,
-      ...countries.map(([code, count]) => `<button type="button" class="${state.metricCountry === code ? "active" : ""}" data-metric-country="${escapeHtml(code)}">${escapeHtml(countryName(code))}<span>${metricNumber(count)}</span></button>`)
+      ...countries.map(([code]) => `<button type="button" class="${state.metricCountry === code ? "active" : ""}" data-metric-country="${escapeHtml(code)}">${escapeHtml(countryName(code))}</button>`)
     ].join("");
     return `<div class="metric-country-filter" id="metricCountryFilter" aria-label="Brand metrics country filter">${buttons}</div>`;
   }

@@ -1067,32 +1067,23 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  margin: -2px 0 2px;
+  margin: 0 0 4px;
 }
 .metric-country-filter button {
   border: 1px solid #cbd9e6;
   background: #fff;
   color: #263648;
-  border-radius: 999px;
-  min-height: 32px;
-  padding: 0 13px;
+  border-radius: 8px;
+  min-height: 36px;
+  padding: 0 14px;
   font-size: 12px;
   font-weight: 900;
   cursor: pointer;
-  display: inline-flex;
-  align-items: center;
-  gap: 7px;
-}
-.metric-country-filter button span {
-  color: #7b8797;
-  font-size: 11px;
-  font-weight: 800;
+  box-shadow: 0 1px 2px rgba(16, 32, 51, .04);
 }
 .metric-country-filter button.active {
   background: var(--dell-blue);
   border-color: var(--dell-blue);
   color: #fff;
-}
-.metric-country-filter button.active span {
-  color: rgba(255, 255, 255, .78);
+  box-shadow: 0 6px 14px rgba(6, 114, 203, .18);
 }
