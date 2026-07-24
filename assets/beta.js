@@ -114,7 +114,7 @@
       : (Array.isArray(metrics.recent) ? metrics.recent : []);
     const cutoff = Date.now() - DAY_MS;
     const last24 = metricItems.filter(item => itemTime(item) >= cutoff);
-    const brandItems = last24.filter(metricBrandRowEligible).filter(isShareBrand);
+    const brandItems = last24.filter(item => !item.deal_metric_only).filter(metricBrandRowEligible).filter(isShareBrand);
     if (!brandItems.length) return 0;
     const dellItems = brandItems.filter(item => metricBrand(item).toLowerCase() === "dell");
     return Math.round((dellItems.length / brandItems.length) * 100);
