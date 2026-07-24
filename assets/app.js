@@ -542,8 +542,8 @@
   }
 
   function metricCountryLabel() {
-    if (state.metricCountry === "all") return "all countries";
-    return state.metricCountry;
+    if (state.metricCountry === "all") return "Global";
+    return countryName(state.metricCountry);
   }
 
   function countryName(code) {
@@ -590,7 +590,7 @@
   function renderMetricCountryFilter(data) {
     const countries = metricAvailableCountries(data);
     const buttons = [
-      `<button type="button" class="${state.metricCountry === "all" ? "active" : ""}" data-metric-country="all">All countries</button>`,
+      `<button type="button" class="${state.metricCountry === "all" ? "active" : ""}" data-metric-country="all">Global</button>`,
       ...countries.map(([code, count]) => `<button type="button" class="${state.metricCountry === code ? "active" : ""}" data-metric-country="${escapeHtml(code)}">${escapeHtml(countryName(code))}<span>${metricNumber(count)}</span></button>`)
     ].join("");
     return `<div class="metric-country-filter" id="metricCountryFilter" aria-label="Brand metrics country filter">${buttons}</div>`;
