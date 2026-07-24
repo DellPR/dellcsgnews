@@ -311,6 +311,10 @@
 
   function bootBeta() {
     setCommandCenter();
+    window.addEventListener("monitorHubDataUpdated", () => {
+      setCommandCenter();
+      updateCommandVisibility();
+    });
     wireCommandCenter();
     wireBottomNav();
     wireViewState();

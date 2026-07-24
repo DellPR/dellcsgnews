@@ -1272,6 +1272,7 @@
     state.items = (data.items || []).sort((a, b) => itemTime(b) - itemTime(a));
     state.generatedAt = data.generated_at || "";
     if (data.brand_metrics_data) window.MONITOR_HUB_BRAND_METRICS = data.brand_metrics_data;
+    window.dispatchEvent(new CustomEvent("monitorHubDataUpdated", {detail: {source}}));
     const updated = data.generated_at ? formatRelativeTime(data.generated_at, "Updated") : source;
     metaEl.textContent = `${updated}. Showing newsletter-ready Media Monitor, YouTube Monitor and X Watch signals in reverse chronological order.`;
     applyFilters();
@@ -1325,6 +1326,7 @@
           });
           if (metricsResponse.ok) {
             window.MONITOR_HUB_BRAND_METRICS = await metricsResponse.json();
+            window.dispatchEvent(new CustomEvent("monitorHubDataUpdated", {detail: {source: "brand_metrics"}}));
             break;
           }
         }
