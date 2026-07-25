@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-25T00:19:06.860302+00:00",
-  "total_items": 1879,
+  "generated_at": "2026-07-25T19:09:30.991708+00:00",
+  "total_items": 1881,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 241,
+      "total": 242,
       "media": 168,
-      "youtube": 73,
+      "youtube": 74,
       "reviews": 37,
       "sponsored": 3,
       "dell_stories": 0,
@@ -42,14 +42,14 @@
           "count": 8
         },
         {
-          "source": "PCWorld",
+          "source": "Lipe Mal Estar",
           "count": 8
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 162
+          "count": 163
         },
         {
           "section": "Deals",
@@ -68,7 +68,7 @@
           "count": 7
         }
       ],
-      "avg_score": 63.5
+      "avg_score": 63.6
     },
     {
       "brand": "Intel",
@@ -413,9 +413,9 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 125,
+      "total": 126,
       "media": 85,
-      "youtube": 40,
+      "youtube": 41,
       "reviews": 2,
       "sponsored": 0,
       "dell_stories": 0,
@@ -446,18 +446,18 @@
           "count": 7
         },
         {
-          "source": "PCWorld",
+          "source": "JayzTwoCents",
           "count": 6
         },
         {
-          "source": "The Verge",
+          "source": "PCWorld",
           "count": 6
         }
       ],
       "sections": [
         {
           "section": "Market Trends",
-          "count": 115
+          "count": 116
         },
         {
           "section": "Deals",
@@ -472,7 +472,7 @@
           "count": 2
         }
       ],
-      "avg_score": 66.5
+      "avg_score": 66.4
     },
     {
       "brand": "Dell",
@@ -1551,13 +1551,13 @@
       "brands": {
         "Intel": 137,
         "Microsoft": 136,
-        "Apple": 107,
+        "Apple": 108,
         "Lenovo": 105,
         "AMD": 99,
         "Asus": 71,
         "Dell": 70,
         "NVIDIA": 65,
-        "Valve": 64,
+        "Valve": 65,
         "HP": 40,
         "Amazon": 36,
         "Alienware": 29,
@@ -1569,6 +1569,44 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:92970",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "of the Affordable MacBook Baratinho after 4 Months of Use",
+      "url": "https://www.youtube.com/shorts/1Ie0BO3xK3k",
+      "published_at": "2026-07-25T14:57:59+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:93120",
+      "kind": "youtube",
+      "source": "JayzTwoCents",
+      "source_icon": "https://yt3.googleusercontent.com/60ZHdHfspX1q6YI8_RW8Zz8fyR8Ne5aDHIwQ0TGN-vFkBWp5J1htI2VsLQQsnVoQbGhIxmJ3lQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Testing cooling mods for Steam Machine's airflow effectiveness",
+      "url": "https://www.youtube.com/shorts/uTXnkFayxeE",
+      "published_at": "2026-07-24T23:52:13+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:92130",
       "kind": "youtube",
@@ -6280,47 +6318,47 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "media:123594",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Dell Pro Max GB10 AI cluster tested with Nvidia Grace Blackwell",
-      "url": "https://www.tomshardware.com/pc-components/gpus/local-ai-clustering-with-dells-pro-max-gb10-connecting-two-nvidia-grace-blackwell-to-scale-out-ai-compute-at-home",
-      "published_at": "2026-07-21T14:30:00+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:124468",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "ASUS Vivobook S 14 with 32 GB RAM and OLED display on Amazon sale",
-      "url": "https://www.tudocelular.com/asus/noticias/n259122/asus-vivobook-s-14-s5406-oferta-ate-21x-sem-juros.html",
-      "published_at": "2026-07-21T14:12:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:92970",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "of the Affordable MacBook Baratinho after 4 Months of Use",
+      "url": "https://www.youtube.com/shorts/1Ie0BO3xK3k",
+      "published_at": "2026-07-25T14:57:59+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:93120",
+      "kind": "youtube",
+      "source": "JayzTwoCents",
+      "source_icon": "https://yt3.googleusercontent.com/60ZHdHfspX1q6YI8_RW8Zz8fyR8Ne5aDHIwQ0TGN-vFkBWp5J1htI2VsLQQsnVoQbGhIxmJ3lQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Testing cooling mods for Steam Machine's airflow effectiveness",
+      "url": "https://www.youtube.com/shorts/uTXnkFayxeE",
+      "published_at": "2026-07-24T23:52:13+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:92130",
       "kind": "youtube",
