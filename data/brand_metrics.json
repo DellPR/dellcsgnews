@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T23:51:04.475525+00:00",
-  "total_items": 1880,
+  "generated_at": "2026-07-25T00:19:06.860302+00:00",
+  "total_items": 1879,
   "brands": [
     {
       "brand": "Apple",
@@ -477,13 +477,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 116,
+      "total": 115,
       "media": 74,
-      "youtube": 42,
-      "reviews": 35,
+      "youtube": 41,
+      "reviews": 34,
       "sponsored": 6,
-      "dell_stories": 112,
-      "high_signal": 91,
+      "dell_stories": 111,
+      "high_signal": 90,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -521,7 +521,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 83
+          "count": 82
         },
         {
           "section": "Deals",
@@ -540,7 +540,7 @@
           "count": 1
         }
       ],
-      "avg_score": 85.6
+      "avg_score": 85.5
     },
     {
       "brand": "NVIDIA",
@@ -1555,7 +1555,7 @@
         "Lenovo": 105,
         "AMD": 99,
         "Asus": 71,
-        "Dell": 71,
+        "Dell": 70,
         "NVIDIA": 65,
         "Valve": 64,
         "HP": 40,
@@ -1606,25 +1606,6 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:92122",
-      "kind": "youtube",
-      "source": "IGN",
-      "source_icon": "https://yt3.googleusercontent.com/M5xbpJc3JNKQuLgzHr0Qv_ZhjPVpUeSn1BaWhopQFyMGlQmBVY_0Mn5MIf-JWbxTKYZRS67_GcI=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 16 review highlights performance and display quality",
-      "url": "https://www.youtube.com/watch?v=1X5ViYlYpIg",
-      "published_at": "2026-07-24T22:46:04+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
     },
     {
       "id": "media:163130",
@@ -6318,6 +6299,25 @@
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
+    },
+    {
+      "id": "media:124468",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "ASUS Vivobook S 14 with 32 GB RAM and OLED display on Amazon sale",
+      "url": "https://www.tudocelular.com/asus/noticias/n259122/asus-vivobook-s-14-s5406-oferta-ate-21x-sem-juros.html",
+      "published_at": "2026-07-21T14:12:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
     }
   ],
   "items": [
@@ -6358,25 +6358,6 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:92122",
-      "kind": "youtube",
-      "source": "IGN",
-      "source_icon": "https://yt3.googleusercontent.com/M5xbpJc3JNKQuLgzHr0Qv_ZhjPVpUeSn1BaWhopQFyMGlQmBVY_0Mn5MIf-JWbxTKYZRS67_GcI=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 16 review highlights performance and display quality",
-      "url": "https://www.youtube.com/watch?v=1X5ViYlYpIg",
-      "published_at": "2026-07-24T22:46:04+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
     },
     {
       "id": "media:163130",

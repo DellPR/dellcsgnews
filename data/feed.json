@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-24T23:51:04.475561+00:00",
-  "trigger": "youtube",
-  "total": 1510,
+  "generated_at": "2026-07-25T00:19:06.860352+00:00",
+  "trigger": "manual",
+  "total": 1509,
   "counts": {
     "media": 1128,
-    "youtube": 345,
+    "youtube": 344,
     "x": 37
   },
   "section_counts": {
@@ -12,7 +12,7 @@
     "Ecosystem": 386,
     "Deals": 338,
     "Market Trends": 136,
-    "Dell Coverage": 117,
+    "Dell Coverage": 116,
     "X Watch": 37
   },
   "brand_metrics": "data/brand_metrics.json",
@@ -57,46 +57,6 @@
       "also_competitor_story": false,
       "review_type": "shorts",
       "tone": "positive"
-    },
-    {
-      "id": "youtube:92122",
-      "kind": "youtube",
-      "source": "IGN",
-      "source_icon": "https://yt3.googleusercontent.com/M5xbpJc3JNKQuLgzHr0Qv_ZhjPVpUeSn1BaWhopQFyMGlQmBVY_0Mn5MIf-JWbxTKYZRS67_GcI=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "title": "Dell XPS 16 review highlights performance and display quality",
-      "display_title": "Dell XPS 16 review highlights performance and display quality",
-      "original_title": "Clayface: Everything We Learned At The DCU Horror Movie's Panel | Comic Con 2026",
-      "url": "https://www.youtube.com/watch?v=1X5ViYlYpIg",
-      "published_at": "2026-07-24T22:46:04+00:00",
-      "captured_at": "2026-07-24 23:30:10",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "company": "Dell",
-      "product": "Dell XPS 16",
-      "score": 100,
-      "summary": "The video reviews the Dell XPS 16, emphasizing its high-resolution display, powerful performance for creative work, and sleek design. The reviewer notes strong battery life and portability but mentions thermal throttling under heavy load and a premium price point.",
-      "why_it_matters": "",
-      "thumbnail": "https://i2.ytimg.com/vi/1X5ViYlYpIg/hqdefault.jpg",
-      "tags": [
-        "IGN",
-        "US",
-        "Dell",
-        "Dell XPS 16",
-        "Review",
-        "Dell Coverage"
-      ],
-      "is_review": true,
-      "is_short": false,
-      "is_sponsored": false,
-      "sponsor_brand": "",
-      "is_dell_story": true,
-      "has_dell_mention": true,
-      "is_competitor_story": false,
-      "is_market_story": false,
-      "also_competitor_story": false,
-      "review_type": "review",
-      "tone": "mixed"
     },
     {
       "id": "media:163130",
