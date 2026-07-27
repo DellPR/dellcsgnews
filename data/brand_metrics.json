@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T20:40:35.257086+00:00",
-  "total_items": 1629,
+  "generated_at": "2026-07-27T22:38:06.077843+00:00",
+  "total_items": 1633,
   "brands": [
     {
       "brand": "Apple",
@@ -8,7 +8,7 @@
       "total": 225,
       "media": 162,
       "youtube": 63,
-      "reviews": 35,
+      "reviews": 34,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 16,
@@ -27,7 +27,7 @@
         },
         {
           "source": "TudoCelular",
-          "count": 10
+          "count": 11
         },
         {
           "source": "The Verge",
@@ -49,11 +49,11 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 161
+          "count": 162
         },
         {
           "section": "Deals",
-          "count": 37
+          "count": 36
         },
         {
           "section": "Dell Coverage",
@@ -68,13 +68,13 @@
           "count": 6
         }
       ],
-      "avg_score": 63.7
+      "avg_score": 63.8
     },
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 191,
-      "media": 180,
+      "total": 192,
+      "media": 181,
       "youtube": 11,
       "reviews": 5,
       "sponsored": 0,
@@ -90,12 +90,12 @@
           "count": 21
         },
         {
-          "source": "PCWorld",
+          "source": "TechRadar",
           "count": 16
         },
         {
-          "source": "TechRadar",
-          "count": 16
+          "source": "PCWorld",
+          "count": 15
         },
         {
           "source": "XDA Developers",
@@ -110,33 +110,33 @@
           "count": 9
         },
         {
-          "source": "Digital Trends",
-          "count": 8
+          "source": "Tecnoblog",
+          "count": 9
         }
       ],
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 130
+          "count": 131
         },
         {
           "section": "Competitor Coverage",
-          "count": 31
-        },
-        {
-          "section": "Deals",
-          "count": 11
+          "count": 32
         },
         {
           "section": "Dell Coverage",
           "count": 11
         },
         {
+          "section": "Deals",
+          "count": 10
+        },
+        {
           "section": "Market Trends",
           "count": 8
         }
       ],
-      "avg_score": 54.5
+      "avg_score": 54.8
     },
     {
       "brand": "Lenovo",
@@ -163,7 +163,7 @@
         },
         {
           "source": "TudoCelular",
-          "count": 10
+          "count": 11
         },
         {
           "source": "Adrenaline",
@@ -185,11 +185,11 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 134
+          "count": 135
         },
         {
           "section": "Deals",
-          "count": 35
+          "count": 34
         },
         {
           "section": "Ecosystem",
@@ -204,7 +204,7 @@
           "count": 2
         }
       ],
-      "avg_score": 62.9
+      "avg_score": 63.1
     },
     {
       "brand": "Asus",
@@ -407,6 +407,70 @@
       "avg_score": 65.3
     },
     {
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "total": 113,
+      "media": 108,
+      "youtube": 5,
+      "reviews": 5,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 1,
+      "top_sources": [
+        {
+          "source": "Wccftech",
+          "count": 23
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 13
+        },
+        {
+          "source": "HotHardware",
+          "count": 12
+        },
+        {
+          "source": "Adrenaline",
+          "count": 11
+        },
+        {
+          "source": "TechRadar",
+          "count": 8
+        },
+        {
+          "source": "TudoCelular",
+          "count": 7
+        },
+        {
+          "source": "VideoCardz",
+          "count": 5
+        },
+        {
+          "source": "TechSpot",
+          "count": 4
+        }
+      ],
+      "sections": [
+        {
+          "section": "Ecosystem",
+          "count": 77
+        },
+        {
+          "section": "Deals",
+          "count": 20
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 10
+        },
+        {
+          "section": "Market Trends",
+          "count": 6
+        }
+      ],
+      "avg_score": 60.1
+    },
+    {
       "brand": "Dell",
       "family": "Dell family",
       "total": 113,
@@ -475,74 +539,10 @@
       "avg_score": 89.4
     },
     {
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "total": 112,
-      "media": 107,
-      "youtube": 5,
-      "reviews": 5,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 1,
-      "top_sources": [
-        {
-          "source": "Wccftech",
-          "count": 23
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 13
-        },
-        {
-          "source": "HotHardware",
-          "count": 12
-        },
-        {
-          "source": "Adrenaline",
-          "count": 11
-        },
-        {
-          "source": "TechRadar",
-          "count": 7
-        },
-        {
-          "source": "TudoCelular",
-          "count": 7
-        },
-        {
-          "source": "VideoCardz",
-          "count": 5
-        },
-        {
-          "source": "TechSpot",
-          "count": 4
-        }
-      ],
-      "sections": [
-        {
-          "section": "Ecosystem",
-          "count": 76
-        },
-        {
-          "section": "Deals",
-          "count": 20
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 10
-        },
-        {
-          "section": "Market Trends",
-          "count": 6
-        }
-      ],
-      "avg_score": 60.0
-    },
-    {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 72,
-      "media": 64,
+      "total": 74,
+      "media": 66,
       "youtube": 8,
       "reviews": 4,
       "sponsored": 0,
@@ -551,7 +551,7 @@
       "top_sources": [
         {
           "source": "Tom's Hardware",
-          "count": 11
+          "count": 12
         },
         {
           "source": "Wccftech",
@@ -563,7 +563,7 @@
         },
         {
           "source": "TechRadar",
-          "count": 5
+          "count": 6
         },
         {
           "source": "Adrenaline",
@@ -585,7 +585,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 52
+          "count": 53
         },
         {
           "section": "Deals",
@@ -593,7 +593,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 5
+          "count": 6
         },
         {
           "section": "Market Trends",
@@ -604,7 +604,7 @@
           "count": 2
         }
       ],
-      "avg_score": 61.5
+      "avg_score": 61.7
     },
     {
       "brand": "HP",
@@ -673,8 +673,8 @@
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 53,
-      "media": 35,
+      "total": 54,
+      "media": 36,
       "youtube": 18,
       "reviews": 8,
       "sponsored": 2,
@@ -717,7 +717,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 35
+          "count": 36
         },
         {
           "section": "Deals",
@@ -736,7 +736,7 @@
           "count": 1
         }
       ],
-      "avg_score": 61.6
+      "avg_score": 61.8
     },
     {
       "brand": "Amazon",
@@ -921,10 +921,10 @@
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 33,
-      "media": 20,
+      "total": 32,
+      "media": 19,
       "youtube": 13,
-      "reviews": 7,
+      "reviews": 6,
       "sponsored": 5,
       "dell_stories": 0,
       "high_signal": 0,
@@ -965,7 +965,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 25
+          "count": 24
         },
         {
           "section": "Deals",
@@ -976,7 +976,7 @@
           "count": 1
         }
       ],
-      "avg_score": 62.5
+      "avg_score": 62.2
     },
     {
       "brand": "Framework",
@@ -984,17 +984,13 @@
       "total": 32,
       "media": 28,
       "youtube": 4,
-      "reviews": 8,
+      "reviews": 7,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
-          "count": 3
-        },
-        {
-          "source": "PCWorld",
           "count": 3
         },
         {
@@ -1007,6 +1003,10 @@
         },
         {
           "source": "Digital Trends",
+          "count": 2
+        },
+        {
+          "source": "PCWorld",
           "count": 2
         },
         {
@@ -1025,18 +1025,18 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 30
+          "count": 29
+        },
+        {
+          "section": "Ecosystem",
+          "count": 2
         },
         {
           "section": "Deals",
           "count": 1
-        },
-        {
-          "section": "Ecosystem",
-          "count": 1
         }
       ],
-      "avg_score": 69.5
+      "avg_score": 68.8
     },
     {
       "brand": "Qualcomm",
@@ -1062,10 +1062,6 @@
           "count": 2
         },
         {
-          "source": "Tom's Hardware",
-          "count": 2
-        },
-        {
           "source": "VideoCardz",
           "count": 2
         },
@@ -1080,16 +1076,20 @@
         {
           "source": "Digital Trends",
           "count": 1
+        },
+        {
+          "source": "Engadget",
+          "count": 1
         }
       ],
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 15
+          "count": 14
         },
         {
           "section": "Competitor Coverage",
-          "count": 12
+          "count": 13
         },
         {
           "section": "Deals",
@@ -1100,7 +1100,7 @@
           "count": 1
         }
       ],
-      "avg_score": 65.8
+      "avg_score": 65.6
     },
     {
       "brand": "LG",
@@ -1504,10 +1504,10 @@
     {
       "month": "2026-06",
       "brands": {
-        "Apple": 95,
+        "Apple": 93,
         "Valve": 53,
-        "Microsoft": 42,
-        "Lenovo": 38,
+        "Microsoft": 41,
+        "Lenovo": 37,
         "Asus": 36,
         "Dell": 31,
         "AMD": 20,
@@ -1516,35 +1516,187 @@
         "Samsung": 15,
         "Amazon": 14,
         "HP": 14,
-        "Acer": 12,
+        "Acer": 11,
         "NVIDIA": 11,
         "Alienware": 10,
-        "Qualcomm": 6
+        "Qualcomm": 5
       }
     },
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 148,
-        "Lenovo": 122,
-        "Apple": 117,
+        "Microsoft": 150,
+        "Lenovo": 123,
+        "Apple": 119,
         "Intel": 96,
-        "AMD": 91,
+        "AMD": 92,
         "Dell": 76,
         "Asus": 75,
         "Valve": 69,
-        "NVIDIA": 61,
+        "NVIDIA": 63,
         "HP": 43,
-        "MSI": 32,
+        "MSI": 33,
         "Amazon": 30,
         "Alienware": 28,
         "Framework": 28,
         "Samsung": 26,
-        "Qualcomm": 24
+        "Qualcomm": 25
       }
     }
   ],
   "recent": [
+    {
+      "id": "media:181866",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "AMD unveils 2nm EPYC Venice server chip with 2027 shipment timeline",
+      "url": "https://www.techradar.com/pro/amds-venice-is-the-first-2nm-x86-server-chip-but-the-stack-doesnt-fully-ship-until-2027",
+      "published_at": "2026-07-27T21:40:00+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:181866",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "AMD unveils 2nm EPYC Venice server chip with 2027 shipment timeline",
+      "url": "https://www.techradar.com/pro/amds-venice-is-the-first-2nm-x86-server-chip-but-the-stack-doesnt-fully-ship-until-2027",
+      "published_at": "2026-07-27T21:40:00+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:181507",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MSI and Colorful increase Nvidia RTX 50-series prices in China by up to 59%",
+      "url": "https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way",
+      "published_at": "2026-07-27T19:47:49+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "MSI",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:181507",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MSI and Colorful increase Nvidia RTX 50-series prices in China by up to 59%",
+      "url": "https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way",
+      "published_at": "2026-07-27T19:47:49+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:182487",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft Surface Laptop Ultra Leak Reveals RTX Spark, 128GB RAM, Mini-LED Display",
+      "url": "https://www.notebookcheck.com/Surface-Laptop-Ultra-Grosser-Leak-zu-Microsofts-MacBook-Pro-Alternative.1353086.0.html",
+      "published_at": "2026-07-27T19:23:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:182487",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft Surface Laptop Ultra Leak Reveals RTX Spark, 128GB RAM, Mini-LED Display",
+      "url": "https://www.notebookcheck.com/Surface-Laptop-Ultra-Grosser-Leak-zu-Microsofts-MacBook-Pro-Alternative.1353086.0.html",
+      "published_at": "2026-07-27T19:23:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:181376",
+      "kind": "media",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft optimizes WinUI to reduce RAM usage in Windows 11 apps",
+      "url": "https://tecnoblog.net/noticias/microsoft-reconhece-apps-famintos-por-ram-no-windows-11-e-promete-solucao/",
+      "published_at": "2026-07-27T19:17:36+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:181376",
+      "kind": "media",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft optimizes WinUI to reduce RAM usage in Windows 11 apps",
+      "url": "https://tecnoblog.net/noticias/microsoft-reconhece-apps-famintos-por-ram-no-windows-11-e-promete-solucao/",
+      "published_at": "2026-07-27T19:17:36+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:178712",
       "kind": "media",
@@ -2002,25 +2154,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:177966",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework Laptop 13 Pro review highlights thermal efficiency but lower performance",
-      "url": "https://www.pcworld.com/article/3199054/framework-laptop-13-pro-review.html",
-      "published_at": "2026-07-27T15:00:00+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "media:178161",
       "kind": "media",
       "source": "ZDNet",
@@ -2154,6 +2287,25 @@
       "is_dell_story": false
     },
     {
+      "id": "media:181281",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple releases final versions of iOS 26.6, macOS 26.6, and other OS updates",
+      "url": "https://www.tudocelular.com/apple/noticias/n259466/apple-lanca-versoes-finais-ios-266-ipados-266.html",
+      "published_at": "2026-07-27T14:54:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "media:178127",
       "kind": "media",
       "source": "HotHardware",
@@ -2208,6 +2360,44 @@
       "is_sponsored": false,
       "brand": "Lenovo",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:181282",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo refreshes ThinkPad T14s with Snapdragon X2 chips and ultraportability focus",
+      "url": "https://www.tudocelular.com/novos-produtos/noticias/n259460/lenovo-thinkpad-t14s-2026-lancamento-preco-ficha.html",
+      "published_at": "2026-07-27T14:34:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:181282",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo refreshes ThinkPad T14s with Snapdragon X2 chips and ultraportability focus",
+      "url": "https://www.tudocelular.com/novos-produtos/noticias/n259460/lenovo-thinkpad-t14s-2026-lancamento-preco-ficha.html",
+      "published_at": "2026-07-27T14:34:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -6104,38 +6294,21 @@
       "brand": "AMD",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:145742",
+      "id": "media:181866",
       "kind": "media",
-      "source": "The Register",
-      "source_icon": "https://www.google.com/s2/favicons?domain=theregister.com&sz=64",
-      "country": "GB",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "AMD's Helios systems rival Nvidia's Vera Rubin in rack-scale AI compute",
-      "url": "https://www.theregister.com/systems/2026/07/23/amd-attacks-the-rack-with-helios-systems-that-rival-nvidias/5277246",
-      "published_at": "2026-07-23T17:26:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:145064",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "AMD unveils 256-core Epyc 9996 'Venice' with Zen 6 architecture and 5GHz+ clock speeds",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amds-256-core-epyc-9996-venice-claims-up-to-a-3-4x-jump-over-intel-xeon-competition-20-percent-over-nvidia-vera-zen-6-comes-with-up-to-1024mb-of-l3-16-channel-memory-and-5ghz-clock-speeds",
-      "published_at": "2026-07-23T17:24:50+00:00",
+      "title": "AMD unveils 2nm EPYC Venice server chip with 2027 shipment timeline",
+      "url": "https://www.techradar.com/pro/amds-venice-is-the-first-2nm-x86-server-chip-but-the-stack-doesnt-fully-ship-until-2027",
+      "published_at": "2026-07-27T21:40:00+00:00",
       "score": 70,
       "is_review": false,
       "is_sponsored": false,
@@ -6144,36 +6317,17 @@
       "is_dell_story": false
     },
     {
-      "id": "media:145064",
+      "id": "media:181866",
       "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "AMD unveils 256-core Epyc 9996 'Venice' with Zen 6 architecture and 5GHz+ clock speeds",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amds-256-core-epyc-9996-venice-claims-up-to-a-3-4x-jump-over-intel-xeon-competition-20-percent-over-nvidia-vera-zen-6-comes-with-up-to-1024mb-of-l3-16-channel-memory-and-5ghz-clock-speeds",
-      "published_at": "2026-07-23T17:24:50+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:145064",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "AMD unveils 256-core Epyc 9996 'Venice' with Zen 6 architecture and 5GHz+ clock speeds",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amds-256-core-epyc-9996-venice-claims-up-to-a-3-4x-jump-over-intel-xeon-competition-20-percent-over-nvidia-vera-zen-6-comes-with-up-to-1024mb-of-l3-16-channel-memory-and-5ghz-clock-speeds",
-      "published_at": "2026-07-23T17:24:50+00:00",
+      "title": "AMD unveils 2nm EPYC Venice server chip with 2027 shipment timeline",
+      "url": "https://www.techradar.com/pro/amds-venice-is-the-first-2nm-x86-server-chip-but-the-stack-doesnt-fully-ship-until-2027",
+      "published_at": "2026-07-27T21:40:00+00:00",
       "score": 70,
       "is_review": false,
       "is_sponsored": false,
@@ -6182,37 +6336,18 @@
       "is_dell_story": false
     },
     {
-      "id": "media:145065",
+      "id": "media:181507",
       "kind": "media",
       "source": "Tom's Hardware",
       "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
       "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "AMD unveils Venice-X CPU with 3D V-Cache for 2027 launch",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-cpu-launches-in-2027-with-1152-mb-of-3d-v-cache-96-cores-and-5-15-ghz-boost-clock-zen-6-cpu-for-high-performance-computing-comes-with-major-pillars-of-venice",
-      "published_at": "2026-07-23T17:17:54+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:145990",
-      "kind": "media",
-      "source": "PC Gamer",
-      "source_icon": "",
-      "country": "GB",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "MSI unveils $7,000 anniversary laptop",
-      "url": "https://www.pcgamer.com/hardware/gaming-laptops/msi-celebrates-40-year-anniversary-by-unveiling-a-seven-grand-laptop/",
-      "published_at": "2026-07-23T16:41:12+00:00",
-      "score": 65,
+      "title": "MSI and Colorful increase Nvidia RTX 50-series prices in China by up to 59%",
+      "url": "https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way",
+      "published_at": "2026-07-27T19:47:49+00:00",
+      "score": 70,
       "is_review": false,
       "is_sponsored": false,
       "brand": "MSI",
@@ -6220,55 +6355,55 @@
       "is_dell_story": false
     },
     {
-      "id": "media:145311",
+      "id": "media:181507",
       "kind": "media",
-      "source": "XDA Developers",
-      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Windows handhelds vs. Steam Deck: software optimization over hardware",
-      "url": "https://www.xda-developers.com/the-rog-ally-and-legion-go-need-more-than-faster-chips-to-beat-steamos/",
-      "published_at": "2026-07-23T16:30:10+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:146644",
-      "kind": "media",
-      "source": "GamesRadar+",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Intel Core Ultra 5 250K Plus offers strong value but hinges on socket longevity promises",
-      "url": "https://www.gamesradar.com/hardware/desktop-pc/the-intel-core-ultra-5-250k-plus-is-incredible-value-for-money-but-it-wont-matter-if-intel-doesnt-follow-through-on-its-socket-longevity-promises/",
-      "published_at": "2026-07-23T16:17:42+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:145401",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
       "country": "US",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Apple rumored to rent Macs, iPhones to address RAM crisis",
-      "url": "https://www.techradar.com/computing/macs/the-ram-crisis-just-forced-framework-into-a-nasty-price-hike-and-apples-rumored-solution-to-the-memory-crunch-is-renting-macs-to-cash-strapped-consumers",
-      "published_at": "2026-07-23T16:03:31+00:00",
+      "title": "MSI and Colorful increase Nvidia RTX 50-series prices in China by up to 59%",
+      "url": "https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way",
+      "published_at": "2026-07-27T19:47:49+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:182487",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft Surface Laptop Ultra Leak Reveals RTX Spark, 128GB RAM, Mini-LED Display",
+      "url": "https://www.notebookcheck.com/Surface-Laptop-Ultra-Grosser-Leak-zu-Microsofts-MacBook-Pro-Alternative.1353086.0.html",
+      "published_at": "2026-07-27T19:23:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:182487",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft Surface Laptop Ultra Leak Reveals RTX Spark, 128GB RAM, Mini-LED Display",
+      "url": "https://www.notebookcheck.com/Surface-Laptop-Ultra-Grosser-Leak-zu-Microsofts-MacBook-Pro-Alternative.1353086.0.html",
+      "published_at": "2026-07-27T19:23:00+00:00",
       "score": 65,
       "is_review": false,
       "is_sponsored": false,
@@ -6277,26 +6412,43 @@
       "is_dell_story": false
     },
     {
-      "id": "media:145401",
+      "id": "media:181376",
       "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Apple rumored to rent Macs, iPhones to address RAM crisis",
-      "url": "https://www.techradar.com/computing/macs/the-ram-crisis-just-forced-framework-into-a-nasty-price-hike-and-apples-rumored-solution-to-the-memory-crunch-is-renting-macs-to-cash-strapped-consumers",
-      "published_at": "2026-07-23T16:03:31+00:00",
-      "score": 65,
+      "title": "Microsoft optimizes WinUI to reduce RAM usage in Windows 11 apps",
+      "url": "https://tecnoblog.net/noticias/microsoft-reconhece-apps-famintos-por-ram-no-windows-11-e-promete-solucao/",
+      "published_at": "2026-07-27T19:17:36+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:181376",
+      "kind": "media",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft optimizes WinUI to reduce RAM usage in Windows 11 apps",
+      "url": "https://tecnoblog.net/noticias/microsoft-reconhece-apps-famintos-por-ram-no-windows-11-e-promete-solucao/",
+      "published_at": "2026-07-27T19:17:36+00:00",
+      "score": 50,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Framework",
       "family": "PC competitors",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "media:178712",
       "kind": "media",
@@ -6754,25 +6906,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:177966",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework Laptop 13 Pro review highlights thermal efficiency but lower performance",
-      "url": "https://www.pcworld.com/article/3199054/framework-laptop-13-pro-review.html",
-      "published_at": "2026-07-27T15:00:00+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "media:178161",
       "kind": "media",
       "source": "ZDNet",
@@ -6906,6 +7039,25 @@
       "is_dell_story": false
     },
     {
+      "id": "media:181281",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple releases final versions of iOS 26.6, macOS 26.6, and other OS updates",
+      "url": "https://www.tudocelular.com/apple/noticias/n259466/apple-lanca-versoes-finais-ios-266-ipados-266.html",
+      "published_at": "2026-07-27T14:54:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "media:178127",
       "kind": "media",
       "source": "HotHardware",
@@ -6960,6 +7112,44 @@
       "is_sponsored": false,
       "brand": "Lenovo",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:181282",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo refreshes ThinkPad T14s with Snapdragon X2 chips and ultraportability focus",
+      "url": "https://www.tudocelular.com/novos-produtos/noticias/n259460/lenovo-thinkpad-t14s-2026-lancamento-preco-ficha.html",
+      "published_at": "2026-07-27T14:34:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:181282",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo refreshes ThinkPad T14s with Snapdragon X2 chips and ultraportability focus",
+      "url": "https://www.tudocelular.com/novos-produtos/noticias/n259460/lenovo-thinkpad-t14s-2026-lancamento-preco-ficha.html",
+      "published_at": "2026-07-27T14:34:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -33502,120 +33692,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:57471",
-      "kind": "media",
-      "source": "ZDNet",
-      "source_icon": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Acer Swift Air 14 vs. MacBook Neo: Midrange laptop comparison",
-      "url": "https://www.zdnet.com/article/macbook-neo-vs-acer-swift-air-14/",
-      "published_at": "2026-06-25T10:00:55+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:57471",
-      "kind": "media",
-      "source": "ZDNet",
-      "source_icon": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Acer Swift Air 14 vs. MacBook Neo: Midrange laptop comparison",
-      "url": "https://www.zdnet.com/article/macbook-neo-vs-acer-swift-air-14/",
-      "published_at": "2026-06-25T10:00:55+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:57182",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Qualcomm unveils HBC near-memory AI architecture with 6x HBM bandwidth efficiency",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-reveals-hbc-near-memory-ai-architecture-ai250-and-ai350-accelerators-touts-6x-higher-bandwidth-per-watt-compared-to-hbm-200x-capacity-compared-to-on-chip-sram",
-      "published_at": "2026-06-25T10:00:00+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:57459",
-      "kind": "media",
-      "source": "Trusted Reviews",
-      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
-      "country": "GB",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "25% discount on Lenovo IdeaPad 1 Ryzen 5 laptop now £299",
-      "url": "https://www.trustedreviews.com/deals/theres-a-25-discount-on-this-lenovo-ryzen-5-laptop-now-just-299",
-      "published_at": "2026-06-25T09:00:52+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:57355",
-      "kind": "media",
-      "source": "WIRED",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wired.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Apple offers Prime Day deals on MacBooks, iPads, and accessories",
-      "url": "https://www.wired.com/story/best-prime-day-apple-deals-06-25-2026/",
-      "published_at": "2026-06-25T08:39:16+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:57315",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Microsoft Office 2024 Professional Plus lifetime license deal at $54.99",
-      "url": "https://www.pcworld.com/article/3170116/get-microsoft-office-2024-professional-plus-for-life-for-just-54-99.html",
-      "published_at": "2026-06-25T08:00:00+00:00",
-      "score": 0,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
     },
