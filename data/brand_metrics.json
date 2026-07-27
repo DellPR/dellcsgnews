@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-27T22:38:06.077843+00:00",
-  "total_items": 1633,
+  "generated_at": "2026-07-27T23:41:11.744741+00:00",
+  "total_items": 1584,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 225,
+      "total": 215,
       "media": 162,
-      "youtube": 63,
-      "reviews": 34,
-      "sponsored": 2,
+      "youtube": 53,
+      "reviews": 29,
+      "sponsored": 0,
       "dell_stories": 0,
-      "high_signal": 16,
+      "high_signal": 14,
       "top_sources": [
         {
           "source": "Wccftech",
@@ -49,15 +49,15 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 162
+          "count": 155
         },
         {
           "section": "Deals",
-          "count": 36
+          "count": 35
         },
         {
           "section": "Dell Coverage",
-          "count": 14
+          "count": 12
         },
         {
           "section": "Market Trends",
@@ -68,15 +68,15 @@
           "count": 6
         }
       ],
-      "avg_score": 63.8
+      "avg_score": 63.6
     },
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 192,
+      "total": 190,
       "media": 181,
-      "youtube": 11,
-      "reviews": 5,
+      "youtube": 9,
+      "reviews": 3,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 11,
@@ -121,7 +121,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 32
+          "count": 30
         },
         {
           "section": "Dell Coverage",
@@ -136,15 +136,15 @@
           "count": 8
         }
       ],
-      "avg_score": 54.8
+      "avg_score": 54.6
     },
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 178,
+      "total": 171,
       "media": 108,
-      "youtube": 70,
-      "reviews": 56,
+      "youtube": 63,
+      "reviews": 52,
       "sponsored": 5,
       "dell_stories": 0,
       "high_signal": 8,
@@ -185,11 +185,11 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 135
+          "count": 129
         },
         {
           "section": "Deals",
-          "count": 34
+          "count": 33
         },
         {
           "section": "Ecosystem",
@@ -205,74 +205,6 @@
         }
       ],
       "avg_score": 63.1
-    },
-    {
-      "brand": "Asus",
-      "family": "PC competitors",
-      "total": 124,
-      "media": 68,
-      "youtube": 56,
-      "reviews": 45,
-      "sponsored": 1,
-      "dell_stories": 0,
-      "high_signal": 7,
-      "top_sources": [
-        {
-          "source": "TechRadar",
-          "count": 10
-        },
-        {
-          "source": "Tech BR",
-          "count": 9
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 8
-        },
-        {
-          "source": "Adrenaline",
-          "count": 7
-        },
-        {
-          "source": "Crimson Tech",
-          "count": 7
-        },
-        {
-          "source": "Qual Notebook Comprar?",
-          "count": 6
-        },
-        {
-          "source": "Wccftech",
-          "count": 6
-        },
-        {
-          "source": "Digital Trends",
-          "count": 5
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 89
-        },
-        {
-          "section": "Deals",
-          "count": 27
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 3
-        },
-        {
-          "section": "Ecosystem",
-          "count": 3
-        },
-        {
-          "section": "Market Trends",
-          "count": 2
-        }
-      ],
-      "avg_score": 63.4
     },
     {
       "brand": "Valve",
@@ -339,12 +271,80 @@
       "avg_score": 67.4
     },
     {
+      "brand": "Asus",
+      "family": "PC competitors",
+      "total": 118,
+      "media": 68,
+      "youtube": 50,
+      "reviews": 41,
+      "sponsored": 1,
+      "dell_stories": 0,
+      "high_signal": 7,
+      "top_sources": [
+        {
+          "source": "TechRadar",
+          "count": 10
+        },
+        {
+          "source": "Tech BR",
+          "count": 9
+        },
+        {
+          "source": "Adrenaline",
+          "count": 7
+        },
+        {
+          "source": "Crimson Tech",
+          "count": 7
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 7
+        },
+        {
+          "source": "Qual Notebook Comprar?",
+          "count": 6
+        },
+        {
+          "source": "Wccftech",
+          "count": 6
+        },
+        {
+          "source": "Digital Trends",
+          "count": 5
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 83
+        },
+        {
+          "section": "Deals",
+          "count": 28
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 3
+        },
+        {
+          "section": "Ecosystem",
+          "count": 2
+        },
+        {
+          "section": "Market Trends",
+          "count": 2
+        }
+      ],
+      "avg_score": 63.1
+    },
+    {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 118,
+      "total": 117,
       "media": 104,
-      "youtube": 14,
-      "reviews": 8,
+      "youtube": 13,
+      "reviews": 7,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 6,
@@ -389,7 +389,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 21
+          "count": 20
         },
         {
           "section": "Deals",
@@ -473,13 +473,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 113,
+      "total": 107,
       "media": 70,
-      "youtube": 43,
-      "reviews": 38,
+      "youtube": 37,
+      "reviews": 35,
       "sponsored": 6,
-      "dell_stories": 111,
-      "high_signal": 97,
+      "dell_stories": 105,
+      "high_signal": 91,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -502,22 +502,22 @@
           "count": 5
         },
         {
-          "source": "Andrew Marc David",
-          "count": 4
-        },
-        {
           "source": "Lipe Mal Estar",
           "count": 4
         },
         {
-          "source": "PCMag",
+          "source": "Techaeris",
+          "count": 4
+        },
+        {
+          "source": "Tom's Guide",
           "count": 4
         }
       ],
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 86
+          "count": 80
         },
         {
           "section": "Deals",
@@ -536,15 +536,15 @@
           "count": 1
         }
       ],
-      "avg_score": 89.4
+      "avg_score": 89.2
     },
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 74,
+      "total": 71,
       "media": 66,
-      "youtube": 8,
-      "reviews": 4,
+      "youtube": 5,
+      "reviews": 3,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 3,
@@ -589,11 +589,11 @@
         },
         {
           "section": "Deals",
-          "count": 10
+          "count": 8
         },
         {
           "section": "Competitor Coverage",
-          "count": 6
+          "count": 5
         },
         {
           "section": "Market Trends",
@@ -604,15 +604,15 @@
           "count": 2
         }
       ],
-      "avg_score": 61.7
+      "avg_score": 63.0
     },
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 59,
+      "total": 58,
       "media": 48,
-      "youtube": 11,
-      "reviews": 11,
+      "youtube": 10,
+      "reviews": 10,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 1,
@@ -657,7 +657,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 25
+          "count": 24
         },
         {
           "section": "Dell Coverage",
@@ -668,16 +668,16 @@
           "count": 1
         }
       ],
-      "avg_score": 51.5
+      "avg_score": 51.1
     },
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 54,
+      "total": 52,
       "media": 36,
-      "youtube": 18,
+      "youtube": 16,
       "reviews": 8,
-      "sponsored": 2,
+      "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 2,
       "top_sources": [
@@ -698,10 +698,6 @@
           "count": 4
         },
         {
-          "source": "Short Circuit",
-          "count": 3
-        },
-        {
           "source": "Tom's Guide",
           "count": 3
         },
@@ -712,16 +708,20 @@
         {
           "source": "Les Numériques",
           "count": 2
+        },
+        {
+          "source": "Loop Infinito",
+          "count": 2
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 36
+          "count": 35
         },
         {
           "section": "Deals",
-          "count": 13
+          "count": 12
         },
         {
           "section": "Dell Coverage",
@@ -736,7 +736,7 @@
           "count": 1
         }
       ],
-      "avg_score": 61.8
+      "avg_score": 62.0
     },
     {
       "brand": "Amazon",
@@ -791,72 +791,12 @@
       "avg_score": 37.3
     },
     {
-      "brand": "Alienware",
-      "family": "Dell family",
-      "total": 42,
-      "media": 22,
-      "youtube": 20,
-      "reviews": 24,
-      "sponsored": 1,
-      "dell_stories": 41,
-      "high_signal": 35,
-      "top_sources": [
-        {
-          "source": "Short Circuit",
-          "count": 4
-        },
-        {
-          "source": "Just Josh",
-          "count": 3
-        },
-        {
-          "source": "Lipe Mal Estar",
-          "count": 3
-        },
-        {
-          "source": "TechRadar",
-          "count": 3
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 3
-        },
-        {
-          "source": "TudoCelular",
-          "count": 3
-        },
-        {
-          "source": "Engadget",
-          "count": 2
-        },
-        {
-          "source": "HotHardware",
-          "count": 2
-        }
-      ],
-      "sections": [
-        {
-          "section": "Dell Coverage",
-          "count": 32
-        },
-        {
-          "section": "Deals",
-          "count": 9
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 1
-        }
-      ],
-      "avg_score": 88.2
-    },
-    {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 42,
+      "total": 41,
       "media": 36,
-      "youtube": 6,
-      "reviews": 4,
+      "youtube": 5,
+      "reviews": 3,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 4,
@@ -905,7 +845,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 5
+          "count": 4
         },
         {
           "section": "Dell Coverage",
@@ -916,67 +856,63 @@
           "count": 3
         }
       ],
-      "avg_score": 52.3
+      "avg_score": 51.8
     },
     {
-      "brand": "Acer",
-      "family": "PC competitors",
-      "total": 32,
-      "media": 19,
-      "youtube": 13,
-      "reviews": 6,
-      "sponsored": 5,
-      "dell_stories": 0,
-      "high_signal": 0,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "total": 39,
+      "media": 22,
+      "youtube": 17,
+      "reviews": 24,
+      "sponsored": 0,
+      "dell_stories": 39,
+      "high_signal": 32,
       "top_sources": [
         {
-          "source": "Adrenaline",
-          "count": 4
+          "source": "Just Josh",
+          "count": 3
         },
         {
           "source": "Lipe Mal Estar",
           "count": 3
         },
         {
-          "source": "Notebookcheck DE - News",
+          "source": "TechRadar",
           "count": 3
         },
         {
-          "source": "Andrew Marc David",
+          "source": "Tom's Hardware",
+          "count": 3
+        },
+        {
+          "source": "Engadget",
           "count": 2
         },
         {
-          "source": "Qual Notebook Comprar?",
+          "source": "HotHardware",
           "count": 2
         },
         {
-          "source": "TecMundo",
+          "source": "Lucas Ishii",
           "count": 2
         },
         {
-          "source": "Trusted Reviews",
-          "count": 2
-        },
-        {
-          "source": "TudoCelular",
+          "source": "Notebookcheck Reviews",
           "count": 2
         }
       ],
       "sections": [
         {
-          "section": "Competitor Coverage",
-          "count": 24
+          "section": "Dell Coverage",
+          "count": 31
         },
         {
           "section": "Deals",
-          "count": 7
-        },
-        {
-          "section": "Ecosystem",
-          "count": 1
+          "count": 8
         }
       ],
-      "avg_score": 62.2
+      "avg_score": 88.2
     },
     {
       "brand": "Framework",
@@ -1041,10 +977,10 @@
     {
       "brand": "Qualcomm",
       "family": "Ecosystem",
-      "total": 32,
+      "total": 30,
       "media": 25,
-      "youtube": 7,
-      "reviews": 5,
+      "youtube": 5,
+      "reviews": 3,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 2,
@@ -1070,15 +1006,15 @@
           "count": 2
         },
         {
-          "source": "Andrew Marc David",
-          "count": 1
-        },
-        {
           "source": "Digital Trends",
           "count": 1
         },
         {
           "source": "Engadget",
+          "count": 1
+        },
+        {
+          "source": "Hardware Canucks",
           "count": 1
         }
       ],
@@ -1089,7 +1025,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 13
+          "count": 11
         },
         {
           "section": "Deals",
@@ -1100,15 +1036,75 @@
           "count": 1
         }
       ],
-      "avg_score": 65.6
+      "avg_score": 65.2
+    },
+    {
+      "brand": "Acer",
+      "family": "PC competitors",
+      "total": 28,
+      "media": 19,
+      "youtube": 9,
+      "reviews": 6,
+      "sponsored": 3,
+      "dell_stories": 0,
+      "high_signal": 0,
+      "top_sources": [
+        {
+          "source": "Adrenaline",
+          "count": 4
+        },
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 3
+        },
+        {
+          "source": "Qual Notebook Comprar?",
+          "count": 2
+        },
+        {
+          "source": "TecMundo",
+          "count": 2
+        },
+        {
+          "source": "Trusted Reviews",
+          "count": 2
+        },
+        {
+          "source": "TudoCelular",
+          "count": 2
+        },
+        {
+          "source": "Wccftech",
+          "count": 2
+        },
+        {
+          "source": "Lipe Mal Estar",
+          "count": 1
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 20
+        },
+        {
+          "section": "Deals",
+          "count": 7
+        },
+        {
+          "section": "Ecosystem",
+          "count": 1
+        }
+      ],
+      "avg_score": 61.1
     },
     {
       "brand": "LG",
       "family": "PC competitors",
-      "total": 8,
+      "total": 7,
       "media": 7,
-      "youtube": 1,
-      "reviews": 1,
+      "youtube": 0,
+      "reviews": 0,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 1,
@@ -1116,10 +1112,6 @@
         {
           "source": "PCWorld",
           "count": 2
-        },
-        {
-          "source": "Escolha Segura",
-          "count": 1
         },
         {
           "source": "Frandroid",
@@ -1145,7 +1137,7 @@
       "sections": [
         {
           "section": "Deals",
-          "count": 6
+          "count": 5
         },
         {
           "section": "Dell Coverage",
@@ -1156,7 +1148,7 @@
           "count": 1
         }
       ],
-      "avg_score": 39.9
+      "avg_score": 42.7
     },
     {
       "brand": "OpenAI",
@@ -1409,28 +1401,6 @@
       }
     },
     {
-      "month": "2024-08",
-      "brands": {
-        "Apple": 1,
-        "Asus": 1,
-        "LG": 1,
-        "Samsung": 1
-      }
-    },
-    {
-      "month": "2024-09",
-      "brands": {
-        "Lenovo": 1,
-        "Qualcomm": 1
-      }
-    },
-    {
-      "month": "2025-02",
-      "brands": {
-        "Asus": 1
-      }
-    },
-    {
       "month": "2025-04",
       "brands": {
         "Asus": 1
@@ -1473,8 +1443,7 @@
     {
       "month": "2026-03",
       "brands": {
-        "Apple": 6,
-        "Lenovo": 1
+        "Apple": 4
       }
     },
     {
@@ -1487,39 +1456,37 @@
     {
       "month": "2026-05",
       "brands": {
-        "Lenovo": 14,
-        "Asus": 7,
-        "Apple": 5,
-        "Alienware": 3,
-        "Dell": 2,
-        "MSI": 2,
+        "Lenovo": 11,
+        "Asus": 5,
+        "Alienware": 2,
+        "Apple": 2,
         "AMD": 1,
-        "Acer": 1,
+        "Dell": 1,
         "HP": 1,
         "Intel": 1,
-        "Microsoft": 1,
+        "MSI": 1,
         "Positivo": 1
       }
     },
     {
       "month": "2026-06",
       "brands": {
-        "Apple": 93,
+        "Apple": 89,
         "Valve": 53,
-        "Microsoft": 41,
-        "Lenovo": 37,
-        "Asus": 36,
-        "Dell": 31,
+        "Microsoft": 40,
+        "Lenovo": 35,
+        "Asus": 33,
+        "Dell": 26,
         "AMD": 20,
-        "Intel": 20,
-        "MSI": 18,
+        "Intel": 19,
+        "MSI": 17,
         "Samsung": 15,
         "Amazon": 14,
-        "HP": 14,
-        "Acer": 11,
-        "NVIDIA": 11,
-        "Alienware": 10,
-        "Qualcomm": 5
+        "HP": 13,
+        "Acer": 8,
+        "Alienware": 8,
+        "NVIDIA": 8,
+        "Qualcomm": 4
       }
     },
     {
@@ -1530,8 +1497,8 @@
         "Apple": 119,
         "Intel": 96,
         "AMD": 92,
+        "Asus": 76,
         "Dell": 76,
-        "Asus": 75,
         "Valve": 69,
         "NVIDIA": 63,
         "HP": 43,
@@ -1545,6 +1512,25 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:95970",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": false,
+      "title": "The Ideal Notebook for 98% of People: Asus TUF F16 RTX 5060",
+      "url": "https://www.youtube.com/watch?v=TzEORpfcGLA",
+      "published_at": "2026-07-27T22:26:10+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:181866",
       "kind": "media",
@@ -6275,28 +6261,28 @@
       "brand": "AMD",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:145742",
-      "kind": "media",
-      "source": "The Register",
-      "source_icon": "https://www.google.com/s2/favicons?domain=theregister.com&sz=64",
-      "country": "GB",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "AMD's Helios systems rival Nvidia's Vera Rubin in rack-scale AI compute",
-      "url": "https://www.theregister.com/systems/2026/07/23/amd-attacks-the-rack-with-helios-systems-that-rival-nvidias/5277246",
-      "published_at": "2026-07-23T17:26:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:95970",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": false,
+      "title": "The Ideal Notebook for 98% of People: Asus TUF F16 RTX 5060",
+      "url": "https://www.youtube.com/watch?v=TzEORpfcGLA",
+      "published_at": "2026-07-27T22:26:10+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:181866",
       "kind": "media",
@@ -34969,44 +34955,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:166",
-      "kind": "youtube",
-      "source": "PCMag",
-      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 16 (2026) Review Highlights Premium Design and Performance",
-      "url": "https://www.youtube.com/watch?v=XBhNQMZy2-E",
-      "published_at": "2026-06-12T13:00:37+00:00",
-      "score": 95,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:304",
-      "kind": "youtube",
-      "source": "Lucas Ishii",
-      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ASUS TUF Gaming A14 Hands-on with RTX 5060 Review",
-      "url": "https://www.youtube.com/watch?v=qBbPIu0xjLA",
-      "published_at": "2026-06-11T22:00:12+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:38882",
       "kind": "youtube",
       "source": "Qual Notebook Comprar?",
@@ -35024,101 +34972,6 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "youtube:287",
-      "kind": "youtube",
-      "source": "TudoCelular",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_kLxUVQDnPaMByr20iK1JsJiMjDHuiB7KDIhTzl7cdDu6Y=s900-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell Alienware 16 Area-51 review and specs in Brazil",
-      "url": "https://www.youtube.com/shorts/8fZSPGsg7ow",
-      "published_at": "2026-06-11T18:45:28+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:287",
-      "kind": "youtube",
-      "source": "TudoCelular",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_kLxUVQDnPaMByr20iK1JsJiMjDHuiB7KDIhTzl7cdDu6Y=s900-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell Alienware 16 Area-51 review and specs in Brazil",
-      "url": "https://www.youtube.com/shorts/8fZSPGsg7ow",
-      "published_at": "2026-06-11T18:45:28+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:241",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "HP OmniBook Ultra 14 2026 review: Intel vs. Snapdragon comparison",
-      "url": "https://www.youtube.com/watch?v=c5PjadrD0so",
-      "published_at": "2026-06-11T13:00:07+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:241",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "HP OmniBook Ultra 14 2026 review: Intel vs. Snapdragon comparison",
-      "url": "https://www.youtube.com/watch?v=c5PjadrD0so",
-      "published_at": "2026-06-11T13:00:07+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:241",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "HP OmniBook Ultra 14 2026 review: Intel vs. Snapdragon comparison",
-      "url": "https://www.youtube.com/watch?v=c5PjadrD0so",
-      "published_at": "2026-06-11T13:00:07+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
     },
     {
       "id": "youtube:32049",
@@ -35156,25 +35009,6 @@
       "is_sponsored": false,
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:332",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Top Gaming Laptops for June 2026: Updated List with Affiliate Links",
-      "url": "https://www.youtube.com/watch?v=r4NwaXG6DSo",
-      "published_at": "2026-06-10T13:45:34+00:00",
-      "score": 15,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -35349,25 +35183,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:171",
-      "kind": "youtube",
-      "source": "PCMag",
-      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Top Laptops from Computex 2026, Including Dell XPS 13",
-      "url": "https://www.youtube.com/watch?v=1jcoSd3jQdU",
-      "published_at": "2026-06-06T17:55:48+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "MSI",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:798",
       "kind": "youtube",
       "source": "Tech BR",
@@ -35402,44 +35217,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:242",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Hands-on with Dell XPS 16 Creator Edition and new XPS 13",
-      "url": "https://www.youtube.com/watch?v=cOf7Hvz_VPY",
-      "published_at": "2026-06-06T13:00:26+00:00",
-      "score": 95,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:243",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus ProArt P14/P16 RTX Spark Laptops and Other 2026 Computex Releases Hands-On",
-      "url": "https://www.youtube.com/watch?v=IqhxuKLXwZc",
-      "published_at": "2026-06-05T15:51:56+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -35501,63 +35278,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:335",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer Predator Helios Neo 16AI RTX 5070 Review and Real-World Test",
-      "url": "https://www.youtube.com/watch?v=yosJvk5-fb4",
-      "published_at": "2026-06-04T21:45:19+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:244",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft Surface Laptop Ultra hands-on with NVIDIA RTX Spark",
-      "url": "https://www.youtube.com/watch?v=raXoKqGGbA8",
-      "published_at": "2026-06-04T19:10:38+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:244",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft Surface Laptop Ultra hands-on with NVIDIA RTX Spark",
-      "url": "https://www.youtube.com/watch?v=raXoKqGGbA8",
-      "published_at": "2026-06-04T19:10:38+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:884",
       "kind": "youtube",
       "source": "JayzTwoCents",
@@ -35573,139 +35293,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:336",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review of Lenovo Slim 3 Linux Notebook Experience in 2026",
-      "url": "https://www.youtube.com/watch?v=cFbPDUC3xGQ",
-      "published_at": "2026-06-03T21:45:43+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:245",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer Swift Air 14 first look: Intel Core 3, $699, MacBook Neo killer?",
-      "url": "https://www.youtube.com/shorts/eej4rQvqiPg",
-      "published_at": "2026-06-03T19:00:31+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": true,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:245",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer Swift Air 14 first look: Intel Core 3, $699, MacBook Neo killer?",
-      "url": "https://www.youtube.com/shorts/eej4rQvqiPg",
-      "published_at": "2026-06-03T19:00:31+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": true,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:179",
-      "kind": "youtube",
-      "source": "PCMag",
-      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 13 Review: Competes with MacBook Neo",
-      "url": "https://www.youtube.com/watch?v=BoHjRO6nUbY",
-      "published_at": "2026-06-03T17:09:50+00:00",
-      "score": 90,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:179",
-      "kind": "youtube",
-      "source": "PCMag",
-      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 13 Review: Competes with MacBook Neo",
-      "url": "https://www.youtube.com/watch?v=BoHjRO6nUbY",
-      "published_at": "2026-06-03T17:09:50+00:00",
-      "score": 90,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:246",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer Swift Air 14 (2026) Hands-On Review",
-      "url": "https://www.youtube.com/watch?v=SOK8jGNcZ1E",
-      "published_at": "2026-06-03T13:00:22+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": true,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:246",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer Swift Air 14 (2026) Hands-On Review",
-      "url": "https://www.youtube.com/watch?v=SOK8jGNcZ1E",
-      "published_at": "2026-06-03T13:00:22+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": true,
-      "brand": "Acer",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -35726,25 +35313,6 @@
       "is_sponsored": false,
       "brand": "Asus",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:36",
-      "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware's new monitors at Computex 2026",
-      "url": "https://www.youtube.com/watch?v=7mYI1cDUVSM",
-      "published_at": "2026-06-02T22:19:27+00:00",
-      "score": 85,
-      "is_review": false,
-      "is_sponsored": true,
-      "brand": "Alienware",
-      "family": "Dell family",
       "is_dell_story": false
     },
     {
@@ -35779,25 +35347,6 @@
       "url": "https://www.youtube.com/watch?v=vPb4HNhuvac",
       "published_at": "2026-06-02T17:48:08+00:00",
       "score": 15,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:315",
-      "kind": "youtube",
-      "source": "Lucas Ishii",
-      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ASUS TUFINHO A14 purchase in Taiwan with affiliate links",
-      "url": "https://www.youtube.com/watch?v=jDsPlaGqVs4",
-      "published_at": "2026-06-02T15:00:10+00:00",
-      "score": 72,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Asus",
@@ -35862,25 +35411,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:337",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Nvidia RTX Spark Notebook Announcement with Affiliate Links",
-      "url": "https://www.youtube.com/watch?v=_gbs1HuI_yI",
-      "published_at": "2026-06-01T20:58:23+00:00",
-      "score": 10,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:34828",
       "kind": "youtube",
       "source": "Just Josh",
@@ -35916,101 +35446,6 @@
       "is_sponsored": false,
       "brand": "Intel",
       "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:28",
-      "kind": "youtube",
-      "source": "Linus Tech Tips",
-      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "NVIDIA Launches RTX Spark SoC to Compete with Apple MacBooks",
-      "url": "https://www.youtube.com/shorts/3JOrwG1qxv8",
-      "published_at": "2026-06-01T15:49:20+00:00",
-      "score": 10,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:28",
-      "kind": "youtube",
-      "source": "Linus Tech Tips",
-      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "NVIDIA Launches RTX Spark SoC to Compete with Apple MacBooks",
-      "url": "https://www.youtube.com/shorts/3JOrwG1qxv8",
-      "published_at": "2026-06-01T15:49:20+00:00",
-      "score": 10,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:248",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 13 Returns at $699 Starting Price",
-      "url": "https://www.youtube.com/watch?v=8r9gSDFPpy0",
-      "published_at": "2026-06-01T03:30:43+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:118",
-      "kind": "youtube",
-      "source": "Hardware Canucks",
-      "source_icon": "https://yt3.googleusercontent.com/C-HUUT9dZSMpImqVMDuDOJEr_5b1j2_5v5TwXZhEED8qt958ndFDd0mEmdTVs7EaIlK24N3h=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 13 Hands-On Preview vs MacBook Neo",
-      "url": "https://www.youtube.com/watch?v=LZC31Ct3L9Q",
-      "published_at": "2026-05-31T23:00:27+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:118",
-      "kind": "youtube",
-      "source": "Hardware Canucks",
-      "source_icon": "https://yt3.googleusercontent.com/C-HUUT9dZSMpImqVMDuDOJEr_5b1j2_5v5TwXZhEED8qt958ndFDd0mEmdTVs7EaIlK24N3h=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 13 Hands-On Preview vs MacBook Neo",
-      "url": "https://www.youtube.com/watch?v=LZC31Ct3L9Q",
-      "published_at": "2026-05-31T23:00:27+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -36109,25 +35544,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:249",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "2026 Asus ROG Zephyrus G16 Review and Unboxing",
-      "url": "https://www.youtube.com/watch?v=2Qbnuzb22tQ",
-      "published_at": "2026-05-30T13:00:06+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:761",
       "kind": "youtube",
       "source": "Notebookcheck Reviews",
@@ -36142,63 +35558,6 @@
       "score": 72,
       "is_review": false,
       "is_sponsored": true,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:339",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Comparing RTX 4050 vs RTX 4060 in Acer Nitro V laptops",
-      "url": "https://www.youtube.com/watch?v=YTDgzpzMF0c",
-      "published_at": "2026-05-29T21:45:24+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:250",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review of Apple MacBook Air M5 as a steal",
-      "url": "https://www.youtube.com/watch?v=WV48P8jEooE",
-      "published_at": "2026-05-29T19:05:47+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:251",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo ThinkPad X1 Carbon Gen 14 Unboxing and First Look",
-      "url": "https://www.youtube.com/watch?v=Mz4PGxEC_aY",
-      "published_at": "2026-05-29T13:00:33+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
@@ -36299,44 +35658,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:40",
-      "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": false,
-      "title": "Alienware Area-51 gaming laptop review highlights design and performance",
-      "url": "https://www.youtube.com/watch?v=dlauW0JSiuY",
-      "published_at": "2026-05-26T21:30:34+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:343",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus TUF F16 with RTX 3050 Review and Price Analysis",
-      "url": "https://www.youtube.com/watch?v=sOCNwrb24gg",
-      "published_at": "2026-05-24T13:50:09+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:48983",
       "kind": "youtube",
       "source": "Crimson Tech",
@@ -36352,44 +35673,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:42",
-      "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review of MSI Raider 16 Max HX gaming laptop",
-      "url": "https://www.youtube.com/watch?v=AzB_qSqUZs8",
-      "published_at": "2026-05-23T20:00:49+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": true,
-      "brand": "MSI",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:252",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft Surface Laptop for Business 8th Edition Review",
-      "url": "https://www.youtube.com/watch?v=iCRMKqbde3U",
-      "published_at": "2026-05-23T18:36:19+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -36546,25 +35829,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:253",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Unboxing and review of Lenovo ThinkPad X9 15p Aura Edition 2026",
-      "url": "https://www.youtube.com/watch?v=3ctarikirHk",
-      "published_at": "2026-05-18T13:00:06+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:34834",
       "kind": "youtube",
       "source": "Just Josh",
@@ -36660,25 +35924,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:254",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Yoga Slim 7x Gen 11 2026 Review",
-      "url": "https://www.youtube.com/watch?v=IDm7HPvujno",
-      "published_at": "2026-05-16T13:00:26+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:48986",
       "kind": "youtube",
       "source": "Crimson Tech",
@@ -36694,25 +35939,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:50",
-      "kind": "youtube",
-      "source": "Dave2D",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Touchscreen MacBook Review and Thoughts",
-      "url": "https://www.youtube.com/watch?v=8zGNeT8fU9Y",
-      "published_at": "2026-05-09T16:01:15+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -36793,25 +36019,6 @@
       "is_dell_story": true
     },
     {
-      "id": "youtube:54",
-      "kind": "youtube",
-      "source": "Dave2D",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Yoga Slim 7x Early Look with Snapdragon X2 Elite Chip",
-      "url": "https://www.youtube.com/watch?v=f8EbtQ7jQnQ",
-      "published_at": "2026-03-31T16:27:41+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:32058",
       "kind": "youtube",
       "source": "Zip Tie Tech",
@@ -36882,44 +36089,6 @@
       "published_at": "2026-03-18T17:26:49+00:00",
       "score": 75,
       "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:56",
-      "kind": "youtube",
-      "source": "Dave2D",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review of Apple MacBook Neo as a budget laptop",
-      "url": "https://www.youtube.com/watch?v=h26FlWu7aDc",
-      "published_at": "2026-03-10T13:12:14+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:57",
-      "kind": "youtube",
-      "source": "Dave2D",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "First Impressions of the MacBook Neo",
-      "url": "https://www.youtube.com/watch?v=1ThNUvaImnw",
-      "published_at": "2026-03-04T18:55:55+00:00",
-      "score": 72,
-      "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
       "family": "PC competitors",
@@ -37109,139 +36278,6 @@
       "url": "https://www.youtube.com/watch?v=CfvCoCwpZO8",
       "published_at": "2025-04-29T19:34:59+00:00",
       "score": 50,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:98",
-      "kind": "youtube",
-      "source": "Tom's Hardware",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lC4na952wlOcbCAVYIyEDaGRFYdefZNaysabiZDGLlfxk=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Live benchmarking of Asus RTX 5090 Astral OC graphics card",
-      "url": "https://www.youtube.com/watch?v=bVuIpEg52LQ",
-      "published_at": "2025-02-22T23:22:44+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:346",
-      "kind": "youtube",
-      "source": "Escolha Segura",
-      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review of Lenovo Yoga Slim 7X with Snapdragon processor",
-      "url": "https://www.youtube.com/watch?v=7wfmTcizBLU",
-      "published_at": "2024-09-19T21:00:04+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:346",
-      "kind": "youtube",
-      "source": "Escolha Segura",
-      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review of Lenovo Yoga Slim 7X with Snapdragon processor",
-      "url": "https://www.youtube.com/watch?v=7wfmTcizBLU",
-      "published_at": "2024-09-19T21:00:04+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:356",
-      "kind": "youtube",
-      "source": "Escolha Segura",
-      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MacBook Air M2 vs. Galaxy Book 4 Pro: Productivity Comparison",
-      "url": "https://www.youtube.com/watch?v=eiNUV7mVxNo",
-      "published_at": "2024-08-27T22:31:19+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:356",
-      "kind": "youtube",
-      "source": "Escolha Segura",
-      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MacBook Air M2 vs. Galaxy Book 4 Pro: Productivity Comparison",
-      "url": "https://www.youtube.com/watch?v=eiNUV7mVxNo",
-      "published_at": "2024-08-27T22:31:19+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:357",
-      "kind": "youtube",
-      "source": "Escolha Segura",
-      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Review of LG 34WR50QC 34\" QHD Monitor for Work and Study",
-      "url": "https://www.youtube.com/watch?v=TlyU7r9o9dw",
-      "published_at": "2024-08-24T13:39:45+00:00",
-      "score": 20,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "LG",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:360",
-      "kind": "youtube",
-      "source": "Escolha Segura",
-      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Minimalist Windows Setup with ASUS ROG Ally Review",
-      "url": "https://www.youtube.com/watch?v=UmjEkakWz2k",
-      "published_at": "2024-08-17T15:00:22+00:00",
-      "score": 72,
       "is_review": true,
       "is_sponsored": false,
       "brand": "Asus",
