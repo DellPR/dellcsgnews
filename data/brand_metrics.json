@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T04:52:09.992260+00:00",
-  "total_items": 1610,
+  "generated_at": "2026-07-27T12:02:47.744654+00:00",
+  "total_items": 1612,
   "brands": [
     {
       "brand": "Apple",
@@ -141,9 +141,9 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 169,
+      "total": 170,
       "media": 101,
-      "youtube": 68,
+      "youtube": 69,
       "reviews": 55,
       "sponsored": 5,
       "dell_stories": 0,
@@ -185,7 +185,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 124
+          "count": 125
         },
         {
           "section": "Deals",
@@ -204,7 +204,7 @@
           "count": 2
         }
       ],
-      "avg_score": 62.6
+      "avg_score": 62.7
     },
     {
       "brand": "Valve",
@@ -609,10 +609,10 @@
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 59,
+      "total": 60,
       "media": 49,
-      "youtube": 10,
-      "reviews": 9,
+      "youtube": 11,
+      "reviews": 10,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 1,
@@ -657,7 +657,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 22
+          "count": 23
         },
         {
           "section": "Dell Coverage",
@@ -668,7 +668,7 @@
           "count": 1
         }
       ],
-      "avg_score": 49.6
+      "avg_score": 50.0
     },
     {
       "brand": "MSI",
@@ -1502,7 +1502,7 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 141,
-        "Lenovo": 110,
+        "Lenovo": 111,
         "Apple": 107,
         "Intel": 93,
         "AMD": 88,
@@ -1510,7 +1510,7 @@
         "Dell": 73,
         "Valve": 67,
         "NVIDIA": 56,
-        "HP": 40,
+        "HP": 41,
         "MSI": 29,
         "Alienware": 28,
         "Amazon": 28,
@@ -1521,6 +1521,44 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:94560",
+      "kind": "youtube",
+      "source": "MW Informática",
+      "source_icon": "https://yt3.googleusercontent.com/o8BtikpsYJgccc2is9SvZtZtZ9xgQwesG0PJDWg2zeHWkoltlPThO32qPwo_zi2I_j6TYBGRxA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "This Mini PC with Core i9 is a Scam, Check It Out",
+      "url": "https://www.youtube.com/watch?v=zywsH1JNTUU",
+      "published_at": "2026-07-26T21:00:39+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:94470",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Gaming PC vs Gaming Notebook with RTX 3050 Comparison",
+      "url": "https://www.youtube.com/watch?v=AMggsU1mVMg",
+      "published_at": "2026-07-26T19:06:22+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:171091",
       "kind": "media",
@@ -6232,47 +6270,47 @@
       "brand": "Valve",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:86880",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Andrew Marc David reviews Dell XPS 13 as a stronger MacBook alternative",
-      "url": "https://www.youtube.com/watch?v=f0aRFEiP42o",
-      "published_at": "2026-07-22T12:00:00+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:86880",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Andrew Marc David reviews Dell XPS 13 as a stronger MacBook alternative",
-      "url": "https://www.youtube.com/watch?v=f0aRFEiP42o",
-      "published_at": "2026-07-22T12:00:00+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:94560",
+      "kind": "youtube",
+      "source": "MW Informática",
+      "source_icon": "https://yt3.googleusercontent.com/o8BtikpsYJgccc2is9SvZtZtZ9xgQwesG0PJDWg2zeHWkoltlPThO32qPwo_zi2I_j6TYBGRxA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "This Mini PC with Core i9 is a Scam, Check It Out",
+      "url": "https://www.youtube.com/watch?v=zywsH1JNTUU",
+      "published_at": "2026-07-26T21:00:39+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:94470",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Gaming PC vs Gaming Notebook with RTX 3050 Comparison",
+      "url": "https://www.youtube.com/watch?v=AMggsU1mVMg",
+      "published_at": "2026-07-26T19:06:22+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:171091",
       "kind": "media",
