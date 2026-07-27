@@ -1,4 +1,4 @@
-﻿(() => {
+(() => {
   const state = {
     items: [],
     filtered: [],
@@ -32,7 +32,7 @@
   const youtubeBrandFilter = document.getElementById("youtubeBrandFilter");
   const RAW_FEED_URL = "https://raw.githubusercontent.com/DellPR/dellcsgnews/main/data/feed.json";
   const RAW_BRAND_METRICS_URL = "https://raw.githubusercontent.com/DellPR/dellcsgnews/main/data/brand_metrics.json";
-  const TOP_STORY_URL = "https://www.tomsguide.com/computing/laptops/dell-xps-13-2026-review";
+  const TOP_STORY_URL = "https://www.youtube.com/watch?v=f0aRFEiP42o";
   const controlsEl = document.querySelector(".controls");
   const viewSwitch = document.getElementById("viewSwitch");
   const metricsView = document.getElementById("metricsView");
@@ -273,7 +273,7 @@
   function looksEditorialReview(item) {
     const text = `${item.title || ""} ${item.display_title || ""} ${item.original_title || ""} ${item.summary || ""}`.toLowerCase();
     const hasReviewWord = /\b(review|reviews|reviewed|hands-on|hands on|tested|test-drive|comparison review)\b/i.test(text)
-      || /\b(an[aÃ¡]lise|testamos|testei)\b/i.test(text);
+      || /\b(an[aá]lise|testamos|testei)\b/i.test(text);
     const hasProductSignal = /\b(laptop|notebook|desktop|workstation|monitor|display|chromebook|macbook|surface|thinkpad|ideapad|yoga|legion|omnibook|elitebook|zenbook|vivobook|rog|aspire|swift|framework|xps|latitude|precision|inspiron|optiplex|alienware|ultrasharp)\b/i.test(text);
     return Boolean(item.is_review) || (hasReviewWord && hasProductSignal);
   }
@@ -300,7 +300,7 @@
       /\b\d+\s*%\s*off\b/i,
       /\bunder\s+\$\d+/i,
       /\bprime day\b|\bblack friday\b|\bcyber monday\b/i,
-      /\bofertas?\b|\bdescontos?\b|\bcupom\b|\bcupons\b|\bpromo[cÃ§][aÃ£]o\b/i,
+      /\bofertas?\b|\bdescontos?\b|\bcupom\b|\bcupons\b|\bpromo[cç][aã]o\b/i,
       /\bnotebooks? em oferta\b/i,
     ];
     if (directCommerce.some(pattern => pattern.test(title))) return true;
@@ -1179,7 +1179,7 @@
           <button type="button" class="outlet-logo" data-outlet-source="${escapeHtml(outlet.source)}" data-outlet-metric="total">${icon}</button>
           <div>
             <h3>${escapeHtml(outlet.source)}</h3>
-            <p>${escapeHtml(outlet.type)} Â· avg relevance ${escapeHtml(outlet.avgScore)}</p>
+            <p>${escapeHtml(outlet.type)} · avg relevance ${escapeHtml(outlet.avgScore)}</p>
           </div>
         </div>
         <div class="outlet-kpis">
@@ -1687,4 +1687,3 @@
     }
   };
 })();
-
