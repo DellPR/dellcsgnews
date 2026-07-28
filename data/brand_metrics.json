@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-28T16:09:04.621389+00:00",
-  "total_items": 1569,
+  "generated_at": "2026-07-28T16:14:30.256203+00:00",
+  "total_items": 1566,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 205,
+      "total": 202,
       "media": 151,
-      "youtube": 54,
-      "reviews": 29,
+      "youtube": 51,
+      "reviews": 27,
       "sponsored": 0,
       "dell_stories": 0,
-      "high_signal": 14,
+      "high_signal": 12,
       "top_sources": [
         {
           "source": "Wccftech",
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 147
+          "count": 146
         },
         {
           "section": "Deals",
@@ -57,7 +57,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 13
+          "count": 11
         },
         {
           "section": "Market Trends",
@@ -68,7 +68,7 @@
           "count": 5
         }
       ],
-      "avg_score": 64.2
+      "avg_score": 63.8
     },
     {
       "brand": "Microsoft",
@@ -972,7 +972,7 @@
           "count": 1
         }
       ],
-      "avg_score": 69.0
+      "avg_score": 69.1
     },
     {
       "brand": "Qualcomm",
@@ -1485,8 +1485,8 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 155,
-        "Apple": 126,
         "Lenovo": 125,
+        "Apple": 123,
         "Intel": 98,
         "AMD": 93,
         "Asus": 76,
@@ -2463,29 +2463,10 @@
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Framework 13 Pro review: Modular MacBook Pro rival with customizable parts",
+      "title": "Framework 13 Pro review: modular laptop positioning against MacBook Pro",
       "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
       "published_at": "2026-07-27T15:38:21+00:00",
-      "score": 75,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:95340",
-      "kind": "youtube",
-      "source": "Marques Brownlee (MKBHD)",
-      "source_icon": "https://yt3.googleusercontent.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework 13 Pro review: Modular MacBook Pro rival with customizable parts",
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "published_at": "2026-07-27T15:38:21+00:00",
-      "score": 75,
+      "score": 78,
       "is_review": true,
       "is_sponsored": false,
       "brand": "Framework",
@@ -4914,7 +4895,7 @@
       "section": "Dell Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Dell XPS 13 2026 Premium Design, $599 Student Pricing",
+      "title": "Dell XPS 13 2026 returns with aggressive student pricing",
       "url": "https://www.youtube.com/shorts/qa5VUY1ObDc",
       "published_at": "2026-07-24T22:56:06+00:00",
       "score": 100,
@@ -4923,25 +4904,6 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "youtube:92130",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 13 2026 Premium Design, $599 Student Pricing",
-      "url": "https://www.youtube.com/shorts/qa5VUY1ObDc",
-      "published_at": "2026-07-24T22:56:06+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
     },
     {
       "id": "media:167461",
@@ -6253,6 +6215,44 @@
       "brand": "Valve",
       "family": "Ecosystem",
       "is_dell_story": false
+    },
+    {
+      "id": "media:154062",
+      "kind": "media",
+      "source": "Les Numériques",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Samsung 9100 Pro 2TB SSD drops to €334 at Grosbill",
+      "url": "https://www.lesnumeriques.com/ssd/bon-plan-le-ssd-interne-samsung-9100-pro-avec-dissipateur-2-to-5-etoiles-a-334-00-14-n259646.html",
+      "published_at": "2026-07-23T22:00:06+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:149264",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Intel 14A process to enter high-volume production in 2028",
+      "url": "https://wccftech.com/intel-14a-enters-high-volume-production-2028-as-risk-production-moved-ahead-to-2027/",
+      "published_at": "2026-07-23T21:38:54+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
     }
   ],
   "items": [
@@ -7215,29 +7215,10 @@
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Framework 13 Pro review: Modular MacBook Pro rival with customizable parts",
+      "title": "Framework 13 Pro review: modular laptop positioning against MacBook Pro",
       "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
       "published_at": "2026-07-27T15:38:21+00:00",
-      "score": 75,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:95340",
-      "kind": "youtube",
-      "source": "Marques Brownlee (MKBHD)",
-      "source_icon": "https://yt3.googleusercontent.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework 13 Pro review: Modular MacBook Pro rival with customizable parts",
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "published_at": "2026-07-27T15:38:21+00:00",
-      "score": 75,
+      "score": 78,
       "is_review": true,
       "is_sponsored": false,
       "brand": "Framework",
@@ -9666,7 +9647,7 @@
       "section": "Dell Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Dell XPS 13 2026 Premium Design, $599 Student Pricing",
+      "title": "Dell XPS 13 2026 returns with aggressive student pricing",
       "url": "https://www.youtube.com/shorts/qa5VUY1ObDc",
       "published_at": "2026-07-24T22:56:06+00:00",
       "score": 100,
@@ -9675,25 +9656,6 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "youtube:92130",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 13 2026 Premium Design, $599 Student Pricing",
-      "url": "https://www.youtube.com/shorts/qa5VUY1ObDc",
-      "published_at": "2026-07-24T22:56:06+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
     },
     {
       "id": "media:167461",
@@ -13162,7 +13124,7 @@
       "section": "Dell Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Andrew Marc David reviews Dell XPS 13 as a stronger MacBook alternative",
+      "title": "Dell XPS 13 review: stronger MacBook alternative from Andrew Marc David",
       "url": "https://www.youtube.com/watch?v=f0aRFEiP42o",
       "published_at": "2026-07-22T12:00:00+00:00",
       "score": 100,
@@ -13171,25 +13133,6 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "youtube:86880",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Andrew Marc David reviews Dell XPS 13 as a stronger MacBook alternative",
-      "url": "https://www.youtube.com/watch?v=f0aRFEiP42o",
-      "published_at": "2026-07-22T12:00:00+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
     },
     {
       "id": "media:126653",
