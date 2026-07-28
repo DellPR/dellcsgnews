@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T23:41:11.744770+00:00",
-  "trigger": "youtube",
+  "generated_at": "2026-07-28T00:58:46.394569+00:00",
+  "trigger": "manual",
   "total": 1483,
   "counts": {
     "media": 1137,
@@ -10,9 +10,9 @@
   "section_counts": {
     "Competitor Coverage": 506,
     "Ecosystem": 387,
-    "Deals": 302,
+    "Deals": 303,
     "Market Trends": 138,
-    "Dell Coverage": 111,
+    "Dell Coverage": 110,
     "X Watch": 39
   },
   "brand_metrics": "data/brand_metrics.json",
@@ -359,8 +359,8 @@
       "source": "ZDNet",
       "source_icon": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=64",
       "country": "US",
-      "title": "HP recommends its 14-inch OmniBook Ultra 14 for 2026 despite RAM shortages",
-      "display_title": "HP recommends its 14-inch OmniBook Ultra 14 for 2026 despite RAM shortages",
+      "title": "HP OmniBook Ultra 14 2026 review: premium Windows ultraportable with strong OLED and performance",
+      "display_title": "HP OmniBook Ultra 14 2026 review: premium Windows ultraportable with strong OLED and performance",
       "original_title": "I'm recommending this 14-inch HP laptop to almost everyone in 2026 - even with the RAM crisis",
       "url": "https://www.zdnet.com/article/hp-omnibook-ultra-14-2026-review/",
       "published_at": "2026-07-27T17:54:00+00:00",
@@ -369,16 +369,17 @@
       "is_deal": false,
       "company": "HP",
       "product": "",
-      "score": 65,
-      "summary": "HP's OmniBook Ultra 14 is highlighted for its OLED display and professional-grade performance, positioning it as a contender in the premium laptop market.",
+      "score": 78,
+      "summary": "ZDNet reviews the HP OmniBook Ultra 14 as a premium 14-inch Windows laptop, highlighting its OLED display, professional-grade performance and broad recommendation despite the RAM-market pricing pressure.",
       "why_it_matters": "",
       "tags": [
         "ZDNet",
         "US",
         "HP",
+        "Review",
         "Competitor Coverage"
       ],
-      "is_review": false,
+      "is_review": true,
       "is_short": false,
       "is_sponsored": false,
       "is_dell_story": false,
@@ -1166,8 +1167,8 @@
       "source": "Futura",
       "source_icon": "",
       "country": "FR",
-      "title": "Dell 16 laptop price drops by €300 to under €700",
-      "display_title": "Dell 16 laptop price drops by €300 to under €700",
+      "title": "Dell 16 laptop deal: price drops by €300 to under €700",
+      "display_title": "Dell 16 laptop deal: price drops by €300 to under €700",
       "original_title": "Le prix du Dell 16 chute de 300 € : Intel Core 7, RAM conséquente et SSD pour ce PC portable accessible à moins de 700 € - Futura, le média qui explore le monde",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcVdlTVNZREl5ZHgzRWhXdi1sNTBXZVZobGx5RVduT2ZrbDZmRFdMbW42Z2Z6N3R1b0VuWEVucHA1QUNNNFhsX09wUEszclFVVkFSX2o1X0h1SHRJWEtCTFphMG8xSEhsSWRPUTRDcFhiVGxJUV9RVURjMGxiWVJzaldyUWdyZTNlX25oWnJIWDdiWkRwZ293MXZ5cVJmcjBpdF8yTXdnY0lCUDN1T0I2cF9TZFYxeXZuVnprNG90SWVUMHZMV0FSQTk1U2U3bVkxakFaWEdNbmEwS3lYbmtrcG41WkV5MjdqT2hISGVJZm16REt4VGk4NkNKTQ?oc=5",
       "published_at": "2026-07-27T15:00:00+00:00",
@@ -1176,7 +1177,7 @@
       "is_deal": true,
       "company": "Dell",
       "product": "",
-      "score": 100,
+      "score": 35,
       "summary": "The Dell 16 laptop sees a significant price reduction, now under €700, featuring an Intel Core 7 processor, substantial RAM, and SSD storage. The article highlights its affordability and specifications.",
       "why_it_matters": "",
       "tags": [
@@ -1192,7 +1193,7 @@
       "has_dell_mention": true,
       "is_competitor_story": false,
       "is_market_story": false,
-      "market_interest": "high"
+      "market_interest": "low"
     },
     {
       "id": "media:177813",
@@ -4989,24 +4990,24 @@
       "source": "Futura",
       "source_icon": "",
       "country": "FR",
-      "title": "Dell 16-inch laptop sees 350€ price drop with Intel Core i7 and 32GB RAM",
-      "display_title": "Dell 16-inch laptop sees 350€ price drop with Intel Core i7 and 32GB RAM",
+      "title": "Dell 16 laptop deal: 350€ price drop with Intel Core i7 and 32GB RAM",
+      "display_title": "Dell 16 laptop deal: 350€ price drop with Intel Core i7 and 32GB RAM",
       "original_title": "Écran 16 pouces, Intel Core I7 et 32 Go de RAM : le Dell 16 voit son prix chuter de 350 € chez le fabricant - Futura, le média qui explore le monde",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOEh0VkJ3VkVSeS1wWWtTNDE3cnpFZUFUZUJLS1dzVWVTaUI1bDgtV0RLaE51aExlNVd6aG42dmtzT0VRQW1oR0VwYUkwdEFETDNJSWZOeXBNYklGbzdMc1B1MFdYTmFMWThjODhucTBIcktDbXNvLW1IaWI5ZDl3NmcxUFI1Mm1KSzgzYjNFU09UX2NFNnFrcHVfZmk3SklBdEdOMUxrWEI0SXVRVXhUX3prbVhzd1d2TENuTW8wa2NpZ2pfTm5iZEVORWtBUE5wa29NZzJ1eWItNjh4TEZRTHdPUlU4TjVjVWd0UXVaVDdpeXZXSHc?oc=5",
       "published_at": "2026-07-24T17:30:00+00:00",
       "captured_at": "2026-07-24 19:01:05",
-      "section": "Dell Coverage",
-      "is_deal": false,
+      "section": "Deals",
+      "is_deal": true,
       "company": "Dell",
       "product": "",
-      "score": 100,
+      "score": 35,
       "summary": "The Dell 16-inch laptop model with Intel Core i7 and 32GB RAM is experiencing a 350€ price reduction from the manufacturer, potentially reflecting inventory adjustments or competitive pricing strategies.",
       "why_it_matters": "",
       "tags": [
         "Futura",
         "FR",
         "Dell",
-        "Dell Coverage"
+        "Deals"
       ],
       "is_review": false,
       "is_short": false,
@@ -5015,7 +5016,7 @@
       "has_dell_mention": true,
       "is_competitor_story": false,
       "is_market_story": false,
-      "market_interest": "high"
+      "market_interest": "low"
     },
     {
       "id": "media:160605",
@@ -7875,7 +7876,7 @@
       "is_deal": true,
       "company": "Dell",
       "product": "",
-      "score": 100,
+      "score": 35,
       "summary": "Dell's SE2426HG monitor is currently offered at a discounted price below €100, targeting gamers seeking smooth performance.",
       "why_it_matters": "",
       "tags": [
@@ -7891,7 +7892,7 @@
       "has_dell_mention": true,
       "is_competitor_story": false,
       "is_market_story": false,
-      "market_interest": "high"
+      "market_interest": "low"
     },
     {
       "id": "media:141704",
@@ -9066,7 +9067,7 @@
       "is_deal": true,
       "company": "Dell",
       "product": "",
-      "score": 100,
+      "score": 35,
       "summary": "Futura reports the Dell 32 Plus QD-OLED S3225QC 4K monitor is now available for under €640, making high-end gaming displays more affordable. The article highlights its QD-OLED technology and 120Hz refresh rate as key features for gamers.",
       "why_it_matters": "",
       "tags": [
@@ -9082,7 +9083,7 @@
       "has_dell_mention": true,
       "is_competitor_story": false,
       "is_market_story": false,
-      "market_interest": "high"
+      "market_interest": "low"
     },
     {
       "id": "media:134728",
@@ -9351,9 +9352,10 @@
         "Olhar Digital",
         "BR",
         "Apple",
+        "Review",
         "Competitor Coverage"
       ],
-      "is_review": false,
+      "is_review": true,
       "is_short": false,
       "is_sponsored": false,
       "is_dell_story": false,
@@ -16717,7 +16719,7 @@
       "is_deal": true,
       "company": "Dell",
       "product": "",
-      "score": 100,
+      "score": 35,
       "summary": "A French media outlet reports that the Dell 14 Copilot+ ultraportable laptop has dropped in price by €250, now available under €430 with a Core Ultra 5 processor, 14-inch FHD+ display, and 16GB RAM.",
       "why_it_matters": "",
       "tags": [
@@ -16733,7 +16735,7 @@
       "has_dell_mention": true,
       "is_competitor_story": false,
       "is_market_story": false,
-      "market_interest": "high"
+      "market_interest": "low"
     },
     {
       "id": "media:111985",
