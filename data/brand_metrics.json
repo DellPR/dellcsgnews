@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T17:25:44.552929+00:00",
-  "total_items": 1543,
+  "generated_at": "2026-07-29T17:27:09.655073+00:00",
+  "total_items": 1540,
   "brands": [
     {
       "brand": "Microsoft",
@@ -73,9 +73,9 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 189,
-      "media": 140,
-      "youtube": 49,
+      "total": 187,
+      "media": 139,
+      "youtube": 48,
       "reviews": 26,
       "sponsored": 0,
       "dell_stories": 0,
@@ -117,11 +117,11 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 138
+          "count": 137
         },
         {
           "section": "Deals",
-          "count": 28
+          "count": 27
         },
         {
           "section": "Dell Coverage",
@@ -403,74 +403,6 @@
       "avg_score": 60.6
     },
     {
-      "brand": "Asus",
-      "family": "PC competitors",
-      "total": 107,
-      "media": 59,
-      "youtube": 48,
-      "reviews": 41,
-      "sponsored": 1,
-      "dell_stories": 0,
-      "high_signal": 5,
-      "top_sources": [
-        {
-          "source": "Crimson Tech",
-          "count": 8
-        },
-        {
-          "source": "TechRadar",
-          "count": 8
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 7
-        },
-        {
-          "source": "Adrenaline",
-          "count": 6
-        },
-        {
-          "source": "Qual Notebook Comprar?",
-          "count": 6
-        },
-        {
-          "source": "Tech BR",
-          "count": 6
-        },
-        {
-          "source": "Digital Trends",
-          "count": 4
-        },
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 4
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 83
-        },
-        {
-          "section": "Deals",
-          "count": 18
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 3
-        },
-        {
-          "section": "Ecosystem",
-          "count": 2
-        },
-        {
-          "section": "Market Trends",
-          "count": 1
-        }
-      ],
-      "avg_score": 65.9
-    },
-    {
       "brand": "Dell",
       "family": "Dell family",
       "total": 107,
@@ -537,6 +469,74 @@
         }
       ],
       "avg_score": 90.4
+    },
+    {
+      "brand": "Asus",
+      "family": "PC competitors",
+      "total": 106,
+      "media": 58,
+      "youtube": 48,
+      "reviews": 39,
+      "sponsored": 1,
+      "dell_stories": 0,
+      "high_signal": 5,
+      "top_sources": [
+        {
+          "source": "Crimson Tech",
+          "count": 8
+        },
+        {
+          "source": "TechRadar",
+          "count": 7
+        },
+        {
+          "source": "Adrenaline",
+          "count": 6
+        },
+        {
+          "source": "Qual Notebook Comprar?",
+          "count": 6
+        },
+        {
+          "source": "Tech BR",
+          "count": 6
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 6
+        },
+        {
+          "source": "PCWorld",
+          "count": 5
+        },
+        {
+          "source": "Digital Trends",
+          "count": 4
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 81
+        },
+        {
+          "section": "Deals",
+          "count": 19
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 3
+        },
+        {
+          "section": "Ecosystem",
+          "count": 2
+        },
+        {
+          "section": "Market Trends",
+          "count": 1
+        }
+      ],
+      "avg_score": 65.8
     },
     {
       "brand": "NVIDIA",
@@ -1472,7 +1472,7 @@
       "month": "2026-06",
       "brands": {
         "Valve": 44,
-        "Apple": 42,
+        "Apple": 41,
         "Microsoft": 28,
         "Lenovo": 27,
         "Dell": 23,
@@ -1493,12 +1493,12 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 170,
-        "Apple": 138,
+        "Apple": 137,
         "Lenovo": 126,
         "Intel": 102,
         "AMD": 92,
         "Dell": 79,
-        "Asus": 77,
+        "Asus": 76,
         "NVIDIA": 76,
         "Valve": 72,
         "HP": 43,
@@ -18881,25 +18881,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:110653",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Asus ROG Xreal R1 AR glasses offer 240 Hz and PC connectivity",
-      "url": "https://www.tomshardware.com/peripherals/wearable-tech/asus-rog-xreal-r1-review",
-      "published_at": "2026-07-16T12:00:00+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "media:111306",
       "kind": "media",
       "source": "The Register",
@@ -22544,25 +22525,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:98176",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus ProArt RTX 5090 review: 32GB VRAM and slimmer design for creators",
-      "url": "https://www.techradar.com/computing/gpu/asus-proart-geforce-rtx-5090-review-a-slimmer-sff-ready-rtx-5090-for-creators-who-need-flagship-performance-and-32gb-of-vram",
-      "published_at": "2026-07-10T01:51:43+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -28034,7 +27996,7 @@
       "score": 72,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Apple",
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -33941,25 +33903,6 @@
       "url": "https://www.youtube.com/watch?v=WOzcFkld6_g",
       "published_at": "2026-06-16T18:17:15+00:00",
       "score": 15,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:10426",
-      "kind": "youtube",
-      "source": "Tom's Guide",
-      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Best MacBook monitor picks including Dell UltraSharp",
-      "url": "https://www.youtube.com/watch?v=vIo-zi2hWzk",
-      "published_at": "2026-06-16T15:00:25+00:00",
-      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
