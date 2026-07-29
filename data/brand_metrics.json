@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T21:18:37.176112+00:00",
-  "total_items": 1536,
+  "generated_at": "2026-07-29T22:49:09.341048+00:00",
+  "total_items": 1529,
   "brands": [
     {
       "brand": "Microsoft",
@@ -73,8 +73,8 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 187,
-      "media": 135,
+      "total": 186,
+      "media": 134,
       "youtube": 52,
       "reviews": 28,
       "sponsored": 0,
@@ -95,11 +95,7 @@
         },
         {
           "source": "Trusted Reviews",
-          "count": 10
-        },
-        {
-          "source": "TudoCelular",
-          "count": 8
+          "count": 9
         },
         {
           "source": "Engadget",
@@ -112,16 +108,20 @@
         {
           "source": "PCWorld",
           "count": 7
+        },
+        {
+          "source": "The Verge",
+          "count": 7
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 135
+          "count": 134
         },
         {
           "section": "Deals",
-          "count": 28
+          "count": 29
         },
         {
           "section": "Dell Coverage",
@@ -133,10 +133,10 @@
         },
         {
           "section": "Ecosystem",
-          "count": 5
+          "count": 4
         }
       ],
-      "avg_score": 64.6
+      "avg_score": 64.5
     },
     {
       "brand": "Lenovo",
@@ -277,8 +277,8 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 112,
-      "media": 69,
+      "total": 111,
+      "media": 68,
       "youtube": 43,
       "reviews": 16,
       "sponsored": 0,
@@ -321,7 +321,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 105
+          "count": 104
         },
         {
           "section": "Competitor Coverage",
@@ -336,7 +336,7 @@
           "count": 1
         }
       ],
-      "avg_score": 67.7
+      "avg_score": 67.6
     },
     {
       "brand": "Dell",
@@ -351,7 +351,7 @@
       "top_sources": [
         {
           "source": "TechRadar",
-          "count": 14
+          "count": 13
         },
         {
           "source": "Windows Central",
@@ -409,8 +409,8 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 107,
-      "media": 101,
+      "total": 106,
+      "media": 100,
       "youtube": 6,
       "reviews": 5,
       "sponsored": 0,
@@ -419,7 +419,7 @@
       "top_sources": [
         {
           "source": "Wccftech",
-          "count": 19
+          "count": 18
         },
         {
           "source": "Tom's Hardware",
@@ -453,7 +453,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 74
+          "count": 73
         },
         {
           "section": "Deals",
@@ -468,13 +468,13 @@
           "count": 4
         }
       ],
-      "avg_score": 60.3
+      "avg_score": 60.2
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 103,
-      "media": 56,
+      "total": 102,
+      "media": 55,
       "youtube": 47,
       "reviews": 39,
       "sponsored": 1,
@@ -521,7 +521,7 @@
         },
         {
           "section": "Deals",
-          "count": 17
+          "count": 16
         },
         {
           "section": "Dell Coverage",
@@ -536,7 +536,7 @@
           "count": 1
         }
       ],
-      "avg_score": 65.9
+      "avg_score": 66.2
     },
     {
       "brand": "NVIDIA",
@@ -739,74 +739,6 @@
       "avg_score": 63.0
     },
     {
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "total": 39,
-      "media": 34,
-      "youtube": 5,
-      "reviews": 2,
-      "sponsored": 1,
-      "dell_stories": 0,
-      "high_signal": 3,
-      "top_sources": [
-        {
-          "source": "Wccftech",
-          "count": 8
-        },
-        {
-          "source": "TechRadar",
-          "count": 5
-        },
-        {
-          "source": "Les Numériques",
-          "count": 3
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 3
-        },
-        {
-          "source": "Mundo Conectado",
-          "count": 2
-        },
-        {
-          "source": "Trusted Reviews",
-          "count": 2
-        },
-        {
-          "source": "Windows Central",
-          "count": 2
-        },
-        {
-          "source": "Adrenaline",
-          "count": 1
-        }
-      ],
-      "sections": [
-        {
-          "section": "Deals",
-          "count": 15
-        },
-        {
-          "section": "Ecosystem",
-          "count": 13
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 6
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 3
-        },
-        {
-          "section": "Market Trends",
-          "count": 2
-        }
-      ],
-      "avg_score": 53.8
-    },
-    {
       "brand": "Alienware",
       "family": "Dell family",
       "total": 37,
@@ -917,6 +849,74 @@
         }
       ],
       "avg_score": 68.8
+    },
+    {
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "total": 37,
+      "media": 32,
+      "youtube": 5,
+      "reviews": 2,
+      "sponsored": 1,
+      "dell_stories": 0,
+      "high_signal": 3,
+      "top_sources": [
+        {
+          "source": "Wccftech",
+          "count": 6
+        },
+        {
+          "source": "TechRadar",
+          "count": 5
+        },
+        {
+          "source": "Les Numériques",
+          "count": 3
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 3
+        },
+        {
+          "source": "Mundo Conectado",
+          "count": 2
+        },
+        {
+          "source": "Trusted Reviews",
+          "count": 2
+        },
+        {
+          "source": "Windows Central",
+          "count": 2
+        },
+        {
+          "source": "Adrenaline",
+          "count": 1
+        }
+      ],
+      "sections": [
+        {
+          "section": "Deals",
+          "count": 15
+        },
+        {
+          "section": "Ecosystem",
+          "count": 11
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 6
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 3
+        },
+        {
+          "section": "Market Trends",
+          "count": 2
+        }
+      ],
+      "avg_score": 53.1
     },
     {
       "brand": "Amazon",
@@ -1313,8 +1313,8 @@
     {
       "brand": "Meta",
       "family": "Other",
-      "total": 4,
-      "media": 3,
+      "total": 3,
+      "media": 2,
       "youtube": 1,
       "reviews": 0,
       "sponsored": 0,
@@ -1330,10 +1330,6 @@
           "count": 1
         },
         {
-          "source": "TudoCelular",
-          "count": 1
-        },
-        {
           "source": "ZDNET France",
           "count": 1
         }
@@ -1346,13 +1342,9 @@
         {
           "section": "Deals",
           "count": 1
-        },
-        {
-          "section": "Market Trends",
-          "count": 1
         }
       ],
-      "avg_score": 53.8
+      "avg_score": 46.7
     },
     {
       "brand": "Positivo",
@@ -1475,22 +1467,22 @@
     {
       "month": "2026-06",
       "brands": {
-        "Valve": 39,
-        "Apple": 36,
+        "Valve": 37,
+        "Apple": 35,
         "Lenovo": 25,
-        "Dell": 23,
+        "Dell": 22,
         "Microsoft": 22,
-        "Asus": 18,
-        "AMD": 12,
+        "Asus": 17,
         "HP": 12,
         "MSI": 12,
+        "AMD": 11,
         "Intel": 11,
-        "Samsung": 10,
+        "Samsung": 8,
         "Acer": 7,
         "Alienware": 4,
         "NVIDIA": 4,
         "Qualcomm": 3,
-        "Meta": 2
+        "Positivo": 2
       }
     },
     {
@@ -1501,10 +1493,10 @@
         "Lenovo": 128,
         "Intel": 104,
         "AMD": 95,
-        "Dell": 82,
+        "Dell": 83,
         "NVIDIA": 77,
         "Asus": 76,
-        "Valve": 72,
+        "Valve": 73,
         "HP": 44,
         "MSI": 38,
         "Framework": 37,
@@ -1516,6 +1508,25 @@
     }
   ],
   "recent": [
+    {
+      "id": "media:204392",
+      "kind": "media",
+      "source": "PC Gamer",
+      "source_icon": "",
+      "country": "GB",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Valve claims Steam Machine reservation queue will clear by 2026",
+      "url": "https://www.pcgamer.com/hardware/steam-machines/steam-machine-reservation-queue-should-be-caught-up-by-the-end-of-2026-valve-says/",
+      "published_at": "2026-07-29T19:30:57+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:200803",
       "kind": "media",
@@ -6246,28 +6257,28 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:173127",
-      "kind": "media",
-      "source": "Le Parisien",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "New MacBook Neo on sale for students",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdm5kZ0VuQ2x0Q0VCR2M4SExuYlNuc25TcEw3dFQzblNTdXB3bUhrMVUwNHJJX3p6bVN0bHN0X3ZVVXhpRDdzWjFpV3pOVjNtdnFjbldUWTVzMjloZ2RYWHc1WkdINU5HaG1QYWpBQnZVMWNfUUtDSlJiYnA5U0l6QlBEUk9KLXd6R19UTXVFOUJIV3Y1TkhSQzJYWnpsT0ViMGJBb1JUdXpOd2NBY2NRZFc2X1pULW1mX1J1MXhfRHhQSi1oX2llcHJFMDBMQWR3UmtHbjdtajljVmxKcnd1S1Zldk5OX2JFN3kxaFlVcEt6Sjd3dVlGODlBWDRid3h3eTFhM3ZqbHVpY2k5YXBTMg?oc=5",
-      "published_at": "2026-07-26T08:30:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "media:204392",
+      "kind": "media",
+      "source": "PC Gamer",
+      "source_icon": "",
+      "country": "GB",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Valve claims Steam Machine reservation queue will clear by 2026",
+      "url": "https://www.pcgamer.com/hardware/steam-machines/steam-machine-reservation-queue-should-be-caught-up-by-the-end-of-2026-valve-says/",
+      "published_at": "2026-07-29T19:30:57+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:200803",
       "kind": "media",
@@ -24243,6 +24254,25 @@
       "is_dell_story": false
     },
     {
+      "id": "media:203577",
+      "kind": "media",
+      "source": "CNET",
+      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Dell 6K Monitor Drops to $1,375 in Major Discount",
+      "url": "https://www.cnet.com/deals/dell-6k-monitor-deal/",
+      "published_at": "2026-07-09T00:12:26+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
       "id": "media:94441",
       "kind": "media",
       "source": "TecMundo",
@@ -30874,6 +30904,25 @@
       "is_dell_story": false
     },
     {
+      "id": "media:203578",
+      "kind": "media",
+      "source": "CNET",
+      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Woot offers discounted MacBook deals amid Apple price hikes",
+      "url": "https://www.cnet.com/deals/woot-apple-deals-new-refurbished/",
+      "published_at": "2026-06-29T22:29:49+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "media:69196",
       "kind": "media",
       "source": "HotHardware",
@@ -31840,196 +31889,6 @@
       "is_sponsored": false,
       "brand": "Apple",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:66019",
-      "kind": "media",
-      "source": "Trusted Reviews",
-      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
-      "country": "GB",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Thunderbolt 5 docking station supports triple 4K 144Hz displays for Windows and MacBook",
-      "url": "https://www.trustedreviews.com/news/this-14-in-1-thunderbolt-5-docking-station-looks-like-the-ultimate-macbook-accesory",
-      "published_at": "2026-06-29T09:35:32+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:65859",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "ASUS Chromebook CM30 on sale for $144.97 with detachable keyboard and stylus",
-      "url": "https://www.pcworld.com/article/3178334/a-touchscreen-stylus-detachable-keyboard-and-all-day-battery-for-under-150-extended-deal-days-offer.html",
-      "published_at": "2026-06-29T08:00:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:65500",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple seeks US approval to use Chinese memory in Macs and iPads",
-      "url": "https://www.tudocelular.com/mercado/noticias/n257479/apple-pede-aval-dos-eua-para-comprar-chip-chines.html",
-      "published_at": "2026-06-29T07:11:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:65501",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Meta PCs launches Steamroller, a new SteamOS-powered gaming PC",
-      "url": "https://www.tudocelular.com/novos-produtos/noticias/n257472/steam-machine-steamroller-pc-gamer-steamos-fabrica.html",
-      "published_at": "2026-06-29T06:55:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:65501",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Meta PCs launches Steamroller, a new SteamOS-powered gaming PC",
-      "url": "https://www.tudocelular.com/novos-produtos/noticias/n257472/steam-machine-steamroller-pc-gamer-steamos-fabrica.html",
-      "published_at": "2026-06-29T06:55:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Meta",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:65507",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Chinese clone of Steam Machine hides spec scam",
-      "url": "https://www.tudocelular.com/tech/noticias/n257470/clone-chines-da-steam-machine-esconde-cilada.html",
-      "published_at": "2026-06-29T05:52:00+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:66079",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Dell 14 Plus EOFY deal at AU$1,139 recommended before deadline",
-      "url": "https://www.techradar.com/computing/the-dell-14-plus-is-the-eofy-deal-id-recommend-before-time-runs-out",
-      "published_at": "2026-06-29T04:34:58+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:66277",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Memory suppliers face class action over DRAM price hikes",
-      "url": "https://wccftech.com/memory-trio-samsung-sk-hynix-micron-face-class-action-lawsuit/",
-      "published_at": "2026-06-29T04:10:00+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:66278",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Samsung, SK hynix, Micron sued over memory price collusion",
-      "url": "https://wccftech.com/samsung-sk-hynix-and-micron-now-face-a-us-federal-class-action-lawsuit-for-colluding-to-bring-about-a-rampocalypse/",
-      "published_at": "2026-06-29T03:52:23+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:66279",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "AIDA64 adds support for AMD Zen 6 CPUs in new beta release",
-      "url": "https://wccftech.com/aida64-amd-zen-6-support-mustang-peak-olympic-ridge-medusa-venice-lineups/",
-      "published_at": "2026-06-29T03:35:06+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
