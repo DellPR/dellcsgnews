@@ -1,4 +1,4 @@
-﻿(() => {
+(() => {
   const state = {
     items: [],
     filtered: [],
@@ -32,7 +32,7 @@
   const youtubeBrandFilter = document.getElementById("youtubeBrandFilter");
   const RAW_FEED_URL = "https://raw.githubusercontent.com/DellPR/dellcsgnews/main/data/feed.json";
   const RAW_BRAND_METRICS_URL = "https://raw.githubusercontent.com/DellPR/dellcsgnews/main/data/brand_metrics.json";
-  const TOP_STORY_URL = "https://www.tomsguide.com/computing/laptops/dell-xps-13-2026-review";
+  const TOP_STORY_URL = "https://www.digitaltrends.com/computing/i-tried-dells-sleek-xps-13-and-its-a-breath-of-fresh-air-for-budget-windows-laptops/";
   const controlsEl = document.querySelector(".controls");
   const viewSwitch = document.getElementById("viewSwitch");
   const metricsView = document.getElementById("metricsView");
