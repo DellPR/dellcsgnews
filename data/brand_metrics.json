@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T15:15:05.869570+00:00",
-  "total_items": 1558,
+  "generated_at": "2026-07-29T16:32:55.739416+00:00",
+  "total_items": 1552,
   "brands": [
     {
       "brand": "Microsoft",
@@ -73,10 +73,10 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 196,
-      "media": 142,
-      "youtube": 54,
-      "reviews": 31,
+      "total": 193,
+      "media": 141,
+      "youtube": 52,
+      "reviews": 28,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 14,
@@ -117,7 +117,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 143
+          "count": 140
         },
         {
           "section": "Deals",
@@ -136,15 +136,15 @@
           "count": 5
         }
       ],
-      "avg_score": 64.9
+      "avg_score": 64.8
     },
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 169,
+      "total": 168,
       "media": 109,
-      "youtube": 60,
-      "reviews": 50,
+      "youtube": 59,
+      "reviews": 49,
       "sponsored": 5,
       "dell_stories": 0,
       "high_signal": 7,
@@ -162,10 +162,6 @@
           "count": 11
         },
         {
-          "source": "Just Josh",
-          "count": 8
-        },
-        {
           "source": "Tech BR",
           "count": 8
         },
@@ -180,12 +176,16 @@
         {
           "source": "CNET",
           "count": 7
+        },
+        {
+          "source": "Just Josh",
+          "count": 7
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 130
+          "count": 129
         },
         {
           "section": "Deals",
@@ -204,7 +204,7 @@
           "count": 1
         }
       ],
-      "avg_score": 62.9
+      "avg_score": 62.8
     },
     {
       "brand": "Intel",
@@ -341,8 +341,8 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 111,
-      "media": 107,
+      "total": 109,
+      "media": 105,
       "youtube": 4,
       "reviews": 5,
       "sponsored": 0,
@@ -351,7 +351,7 @@
       "top_sources": [
         {
           "source": "Wccftech",
-          "count": 22
+          "count": 21
         },
         {
           "source": "HotHardware",
@@ -378,7 +378,7 @@
           "count": 6
         },
         {
-          "source": "Notebookcheck DE - News",
+          "source": "TechSpot",
           "count": 4
         }
       ],
@@ -393,7 +393,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 12
+          "count": 10
         },
         {
           "section": "Market Trends",
@@ -1493,10 +1493,10 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 170,
-        "Apple": 143,
-        "Lenovo": 129,
+        "Apple": 140,
+        "Lenovo": 128,
         "Intel": 101,
-        "AMD": 96,
+        "AMD": 94,
         "Dell": 80,
         "Asus": 78,
         "NVIDIA": 77,
@@ -4130,25 +4130,6 @@
       "score": 78,
       "is_review": true,
       "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:95340",
-      "kind": "youtube",
-      "source": "Marques Brownlee (MKBHD)",
-      "source_icon": "https://yt3.googleusercontent.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework 13 Pro review: modular laptop positioning against MacBook Pro",
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "published_at": "2026-07-27T15:38:21+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
       "brand": "Framework",
       "family": "PC competitors",
       "is_dell_story": false
@@ -4167,25 +4148,6 @@
       "published_at": "2026-07-27T15:38:00+00:00",
       "score": 65,
       "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:94845",
-      "kind": "youtube",
-      "source": "Just Josh",
-      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework Laptop 13 Pro review: modular design, battery life and trade-offs",
-      "url": "https://www.youtube.com/watch?v=1wMWbZSVaKA",
-      "published_at": "2026-07-27T15:27:09+00:00",
-      "score": 78,
-      "is_review": true,
       "is_sponsored": false,
       "brand": "Lenovo",
       "family": "PC competitors",
@@ -4339,25 +4301,6 @@
       "score": 78,
       "is_review": true,
       "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:94860",
-      "kind": "youtube",
-      "source": "Linus Tech Tips",
-      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework Pro 13 review: modular laptop promise, repairability and battery life",
-      "url": "https://www.youtube.com/watch?v=JQb9eGeclQw",
-      "published_at": "2026-07-27T15:00:11+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
       "brand": "Framework",
       "family": "PC competitors",
       "is_dell_story": false
@@ -4435,25 +4378,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:178743",
-      "kind": "media",
-      "source": "Frandroid",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework Laptop 13 Pro review highlights repairability and performance vs MacBook M5",
-      "url": "https://www.frandroid.com/test/3184099_test-du-framework-laptop-13-pro-lanti-macbook-est-tres-credible",
-      "published_at": "2026-07-27T15:00:00+00:00",
-      "score": 65,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -6260,6 +6184,82 @@
       "is_sponsored": false,
       "brand": "Amazon",
       "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:167866",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus ZenBook 14 Air 2026 Debuts with AMD Ryzen AI 7 H 445 and OLED Display",
+      "url": "https://www.notebookcheck.com/Asus-ZenBook-14-Air-Leichter-OLED-Laptop-mit-AMD-Power-debuetiert.1351951.0.html",
+      "published_at": "2026-07-25T15:23:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:167866",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus ZenBook 14 Air 2026 Debuts with AMD Ryzen AI 7 H 445 and OLED Display",
+      "url": "https://www.notebookcheck.com/Asus-ZenBook-14-Air-Leichter-OLED-Laptop-mit-AMD-Power-debuetiert.1351951.0.html",
+      "published_at": "2026-07-25T15:23:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:92970",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "of the Affordable MacBook Baratinho after 4 Months of Use",
+      "url": "https://www.youtube.com/shorts/1Ie0BO3xK3k",
+      "published_at": "2026-07-25T14:57:59+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:167390",
+      "kind": "media",
+      "source": "TechSpot",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft uses TPM chips to combat pirated Windows activations",
+      "url": "https://www.techspot.com/news/113232-microsoft-using-tpm-chips-crack-down-pirated-windows.html",
+      "published_at": "2026-07-25T14:06:00+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
       "is_dell_story": false
     }
   ],
@@ -8882,25 +8882,6 @@
       "score": 78,
       "is_review": true,
       "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:95340",
-      "kind": "youtube",
-      "source": "Marques Brownlee (MKBHD)",
-      "source_icon": "https://yt3.googleusercontent.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework 13 Pro review: modular laptop positioning against MacBook Pro",
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "published_at": "2026-07-27T15:38:21+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
       "brand": "Framework",
       "family": "PC competitors",
       "is_dell_story": false
@@ -8919,25 +8900,6 @@
       "published_at": "2026-07-27T15:38:00+00:00",
       "score": 65,
       "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:94845",
-      "kind": "youtube",
-      "source": "Just Josh",
-      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework Laptop 13 Pro review: modular design, battery life and trade-offs",
-      "url": "https://www.youtube.com/watch?v=1wMWbZSVaKA",
-      "published_at": "2026-07-27T15:27:09+00:00",
-      "score": 78,
-      "is_review": true,
       "is_sponsored": false,
       "brand": "Lenovo",
       "family": "PC competitors",
@@ -9091,25 +9053,6 @@
       "score": 78,
       "is_review": true,
       "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:94860",
-      "kind": "youtube",
-      "source": "Linus Tech Tips",
-      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework Pro 13 review: modular laptop promise, repairability and battery life",
-      "url": "https://www.youtube.com/watch?v=JQb9eGeclQw",
-      "published_at": "2026-07-27T15:00:11+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
       "brand": "Framework",
       "family": "PC competitors",
       "is_dell_story": false
@@ -9187,25 +9130,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:178743",
-      "kind": "media",
-      "source": "Frandroid",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework Laptop 13 Pro review highlights repairability and performance vs MacBook M5",
-      "url": "https://www.frandroid.com/test/3184099_test-du-framework-laptop-13-pro-lanti-macbook-est-tres-credible",
-      "published_at": "2026-07-27T15:00:00+00:00",
-      "score": 65,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -14055,25 +13979,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:138817",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework launches Mini-ITX PC with AMD Ryzen AI Max+ Pro 495 and 192GB RAM",
-      "url": "https://www.notebookcheck.com/Framework-Erster-Mini-ITX-PC-mit-AMD-Ryzen-AI-Max-Pro-495-und-192GB-RAM-startet.1349363.0.html",
-      "published_at": "2026-07-23T03:00:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
       "id": "media:146092",
       "kind": "media",
       "source": "Notebookcheck DE - News",
@@ -14128,25 +14033,6 @@
       "is_sponsored": false,
       "brand": "Framework",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:134726",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework desktop with Ryzen AI Max+ 395 runs DeepSeek model locally",
-      "url": "https://wccftech.com/framework-amd-ryzen-ai-max-pro-495-pc-desktop-192-gb-memory-runs-deepseek-v4-flash/",
-      "published_at": "2026-07-22T20:35:05+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
