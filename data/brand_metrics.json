@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-29T23:50:09.558065+00:00",
-  "total_items": 1528,
+  "generated_at": "2026-07-29T23:53:39.046485+00:00",
+  "total_items": 1525,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 192,
+      "total": 191,
       "media": 183,
-      "youtube": 9,
+      "youtube": 8,
       "reviews": 2,
       "sponsored": 0,
       "dell_stories": 0,
@@ -65,7 +65,7 @@
         },
         {
           "section": "Market Trends",
-          "count": 8
+          "count": 7
         }
       ],
       "avg_score": 56.5
@@ -275,70 +275,6 @@
       "avg_score": 65.4
     },
     {
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "total": 112,
-      "media": 69,
-      "youtube": 43,
-      "reviews": 16,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 14,
-      "top_sources": [
-        {
-          "source": "Adrenaline",
-          "count": 10
-        },
-        {
-          "source": "XDA Developers",
-          "count": 8
-        },
-        {
-          "source": "JayzTwoCents",
-          "count": 7
-        },
-        {
-          "source": "Linus Tech Tips",
-          "count": 7
-        },
-        {
-          "source": "TechRadar",
-          "count": 7
-        },
-        {
-          "source": "HotHardware",
-          "count": 6
-        },
-        {
-          "source": "The Verge",
-          "count": 6
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 5
-        }
-      ],
-      "sections": [
-        {
-          "section": "Market Trends",
-          "count": 105
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 3
-        },
-        {
-          "section": "Ecosystem",
-          "count": 3
-        },
-        {
-          "section": "Deals",
-          "count": 1
-        }
-      ],
-      "avg_score": 67.6
-    },
-    {
       "brand": "Dell",
       "family": "Dell family",
       "total": 111,
@@ -405,6 +341,70 @@
         }
       ],
       "avg_score": 89.5
+    },
+    {
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "total": 110,
+      "media": 69,
+      "youtube": 41,
+      "reviews": 16,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 14,
+      "top_sources": [
+        {
+          "source": "Adrenaline",
+          "count": 10
+        },
+        {
+          "source": "XDA Developers",
+          "count": 8
+        },
+        {
+          "source": "JayzTwoCents",
+          "count": 7
+        },
+        {
+          "source": "Linus Tech Tips",
+          "count": 7
+        },
+        {
+          "source": "TechRadar",
+          "count": 7
+        },
+        {
+          "source": "HotHardware",
+          "count": 6
+        },
+        {
+          "source": "The Verge",
+          "count": 6
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 5
+        }
+      ],
+      "sections": [
+        {
+          "section": "Market Trends",
+          "count": 103
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 3
+        },
+        {
+          "section": "Ecosystem",
+          "count": 3
+        },
+        {
+          "section": "Deals",
+          "count": 1
+        }
+      ],
+      "avg_score": 67.7
     },
     {
       "brand": "AMD",
@@ -1467,11 +1467,11 @@
     {
       "month": "2026-06",
       "brands": {
-        "Valve": 39,
+        "Valve": 37,
         "Apple": 36,
         "Lenovo": 26,
         "Dell": 23,
-        "Microsoft": 23,
+        "Microsoft": 22,
         "Asus": 19,
         "MSI": 13,
         "AMD": 12,
@@ -32367,25 +32367,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:37417",
-      "kind": "youtube",
-      "source": "Austin Evans",
-      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "The Xbox Price Hike is…a LOT 😢",
-      "url": "https://www.youtube.com/shorts/RttwkUyswL4",
-      "published_at": "2026-06-25T21:12:34+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:37194",
       "kind": "youtube",
       "source": "TecMundo",
@@ -32629,44 +32610,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "MSI",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:33847",
-      "kind": "youtube",
-      "source": "The Tech Chap",
-      "source_icon": "https://yt3.googleusercontent.com/BqQGAGWm03aiyeviWMIjILHE9EInqFQSvKFHGBZcT9M_BBhCh5NdPXrmpbHZb_mmhkhu_C3K=s68-c-k-c0x00ffffff-no-rj",
-      "country": "GB",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "PS6 and Xbox Project Helix development challenges and strategies",
-      "url": "https://www.youtube.com/watch?v=-XaB2MCmJQI",
-      "published_at": "2026-06-25T13:21:36+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:33847",
-      "kind": "youtube",
-      "source": "The Tech Chap",
-      "source_icon": "https://yt3.googleusercontent.com/BqQGAGWm03aiyeviWMIjILHE9EInqFQSvKFHGBZcT9M_BBhCh5NdPXrmpbHZb_mmhkhu_C3K=s68-c-k-c0x00ffffff-no-rj",
-      "country": "GB",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "PS6 and Xbox Project Helix development challenges and strategies",
-      "url": "https://www.youtube.com/watch?v=-XaB2MCmJQI",
-      "published_at": "2026-06-25T13:21:36+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
     },
