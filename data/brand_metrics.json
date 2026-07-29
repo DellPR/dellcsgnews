@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T23:37:41.452521+00:00",
-  "total_items": 1526,
+  "generated_at": "2026-07-29T23:50:09.558065+00:00",
+  "total_items": 1528,
   "brands": [
     {
       "brand": "Microsoft",
@@ -141,10 +141,10 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 163,
+      "total": 164,
       "media": 105,
-      "youtube": 58,
-      "reviews": 47,
+      "youtube": 59,
+      "reviews": 48,
       "sponsored": 5,
       "dell_stories": 0,
       "high_signal": 6,
@@ -185,7 +185,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 125
+          "count": 126
         },
         {
           "section": "Deals",
@@ -204,7 +204,7 @@
           "count": 1
         }
       ],
-      "avg_score": 62.6
+      "avg_score": 62.7
     },
     {
       "brand": "Intel",
@@ -673,10 +673,10 @@
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 51,
+      "total": 52,
       "media": 36,
-      "youtube": 15,
-      "reviews": 6,
+      "youtube": 16,
+      "reviews": 7,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 2,
@@ -694,6 +694,10 @@
           "count": 4
         },
         {
+          "source": "Notebookcheck Reviews",
+          "count": 3
+        },
+        {
           "source": "PCWorld",
           "count": 3
         },
@@ -708,16 +712,12 @@
         {
           "source": "Les Numériques",
           "count": 2
-        },
-        {
-          "source": "Loop Infinito",
-          "count": 2
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 34
+          "count": 35
         },
         {
           "section": "Deals",
@@ -736,7 +736,7 @@
           "count": 1
         }
       ],
-      "avg_score": 63.0
+      "avg_score": 63.2
     },
     {
       "brand": "Samsung",
@@ -1469,13 +1469,13 @@
       "brands": {
         "Valve": 39,
         "Apple": 36,
-        "Lenovo": 25,
+        "Lenovo": 26,
         "Dell": 23,
         "Microsoft": 23,
         "Asus": 19,
+        "MSI": 13,
         "AMD": 12,
         "HP": 12,
-        "MSI": 12,
         "Intel": 11,
         "Samsung": 11,
         "Acer": 7,
@@ -33769,6 +33769,44 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:100510",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MSI Stealth 16 Competes with Yoga Pro 9 and Zephyrus G16",
+      "url": "https://www.youtube.com/watch?v=k-ZkUDxsDsg",
+      "published_at": "2026-06-14T13:40:14+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:100510",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MSI Stealth 16 Competes with Yoga Pro 9 and Zephyrus G16",
+      "url": "https://www.youtube.com/watch?v=k-ZkUDxsDsg",
+      "published_at": "2026-06-14T13:40:14+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "MSI",
       "family": "PC competitors",
       "is_dell_story": false
     },
