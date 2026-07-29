@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T23:52:34.496554+00:00",
-  "total_items": 1551,
+  "generated_at": "2026-07-29T12:25:09.655297+00:00",
+  "total_items": 1565,
   "brands": [
     {
       "brand": "Apple",
@@ -73,9 +73,9 @@
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 192,
+      "total": 193,
       "media": 184,
-      "youtube": 8,
+      "youtube": 9,
       "reviews": 2,
       "sponsored": 0,
       "dell_stories": 0,
@@ -133,17 +133,17 @@
         },
         {
           "section": "Market Trends",
-          "count": 8
+          "count": 9
         }
       ],
-      "avg_score": 55.7
+      "avg_score": 55.8
     },
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 169,
+      "total": 171,
       "media": 111,
-      "youtube": 58,
+      "youtube": 60,
       "reviews": 50,
       "sponsored": 5,
       "dell_stories": 0,
@@ -185,11 +185,11 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 130
+          "count": 131
         },
         {
           "section": "Deals",
-          "count": 31
+          "count": 32
         },
         {
           "section": "Ecosystem",
@@ -204,7 +204,7 @@
           "count": 1
         }
       ],
-      "avg_score": 63.1
+      "avg_score": 62.9
     },
     {
       "brand": "Intel",
@@ -405,14 +405,18 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 105,
+      "total": 110,
       "media": 62,
-      "youtube": 43,
-      "reviews": 40,
+      "youtube": 48,
+      "reviews": 42,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 5,
       "top_sources": [
+        {
+          "source": "Crimson Tech",
+          "count": 8
+        },
         {
           "source": "TechRadar",
           "count": 8
@@ -420,10 +424,6 @@
         {
           "source": "Tom's Hardware",
           "count": 8
-        },
-        {
-          "source": "Crimson Tech",
-          "count": 7
         },
         {
           "source": "Adrenaline",
@@ -449,7 +449,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 80
+          "count": 84
         },
         {
           "section": "Deals",
@@ -462,9 +462,13 @@
         {
           "section": "Ecosystem",
           "count": 2
+        },
+        {
+          "section": "Market Trends",
+          "count": 1
         }
       ],
-      "avg_score": 65.1
+      "avg_score": 65.4
     },
     {
       "brand": "Dell",
@@ -537,9 +541,9 @@
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 82,
+      "total": 83,
       "media": 76,
-      "youtube": 6,
+      "youtube": 7,
       "reviews": 4,
       "sponsored": 0,
       "dell_stories": 0,
@@ -593,14 +597,14 @@
         },
         {
           "section": "Market Trends",
-          "count": 3
+          "count": 4
         },
         {
           "section": "Dell Coverage",
           "count": 2
         }
       ],
-      "avg_score": 64.1
+      "avg_score": 64.2
     },
     {
       "brand": "HP",
@@ -669,9 +673,9 @@
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 50,
+      "total": 52,
       "media": 36,
-      "youtube": 14,
+      "youtube": 16,
       "reviews": 8,
       "sponsored": 1,
       "dell_stories": 0,
@@ -690,6 +694,10 @@
           "count": 4
         },
         {
+          "source": "Notebookcheck Reviews",
+          "count": 3
+        },
+        {
           "source": "Tom's Guide",
           "count": 3
         },
@@ -704,16 +712,12 @@
         {
           "source": "Les Numériques",
           "count": 2
-        },
-        {
-          "source": "Loop Infinito",
-          "count": 2
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 35
+          "count": 37
         },
         {
           "section": "Deals",
@@ -732,7 +736,7 @@
           "count": 1
         }
       ],
-      "avg_score": 63.5
+      "avg_score": 63.8
     },
     {
       "brand": "Amazon",
@@ -1091,6 +1095,58 @@
       "avg_score": 58.4
     },
     {
+      "brand": "Razer",
+      "family": "PC competitors",
+      "total": 9,
+      "media": 4,
+      "youtube": 5,
+      "reviews": 7,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 0,
+      "top_sources": [
+        {
+          "source": "Adrenaline",
+          "count": 1
+        },
+        {
+          "source": "Crimson Tech",
+          "count": 1
+        },
+        {
+          "source": "GamesRadar+",
+          "count": 1
+        },
+        {
+          "source": "Gizmodo",
+          "count": 1
+        },
+        {
+          "source": "Jarrod's Tech",
+          "count": 1
+        },
+        {
+          "source": "Just Josh",
+          "count": 1
+        },
+        {
+          "source": "MobileTechReview",
+          "count": 1
+        },
+        {
+          "source": "Notebookcheck Reviews",
+          "count": 1
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 9
+        }
+      ],
+      "avg_score": 72.6
+    },
+    {
       "brand": "OpenAI",
       "family": "Other",
       "total": 8,
@@ -1251,50 +1307,6 @@
       "avg_score": 44.0
     },
     {
-      "brand": "Razer",
-      "family": "PC competitors",
-      "total": 6,
-      "media": 4,
-      "youtube": 2,
-      "reviews": 5,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 0,
-      "top_sources": [
-        {
-          "source": "Adrenaline",
-          "count": 1
-        },
-        {
-          "source": "GamesRadar+",
-          "count": 1
-        },
-        {
-          "source": "Gizmodo",
-          "count": 1
-        },
-        {
-          "source": "Just Josh",
-          "count": 1
-        },
-        {
-          "source": "MobileTechReview",
-          "count": 1
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 1
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 6
-        }
-      ],
-      "avg_score": 72.8
-    },
-    {
       "brand": "Meta",
       "family": "Other",
       "total": 4,
@@ -1408,7 +1420,8 @@
     {
       "month": "2025-11",
       "brands": {
-        "Lenovo": 1,
+        "Lenovo": 2,
+        "MSI": 1,
         "Qualcomm": 1
       }
     },
@@ -1423,7 +1436,9 @@
       "brands": {
         "Apple": 1,
         "Asus": 1,
-        "Intel": 1
+        "Intel": 1,
+        "Lenovo": 1,
+        "Razer": 1
       }
     },
     {
@@ -1446,9 +1461,9 @@
       "month": "2026-05",
       "brands": {
         "Lenovo": 7,
+        "Asus": 4,
         "Alienware": 2,
         "Apple": 1,
-        "Asus": 1,
         "Dell": 1,
         "HP": 1
       }
@@ -1458,18 +1473,18 @@
       "brands": {
         "Apple": 55,
         "Valve": 47,
+        "Microsoft": 31,
         "Lenovo": 30,
-        "Microsoft": 30,
+        "Asus": 23,
         "Dell": 23,
-        "Asus": 22,
         "AMD": 18,
         "Intel": 16,
-        "MSI": 14,
+        "MSI": 15,
         "HP": 13,
         "Samsung": 12,
         "Acer": 7,
         "Amazon": 7,
-        "NVIDIA": 5,
+        "NVIDIA": 6,
         "Alienware": 4,
         "Qualcomm": 4
       }
@@ -1482,7 +1497,7 @@
         "Lenovo": 129,
         "Intel": 99,
         "AMD": 95,
-        "Asus": 77,
+        "Asus": 78,
         "Dell": 77,
         "NVIDIA": 75,
         "Valve": 69,
@@ -1497,6 +1512,44 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:99180",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Razer Blade 16 vs ASUS ROG Zephyrus G16: Key differences in build, display, and performance",
+      "url": "https://www.youtube.com/watch?v=MpOKj3K-KjY",
+      "published_at": "2026-07-29T08:00:07+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:99180",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Razer Blade 16 vs ASUS ROG Zephyrus G16: Key differences in build, display, and performance",
+      "url": "https://www.youtube.com/watch?v=MpOKj3K-KjY",
+      "published_at": "2026-07-29T08:00:07+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Razer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:98220",
       "kind": "youtube",
@@ -6208,47 +6261,47 @@
       "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:159985",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "id": "youtube:99180",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
       "country": "US",
-      "section": "Ecosystem",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Microsoft to let users remap Copilot key to do nothing in Windows 11",
-      "url": "https://www.techradar.com/computing/windows/hate-the-copilot-key-in-windows-11-it-looks-like-microsofts-bringing-in-the-option-to-remap-it-to-do-nothing-if-you-feel-thats-more-useful",
-      "published_at": "2026-07-24T18:27:36+00:00",
-      "score": 50,
-      "is_review": false,
+      "title": "Razer Blade 16 vs ASUS ROG Zephyrus G16: Key differences in build, display, and performance",
+      "url": "https://www.youtube.com/watch?v=MpOKj3K-KjY",
+      "published_at": "2026-07-29T08:00:07+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
-      "brand": "Microsoft",
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:159986",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "id": "youtube:99180",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
       "country": "US",
-      "section": "Ecosystem",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Nvidia reveals Vera CPU details with Olympus cores showing strong performance",
-      "url": "https://www.techradar.com/pro/nvidia-reveals-deep-dive-into-what-makes-vera-cpu-tick-with-the-super-powered-olympus-core-promising-huge-performance-increases-and-more",
-      "published_at": "2026-07-24T18:25:00+00:00",
-      "score": 50,
-      "is_review": false,
+      "title": "Razer Blade 16 vs ASUS ROG Zephyrus G16: Key differences in build, display, and performance",
+      "url": "https://www.youtube.com/watch?v=MpOKj3K-KjY",
+      "published_at": "2026-07-29T08:00:07+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
+      "brand": "Razer",
+      "family": "PC competitors",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "youtube:98220",
       "kind": "youtube",
@@ -34541,6 +34594,63 @@
       "is_dell_story": true
     },
     {
+      "id": "youtube:99011",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "NVIDIA unveils RTX Spark SOC with Blackwell GPU and unified memory for AI and gaming",
+      "url": "https://www.youtube.com/watch?v=hCJNYomhhyc",
+      "published_at": "2026-06-11T14:25:30+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:99011",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "NVIDIA unveils RTX Spark SOC with Blackwell GPU and unified memory for AI and gaming",
+      "url": "https://www.youtube.com/watch?v=hCJNYomhhyc",
+      "published_at": "2026-06-11T14:25:30+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:99011",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "NVIDIA unveils RTX Spark SOC with Blackwell GPU and unified memory for AI and gaming",
+      "url": "https://www.youtube.com/watch?v=hCJNYomhhyc",
+      "published_at": "2026-06-11T14:25:30+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
       "id": "youtube:96642",
       "kind": "youtube",
       "source": "Andrew Marc David",
@@ -34712,6 +34822,25 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:99013",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Razer's Immersive Gaming Setup with RGB, Haptics, and New Microphone",
+      "url": "https://www.youtube.com/watch?v=MqKaHLTrdEs",
+      "published_at": "2026-06-09T15:00:43+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Razer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "youtube:32050",
       "kind": "youtube",
       "source": "Zip Tie Tech",
@@ -34729,6 +34858,25 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:99014",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MSI unveils new AI+ laptops and 40th anniversary products at Computex 2026",
+      "url": "https://www.youtube.com/watch?v=Bfs1vNtpWNM",
+      "published_at": "2026-06-08T13:07:28+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "MSI",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "youtube:34826",
@@ -34940,6 +35088,25 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:99034",
+      "kind": "youtube",
+      "source": "Jarrod's Tech",
+      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "AU",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS Zephyrus G14 2026 Improved Gaming Laptop with RTX 5070 Ti",
+      "url": "https://www.youtube.com/shorts/MZqz4-pR_hU",
+      "published_at": "2026-05-29T11:30:04+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "youtube:34829",
       "kind": "youtube",
       "source": "Just Josh",
@@ -35016,6 +35183,25 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:99036",
+      "kind": "youtube",
+      "source": "Jarrod's Tech",
+      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "AU",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS Zephyrus Duo 16 Dual Screen Gaming Laptop",
+      "url": "https://www.youtube.com/shorts/0oTUX5OSiVw",
+      "published_at": "2026-05-22T11:30:01+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "youtube:34832",
       "kind": "youtube",
       "source": "Just Josh",
@@ -35050,6 +35236,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:99037",
+      "kind": "youtube",
+      "source": "Jarrod's Tech",
+      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "AU",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS ROG Zephyrus Duo 16 review highlights dual-screen design and performance",
+      "url": "https://www.youtube.com/watch?v=X8i139Bfu1Y",
+      "published_at": "2026-05-19T11:30:20+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -35453,6 +35658,25 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:99038",
+      "kind": "youtube",
+      "source": "Jarrod's Tech",
+      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "AU",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Thunderbolt 4/5 vs PCIe M.2 eGPU performance on Razer Blade 18",
+      "url": "https://www.youtube.com/watch?v=anoLAIEErHw",
+      "published_at": "2026-01-19T11:30:04+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Razer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "youtube:96583",
       "kind": "youtube",
       "source": "TechRadar",
@@ -35472,6 +35696,25 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:99039",
+      "kind": "youtube",
+      "source": "Jarrod's Tech",
+      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "AU",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Latest laptop processors and models from Intel, AMD, ASUS, Lenovo, and Acer",
+      "url": "https://www.youtube.com/watch?v=8kZjzBhMNjo",
+      "published_at": "2026-01-07T11:30:09+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "youtube:17451",
       "kind": "youtube",
       "source": "MobileTechReview",
@@ -35487,6 +35730,44 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:99042",
+      "kind": "youtube",
+      "source": "Jarrod's Tech",
+      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "AU",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Black Friday/Cyber Monday laptop deals and price comparisons",
+      "url": "https://www.youtube.com/watch?v=uCYAy_MfX-s",
+      "published_at": "2025-11-28T12:34:07+00:00",
+      "score": 20,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:99043",
+      "kind": "youtube",
+      "source": "Jarrod's Tech",
+      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "AU",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Black Friday gaming laptop deals and performance benchmarks",
+      "url": "https://www.youtube.com/watch?v=2rcoK6J1vbg",
+      "published_at": "2025-11-26T12:30:05+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "MSI",
       "family": "PC competitors",
       "is_dell_story": false
     },
