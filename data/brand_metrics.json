@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T16:44:51.425020+00:00",
-  "total_items": 1522,
+  "generated_at": "2026-07-30T17:08:58.000541+00:00",
+  "total_items": 1523,
   "brands": [
     {
       "brand": "Microsoft",
@@ -277,13 +277,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 111,
-      "media": 72,
+      "total": 112,
+      "media": 73,
       "youtube": 39,
-      "reviews": 39,
+      "reviews": 40,
       "sponsored": 6,
-      "dell_stories": 109,
-      "high_signal": 96,
+      "dell_stories": 110,
+      "high_signal": 97,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -321,7 +321,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 85
+          "count": 86
         },
         {
           "section": "Deals",
@@ -340,7 +340,7 @@
           "count": 1
         }
       ],
-      "avg_score": 90.1
+      "avg_score": 90.2
     },
     {
       "brand": "AMD",
@@ -1485,7 +1485,7 @@
         "Lenovo": 130,
         "Intel": 106,
         "AMD": 97,
-        "Dell": 84,
+        "Dell": 85,
         "NVIDIA": 80,
         "Asus": 79,
         "Valve": 74,
@@ -16131,6 +16131,25 @@
       "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
+    },
+    {
+      "id": "media:210501",
+      "kind": "media",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://www.google.com/s2/favicons?domain=notebookcheck.net&sz=64",
+      "country": "DE",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Review: Dell Pro 7 14 P714265 business laptop with premium styling",
+      "url": "https://www.notebookcheck.net/Dell-Pro-7-14-P714265-review-Business-with-style.1337397.0.html",
+      "published_at": "2026-07-21T21:59:00+02:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
     },
     {
       "id": "media:124853",
