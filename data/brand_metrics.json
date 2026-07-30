@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T22:36:20.156686+00:00",
-  "total_items": 1550,
+  "generated_at": "2026-07-30T23:48:28.178797+00:00",
+  "total_items": 1553,
   "brands": [
     {
       "brand": "Microsoft",
@@ -73,10 +73,10 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 176,
+      "total": 177,
       "media": 117,
-      "youtube": 59,
-      "reviews": 53,
+      "youtube": 60,
+      "reviews": 54,
       "sponsored": 5,
       "dell_stories": 0,
       "high_signal": 12,
@@ -117,7 +117,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 139
+          "count": 140
         },
         {
           "section": "Deals",
@@ -141,9 +141,9 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 175,
+      "total": 176,
       "media": 123,
-      "youtube": 52,
+      "youtube": 53,
       "reviews": 23,
       "sponsored": 0,
       "dell_stories": 0,
@@ -162,12 +162,12 @@
           "count": 13
         },
         {
-          "source": "The Verge",
+          "source": "Lipe Mal Estar",
           "count": 8
         },
         {
-          "source": "Lipe Mal Estar",
-          "count": 7
+          "source": "The Verge",
+          "count": 8
         },
         {
           "source": "Trusted Reviews",
@@ -189,7 +189,7 @@
         },
         {
           "section": "Deals",
-          "count": 29
+          "count": 30
         },
         {
           "section": "Dell Coverage",
@@ -277,13 +277,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 114,
+      "total": 115,
       "media": 75,
-      "youtube": 39,
-      "reviews": 37,
+      "youtube": 40,
+      "reviews": 38,
       "sponsored": 6,
-      "dell_stories": 111,
-      "high_signal": 99,
+      "dell_stories": 112,
+      "high_signal": 100,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -321,7 +321,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 88
+          "count": 89
         },
         {
           "section": "Deals",
@@ -340,7 +340,7 @@
           "count": 1
         }
       ],
-      "avg_score": 90.5
+      "avg_score": 90.6
     },
     {
       "brand": "Asus",
@@ -1489,11 +1489,11 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 182,
-        "Apple": 144,
-        "Lenovo": 144,
+        "Apple": 145,
+        "Lenovo": 145,
         "Intel": 109,
         "AMD": 104,
-        "Dell": 89,
+        "Dell": 90,
         "Asus": 86,
         "NVIDIA": 82,
         "Valve": 75,
@@ -1508,6 +1508,63 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:102975",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Review of Lenovo Yoga Slim 7i Ultra FIFA Edition with OLED Display and 16h Battery",
+      "url": "https://www.youtube.com/watch?v=ZfeObOfPBzo",
+      "published_at": "2026-07-30T22:47:05+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:102720",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": false,
+      "title": "Why the MacBook Air M5 is worth every cent!",
+      "url": "https://www.youtube.com/watch?v=dJB23NXBXuc",
+      "published_at": "2026-07-30T22:15:07+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:102690",
+      "kind": "youtube",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell XPS 14 review highlights integrated Arc B390 GPU and OLED display",
+      "url": "https://www.youtube.com/watch?v=TEX0YlIwg6o",
+      "published_at": "2026-07-30T22:00:37+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
     {
       "id": "media:215017",
       "kind": "media",
@@ -6200,66 +6257,66 @@
       "brand": "Framework",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:178861",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo launches Yoga PC Edition headphones with ANC and 38-hour battery life",
-      "url": "https://www.notebookcheck.com/Lenovo-veroeffentlicht-Kopfhoerer-mit-ANC-und-bis-zu-38-Stunden-Laufzeit.1353039.0.html",
-      "published_at": "2026-07-27T15:38:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:94845",
-      "kind": "youtube",
-      "source": "Just Josh",
-      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework Laptop 13 Pro review: modular design, battery life and trade-offs",
-      "url": "https://www.youtube.com/watch?v=1wMWbZSVaKA",
-      "published_at": "2026-07-27T15:27:09+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:178863",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo's Legion 5 15AGP11 aims to offer affordable 32 GB RAM gaming laptop",
-      "url": "https://www.notebookcheck.com/Wie-Lenovo-versucht-diesen-Legion-Laptop-mit-32-GB-RAM-erschwinglich-zu-halten.1353055.0.html",
-      "published_at": "2026-07-27T15:24:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:102975",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Review of Lenovo Yoga Slim 7i Ultra FIFA Edition with OLED Display and 16h Battery",
+      "url": "https://www.youtube.com/watch?v=ZfeObOfPBzo",
+      "published_at": "2026-07-30T22:47:05+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:102720",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": false,
+      "title": "Why the MacBook Air M5 is worth every cent!",
+      "url": "https://www.youtube.com/watch?v=dJB23NXBXuc",
+      "published_at": "2026-07-30T22:15:07+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:102690",
+      "kind": "youtube",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell XPS 14 review highlights integrated Arc B390 GPU and OLED display",
+      "url": "https://www.youtube.com/watch?v=TEX0YlIwg6o",
+      "published_at": "2026-07-30T22:00:37+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
     {
       "id": "media:215017",
       "kind": "media",
