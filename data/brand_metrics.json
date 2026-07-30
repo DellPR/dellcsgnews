@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-30T18:34:18.055513+00:00",
-  "total_items": 1542,
+  "generated_at": "2026-07-30T19:10:09.774374+00:00",
+  "total_items": 1544,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 195,
-      "media": 187,
+      "total": 196,
+      "media": 188,
       "youtube": 8,
       "reviews": 4,
       "sponsored": 0,
@@ -42,14 +42,14 @@
           "count": 9
         },
         {
-          "source": "Tecnoblog",
+          "source": "Adrenaline",
           "count": 8
         }
       ],
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 124
+          "count": 125
         },
         {
           "section": "Competitor Coverage",
@@ -277,8 +277,8 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 113,
-      "media": 74,
+      "total": 114,
+      "media": 75,
       "youtube": 39,
       "reviews": 37,
       "sponsored": 6,
@@ -328,11 +328,11 @@
           "count": 23
         },
         {
-          "section": "Competitor Coverage",
-          "count": 1
+          "section": "Ecosystem",
+          "count": 2
         },
         {
-          "section": "Ecosystem",
+          "section": "Competitor Coverage",
           "count": 1
         },
         {
@@ -340,14 +340,14 @@
           "count": 1
         }
       ],
-      "avg_score": 90.3
+      "avg_score": 89.9
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 110,
+      "total": 109,
       "media": 63,
-      "youtube": 47,
+      "youtube": 46,
       "reviews": 43,
       "sponsored": 1,
       "dell_stories": 0,
@@ -389,7 +389,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 88
+          "count": 87
         },
         {
           "section": "Deals",
@@ -457,11 +457,11 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 72
+          "count": 71
         },
         {
           "section": "Deals",
-          "count": 19
+          "count": 20
         },
         {
           "section": "Competitor Coverage",
@@ -472,13 +472,13 @@
           "count": 3
         }
       ],
-      "avg_score": 60.2
+      "avg_score": 59.9
     },
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 103,
-      "media": 62,
+      "total": 102,
+      "media": 61,
       "youtube": 41,
       "reviews": 15,
       "sponsored": 0,
@@ -487,7 +487,7 @@
       "top_sources": [
         {
           "source": "Adrenaline",
-          "count": 9
+          "count": 8
         },
         {
           "source": "JayzTwoCents",
@@ -521,7 +521,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 95
+          "count": 94
         },
         {
           "section": "Competitor Coverage",
@@ -536,7 +536,7 @@
           "count": 1
         }
       ],
-      "avg_score": 68.1
+      "avg_score": 68.2
     },
     {
       "brand": "NVIDIA",
@@ -673,8 +673,8 @@
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 51,
-      "media": 35,
+      "total": 52,
+      "media": 36,
       "youtube": 16,
       "reviews": 8,
       "sponsored": 1,
@@ -683,7 +683,7 @@
       "top_sources": [
         {
           "source": "Wccftech",
-          "count": 5
+          "count": 6
         },
         {
           "source": "Notebookcheck Reviews",
@@ -717,7 +717,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 35
+          "count": 36
         },
         {
           "section": "Deals",
@@ -736,7 +736,7 @@
           "count": 1
         }
       ],
-      "avg_score": 63.9
+      "avg_score": 64.0
     },
     {
       "brand": "Alienware",
@@ -795,6 +795,58 @@
       "avg_score": 93.3
     },
     {
+      "brand": "Amazon",
+      "family": "Other",
+      "total": 38,
+      "media": 38,
+      "youtube": 0,
+      "reviews": 0,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 3,
+      "top_sources": [
+        {
+          "source": "Wccftech",
+          "count": 8
+        },
+        {
+          "source": "TechRadar",
+          "count": 6
+        },
+        {
+          "source": "Olhar Digital",
+          "count": 5
+        },
+        {
+          "source": "Clubic",
+          "count": 3
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 3
+        },
+        {
+          "source": "TudoCelular",
+          "count": 3
+        },
+        {
+          "source": "BFMTV Tech",
+          "count": 2
+        },
+        {
+          "source": "CNET",
+          "count": 1
+        }
+      ],
+      "sections": [
+        {
+          "section": "Deals",
+          "count": 38
+        }
+      ],
+      "avg_score": 34.6
+    },
+    {
       "brand": "Framework",
       "family": "PC competitors",
       "total": 38,
@@ -849,58 +901,6 @@
         }
       ],
       "avg_score": 69.0
-    },
-    {
-      "brand": "Amazon",
-      "family": "Other",
-      "total": 37,
-      "media": 37,
-      "youtube": 0,
-      "reviews": 0,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 3,
-      "top_sources": [
-        {
-          "source": "Wccftech",
-          "count": 7
-        },
-        {
-          "source": "TechRadar",
-          "count": 6
-        },
-        {
-          "source": "Olhar Digital",
-          "count": 5
-        },
-        {
-          "source": "Clubic",
-          "count": 3
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 3
-        },
-        {
-          "source": "TudoCelular",
-          "count": 3
-        },
-        {
-          "source": "BFMTV Tech",
-          "count": 2
-        },
-        {
-          "source": "CNET",
-          "count": 1
-        }
-      ],
-      "sections": [
-        {
-          "section": "Deals",
-          "count": 37
-        }
-      ],
-      "avg_score": 34.6
     },
     {
       "brand": "Qualcomm",
@@ -1459,7 +1459,7 @@
     {
       "month": "2026-06",
       "brands": {
-        "Valve": 28,
+        "Valve": 27,
         "Apple": 25,
         "Lenovo": 23,
         "Dell": 22,
@@ -1468,7 +1468,7 @@
         "MSI": 11,
         "HP": 10,
         "Intel": 10,
-        "AMD": 8,
+        "AMD": 7,
         "Acer": 7,
         "Samsung": 6,
         "Alienware": 4,
@@ -1480,19 +1480,19 @@
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 179,
+        "Microsoft": 180,
         "Apple": 140,
         "Lenovo": 136,
         "Intel": 106,
-        "AMD": 100,
-        "Dell": 86,
-        "Asus": 84,
+        "AMD": 101,
+        "Dell": 87,
+        "Asus": 83,
         "NVIDIA": 80,
         "Valve": 74,
         "HP": 47,
-        "MSI": 39,
+        "MSI": 40,
+        "Amazon": 38,
         "Framework": 38,
-        "Amazon": 37,
         "Qualcomm": 33,
         "Alienware": 31,
         "Samsung": 30
@@ -1500,6 +1500,101 @@
     }
   ],
   "recent": [
+    {
+      "id": "media:210543",
+      "kind": "media",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft confirms Copilot app integration of chat, AI, and programming features",
+      "url": "https://www.adrenaline.com.br/microsoft/microsoft-copilot-super-app-unico-chat-programacao/",
+      "published_at": "2026-07-30T18:27:02+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:210543",
+      "kind": "media",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft confirms Copilot app integration of chat, AI, and programming features",
+      "url": "https://www.adrenaline.com.br/microsoft/microsoft-copilot-super-app-unico-chat-programacao/",
+      "published_at": "2026-07-30T18:27:02+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:211370",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "AMD Ryzen 7 7800X3D and 9800X3D processors on sale with discounts",
+      "url": "https://wccftech.com/amd-ryzen-7-7800x3d-drops-339-amazon-deal-ryzen-9800x3d-422/",
+      "published_at": "2026-07-30T18:23:06+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:211370",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "AMD Ryzen 7 7800X3D and 9800X3D processors on sale with discounts",
+      "url": "https://wccftech.com/amd-ryzen-7-7800x3d-drops-339-amazon-deal-ryzen-9800x3d-422/",
+      "published_at": "2026-07-30T18:23:06+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Amazon",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:211372",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MSI Introduces High-Efficiency Mode to Reduce Memory Latency Without EXPO ULL",
+      "url": "https://wccftech.com/msi-rolls-out-high-efficiency-mode-for-standard-expo-ddr5-memory/",
+      "published_at": "2026-07-30T18:17:49+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "MSI",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:101595",
       "kind": "youtube",
@@ -1516,25 +1611,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:101836",
-      "kind": "youtube",
-      "source": "Windows Central",
-      "source_icon": "https://yt3.googleusercontent.com/P0pdwsoIDfx47wdkUsBe5Cw9FT5cDkUCcGUmJgR1_k2gywF6QkRKyK6PSTB7M7wCa_UXP9-hPHA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Gears of War: E-Day 'Horde Siege' mode is AMAZING | The Jez Preview",
-      "url": "https://www.youtube.com/watch?v=w-zimu9HgQ8",
-      "published_at": "2026-07-30T13:00:33+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -6173,85 +6249,104 @@
       "brand": "Google",
       "family": "Other",
       "is_dell_story": false
+    }
+  ],
+  "items": [
+    {
+      "id": "media:210543",
+      "kind": "media",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft confirms Copilot app integration of chat, AI, and programming features",
+      "url": "https://www.adrenaline.com.br/microsoft/microsoft-copilot-super-app-unico-chat-programacao/",
+      "published_at": "2026-07-30T18:27:02+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": false
     },
     {
-      "id": "media:174764",
+      "id": "media:210543",
+      "kind": "media",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft confirms Copilot app integration of chat, AI, and programming features",
+      "url": "https://www.adrenaline.com.br/microsoft/microsoft-copilot-super-app-unico-chat-programacao/",
+      "published_at": "2026-07-30T18:27:02+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:211370",
       "kind": "media",
       "source": "Wccftech",
       "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
       "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Intel server CPU prices rise 48% in Q2 due to premium product demand",
-      "url": "https://wccftech.com/intel-bets-on-premium-chips-and-the-gamble-pays-off-with-server-prices-jumping-48-in-q2/",
-      "published_at": "2026-07-27T10:06:15+00:00",
-      "score": 75,
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "AMD Ryzen 7 7800X3D and 9800X3D processors on sale with discounts",
+      "url": "https://wccftech.com/amd-ryzen-7-7800x3d-drops-339-amazon-deal-ryzen-9800x3d-422/",
+      "published_at": "2026-07-30T18:23:06+00:00",
+      "score": 35,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Intel",
+      "brand": "AMD",
       "family": "Ecosystem",
       "is_dell_story": false
     },
     {
-      "id": "media:174220",
+      "id": "media:211370",
       "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "AMD Ryzen 7 7800X3D and 9800X3D processors on sale with discounts",
+      "url": "https://wccftech.com/amd-ryzen-7-7800x3d-drops-339-amazon-deal-ryzen-9800x3d-422/",
+      "published_at": "2026-07-30T18:23:06+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Amazon",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:211372",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
       "country": "US",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "HyperX OMEN 15 gaming laptop reviewed with RTX 5070 and OLED display",
-      "url": "https://www.windowscentral.com/hardware/hp/hyperx-omen-15-intel-2026-review",
-      "published_at": "2026-07-27T10:00:00+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:175879",
-      "kind": "media",
-      "source": "Tom's Guide",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple user shares tips to avoid paying full price for devices",
-      "url": "https://www.tomsguide.com/computing/apple-desktops/ive-been-an-apple-user-for-30-years-and-these-are-my-golden-rules-to-never-pay-full-price",
-      "published_at": "2026-07-27T10:00:00+00:00",
+      "title": "MSI Introduces High-Efficiency Mode to Reduce Memory Latency Without EXPO ULL",
+      "url": "https://wccftech.com/msi-rolls-out-high-efficiency-mode-for-standard-expo-ddr5-memory/",
+      "published_at": "2026-07-30T18:17:49+00:00",
       "score": 65,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Apple",
+      "brand": "MSI",
       "family": "PC competitors",
       "is_dell_story": false
     },
-    {
-      "id": "media:175952",
-      "kind": "media",
-      "source": "Les Numériques",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus ExpertBook Ultra: Professional ultraportable with Tandem OLED and Intel Panther Lake",
-      "url": "https://www.lesnumeriques.com/ordinateur-portable/asus-expertbook-ultra-p77746/test.html",
-      "published_at": "2026-07-27T10:00:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    }
-  ],
-  "items": [
     {
       "id": "youtube:101595",
       "kind": "youtube",
@@ -6268,25 +6363,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:101836",
-      "kind": "youtube",
-      "source": "Windows Central",
-      "source_icon": "https://yt3.googleusercontent.com/P0pdwsoIDfx47wdkUsBe5Cw9FT5cDkUCcGUmJgR1_k2gywF6QkRKyK6PSTB7M7wCa_UXP9-hPHA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Gears of War: E-Day 'Horde Siege' mode is AMAZING | The Jez Preview",
-      "url": "https://www.youtube.com/watch?v=w-zimu9HgQ8",
-      "published_at": "2026-07-30T13:00:33+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -31881,44 +31957,6 @@
       "is_sponsored": false,
       "brand": "MSI",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:68404",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "AMD Introduces New Low-Power Zen 6 Core for Next-Gen CPUs",
-      "url": "https://wccftech.com/amd-zen-6-new-low-power-core-beyond-zen-6-and-zen-6c/",
-      "published_at": "2026-06-29T21:50:11+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:67662",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dbrand cancels Steam Machine accessory after Valve request",
-      "url": "https://www.adrenaline.com.br/hardware/dbrand-cancela-companion-cube-para-a-steam-machine-a-pedido-da-valve/",
-      "published_at": "2026-06-29T20:17:41+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
