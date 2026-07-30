@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-30T20:41:05.327835+00:00",
-  "total_items": 1547,
+  "generated_at": "2026-07-30T22:36:20.156686+00:00",
+  "total_items": 1550,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 193,
-      "media": 185,
+      "total": 190,
+      "media": 182,
       "youtube": 8,
       "reviews": 4,
       "sponsored": 0,
@@ -15,7 +15,7 @@
       "top_sources": [
         {
           "source": "Windows Central",
-          "count": 27
+          "count": 25
         },
         {
           "source": "WinFuture",
@@ -49,11 +49,11 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 122
+          "count": 121
         },
         {
           "section": "Competitor Coverage",
-          "count": 43
+          "count": 41
         },
         {
           "section": "Dell Coverage",
@@ -71,78 +71,10 @@
       "avg_score": 56.8
     },
     {
-      "brand": "Apple",
-      "family": "PC competitors",
-      "total": 174,
-      "media": 122,
-      "youtube": 52,
-      "reviews": 23,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 13,
-      "top_sources": [
-        {
-          "source": "Wccftech",
-          "count": 15
-        },
-        {
-          "source": "Digital Trends",
-          "count": 13
-        },
-        {
-          "source": "TechRadar",
-          "count": 13
-        },
-        {
-          "source": "Lipe Mal Estar",
-          "count": 7
-        },
-        {
-          "source": "The Verge",
-          "count": 7
-        },
-        {
-          "source": "Trusted Reviews",
-          "count": 7
-        },
-        {
-          "source": "WinFuture",
-          "count": 7
-        },
-        {
-          "source": "Engadget",
-          "count": 6
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 120
-        },
-        {
-          "section": "Deals",
-          "count": 29
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 11
-        },
-        {
-          "section": "Market Trends",
-          "count": 8
-        },
-        {
-          "section": "Ecosystem",
-          "count": 6
-        }
-      ],
-      "avg_score": 64.1
-    },
-    {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 174,
-      "media": 115,
+      "total": 176,
+      "media": 117,
       "youtube": 59,
       "reviews": 53,
       "sponsored": 5,
@@ -158,11 +90,11 @@
           "count": 12
         },
         {
-          "source": "Notebookcheck Reviews",
-          "count": 10
+          "source": "TechRadar",
+          "count": 11
         },
         {
-          "source": "TechRadar",
+          "source": "Notebookcheck Reviews",
           "count": 10
         },
         {
@@ -185,11 +117,11 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 138
+          "count": 139
         },
         {
           "section": "Deals",
-          "count": 30
+          "count": 31
         },
         {
           "section": "Dell Coverage",
@@ -204,7 +136,75 @@
           "count": 1
         }
       ],
-      "avg_score": 63.8
+      "avg_score": 63.7
+    },
+    {
+      "brand": "Apple",
+      "family": "PC competitors",
+      "total": 175,
+      "media": 123,
+      "youtube": 52,
+      "reviews": 23,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 13,
+      "top_sources": [
+        {
+          "source": "Wccftech",
+          "count": 15
+        },
+        {
+          "source": "Digital Trends",
+          "count": 13
+        },
+        {
+          "source": "TechRadar",
+          "count": 13
+        },
+        {
+          "source": "The Verge",
+          "count": 8
+        },
+        {
+          "source": "Lipe Mal Estar",
+          "count": 7
+        },
+        {
+          "source": "Trusted Reviews",
+          "count": 7
+        },
+        {
+          "source": "WinFuture",
+          "count": 7
+        },
+        {
+          "source": "Engadget",
+          "count": 6
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 121
+        },
+        {
+          "section": "Deals",
+          "count": 29
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 11
+        },
+        {
+          "section": "Market Trends",
+          "count": 8
+        },
+        {
+          "section": "Ecosystem",
+          "count": 6
+        }
+      ],
+      "avg_score": 64.1
     },
     {
       "brand": "Intel",
@@ -277,13 +277,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 113,
-      "media": 74,
+      "total": 114,
+      "media": 75,
       "youtube": 39,
       "reviews": 37,
       "sponsored": 6,
-      "dell_stories": 110,
-      "high_signal": 98,
+      "dell_stories": 111,
+      "high_signal": 99,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -291,7 +291,7 @@
         },
         {
           "source": "Windows Central",
-          "count": 8
+          "count": 9
         },
         {
           "source": "Futura",
@@ -321,7 +321,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 87
+          "count": 88
         },
         {
           "section": "Deals",
@@ -340,7 +340,7 @@
           "count": 1
         }
       ],
-      "avg_score": 90.4
+      "avg_score": 90.5
     },
     {
       "brand": "Asus",
@@ -413,8 +413,8 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 106,
-      "media": 100,
+      "total": 107,
+      "media": 101,
       "youtube": 6,
       "reviews": 7,
       "sponsored": 0,
@@ -423,7 +423,7 @@
       "top_sources": [
         {
           "source": "Wccftech",
-          "count": 21
+          "count": 22
         },
         {
           "source": "Tom's Hardware",
@@ -457,7 +457,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 71
+          "count": 72
         },
         {
           "section": "Deals",
@@ -609,8 +609,8 @@
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 57,
-      "media": 45,
+      "total": 56,
+      "media": 44,
       "youtube": 12,
       "reviews": 12,
       "sponsored": 1,
@@ -619,7 +619,7 @@
       "top_sources": [
         {
           "source": "TechRadar",
-          "count": 15
+          "count": 14
         },
         {
           "source": "Tom's Hardware",
@@ -652,11 +652,11 @@
       ],
       "sections": [
         {
-          "section": "Deals",
-          "count": 28
+          "section": "Competitor Coverage",
+          "count": 27
         },
         {
-          "section": "Competitor Coverage",
+          "section": "Deals",
           "count": 27
         },
         {
@@ -668,7 +668,7 @@
           "count": 1
         }
       ],
-      "avg_score": 53.8
+      "avg_score": 54.5
     },
     {
       "brand": "MSI",
@@ -849,8 +849,8 @@
     {
       "brand": "Framework",
       "family": "PC competitors",
-      "total": 38,
-      "media": 33,
+      "total": 39,
+      "media": 34,
       "youtube": 5,
       "reviews": 9,
       "sponsored": 0,
@@ -859,7 +859,7 @@
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
-          "count": 6
+          "count": 7
         },
         {
           "source": "Digital Trends",
@@ -893,14 +893,14 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 35
+          "count": 36
         },
         {
           "section": "Ecosystem",
           "count": 3
         }
       ],
-      "avg_score": 69.0
+      "avg_score": 68.9
     },
     {
       "brand": "Qualcomm",
@@ -1097,13 +1097,13 @@
     {
       "brand": "Razer",
       "family": "PC competitors",
-      "total": 9,
-      "media": 4,
+      "total": 10,
+      "media": 5,
       "youtube": 5,
       "reviews": 8,
       "sponsored": 0,
       "dell_stories": 0,
-      "high_signal": 1,
+      "high_signal": 2,
       "top_sources": [
         {
           "source": "Notebookcheck Reviews",
@@ -1142,9 +1142,13 @@
         {
           "section": "Competitor Coverage",
           "count": 9
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 1
         }
       ],
-      "avg_score": 74.4
+      "avg_score": 77.0
     },
     {
       "brand": "OpenAI",
@@ -1464,15 +1468,15 @@
       "month": "2026-06",
       "brands": {
         "Valve": 25,
-        "Apple": 23,
+        "Apple": 22,
         "Dell": 20,
         "Lenovo": 20,
         "Asus": 15,
-        "Microsoft": 11,
         "MSI": 10,
-        "HP": 8,
         "Intel": 8,
+        "Microsoft": 8,
         "Acer": 7,
+        "HP": 7,
         "Samsung": 5,
         "Alienware": 4,
         "NVIDIA": 4,
@@ -1485,18 +1489,18 @@
       "month": "2026-07",
       "brands": {
         "Microsoft": 182,
-        "Apple": 142,
-        "Lenovo": 142,
+        "Apple": 144,
+        "Lenovo": 144,
         "Intel": 109,
-        "AMD": 103,
-        "Dell": 88,
+        "AMD": 104,
+        "Dell": 89,
         "Asus": 86,
         "NVIDIA": 82,
         "Valve": 75,
         "HP": 47,
         "MSI": 42,
         "Amazon": 41,
-        "Framework": 38,
+        "Framework": 39,
         "Qualcomm": 33,
         "Alienware": 32,
         "Samsung": 30
@@ -1504,6 +1508,139 @@
     }
   ],
   "recent": [
+    {
+      "id": "media:215017",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MacBook Neo Drives Apple's Mac Revenue Growth in Q3 2026",
+      "url": "https://wccftech.com/macbook-neo-apple-q3-2026-mac-revenue-champion/",
+      "published_at": "2026-07-30T21:43:59+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:214784",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ThinkPad designers use 'magenta' to save TrackPoint's red dot from IBM",
+      "url": "https://www.techradar.com/pro/its-not-red-its-magenta-how-thinkpad-designers-gaslit-ibm-to-save-the-iconic-trackpoint",
+      "published_at": "2026-07-30T21:05:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:214384",
+      "kind": "media",
+      "source": "The Verge",
+      "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple's iPhone and Mac sales grow despite RAM shortages",
+      "url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
+      "published_at": "2026-07-30T20:49:32+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:215433",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Framework Laptop 13 Pro features 800-nit IPS touchscreen",
+      "url": "https://www.notebookcheck.com/Framework-Laptop-13-Pro-bietet-mit-fast-800-Nits-einen-der-hellsten-IPS-Touchscreens.1354559.0.html",
+      "published_at": "2026-07-30T20:26:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:214464",
+      "kind": "media",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Razer launches Huntsman V3 HE Magnetic keyboard with adjustable actuation and Synapse integration",
+      "url": "https://www.windowscentral.com/accessories/keyboards/razer-huntsman-v3-he-magnetic-review-2026",
+      "published_at": "2026-07-30T19:43:37+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "media:214464",
+      "kind": "media",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Razer launches Huntsman V3 HE Magnetic keyboard with adjustable actuation and Synapse integration",
+      "url": "https://www.windowscentral.com/accessories/keyboards/razer-huntsman-v3-he-magnetic-review-2026",
+      "published_at": "2026-07-30T19:43:37+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Razer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:215019",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "AMD Enables Zen 6 Client Support in Linux for Olympic Ridge and Medusa Chips",
+      "url": "https://wccftech.com/amd-seeds-zen-6-client-support-in-linux-olympic-ridge-desktops-medusa-mobile-ryzen-chips/",
+      "published_at": "2026-07-30T19:05:19+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:210543",
       "kind": "media",
@@ -2204,6 +2341,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:215333",
+      "kind": "media",
+      "source": "BFMTV Tech",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Lenovo laptop discounted at Boulanger during sale",
+      "url": "https://www.bfmtv.com/tech/bons-plans/a-prix-brade-ce-pc-portable-frole-la-rupture-de-stock-chez-boulanger-depuis-hier_AB-202607300003.html",
+      "published_at": "2026-07-30T11:54:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -6101,9 +6257,125 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
+    }
+  ],
+  "items": [
+    {
+      "id": "media:215017",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MacBook Neo Drives Apple's Mac Revenue Growth in Q3 2026",
+      "url": "https://wccftech.com/macbook-neo-apple-q3-2026-mac-revenue-champion/",
+      "published_at": "2026-07-30T21:43:59+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
-      "id": "media:178433",
+      "id": "media:214784",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ThinkPad designers use 'magenta' to save TrackPoint's red dot from IBM",
+      "url": "https://www.techradar.com/pro/its-not-red-its-magenta-how-thinkpad-designers-gaslit-ibm-to-save-the-iconic-trackpoint",
+      "published_at": "2026-07-30T21:05:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:214384",
+      "kind": "media",
+      "source": "The Verge",
+      "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple's iPhone and Mac sales grow despite RAM shortages",
+      "url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
+      "published_at": "2026-07-30T20:49:32+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:215433",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Framework Laptop 13 Pro features 800-nit IPS touchscreen",
+      "url": "https://www.notebookcheck.com/Framework-Laptop-13-Pro-bietet-mit-fast-800-Nits-einen-der-hellsten-IPS-Touchscreens.1354559.0.html",
+      "published_at": "2026-07-30T20:26:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:214464",
+      "kind": "media",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Razer launches Huntsman V3 HE Magnetic keyboard with adjustable actuation and Synapse integration",
+      "url": "https://www.windowscentral.com/accessories/keyboards/razer-huntsman-v3-he-magnetic-review-2026",
+      "published_at": "2026-07-30T19:43:37+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "media:214464",
+      "kind": "media",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Razer launches Huntsman V3 HE Magnetic keyboard with adjustable actuation and Synapse integration",
+      "url": "https://www.windowscentral.com/accessories/keyboards/razer-huntsman-v3-he-magnetic-review-2026",
+      "published_at": "2026-07-30T19:43:37+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Razer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:215019",
       "kind": "media",
       "source": "Wccftech",
       "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
@@ -6111,151 +6383,16 @@
       "section": "Ecosystem",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Intel 18A-P and 14A certified with Cadence's EDA tools",
-      "url": "https://wccftech.com/intel-18a-p-14a-gain-cadence-full-eda-toolchain-tightening-the-ecosystem-push/",
-      "published_at": "2026-07-27T15:20:05+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:178375",
-      "kind": "media",
-      "source": "TechSpot",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "AMD Ryzen 9 9950X3D now available at $569",
-      "url": "https://www.techspot.com/specs/cpu/305471-amd-ryzen-9-9950x3d.html",
-      "published_at": "2026-07-27T15:15:00+00:00",
-      "score": 50,
+      "title": "AMD Enables Zen 6 Client Support in Linux for Olympic Ridge and Medusa Chips",
+      "url": "https://wccftech.com/amd-seeds-zen-6-client-support-in-linux-olympic-ridge-desktops-medusa-mobile-ryzen-chips/",
+      "published_at": "2026-07-30T19:05:19+00:00",
+      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "brand": "AMD",
       "family": "Ecosystem",
       "is_dell_story": false
     },
-    {
-      "id": "media:178601",
-      "kind": "media",
-      "source": "Ars Technica",
-      "source_icon": "",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework Laptop 13 Pro review highlights improved battery but higher price",
-      "url": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-      "published_at": "2026-07-27T15:02:45+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:178125",
-      "kind": "media",
-      "source": "HotHardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "NVIDIA launches Open Secure AI Alliance with tech giants",
-      "url": "https://hothardware.com/news/nvidia-open-source-ai-alliance",
-      "published_at": "2026-07-27T15:02:00+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:178125",
-      "kind": "media",
-      "source": "HotHardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "NVIDIA launches Open Secure AI Alliance with tech giants",
-      "url": "https://hothardware.com/news/nvidia-open-source-ai-alliance",
-      "published_at": "2026-07-27T15:02:00+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:94875",
-      "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "I stole Linus’ Framework 13 Pro to put Linux on it",
-      "url": "https://www.youtube.com/watch?v=8LILAmXzopk",
-      "published_at": "2026-07-27T15:01:23+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:94860",
-      "kind": "youtube",
-      "source": "Linus Tech Tips",
-      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework Pro 13 review: modular laptop promise, repairability and battery life",
-      "url": "https://www.youtube.com/watch?v=JQb9eGeclQw",
-      "published_at": "2026-07-27T15:00:11+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:95475",
-      "kind": "youtube",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer Aspire 5 budget-friendly laptop for basic use",
-      "url": "https://www.youtube.com/shorts/CdTn2OiAE_0",
-      "published_at": "2026-07-27T15:00:11+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    }
-  ],
-  "items": [
     {
       "id": "media:210543",
       "kind": "media",
@@ -6956,6 +7093,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:215333",
+      "kind": "media",
+      "source": "BFMTV Tech",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Lenovo laptop discounted at Boulanger during sale",
+      "url": "https://www.bfmtv.com/tech/bons-plans/a-prix-brade-ce-pc-portable-frole-la-rupture-de-stock-chez-boulanger-depuis-hier_AB-202607300003.html",
+      "published_at": "2026-07-30T11:54:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -31888,44 +32044,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:71083",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft prunes Surface budget lineup as Laptop Go 3 and Go 4 exit stock",
-      "url": "https://www.tomshardware.com/laptops/microsofts-flagship-windows-pc-lineup-will-drop-reportedly-drop-budget-options-firm-prunes-surface-go-and-surface-laptop-go",
-      "published_at": "2026-06-30T16:41:31+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:71441",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "HP offers 4th of July PC accessory deals",
-      "url": "https://www.techradar.com/pro/declare-independence-from-slow-outdated-tech-with-these-11-unmissable-4th-of-july-pc-accessory-deals-from-hp",
-      "published_at": "2026-06-30T15:10:00+00:00",
-      "score": 15,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:45985",
       "kind": "youtube",
       "source": "Austin Evans",
@@ -31945,25 +32063,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:71135",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Critical zero-day exploit bypasses Microsoft Defender in Windows 10 and 11",
-      "url": "https://www.windowscentral.com/microsoft/a-critical-exploit-bypasses-microsoft-defender-in-windows",
-      "published_at": "2026-06-30T15:03:37+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:46015",
       "kind": "youtube",
       "source": "Max Tech",
@@ -31976,44 +32075,6 @@
       "url": "https://www.youtube.com/watch?v=DBymUhg7kvc",
       "published_at": "2026-06-30T15:00:11+00:00",
       "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:71136",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft discontinues Surface Go and Surface Laptop Go lines",
-      "url": "https://www.windowscentral.com/hardware/surface/surface-go-and-surface-laptop-go-are-dead-microsofts-budget-surface-pcs-are-the-last-to-be-cut-from-its-portfolio",
-      "published_at": "2026-06-30T14:58:51+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:71627",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Laptop buyer avoids Apple ecosystem but ends up with MacBook Air due to value",
-      "url": "https://wccftech.com/laptop-hunter-who-wanted-windows-laptop-got-m5-macbook-air-because-of-its-value/",
-      "published_at": "2026-06-30T14:42:30+00:00",
-      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
