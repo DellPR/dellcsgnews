@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T22:32:45.741902+00:00",
-  "total_items": 1556,
+  "generated_at": "2026-07-31T23:39:42.868871+00:00",
+  "total_items": 1560,
   "brands": [
     {
       "brand": "Microsoft",
@@ -144,10 +144,10 @@
       "total": 173,
       "media": 121,
       "youtube": 52,
-      "reviews": 28,
-      "sponsored": 0,
+      "reviews": 29,
+      "sponsored": 1,
       "dell_stories": 0,
-      "high_signal": 11,
+      "high_signal": 13,
       "top_sources": [
         {
           "source": "Digital Trends",
@@ -166,12 +166,12 @@
           "count": 9
         },
         {
-          "source": "Lipe Mal Estar",
+          "source": "Trusted Reviews",
           "count": 8
         },
         {
-          "source": "Trusted Reviews",
-          "count": 8
+          "source": "Lipe Mal Estar",
+          "count": 7
         },
         {
           "source": "WinFuture",
@@ -189,11 +189,11 @@
         },
         {
           "section": "Deals",
-          "count": 28
+          "count": 26
         },
         {
           "section": "Dell Coverage",
-          "count": 9
+          "count": 11
         },
         {
           "section": "Market Trends",
@@ -204,7 +204,7 @@
           "count": 5
         }
       ],
-      "avg_score": 64.3
+      "avg_score": 65.2
     },
     {
       "brand": "Intel",
@@ -275,12 +275,80 @@
       "avg_score": 65.1
     },
     {
+      "brand": "Dell",
+      "family": "Dell family",
+      "total": 117,
+      "media": 76,
+      "youtube": 41,
+      "reviews": 43,
+      "sponsored": 6,
+      "dell_stories": 113,
+      "high_signal": 102,
+      "top_sources": [
+        {
+          "source": "TechRadar",
+          "count": 10
+        },
+        {
+          "source": "Windows Central",
+          "count": 9
+        },
+        {
+          "source": "Futura",
+          "count": 6
+        },
+        {
+          "source": "Digital Trends",
+          "count": 5
+        },
+        {
+          "source": "Techaeris",
+          "count": 5
+        },
+        {
+          "source": "Tom's Guide",
+          "count": 5
+        },
+        {
+          "source": "Lipe Mal Estar",
+          "count": 4
+        },
+        {
+          "source": "Notebookcheck Reviews",
+          "count": 4
+        }
+      ],
+      "sections": [
+        {
+          "section": "Dell Coverage",
+          "count": 91
+        },
+        {
+          "section": "Deals",
+          "count": 21
+        },
+        {
+          "section": "Ecosystem",
+          "count": 3
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 1
+        },
+        {
+          "section": "Market Trends",
+          "count": 1
+        }
+      ],
+      "avg_score": 91.0
+    },
+    {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 115,
+      "total": 116,
       "media": 68,
-      "youtube": 47,
-      "reviews": 46,
+      "youtube": 48,
+      "reviews": 47,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 9,
@@ -321,7 +389,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 92
+          "count": 93
         },
         {
           "section": "Deals",
@@ -341,74 +409,6 @@
         }
       ],
       "avg_score": 66.5
-    },
-    {
-      "brand": "Dell",
-      "family": "Dell family",
-      "total": 114,
-      "media": 76,
-      "youtube": 38,
-      "reviews": 42,
-      "sponsored": 4,
-      "dell_stories": 110,
-      "high_signal": 99,
-      "top_sources": [
-        {
-          "source": "TechRadar",
-          "count": 10
-        },
-        {
-          "source": "Windows Central",
-          "count": 9
-        },
-        {
-          "source": "Futura",
-          "count": 6
-        },
-        {
-          "source": "Digital Trends",
-          "count": 5
-        },
-        {
-          "source": "Techaeris",
-          "count": 5
-        },
-        {
-          "source": "Tom's Guide",
-          "count": 5
-        },
-        {
-          "source": "Lipe Mal Estar",
-          "count": 4
-        },
-        {
-          "source": "PCWorld",
-          "count": 4
-        }
-      ],
-      "sections": [
-        {
-          "section": "Dell Coverage",
-          "count": 88
-        },
-        {
-          "section": "Deals",
-          "count": 21
-        },
-        {
-          "section": "Ecosystem",
-          "count": 3
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 1
-        },
-        {
-          "section": "Market Trends",
-          "count": 1
-        }
-      ],
-      "avg_score": 90.9
     },
     {
       "brand": "AMD",
@@ -1466,8 +1466,8 @@
         "Valve": 24,
         "Apple": 20,
         "Lenovo": 20,
-        "Dell": 16,
-        "Asus": 15,
+        "Dell": 19,
+        "Asus": 16,
         "MSI": 10,
         "Intel": 7,
         "Acer": 6,
@@ -34206,25 +34206,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:11851",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Affiliate-promoted MacBook Air M5 as work-focused value proposition",
-      "url": "https://www.youtube.com/watch?v=eB-K47LuegI",
-      "published_at": "2026-06-16T22:37:21+00:00",
-      "score": 10,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:38879",
       "kind": "youtube",
       "source": "Qual Notebook Comprar?",
@@ -34244,21 +34225,116 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:11386",
+      "id": "youtube:104644",
       "kind": "youtube",
-      "source": "Marques Brownlee (MKBHD)",
-      "source_icon": "https://yt3.googleusercontent.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Touch-sensitive MacBook displays and volumetric hologram tech discussed",
-      "url": "https://www.youtube.com/watch?v=WOzcFkld6_g",
-      "published_at": "2026-06-16T18:17:15+00:00",
-      "score": 15,
-      "is_review": false,
+      "source": "Dave2D",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell XPS 13 vs MacBook Neo: A detailed comparison review",
+      "url": "https://www.youtube.com/watch?v=Z5XOhPfIgho",
+      "published_at": "2026-06-16T13:46:25+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:104644",
+      "kind": "youtube",
+      "source": "Dave2D",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell XPS 13 vs MacBook Neo: A detailed comparison review",
+      "url": "https://www.youtube.com/watch?v=Z5XOhPfIgho",
+      "published_at": "2026-06-16T13:46:25+00:00",
+      "score": 100,
+      "is_review": true,
       "is_sponsored": false,
       "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:104645",
+      "kind": "youtube",
+      "source": "Dave2D",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "of Dell XPS 13 at $599, compared to MacBook Neo",
+      "url": "https://www.youtube.com/shorts/eix1m_BY3Ts",
+      "published_at": "2026-06-16T13:02:38+00:00",
+      "score": 90,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:104645",
+      "kind": "youtube",
+      "source": "Dave2D",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "of Dell XPS 13 at $599, compared to MacBook Neo",
+      "url": "https://www.youtube.com/shorts/eix1m_BY3Ts",
+      "published_at": "2026-06-16T13:02:38+00:00",
+      "score": 90,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:105009",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell XPS 13 2026 review: Affordable, lightweight, and reliable for everyday use",
+      "url": "https://www.youtube.com/watch?v=EP53It6loP8",
+      "published_at": "2026-06-16T13:02:33+00:00",
+      "score": 95,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:105031",
+      "kind": "youtube",
+      "source": "Jarrod's Tech",
+      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "AU",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS G16 2026 review: Thinner design, improved battery, and RTX 5080 performance",
+      "url": "https://www.youtube.com/watch?v=SMCR3nhNcVs",
+      "published_at": "2026-06-16T11:30:02+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
