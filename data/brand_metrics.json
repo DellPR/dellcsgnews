@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T20:31:40.328047+00:00",
-  "total_items": 1555,
+  "generated_at": "2026-07-31T22:32:45.741902+00:00",
+  "total_items": 1556,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 191,
-      "media": 183,
+      "total": 192,
+      "media": 184,
       "youtube": 8,
       "reviews": 5,
       "sponsored": 0,
@@ -42,14 +42,14 @@
           "count": 9
         },
         {
-          "source": "Adrenaline",
-          "count": 8
+          "source": "XDA Developers",
+          "count": 9
         }
       ],
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 125
+          "count": 126
         },
         {
           "section": "Competitor Coverage",
@@ -68,7 +68,7 @@
           "count": 7
         }
       ],
-      "avg_score": 56.2
+      "avg_score": 56.1
     },
     {
       "brand": "Lenovo",
@@ -277,8 +277,8 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 114,
-      "media": 67,
+      "total": 115,
+      "media": 68,
       "youtube": 47,
       "reviews": 46,
       "sponsored": 1,
@@ -314,8 +314,8 @@
           "count": 6
         },
         {
-          "source": "Tech BR",
-          "count": 5
+          "source": "TudoCelular",
+          "count": 6
         }
       ],
       "sections": [
@@ -325,7 +325,7 @@
         },
         {
           "section": "Deals",
-          "count": 16
+          "count": 17
         },
         {
           "section": "Dell Coverage",
@@ -340,7 +340,7 @@
           "count": 1
         }
       ],
-      "avg_score": 66.8
+      "avg_score": 66.5
     },
     {
       "brand": "Dell",
@@ -477,8 +477,8 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 101,
-      "media": 59,
+      "total": 100,
+      "media": 58,
       "youtube": 42,
       "reviews": 17,
       "sponsored": 0,
@@ -487,7 +487,7 @@
       "top_sources": [
         {
           "source": "Adrenaline",
-          "count": 8
+          "count": 7
         },
         {
           "source": "JayzTwoCents",
@@ -521,7 +521,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 92
+          "count": 91
         },
         {
           "section": "Competitor Coverage",
@@ -536,7 +536,7 @@
           "count": 1
         }
       ],
-      "avg_score": 68.2
+      "avg_score": 68.1
     },
     {
       "brand": "NVIDIA",
@@ -1484,15 +1484,15 @@
     {
       "month": "2026-07",
       "brands": {
-        "Microsoft": 185,
+        "Microsoft": 186,
         "Apple": 144,
         "Lenovo": 144,
         "Intel": 111,
         "AMD": 104,
         "Dell": 93,
-        "Asus": 90,
+        "Asus": 91,
         "NVIDIA": 83,
-        "Valve": 76,
+        "Valve": 75,
         "HP": 47,
         "MSI": 43,
         "Amazon": 40,
@@ -1504,6 +1504,25 @@
     }
   ],
   "recent": [
+    {
+      "id": "media:225711",
+      "kind": "media",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft prioritizes fixing Windows 11's major issues",
+      "url": "https://www.xda-developers.com/microsoft-is-finally-making-fixing-windows-11s-biggest-problems-priority/",
+      "published_at": "2026-07-31T19:06:06+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:221574",
       "kind": "media",
@@ -1843,6 +1862,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:225208",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Asus Vivobook Go 15 priced under R$2,700 with Ryzen and 256GB storage",
+      "url": "https://www.tudocelular.com/asus/noticias/n259832/oferta-asus-vivobook-go-15-notebook-barato-resiste.html",
+      "published_at": "2026-07-31T14:08:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -6215,47 +6253,28 @@
       "brand": "MSI",
       "family": "PC competitors",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:185312",
+      "id": "media:225711",
       "kind": "media",
-      "source": "VideoCardz",
-      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
       "country": "US",
       "section": "Ecosystem",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Unreleased Intel Core i9-14901KE reaches 7.4 GHz in OC test",
-      "url": "https://videocardz.com/newz/unreleased-core-i9-14901ke-8-p-core-intel-cpu-reaches-7-4-ghz-in-oc-test",
-      "published_at": "2026-07-28T11:27:27+00:00",
-      "score": 65,
+      "title": "Microsoft prioritizes fixing Windows 11's major issues",
+      "url": "https://www.xda-developers.com/microsoft-is-finally-making-fixing-windows-11s-biggest-problems-priority/",
+      "published_at": "2026-07-31T19:06:06+00:00",
+      "score": 50,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:185271",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Gaming industry updates on GPU supply and cool tech picks",
-      "url": "https://www.pcworld.com/article/3199834/chinas-ram-boom-is-here-your-cheap-pc-is-not.html",
-      "published_at": "2026-07-28T11:15:00+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
+      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "media:221574",
       "kind": "media",
@@ -6595,6 +6614,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:225208",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Asus Vivobook Go 15 priced under R$2,700 with Ryzen and 256GB storage",
+      "url": "https://www.tudocelular.com/asus/noticias/n259832/oferta-asus-vivobook-go-15-notebook-barato-resiste.html",
+      "published_at": "2026-07-31T14:08:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -31885,25 +31923,6 @@
       "is_sponsored": false,
       "brand": "Apple",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:75147",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Steam Machine performance impacted by single-channel RAM configuration",
-      "url": "https://www.adrenaline.com.br/games/steam-machine-e-prejudicada-por-aposta-em-pente-unico-de-ram/",
-      "published_at": "2026-07-01T20:26:45+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
