@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:39:42.868871+00:00",
+  "generated_at": "2026-08-01T19:08:32.568180+00:00",
   "total_items": 1560,
   "brands": [
     {
@@ -141,9 +141,9 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 173,
+      "total": 174,
       "media": 121,
-      "youtube": 52,
+      "youtube": 53,
       "reviews": 29,
       "sponsored": 1,
       "dell_stories": 0,
@@ -189,7 +189,7 @@
         },
         {
           "section": "Deals",
-          "count": 26
+          "count": 27
         },
         {
           "section": "Dell Coverage",
@@ -204,7 +204,7 @@
           "count": 5
         }
       ],
-      "avg_score": 65.2
+      "avg_score": 64.9
     },
     {
       "brand": "Intel",
@@ -275,74 +275,6 @@
       "avg_score": 65.1
     },
     {
-      "brand": "Dell",
-      "family": "Dell family",
-      "total": 117,
-      "media": 76,
-      "youtube": 41,
-      "reviews": 43,
-      "sponsored": 6,
-      "dell_stories": 113,
-      "high_signal": 102,
-      "top_sources": [
-        {
-          "source": "TechRadar",
-          "count": 10
-        },
-        {
-          "source": "Windows Central",
-          "count": 9
-        },
-        {
-          "source": "Futura",
-          "count": 6
-        },
-        {
-          "source": "Digital Trends",
-          "count": 5
-        },
-        {
-          "source": "Techaeris",
-          "count": 5
-        },
-        {
-          "source": "Tom's Guide",
-          "count": 5
-        },
-        {
-          "source": "Lipe Mal Estar",
-          "count": 4
-        },
-        {
-          "source": "Notebookcheck Reviews",
-          "count": 4
-        }
-      ],
-      "sections": [
-        {
-          "section": "Dell Coverage",
-          "count": 91
-        },
-        {
-          "section": "Deals",
-          "count": 21
-        },
-        {
-          "section": "Ecosystem",
-          "count": 3
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 1
-        },
-        {
-          "section": "Market Trends",
-          "count": 1
-        }
-      ],
-      "avg_score": 91.0
-    },
-    {
       "brand": "Asus",
       "family": "PC competitors",
       "total": 116,
@@ -409,6 +341,74 @@
         }
       ],
       "avg_score": 66.5
+    },
+    {
+      "brand": "Dell",
+      "family": "Dell family",
+      "total": 116,
+      "media": 76,
+      "youtube": 40,
+      "reviews": 43,
+      "sponsored": 6,
+      "dell_stories": 112,
+      "high_signal": 101,
+      "top_sources": [
+        {
+          "source": "TechRadar",
+          "count": 10
+        },
+        {
+          "source": "Windows Central",
+          "count": 9
+        },
+        {
+          "source": "Futura",
+          "count": 6
+        },
+        {
+          "source": "Digital Trends",
+          "count": 5
+        },
+        {
+          "source": "Techaeris",
+          "count": 5
+        },
+        {
+          "source": "Tom's Guide",
+          "count": 5
+        },
+        {
+          "source": "Lipe Mal Estar",
+          "count": 4
+        },
+        {
+          "source": "Notebookcheck Reviews",
+          "count": 4
+        }
+      ],
+      "sections": [
+        {
+          "section": "Dell Coverage",
+          "count": 90
+        },
+        {
+          "section": "Deals",
+          "count": 21
+        },
+        {
+          "section": "Ecosystem",
+          "count": 3
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 1
+        },
+        {
+          "section": "Market Trends",
+          "count": 1
+        }
+      ],
+      "avg_score": 91.1
     },
     {
       "brand": "AMD",
@@ -1464,9 +1464,9 @@
       "month": "2026-06",
       "brands": {
         "Valve": 24,
-        "Apple": 20,
+        "Apple": 21,
         "Lenovo": 20,
-        "Dell": 19,
+        "Dell": 18,
         "Asus": 16,
         "MSI": 10,
         "Intel": 7,
@@ -34168,25 +34168,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:13831",
-      "kind": "youtube",
-      "source": "Dudu Rocha",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_nPR5JCvQo99CWJ1cE3wYrTmhYrMirZ2GHBaTdrZVZ4iCc=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell Pro Plus headset first look",
-      "url": "https://www.youtube.com/watch?v=U12yEla5NnI",
-      "published_at": "2026-06-17T18:15:50+00:00",
-      "score": 86,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "youtube:48976",
       "kind": "youtube",
       "source": "Crimson Tech",
@@ -34218,6 +34199,25 @@
       "url": "https://www.youtube.com/shorts/WymvsD96KPA",
       "published_at": "2026-06-16T19:48:30+00:00",
       "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:105851",
+      "kind": "youtube",
+      "source": "Marques Brownlee (MKBHD)",
+      "source_icon": "https://yt3.googleusercontent.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Dope Tech: Magic Screen, Volumetric Display, and CHEF iQ Oven",
+      "url": "https://www.youtube.com/watch?v=WOzcFkld6_g",
+      "published_at": "2026-06-16T18:17:15+00:00",
+      "score": 10,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
