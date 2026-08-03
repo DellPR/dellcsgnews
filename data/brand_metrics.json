@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-03T16:38:41.181173+00:00",
-  "total_items": 1434,
+  "generated_at": "2026-08-03T18:23:51.862174+00:00",
+  "total_items": 1464,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 182,
+      "total": 184,
       "media": 129,
-      "youtube": 53,
-      "reviews": 30,
+      "youtube": 55,
+      "reviews": 32,
       "sponsored": 1,
       "dell_stories": 0,
-      "high_signal": 14,
+      "high_signal": 15,
       "top_sources": [
         {
           "source": "Wccftech",
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 119
+          "count": 121
         },
         {
           "section": "Deals",
@@ -68,7 +68,7 @@
           "count": 5
         }
       ],
-      "avg_score": 61.3
+      "avg_score": 61.5
     },
     {
       "brand": "Microsoft",
@@ -141,13 +141,13 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 162,
+      "total": 168,
       "media": 104,
-      "youtube": 58,
-      "reviews": 42,
-      "sponsored": 4,
+      "youtube": 64,
+      "reviews": 46,
+      "sponsored": 5,
       "dell_stories": 0,
-      "high_signal": 10,
+      "high_signal": 12,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -159,6 +159,10 @@
         },
         {
           "source": "Notebookcheck Reviews",
+          "count": 8
+        },
+        {
+          "source": "Qual Notebook Comprar?",
           "count": 8
         },
         {
@@ -176,16 +180,12 @@
         {
           "source": "Just Josh",
           "count": 7
-        },
-        {
-          "source": "Qual Notebook Comprar?",
-          "count": 7
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 128
+          "count": 132
         },
         {
           "section": "Deals",
@@ -193,26 +193,26 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 3
+          "count": 4
+        },
+        {
+          "section": "Market Trends",
+          "count": 2
         },
         {
           "section": "Ecosystem",
           "count": 1
-        },
-        {
-          "section": "Market Trends",
-          "count": 1
         }
       ],
-      "avg_score": 63.0
+      "avg_score": 63.7
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 102,
+      "total": 107,
       "media": 57,
-      "youtube": 45,
-      "reviews": 37,
+      "youtube": 50,
+      "reviews": 42,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 9,
@@ -246,14 +246,14 @@
           "count": 5
         },
         {
-          "source": "Tech BR",
+          "source": "LaptopMedia",
           "count": 5
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 79
+          "count": 84
         },
         {
           "section": "Deals",
@@ -272,18 +272,18 @@
           "count": 1
         }
       ],
-      "avg_score": 65.4
+      "avg_score": 65.7
     },
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 101,
+      "total": 104,
       "media": 63,
-      "youtube": 38,
-      "reviews": 41,
-      "sponsored": 5,
-      "dell_stories": 98,
-      "high_signal": 89,
+      "youtube": 41,
+      "reviews": 43,
+      "sponsored": 6,
+      "dell_stories": 101,
+      "high_signal": 92,
       "top_sources": [
         {
           "source": "Futura",
@@ -292,6 +292,10 @@
         {
           "source": "TechRadar",
           "count": 6
+        },
+        {
+          "source": "Digital Trends",
+          "count": 5
         },
         {
           "source": "Techaeris",
@@ -306,22 +310,18 @@
           "count": 5
         },
         {
-          "source": "Digital Trends",
-          "count": 4
-        },
-        {
           "source": "Lipe Mal Estar",
           "count": 4
         },
         {
-          "source": "Tom's Hardware",
+          "source": "Notebookcheck Reviews",
           "count": 4
         }
       ],
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 78
+          "count": 81
         },
         {
           "section": "Deals",
@@ -340,7 +340,7 @@
           "count": 1
         }
       ],
-      "avg_score": 91.8
+      "avg_score": 91.6
     },
     {
       "brand": "AMD",
@@ -477,13 +477,13 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 83,
+      "total": 84,
       "media": 67,
-      "youtube": 16,
-      "reviews": 9,
+      "youtube": 17,
+      "reviews": 10,
       "sponsored": 4,
       "dell_stories": 0,
-      "high_signal": 6,
+      "high_signal": 7,
       "top_sources": [
         {
           "source": "Tom's Hardware",
@@ -532,15 +532,15 @@
           "count": 11
         },
         {
-          "section": "Dell Coverage",
-          "count": 2
+          "section": "Market Trends",
+          "count": 3
         },
         {
-          "section": "Market Trends",
+          "section": "Dell Coverage",
           "count": 2
         }
       ],
-      "avg_score": 65.8
+      "avg_score": 66.2
     },
     {
       "brand": "Valve",
@@ -605,6 +605,74 @@
         }
       ],
       "avg_score": 68.5
+    },
+    {
+      "brand": "HP",
+      "family": "PC competitors",
+      "total": 54,
+      "media": 37,
+      "youtube": 17,
+      "reviews": 16,
+      "sponsored": 1,
+      "dell_stories": 0,
+      "high_signal": 1,
+      "top_sources": [
+        {
+          "source": "TechRadar",
+          "count": 12
+        },
+        {
+          "source": "LaptopMedia",
+          "count": 6
+        },
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 4
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 4
+        },
+        {
+          "source": "Windows Central",
+          "count": 4
+        },
+        {
+          "source": "Crimson Tech",
+          "count": 3
+        },
+        {
+          "source": "Just Josh",
+          "count": 2
+        },
+        {
+          "source": "Linus Tech Tips",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 32
+        },
+        {
+          "section": "Deals",
+          "count": 19
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 1
+        },
+        {
+          "section": "Ecosystem",
+          "count": 1
+        },
+        {
+          "section": "Market Trends",
+          "count": 1
+        }
+      ],
+      "avg_score": 57.3
     },
     {
       "brand": "MSI",
@@ -727,80 +795,12 @@
       "avg_score": 21.4
     },
     {
-      "brand": "HP",
-      "family": "PC competitors",
-      "total": 48,
-      "media": 37,
-      "youtube": 11,
-      "reviews": 10,
-      "sponsored": 1,
-      "dell_stories": 0,
-      "high_signal": 1,
-      "top_sources": [
-        {
-          "source": "TechRadar",
-          "count": 12
-        },
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 4
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 4
-        },
-        {
-          "source": "Windows Central",
-          "count": 4
-        },
-        {
-          "source": "Crimson Tech",
-          "count": 3
-        },
-        {
-          "source": "Just Josh",
-          "count": 2
-        },
-        {
-          "source": "Linus Tech Tips",
-          "count": 2
-        },
-        {
-          "source": "The Verge",
-          "count": 2
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 26
-        },
-        {
-          "section": "Deals",
-          "count": 19
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 1
-        },
-        {
-          "section": "Ecosystem",
-          "count": 1
-        },
-        {
-          "section": "Market Trends",
-          "count": 1
-        }
-      ],
-      "avg_score": 55.5
-    },
-    {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 42,
+      "total": 43,
       "media": 38,
-      "youtube": 4,
-      "reviews": 2,
+      "youtube": 5,
+      "reviews": 3,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 2,
@@ -845,7 +845,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 5
+          "count": 6
         },
         {
           "section": "Ecosystem",
@@ -860,7 +860,7 @@
           "count": 2
         }
       ],
-      "avg_score": 32.2
+      "avg_score": 33.1
     },
     {
       "brand": "Framework",
@@ -925,13 +925,13 @@
     {
       "brand": "Alienware",
       "family": "Dell family",
-      "total": 36,
+      "total": 37,
       "media": 20,
-      "youtube": 16,
-      "reviews": 25,
+      "youtube": 17,
+      "reviews": 26,
       "sponsored": 0,
-      "dell_stories": 36,
-      "high_signal": 32,
+      "dell_stories": 37,
+      "high_signal": 33,
       "top_sources": [
         {
           "source": "Futura",
@@ -969,23 +969,23 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 32
+          "count": 33
         },
         {
           "section": "Deals",
           "count": 4
         }
       ],
-      "avg_score": 92.9
+      "avg_score": 93.1
     },
     {
       "brand": "Qualcomm",
       "family": "Ecosystem",
-      "total": 34,
+      "total": 35,
       "media": 27,
-      "youtube": 7,
+      "youtube": 8,
       "reviews": 4,
-      "sponsored": 1,
+      "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 3,
       "top_sources": [
@@ -1024,12 +1024,12 @@
       ],
       "sections": [
         {
-          "section": "Ecosystem",
+          "section": "Competitor Coverage",
           "count": 15
         },
         {
-          "section": "Competitor Coverage",
-          "count": 14
+          "section": "Ecosystem",
+          "count": 15
         },
         {
           "section": "Deals",
@@ -1040,15 +1040,15 @@
           "count": 1
         }
       ],
-      "avg_score": 64.6
+      "avg_score": 64.8
     },
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 28,
+      "total": 31,
       "media": 18,
-      "youtube": 10,
-      "reviews": 5,
+      "youtube": 13,
+      "reviews": 7,
       "sponsored": 5,
       "dell_stories": 0,
       "high_signal": 0,
@@ -1066,6 +1066,10 @@
           "count": 4
         },
         {
+          "source": "LaptopMedia",
+          "count": 2
+        },
+        {
           "source": "Notebookcheck DE - News",
           "count": 2
         },
@@ -1080,16 +1084,12 @@
         {
           "source": "Trusted Reviews",
           "count": 2
-        },
-        {
-          "source": "Wccftech",
-          "count": 2
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 17
+          "count": 20
         },
         {
           "section": "Deals",
@@ -1100,15 +1100,15 @@
           "count": 1
         }
       ],
-      "avg_score": 58.0
+      "avg_score": 59.3
     },
     {
       "brand": "Razer",
       "family": "PC competitors",
-      "total": 13,
+      "total": 14,
       "media": 8,
-      "youtube": 5,
-      "reviews": 10,
+      "youtube": 6,
+      "reviews": 11,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 4,
@@ -1142,14 +1142,14 @@
           "count": 1
         },
         {
-          "source": "Tom's Guide",
+          "source": "MobileTechReview",
           "count": 1
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 9
+          "count": 10
         },
         {
           "section": "Dell Coverage",
@@ -1164,7 +1164,7 @@
           "count": 1
         }
       ],
-      "avg_score": 75.0
+      "avg_score": 75.2
     },
     {
       "brand": "LG",
@@ -1409,6 +1409,16 @@
   ],
   "months": [
     {
+      "month": "2024-04",
+      "brands": {
+        "HP": 6,
+        "Asus": 4,
+        "Acer": 2,
+        "Dell": 1,
+        "Lenovo": 1
+      }
+    },
+    {
       "month": "2025-01",
       "brands": {
         "NVIDIA": 2,
@@ -1416,33 +1426,66 @@
       }
     },
     {
+      "month": "2025-04",
+      "brands": {
+        "Asus": 1
+      }
+    },
+    {
+      "month": "2025-08",
+      "brands": {
+        "Samsung": 1
+      }
+    },
+    {
+      "month": "2025-09",
+      "brands": {
+        "Alienware": 1,
+        "Lenovo": 1
+      }
+    },
+    {
+      "month": "2025-10",
+      "brands": {
+        "Razer": 1
+      }
+    },
+    {
       "month": "2025-11",
       "brands": {
-        "Lenovo": 1,
-        "MSI": 1
+        "Lenovo": 2,
+        "MSI": 1,
+        "Qualcomm": 1
+      }
+    },
+    {
+      "month": "2025-12",
+      "brands": {
+        "Lenovo": 1
       }
     },
     {
       "month": "2026-01",
       "brands": {
+        "Intel": 2,
+        "Lenovo": 2,
         "Apple": 1,
         "Asus": 1,
-        "Intel": 1,
-        "Lenovo": 1,
         "Razer": 1
       }
     },
     {
       "month": "2026-03",
       "brands": {
-        "Apple": 5
+        "Apple": 6,
+        "Asus": 1
       }
     },
     {
       "month": "2026-04",
       "brands": {
+        "Dell": 3,
         "Apple": 2,
-        "Dell": 2,
         "Intel": 1,
         "Lenovo": 1,
         "Valve": 1
@@ -1465,13 +1508,13 @@
         "Valve": 24,
         "Apple": 21,
         "Lenovo": 20,
-        "Dell": 17,
-        "Asus": 16,
+        "Dell": 18,
+        "Asus": 15,
         "MSI": 10,
         "Intel": 7,
+        "Acer": 6,
         "HP": 6,
         "Microsoft": 6,
-        "Acer": 5,
         "Alienware": 4,
         "NVIDIA": 4,
         "AMD": 2,
@@ -1504,9 +1547,9 @@
     {
       "month": "2026-08",
       "brands": {
-        "Apple": 18,
+        "Apple": 19,
         "Microsoft": 16,
-        "Lenovo": 14,
+        "Lenovo": 15,
         "Samsung": 8,
         "AMD": 7,
         "Amazon": 7,
@@ -1524,6 +1567,44 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:108225",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Best Notebook Under 4K: Lenovo Ideapad Slim 3 with Ryzen 7 7735HS",
+      "url": "https://www.youtube.com/shorts/QslE7TTAEc4",
+      "published_at": "2026-08-03T16:17:39+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:107700",
+      "kind": "youtube",
+      "source": "Tom's Guide",
+      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Head-to-head comparison between MacBook Neo and Dell XPS 13",
+      "url": "https://www.youtube.com/watch?v=lrpnK2ftlxg",
+      "published_at": "2026-08-03T15:00:29+00:00",
+      "score": 85,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:236478",
       "kind": "media",
@@ -6235,20 +6316,22 @@
       "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:207123",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
+      "id": "youtube:108225",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "ThinkPads from 2008 being retrofitted with Windows 11 hardware",
-      "url": "https://www.windowscentral.com/hardware/lenovo/thinkpads-2008-used-laptops-modified-x210ai",
-      "published_at": "2026-07-30T10:30:00+00:00",
-      "score": 65,
+      "title": "Best Notebook Under 4K: Lenovo Ideapad Slim 3 with Ryzen 7 7735HS",
+      "url": "https://www.youtube.com/shorts/QslE7TTAEc4",
+      "published_at": "2026-08-03T16:17:39+00:00",
+      "score": 72,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Lenovo",
@@ -6256,26 +6339,24 @@
       "is_dell_story": false
     },
     {
-      "id": "media:208094",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
+      "id": "youtube:107700",
+      "kind": "youtube",
+      "source": "Tom's Guide",
+      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Asus launches 16-inch TUF Gaming F16 with RTX 5070 and 165Hz OLED display",
-      "url": "https://www.notebookcheck.com/Asus-bringt-16-Zoll-Gaming-Notebook-mit-165-Hz-OLED-Display-und-GeForce-RTX-5070-auf-den-Markt.1355621.0.html",
-      "published_at": "2026-07-30T10:15:00+00:00",
-      "score": 65,
-      "is_review": false,
+      "title": "Head-to-head comparison between MacBook Neo and Dell XPS 13",
+      "url": "https://www.youtube.com/watch?v=lrpnK2ftlxg",
+      "published_at": "2026-08-03T15:00:29+00:00",
+      "score": 85,
+      "is_review": true,
       "is_sponsored": false,
-      "brand": "Asus",
+      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "media:236478",
       "kind": "media",
@@ -31946,23 +32027,23 @@
       "is_dell_story": true
     },
     {
-      "id": "youtube:19802",
+      "id": "youtube:108009",
       "kind": "youtube",
-      "source": "Lucas Ishii",
-      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Dell Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Asus TUF F16 RTX 5060 full review: mainstream gaming laptop performance and value",
-      "url": "https://www.youtube.com/watch?v=4qA2q4sh0kM",
-      "published_at": "2026-06-19T14:55:04+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
+      "title": "Dell XPS 13 Premium features at an affordable price",
+      "url": "https://www.youtube.com/shorts/089bZlikb20",
+      "published_at": "2026-06-18T18:46:14+00:00",
+      "score": 90,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
     },
     {
       "id": "youtube:40404",
@@ -32744,6 +32825,25 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:108274",
+      "kind": "youtube",
+      "source": "Digital Trends",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_kNubMg5M7TC0RNRPLFtc-OwBejUR6wTVKIu38AsMVexwY=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer's Calman Verified Predator Helios Neo gaming laptops feature OLED HDR displays and color accuracy for gamers and creatives",
+      "url": "https://www.youtube.com/watch?v=MX0HkRxmflk",
+      "published_at": "2026-06-04T16:00:16+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "youtube:48980",
       "kind": "youtube",
       "source": "Crimson Tech",
@@ -33124,6 +33224,25 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:108280",
+      "kind": "youtube",
+      "source": "Digital Trends",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_kNubMg5M7TC0RNRPLFtc-OwBejUR6wTVKIu38AsMVexwY=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Calibrating Dell monitors with internal meter and external colorimeter",
+      "url": "https://www.youtube.com/watch?v=iet5sbncMU4",
+      "published_at": "2026-04-23T16:01:12+00:00",
+      "score": 85,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
       "id": "youtube:45662",
       "kind": "youtube",
       "source": "Techaeris",
@@ -33314,6 +33433,44 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:108255",
+      "kind": "youtube",
+      "source": "MobileTechReview",
+      "source_icon": "https://yt3.googleusercontent.com/zQ_Xo3V4VSqpUR3h8rqxOs2hKnMH9wiO55Bwp8IVg3rHzFE0zKbclHtBU3e8RcNsKvM_J34z=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Confusing review of a Chromebook with Apple A18 Pro and macOS Tahoe",
+      "url": "https://www.youtube.com/watch?v=BjH4FMfm2lg",
+      "published_at": "2026-03-14T00:31:34+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108255",
+      "kind": "youtube",
+      "source": "MobileTechReview",
+      "source_icon": "https://yt3.googleusercontent.com/zQ_Xo3V4VSqpUR3h8rqxOs2hKnMH9wiO55Bwp8IVg3rHzFE0zKbclHtBU3e8RcNsKvM_J34z=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Confusing review of a Chromebook with Apple A18 Pro and macOS Tahoe",
+      "url": "https://www.youtube.com/watch?v=BjH4FMfm2lg",
+      "published_at": "2026-03-14T00:31:34+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "youtube:96578",
       "kind": "youtube",
       "source": "TechRadar",
@@ -33330,6 +33487,44 @@
       "is_sponsored": false,
       "brand": "Apple",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108257",
+      "kind": "youtube",
+      "source": "MobileTechReview",
+      "source_icon": "https://yt3.googleusercontent.com/zQ_Xo3V4VSqpUR3h8rqxOs2hKnMH9wiO55Bwp8IVg3rHzFE0zKbclHtBU3e8RcNsKvM_J34z=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo IdeaPad Pro 5 review highlights Intel Core Ultra 300 and Arc B390 performance",
+      "url": "https://www.youtube.com/watch?v=4niFBH3p2RA",
+      "published_at": "2026-01-30T01:26:04+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108257",
+      "kind": "youtube",
+      "source": "MobileTechReview",
+      "source_icon": "https://yt3.googleusercontent.com/zQ_Xo3V4VSqpUR3h8rqxOs2hKnMH9wiO55Bwp8IVg3rHzFE0zKbclHtBU3e8RcNsKvM_J34z=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo IdeaPad Pro 5 review highlights Intel Core Ultra 300 and Arc B390 performance",
+      "url": "https://www.youtube.com/watch?v=4niFBH3p2RA",
+      "published_at": "2026-01-30T01:26:04+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -33428,6 +33623,25 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:108259",
+      "kind": "youtube",
+      "source": "MobileTechReview",
+      "source_icon": "https://yt3.googleusercontent.com/zQ_Xo3V4VSqpUR3h8rqxOs2hKnMH9wiO55Bwp8IVg3rHzFE0zKbclHtBU3e8RcNsKvM_J34z=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Review of Lenovo's rollable laptop with 14-inch to 16.7-inch display",
+      "url": "https://www.youtube.com/watch?v=1GsJi1KvHhA",
+      "published_at": "2025-12-19T01:16:24+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "youtube:99042",
       "kind": "youtube",
       "source": "Jarrod's Tech",
@@ -33462,6 +33676,139 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "MSI",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108260",
+      "kind": "youtube",
+      "source": "MobileTechReview",
+      "source_icon": "https://yt3.googleusercontent.com/zQ_Xo3V4VSqpUR3h8rqxOs2hKnMH9wiO55Bwp8IVg3rHzFE0zKbclHtBU3e8RcNsKvM_J34z=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo ThinkBook 16s 2026 review: Snapdragon 8 Gen 3 laptop analysis",
+      "url": "https://www.youtube.com/watch?v=0yNQdH20KDE",
+      "published_at": "2025-11-25T14:00:02+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108260",
+      "kind": "youtube",
+      "source": "MobileTechReview",
+      "source_icon": "https://yt3.googleusercontent.com/zQ_Xo3V4VSqpUR3h8rqxOs2hKnMH9wiO55Bwp8IVg3rHzFE0zKbclHtBU3e8RcNsKvM_J34z=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo ThinkBook 16s 2026 review: Snapdragon 8 Gen 3 laptop analysis",
+      "url": "https://www.youtube.com/watch?v=0yNQdH20KDE",
+      "published_at": "2025-11-25T14:00:02+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108263",
+      "kind": "youtube",
+      "source": "MobileTechReview",
+      "source_icon": "https://yt3.googleusercontent.com/zQ_Xo3V4VSqpUR3h8rqxOs2hKnMH9wiO55Bwp8IVg3rHzFE0zKbclHtBU3e8RcNsKvM_J34z=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Razer Blade 16 2025 review highlights thermal upgrades and display options",
+      "url": "https://www.youtube.com/watch?v=CmDAy1gMr3M",
+      "published_at": "2025-10-17T01:20:33+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Razer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108266",
+      "kind": "youtube",
+      "source": "MobileTechReview",
+      "source_icon": "https://yt3.googleusercontent.com/zQ_Xo3V4VSqpUR3h8rqxOs2hKnMH9wiO55Bwp8IVg3rHzFE0zKbclHtBU3e8RcNsKvM_J34z=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Alienware m18 review highlights thermal management and mechanical keyboard",
+      "url": "https://www.youtube.com/watch?v=YrUwhnoVs8M",
+      "published_at": "2025-09-11T23:09:35+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:108266",
+      "kind": "youtube",
+      "source": "MobileTechReview",
+      "source_icon": "https://yt3.googleusercontent.com/zQ_Xo3V4VSqpUR3h8rqxOs2hKnMH9wiO55Bwp8IVg3rHzFE0zKbclHtBU3e8RcNsKvM_J34z=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Alienware m18 review highlights thermal management and mechanical keyboard",
+      "url": "https://www.youtube.com/watch?v=YrUwhnoVs8M",
+      "published_at": "2025-09-11T23:09:35+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108267",
+      "kind": "youtube",
+      "source": "MobileTechReview",
+      "source_icon": "https://yt3.googleusercontent.com/zQ_Xo3V4VSqpUR3h8rqxOs2hKnMH9wiO55Bwp8IVg3rHzFE0zKbclHtBU3e8RcNsKvM_J34z=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Affordable Mid-Range Tablet with S Pen and 7 Years of Updates",
+      "url": "https://www.youtube.com/watch?v=lV1iyVDnVNg",
+      "published_at": "2025-08-20T23:10:48+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108285",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS ROG Strix SCAR 18 G835 (2025) 360º Look",
+      "url": "https://www.youtube.com/watch?v=CfvCoCwpZO8",
+      "published_at": "2025-04-29T19:34:59+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -33520,6 +33867,272 @@
       "is_sponsored": false,
       "brand": "NVIDIA",
       "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108286",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP Elite x360 1040 G10 ports and 360-degree design overview",
+      "url": "https://www.youtube.com/watch?v=DARfty2d40U",
+      "published_at": "2024-04-05T17:23:24+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108287",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP Envy x360 15 ports and 360-degree look overview",
+      "url": "https://www.youtube.com/watch?v=HV2hHMqHtqo",
+      "published_at": "2024-04-05T17:20:01+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108288",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP OMEN Transcend 16 ports and 360-degree look details",
+      "url": "https://www.youtube.com/watch?v=stuQF1xi4JA",
+      "published_at": "2024-04-05T17:14:46+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108289",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS TUF Gaming A16 FA607 (2024) - Ports info and 360º look",
+      "url": "https://www.youtube.com/watch?v=EYXCV8cmF34",
+      "published_at": "2024-04-04T20:52:28+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108290",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer Aspire 5 ports and 360-degree overview",
+      "url": "https://www.youtube.com/watch?v=DSsyMU0lS0U",
+      "published_at": "2024-04-04T20:40:36+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108291",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP Spectre x360 16 ports and 360-degree look overview",
+      "url": "https://www.youtube.com/watch?v=93GlG4rSObk",
+      "published_at": "2024-04-04T20:37:15+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108292",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer Predator Helios Neo 18 Ports Info and 360º Look",
+      "url": "https://www.youtube.com/watch?v=qPIfOESgAQM",
+      "published_at": "2024-04-04T20:34:11+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108293",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo Legion Pro 5i ports and 360-degree look overview",
+      "url": "https://www.youtube.com/watch?v=CnCcdGW6YXM",
+      "published_at": "2024-04-03T22:45:28+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108294",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP EliteBook 865 G10 - Ports info and 360º look",
+      "url": "https://www.youtube.com/watch?v=mO0kvds9XJo",
+      "published_at": "2024-04-03T22:40:55+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108295",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP EliteBook 840 G10 Ports Info and 360º Look",
+      "url": "https://www.youtube.com/watch?v=vDD3-NAKkiE",
+      "published_at": "2024-04-03T22:34:30+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108296",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell Latitude 13 7340 Ports Info and 360º Look",
+      "url": "https://www.youtube.com/watch?v=bLpOz0SkvTM",
+      "published_at": "2024-04-03T22:28:15+00:00",
+      "score": 80,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:108297",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS Zenbook DUO UX8406 ports and 360º look overview",
+      "url": "https://www.youtube.com/watch?v=5lvw5kDEHDk",
+      "published_at": "2024-04-03T22:23:03+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108298",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS Vivobook S 14 Flip OLED ports and 360-degree look",
+      "url": "https://www.youtube.com/watch?v=p9iaBC59-gY",
+      "published_at": "2024-04-03T22:20:00+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:108299",
+      "kind": "youtube",
+      "source": "LaptopMedia",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mRyKZpiHZGeIV3vDlyOk-tdXjIV9DS_KZtfMuB4g46QLo=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BG",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS Vivobook Pro 15 OLED ports and 360-degree design showcase",
+      "url": "https://www.youtube.com/watch?v=4QtU6w7ud6U",
+      "published_at": "2024-04-03T22:11:15+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
       "is_dell_story": false
     }
   ]
