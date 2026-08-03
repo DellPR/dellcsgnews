@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T16:36:23.473327+00:00",
-  "total_items": 1435,
+  "generated_at": "2026-08-03T16:38:41.181173+00:00",
+  "total_items": 1434,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 183,
-      "media": 130,
+      "total": 182,
+      "media": 129,
       "youtube": 53,
       "reviews": 30,
       "sponsored": 1,
@@ -34,22 +34,22 @@
           "count": 8
         },
         {
-          "source": "WinFuture",
-          "count": 8
-        },
-        {
           "source": "Lipe Mal Estar",
           "count": 7
         },
         {
           "source": "TudoCelular",
           "count": 7
+        },
+        {
+          "source": "WinFuture",
+          "count": 7
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 120
+          "count": 119
         },
         {
           "section": "Deals",
@@ -68,7 +68,7 @@
           "count": 5
         }
       ],
-      "avg_score": 61.4
+      "avg_score": 61.3
     },
     {
       "brand": "Microsoft",
@@ -545,8 +545,8 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 76,
-      "media": 34,
+      "total": 75,
+      "media": 33,
       "youtube": 42,
       "reviews": 15,
       "sponsored": 0,
@@ -589,7 +589,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 67
+          "count": 66
         },
         {
           "section": "Competitor Coverage",
@@ -604,7 +604,7 @@
           "count": 1
         }
       ],
-      "avg_score": 68.3
+      "avg_score": 68.5
     },
     {
       "brand": "MSI",
@@ -797,8 +797,8 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 41,
-      "media": 37,
+      "total": 42,
+      "media": 38,
       "youtube": 4,
       "reviews": 2,
       "sponsored": 0,
@@ -841,7 +841,7 @@
       "sections": [
         {
           "section": "Deals",
-          "count": 28
+          "count": 29
         },
         {
           "section": "Competitor Coverage",
@@ -860,7 +860,7 @@
           "count": 2
         }
       ],
-      "avg_score": 32.3
+      "avg_score": 32.2
     },
     {
       "brand": "Framework",
@@ -1491,20 +1491,20 @@
         "Asus": 75,
         "Dell": 75,
         "Intel": 73,
-        "Valve": 51,
+        "Valve": 50,
         "Amazon": 44,
         "MSI": 38,
         "Framework": 37,
         "HP": 34,
         "Qualcomm": 32,
-        "Samsung": 31,
+        "Samsung": 32,
         "Alienware": 26
       }
     },
     {
       "month": "2026-08",
       "brands": {
-        "Apple": 19,
+        "Apple": 18,
         "Microsoft": 16,
         "Lenovo": 14,
         "Samsung": 8,
@@ -3326,25 +3326,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:229747",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "iPhone 18 Pro price to rise by $300 due to hardware costs",
-      "url": "https://winfuture.de/news,160347.html",
-      "published_at": "2026-08-01T10:32:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -6273,6 +6254,25 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
+    },
+    {
+      "id": "media:208094",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus launches 16-inch TUF Gaming F16 with RTX 5070 and 165Hz OLED display",
+      "url": "https://www.notebookcheck.com/Asus-bringt-16-Zoll-Gaming-Notebook-mit-165-Hz-OLED-Display-und-GeForce-RTX-5070-auf-den-Markt.1355621.0.html",
+      "published_at": "2026-07-30T10:15:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
     }
   ],
   "items": [
@@ -8078,25 +8078,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:229747",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "iPhone 18 Pro price to rise by $300 due to hardware costs",
-      "url": "https://winfuture.de/news,160347.html",
-      "published_at": "2026-08-01T10:32:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -11328,25 +11309,6 @@
       "is_sponsored": false,
       "brand": "Asus",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:207701",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Steam Deck Linux patch improves gameplay smoothness via CPU clocking",
-      "url": "https://winfuture.de/news,160293.html",
-      "published_at": "2026-07-30T06:31:00+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -29111,6 +29073,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:95935",
+      "kind": "media",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Samsung's 180Hz gaming monitor now a budget buy with discount",
+      "url": "https://www.xda-developers.com/samsung-odyssey-g5-g50f-200-deal/",
+      "published_at": "2026-07-09T15:59:43+00:00",
+      "score": 25,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
     },
