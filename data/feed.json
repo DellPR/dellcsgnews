@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-03T23:40:02.701516+00:00",
+  "generated_at": "2026-08-04T12:04:31.098636+00:00",
   "trigger": "youtube",
-  "total": 1505,
+  "total": 1506,
   "counts": {
     "media": 1121,
-    "youtube": 335,
+    "youtube": 336,
     "x": 49
   },
   "section_counts": {
-    "Competitor Coverage": 536,
+    "Competitor Coverage": 537,
     "Deals": 423,
     "Ecosystem": 297,
     "Dell Coverage": 109,
@@ -17,6 +17,44 @@
   },
   "brand_metrics": "data/brand_metrics.json",
   "items": [
+    {
+      "id": "youtube:109395",
+      "kind": "youtube",
+      "source": "Alex Ziskind",
+      "source_icon": "https://yt3.googleusercontent.com/At-1Kn54AljCodKZ7G9jxzd-1cCR3BknxIqpwGiXckFOXATpOjSyL-ivxtZQPE7RRAtWC8abFA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "title": "Open-source AI orchestration app enables multi-agent collaboration",
+      "display_title": "Open-source AI orchestration app enables multi-agent collaboration",
+      "original_title": "Fable 5 & Qwen 27B – Traycer Multi-Agent Hands-On Test!",
+      "url": "https://www.youtube.com/watch?v=f0Y3tQp2OqQ",
+      "published_at": "2026-08-04T11:37:05+00:00",
+      "captured_at": "2026-08-04 12:00:10",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "company": "",
+      "product": "",
+      "score": 72,
+      "summary": "The video demonstrates Traycer, an open-source AI orchestration app that allows multiple AI agents to collaborate by sharing context. It shows a demonstration connecting Claude Fable 5 with a local Qwen 27B agent to work on a coding task, then comparing the results with Qwen 27B alone. The app's features include 'Bring Your Own Agent' (BYOA), agent-to-agent communication, cross-device sync, and support for Ubuntu, Windows, and Linux. The UI includes artifacts, a performance monitor, and resource usage tracking",
+      "why_it_matters": "Generic laptop software/OS optimization tutorial; not product coverage",
+      "thumbnail": "https://i3.ytimg.com/vi/f0Y3tQp2OqQ/hqdefault.jpg",
+      "tags": [
+        "Alex Ziskind",
+        "US",
+        "Review",
+        "Competitor Coverage"
+      ],
+      "is_review": true,
+      "is_short": false,
+      "is_sponsored": false,
+      "sponsor_brand": "",
+      "is_dell_story": false,
+      "has_dell_mention": false,
+      "is_competitor_story": true,
+      "is_market_story": false,
+      "also_competitor_story": false,
+      "review_type": "review",
+      "tone": ""
+    },
     {
       "id": "youtube:108825",
       "kind": "youtube",
