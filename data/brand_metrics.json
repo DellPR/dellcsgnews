@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T20:45:51.574778+00:00",
-  "total_items": 1485,
+  "generated_at": "2026-08-04T22:36:10.762053+00:00",
+  "total_items": 1484,
   "brands": [
     {
       "brand": "Apple",
@@ -73,8 +73,8 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 187,
-      "media": 122,
+      "total": 186,
+      "media": 121,
       "youtube": 65,
       "reviews": 49,
       "sponsored": 5,
@@ -110,14 +110,14 @@
           "count": 7
         },
         {
-          "source": "TudoCelular",
-          "count": 7
+          "source": "Adrenaline",
+          "count": 6
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 145
+          "count": 144
         },
         {
           "section": "Deals",
@@ -162,15 +162,15 @@
           "count": 15
         },
         {
+          "source": "TecMundo",
+          "count": 9
+        },
+        {
           "source": "TechRadar",
           "count": 9
         },
         {
           "source": "Clubic",
-          "count": 8
-        },
-        {
-          "source": "TecMundo",
           "count": 8
         },
         {
@@ -209,8 +209,8 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 115,
-      "media": 62,
+      "total": 116,
+      "media": 63,
       "youtube": 53,
       "reviews": 46,
       "sponsored": 1,
@@ -226,11 +226,11 @@
           "count": 8
         },
         {
-          "source": "Notebookcheck Reviews",
-          "count": 7
+          "source": "TudoCelular",
+          "count": 8
         },
         {
-          "source": "TudoCelular",
+          "source": "Notebookcheck Reviews",
           "count": 7
         },
         {
@@ -253,7 +253,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 87
+          "count": 88
         },
         {
           "section": "Deals",
@@ -545,8 +545,8 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 76,
-      "media": 32,
+      "total": 75,
+      "media": 31,
       "youtube": 44,
       "reviews": 15,
       "sponsored": 0,
@@ -589,7 +589,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 66
+          "count": 65
         },
         {
           "section": "Competitor Coverage",
@@ -604,7 +604,7 @@
           "count": 1
         }
       ],
-      "avg_score": 68.2
+      "avg_score": 68.3
     },
     {
       "brand": "MSI",
@@ -1527,14 +1527,14 @@
       "month": "2026-07",
       "brands": {
         "Apple": 131,
-        "Microsoft": 129,
-        "Lenovo": 113,
+        "Microsoft": 128,
+        "Lenovo": 112,
         "AMD": 74,
         "Asus": 71,
         "Dell": 71,
         "NVIDIA": 70,
         "Intel": 65,
-        "Valve": 44,
+        "Valve": 43,
         "Amazon": 41,
         "Framework": 37,
         "MSI": 37,
@@ -1549,8 +1549,8 @@
       "brands": {
         "Lenovo": 39,
         "Apple": 31,
-        "Microsoft": 26,
-        "Asus": 17,
+        "Microsoft": 27,
+        "Asus": 18,
         "Dell": 13,
         "Samsung": 13,
         "AMD": 12,
@@ -1567,6 +1567,25 @@
     }
   ],
   "recent": [
+    {
+      "id": "media:254617",
+      "kind": "media",
+      "source": "TecMundo",
+      "source_icon": "",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft denies Windows 11 spies on PCs every 15 minutes",
+      "url": "https://www.tecmundo.com.br/software/415045-microsoft-nega-que-espiona-pcs-a-cada-15-minutos-com-o-windows-11.htm",
+      "published_at": "2026-08-04T19:30:00+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:251413",
       "kind": "media",
@@ -1789,6 +1808,25 @@
       "url": "https://www.theverge.com/gadgets/974732/asus-chromebook-plus-cx34-igloo-playmate-kooltunes-14-quart-cooler-deal-sale",
       "published_at": "2026-08-04T15:15:36+00:00",
       "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:254552",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS leaks Googlebook CX9406 with Aluminium OS",
+      "url": "https://www.tudocelular.com/asus/noticias/n260012/asus-googlebook-cx9406-vaza-em-primeiras-imagens.html",
+      "published_at": "2026-08-04T15:12:00+00:00",
+      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Asus",
@@ -6278,47 +6316,28 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:222655",
-      "kind": "media",
-      "source": "Frandroid",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "HP HyperX Omen 15 praised for price-to-quality ratio",
-      "url": "https://www.frandroid.com/marques/hp/3188765_test-du-hp-hyperx-omen-15-un-excellent-rapport-qualite-prix",
-      "published_at": "2026-07-31T15:22:30+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:221750",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Tom's Hardware reflects on 30 years of CPU evolution from Pentium II to Ryzen 9 9950X3D",
-      "url": "https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2",
-      "published_at": "2026-07-31T15:13:36+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "media:254617",
+      "kind": "media",
+      "source": "TecMundo",
+      "source_icon": "",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft denies Windows 11 spies on PCs every 15 minutes",
+      "url": "https://www.tecmundo.com.br/software/415045-microsoft-nega-que-espiona-pcs-a-cada-15-minutos-com-o-windows-11.htm",
+      "published_at": "2026-08-04T19:30:00+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:251413",
       "kind": "media",
@@ -6541,6 +6560,25 @@
       "url": "https://www.theverge.com/gadgets/974732/asus-chromebook-plus-cx34-igloo-playmate-kooltunes-14-quart-cooler-deal-sale",
       "published_at": "2026-08-04T15:15:36+00:00",
       "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:254552",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS leaks Googlebook CX9406 with Aluminium OS",
+      "url": "https://www.tudocelular.com/asus/noticias/n260012/asus-googlebook-cx9406-vaza-em-primeiras-imagens.html",
+      "published_at": "2026-08-04T15:12:00+00:00",
+      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Asus",
@@ -29364,63 +29402,6 @@
       "is_sponsored": false,
       "brand": "AMD",
       "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:103165",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Valve addresses Steam Machine overheating warning issue with BIOS update",
-      "url": "https://www.tomshardware.com/pc-components/cooling/valve-confirms-steam-machine-red-light-overheating-warning-is-showing-earlier-than-it-should-bios-fix-on-the-way-will-raise-temperature-warning-threshold-to-100-degrees-celsius",
-      "published_at": "2026-07-13T11:04:37+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:103673",
-      "kind": "media",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft tests Copilot PC Insights for natural language PC diagnostics",
-      "url": "https://www.digitaltrends.com/computing/copilot-could-soon-help-diagnose-issues-with-your-pc/",
-      "published_at": "2026-07-13T09:01:18+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:102940",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Legion C700 portable console confirmed for August with cloud gaming focus",
-      "url": "https://www.tudocelular.com/curiosidade/noticias/n258488/lenovo-legion-c700-console-surge-em-teaser.html",
-      "published_at": "2026-07-13T05:45:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
       "is_dell_story": false
     },
     {
