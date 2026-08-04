@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-04T22:36:10.762053+00:00",
-  "total_items": 1484,
+  "generated_at": "2026-08-04T23:37:38.388872+00:00",
+  "total_items": 1485,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 193,
+      "total": 194,
       "media": 136,
-      "youtube": 57,
-      "reviews": 32,
+      "youtube": 58,
+      "reviews": 33,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 17,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 126
+          "count": 127
         },
         {
           "section": "Deals",
@@ -68,7 +68,7 @@
           "count": 5
         }
       ],
-      "avg_score": 61.6
+      "avg_score": 61.7
     },
     {
       "brand": "Lenovo",
@@ -94,11 +94,11 @@
           "count": 9
         },
         {
-          "source": "Tech BR",
-          "count": 9
+          "source": "Qual Notebook Comprar?",
+          "count": 8
         },
         {
-          "source": "Qual Notebook Comprar?",
+          "source": "Tech BR",
           "count": 8
         },
         {
@@ -797,10 +797,10 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 46,
+      "total": 47,
       "media": 41,
-      "youtube": 5,
-      "reviews": 3,
+      "youtube": 6,
+      "reviews": 4,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 2,
@@ -834,7 +834,7 @@
           "count": 3
         },
         {
-          "source": "TudoCelular",
+          "source": "Lipe Mal Estar",
           "count": 2
         }
       ],
@@ -845,7 +845,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 7
+          "count": 8
         },
         {
           "section": "Ecosystem",
@@ -860,7 +860,7 @@
           "count": 1
         }
       ],
-      "avg_score": 33.0
+      "avg_score": 33.8
     },
     {
       "brand": "Framework",
@@ -987,66 +987,6 @@
       "avg_score": 64.0
     },
     {
-      "brand": "Acer",
-      "family": "PC competitors",
-      "total": 31,
-      "media": 18,
-      "youtube": 13,
-      "reviews": 6,
-      "sponsored": 5,
-      "dell_stories": 0,
-      "high_signal": 0,
-      "top_sources": [
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 4
-        },
-        {
-          "source": "TecMundo",
-          "count": 4
-        },
-        {
-          "source": "TudoCelular",
-          "count": 4
-        },
-        {
-          "source": "Adrenaline",
-          "count": 2
-        },
-        {
-          "source": "LaptopMedia",
-          "count": 2
-        },
-        {
-          "source": "Qual Notebook Comprar?",
-          "count": 2
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 2
-        },
-        {
-          "source": "Trusted Reviews",
-          "count": 2
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 18
-        },
-        {
-          "section": "Deals",
-          "count": 12
-        },
-        {
-          "section": "Ecosystem",
-          "count": 1
-        }
-      ],
-      "avg_score": 57.0
-    },
-    {
       "brand": "Alienware",
       "family": "Dell family",
       "total": 31,
@@ -1101,6 +1041,66 @@
         }
       ],
       "avg_score": 96.0
+    },
+    {
+      "brand": "Acer",
+      "family": "PC competitors",
+      "total": 30,
+      "media": 18,
+      "youtube": 12,
+      "reviews": 5,
+      "sponsored": 5,
+      "dell_stories": 0,
+      "high_signal": 0,
+      "top_sources": [
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 4
+        },
+        {
+          "source": "TecMundo",
+          "count": 4
+        },
+        {
+          "source": "TudoCelular",
+          "count": 4
+        },
+        {
+          "source": "Adrenaline",
+          "count": 2
+        },
+        {
+          "source": "LaptopMedia",
+          "count": 2
+        },
+        {
+          "source": "Qual Notebook Comprar?",
+          "count": 2
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 2
+        },
+        {
+          "source": "Trusted Reviews",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 17
+        },
+        {
+          "section": "Deals",
+          "count": 12
+        },
+        {
+          "section": "Ecosystem",
+          "count": 1
+        }
+      ],
+      "avg_score": 56.5
     },
     {
       "brand": "Razer",
@@ -1507,14 +1507,14 @@
       "brands": {
         "Valve": 24,
         "Apple": 21,
-        "Lenovo": 20,
+        "Lenovo": 19,
         "Dell": 18,
         "Asus": 15,
         "MSI": 10,
         "Intel": 7,
-        "Acer": 6,
         "HP": 6,
         "Microsoft": 6,
+        "Acer": 5,
         "NVIDIA": 4,
         "Alienware": 3,
         "AMD": 2,
@@ -1547,12 +1547,12 @@
     {
       "month": "2026-08",
       "brands": {
-        "Lenovo": 39,
-        "Apple": 31,
+        "Lenovo": 40,
+        "Apple": 32,
         "Microsoft": 27,
         "Asus": 18,
+        "Samsung": 14,
         "Dell": 13,
-        "Samsung": 13,
         "AMD": 12,
         "HP": 11,
         "MSI": 10,
@@ -1567,6 +1567,63 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:110970",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book 4 vs Lenovo Slim 3: A budget laptop showdown",
+      "url": "https://www.youtube.com/watch?v=jaHQOI6Xk8k",
+      "published_at": "2026-08-04T21:45:03+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:110970",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book 4 vs Lenovo Slim 3: A budget laptop showdown",
+      "url": "https://www.youtube.com/watch?v=jaHQOI6Xk8k",
+      "published_at": "2026-08-04T21:45:03+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:110985",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "iPad vs. Android tablets: Price range comparison guide",
+      "url": "https://www.youtube.com/watch?v=dzch_nUXOzY",
+      "published_at": "2026-08-04T21:30:20+00:00",
+      "score": 75,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:254617",
       "kind": "media",
@@ -6259,66 +6316,66 @@
       "brand": "Amazon",
       "family": "Other",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:104190",
-      "kind": "youtube",
-      "source": "Lucas Ishii",
-      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 14 2026 relaunch with Intel Core Ultra X7 and OLED display",
-      "url": "https://www.youtube.com/shorts/dqhPLUBu0vY",
-      "published_at": "2026-07-31T15:40:28+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:222777",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Lenovo ThinkCentre M80Q Mini-PC on sale with 16GB RAM and W11 Pro",
-      "url": "https://www.notebookcheck.com/Deal-Lenovo-ThinkCentre-Mini-PC-mit-16GB-RAM-und-W11-Pro-zum-Sparpreis-im-Refurbished-Angebot.1357220.0.html",
-      "published_at": "2026-07-31T15:33:00+00:00",
-      "score": 25,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:230167",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Lenovo ThinkCentre M80Q Mini-PC on sale with 10% discount",
-      "url": "https://www.notebookcheck.com/Deal-Lenovo-ThinkCentre-Mini-PC-mit-16GB-RAM-zum-Sparpreis-dank-Refurbished-Rabatt.1357220.0.html",
-      "published_at": "2026-07-31T15:33:00+00:00",
-      "score": 20,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:110970",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book 4 vs Lenovo Slim 3: A budget laptop showdown",
+      "url": "https://www.youtube.com/watch?v=jaHQOI6Xk8k",
+      "published_at": "2026-08-04T21:45:03+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:110970",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book 4 vs Lenovo Slim 3: A budget laptop showdown",
+      "url": "https://www.youtube.com/watch?v=jaHQOI6Xk8k",
+      "published_at": "2026-08-04T21:45:03+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:110985",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "iPad vs. Android tablets: Price range comparison guide",
+      "url": "https://www.youtube.com/watch?v=dzch_nUXOzY",
+      "published_at": "2026-08-04T21:30:20+00:00",
+      "score": 75,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:254617",
       "kind": "media",
@@ -32365,44 +32422,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:21887",
-      "kind": "youtube",
-      "source": "Tech BR",
-      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer Aspire Go 15 vs Lenovo Slim 3: Budget laptop comparison",
-      "url": "https://www.youtube.com/watch?v=npxB4CU1nTE",
-      "published_at": "2026-06-20T14:45:37+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:21887",
-      "kind": "youtube",
-      "source": "Tech BR",
-      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer Aspire Go 15 vs Lenovo Slim 3: Budget laptop comparison",
-      "url": "https://www.youtube.com/watch?v=npxB4CU1nTE",
-      "published_at": "2026-06-20T14:45:37+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
