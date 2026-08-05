@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T20:43:33.383124+00:00",
-  "total_items": 1478,
+  "generated_at": "2026-08-05T22:40:26.191081+00:00",
+  "total_items": 1481,
   "brands": [
     {
       "brand": "Apple",
@@ -73,17 +73,17 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 188,
-      "media": 124,
+      "total": 191,
+      "media": 127,
       "youtube": 64,
-      "reviews": 47,
+      "reviews": 48,
       "sponsored": 5,
       "dell_stories": 0,
       "high_signal": 11,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
-          "count": 33
+          "count": 34
         },
         {
           "source": "TechRadar",
@@ -110,14 +110,14 @@
           "count": 7
         },
         {
-          "source": "PCWorld",
-          "count": 6
+          "source": "TudoCelular",
+          "count": 7
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 143
+          "count": 146
         },
         {
           "section": "Deals",
@@ -132,13 +132,13 @@
           "count": 2
         }
       ],
-      "avg_score": 62.1
+      "avg_score": 62.2
     },
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 158,
-      "media": 150,
+      "total": 157,
+      "media": 149,
       "youtube": 8,
       "reviews": 4,
       "sponsored": 0,
@@ -155,14 +155,10 @@
         },
         {
           "source": "PCWorld",
-          "count": 15
+          "count": 14
         },
         {
           "source": "Clubic",
-          "count": 8
-        },
-        {
-          "source": "TecMundo",
           "count": 8
         },
         {
@@ -174,18 +170,22 @@
           "count": 8
         },
         {
-          "source": "TechRadar",
+          "source": "Adrenaline",
+          "count": 7
+        },
+        {
+          "source": "TecMundo",
           "count": 7
         }
       ],
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 95
+          "count": 93
         },
         {
           "section": "Competitor Coverage",
-          "count": 35
+          "count": 36
         },
         {
           "section": "Dell Coverage",
@@ -200,7 +200,7 @@
           "count": 6
         }
       ],
-      "avg_score": 56.9
+      "avg_score": 57.0
     },
     {
       "brand": "Asus",
@@ -341,8 +341,8 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 94,
-      "media": 88,
+      "total": 95,
+      "media": 89,
       "youtube": 6,
       "reviews": 8,
       "sponsored": 0,
@@ -370,15 +370,15 @@
           "count": 7
         },
         {
+          "source": "TechSpot",
+          "count": 6
+        },
+        {
           "source": "TudoCelular",
           "count": 6
         },
         {
           "source": "Adrenaline",
-          "count": 5
-        },
-        {
-          "source": "TechSpot",
           "count": 5
         }
       ],
@@ -388,19 +388,19 @@
           "count": 61
         },
         {
-          "section": "Deals",
+          "section": "Competitor Coverage",
           "count": 16
         },
         {
-          "section": "Competitor Coverage",
-          "count": 15
+          "section": "Deals",
+          "count": 16
         },
         {
           "section": "Market Trends",
           "count": 2
         }
       ],
-      "avg_score": 60.0
+      "avg_score": 60.2
     },
     {
       "brand": "NVIDIA",
@@ -541,8 +541,8 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 73,
-      "media": 30,
+      "total": 74,
+      "media": 31,
       "youtube": 43,
       "reviews": 16,
       "sponsored": 0,
@@ -589,7 +589,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 6
+          "count": 7
         },
         {
           "section": "Deals",
@@ -600,7 +600,7 @@
           "count": 2
         }
       ],
-      "avg_score": 68.9
+      "avg_score": 69.0
     },
     {
       "brand": "MSI",
@@ -809,8 +809,8 @@
     {
       "brand": "Amazon",
       "family": "Other",
-      "total": 43,
-      "media": 43,
+      "total": 42,
+      "media": 42,
       "youtube": 0,
       "reviews": 0,
       "sponsored": 0,
@@ -853,7 +853,7 @@
       "sections": [
         {
           "section": "Deals",
-          "count": 43
+          "count": 42
         }
       ],
       "avg_score": 22.6
@@ -1519,7 +1519,7 @@
       "month": "2026-07",
       "brands": {
         "Apple": 128,
-        "Microsoft": 117,
+        "Microsoft": 115,
         "Lenovo": 109,
         "AMD": 72,
         "Dell": 69,
@@ -1527,7 +1527,7 @@
         "NVIDIA": 68,
         "Intel": 61,
         "Valve": 41,
-        "Amazon": 40,
+        "Amazon": 39,
         "Framework": 37,
         "MSI": 36,
         "HP": 30,
@@ -1539,19 +1539,19 @@
     {
       "month": "2026-08",
       "brands": {
-        "Lenovo": 45,
+        "Lenovo": 48,
+        "Microsoft": 36,
         "Apple": 35,
-        "Microsoft": 35,
         "Asus": 22,
-        "AMD": 20,
+        "AMD": 21,
         "Dell": 16,
         "HP": 13,
         "Samsung": 11,
         "MSI": 10,
         "NVIDIA": 8,
+        "Valve": 8,
         "Alienware": 7,
         "Intel": 7,
-        "Valve": 7,
         "Acer": 5,
         "Framework": 5,
         "Google": 4
@@ -1577,6 +1577,82 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "media:265561",
+      "kind": "media",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft removes 32GB RAM recommendation for gaming PCs, launches 8GB Surface",
+      "url": "https://www.adrenaline.com.br/microsoft/windows/microsoft-remove-do-ar-outra-recomendacao-de-pc-ideal-para-jogos-ter-32gb-de-ram/",
+      "published_at": "2026-08-05T21:42:17+00:00",
+      "score": 55,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:266114",
+      "kind": "media",
+      "source": "ZDNet",
+      "source_icon": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo's Yoga Mini Gen 11: Compact PC with Unique Features",
+      "url": "https://www.zdnet.com/article/lenovo-yoga-mini-gen-11-review/",
+      "published_at": "2026-08-05T19:20:00+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:266320",
+      "kind": "media",
+      "source": "TechSpot",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus TUF A14 laptop runs SteamOS well in gaming tests",
+      "url": "https://www.techspot.com/news/113364-steamos-runs-surprisingly-well-amd-strix-halo-laptop.html",
+      "published_at": "2026-08-05T19:06:00+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:266320",
+      "kind": "media",
+      "source": "TechSpot",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus TUF A14 laptop runs SteamOS well in gaming tests",
+      "url": "https://www.techspot.com/news/113364-steamos-runs-surprisingly-well-amd-strix-halo-laptop.html",
+      "published_at": "2026-08-05T19:06:00+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
     },
     {
       "id": "media:262177",
@@ -1781,6 +1857,25 @@
       "url": "https://www.clubic.com/bons-plans-624196-un-pc-portable-16-pouces-a-16-go-de-ram-sous-les-500-l-equation-lenovo-chez-cdiscount.html",
       "published_at": "2026-08-05T15:41:00+00:00",
       "score": 20,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:265543",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo BIOS update bricks Legion Go consoles, causing repair issues",
+      "url": "https://www.tudocelular.com/jogos/noticias/n260098/atualizacao-bios-lenovo-legion-go-brickado.html",
+      "published_at": "2026-08-05T15:32:00+00:00",
+      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Lenovo",
@@ -2425,6 +2520,25 @@
       "deal_metric_only": false,
       "title": "Lenovo launches 17-inch V17 Gen 7 laptop with 14+ hour battery life",
       "url": "https://www.notebookcheck.com/Lenovo-veroeffentlicht-grossen-17-Zoll-Laptop-mit-ueber-14-Stunden-Laufzeit.1360408.0.html",
+      "published_at": "2026-08-05T05:20:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:266845",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo Launches 17-inch V17 Gen 7 Laptop with 14+ Hour Battery Life",
+      "url": "https://www.notebookcheck.com/17-Zoll-grosser-Lenovo-Laptop-mit-ueber-14-Stunden-Laufzeit-startet.1360408.0.html",
       "published_at": "2026-08-05T05:20:00+00:00",
       "score": 65,
       "is_review": false,
@@ -6194,120 +6308,6 @@
       "brand": "Amazon",
       "family": "Other",
       "is_dell_story": false
-    },
-    {
-      "id": "media:229279",
-      "kind": "media",
-      "source": "VideoCardz",
-      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "HP sells OmniBook 5 14 with Panther Lake and 1,100-nit OLED",
-      "url": "https://videocardz.com/newz/hp-starts-selling-omnibook-5-14-with-panther-lake-and-1100-nit-oled",
-      "published_at": "2026-08-01T10:33:09+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:229749",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft to reduce Windows 11 RAM requirements by 2026",
-      "url": "https://winfuture.de/news,160344.html",
-      "published_at": "2026-08-01T09:52:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:229749",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft to reduce Windows 11 RAM requirements by 2026",
-      "url": "https://winfuture.de/news,160344.html",
-      "published_at": "2026-08-01T09:52:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:229308",
-      "kind": "media",
-      "source": "WIRED",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wired.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware 15 balances price and quality in gaming laptop review",
-      "url": "https://www.wired.com/review/alienware-15-gaming-laptop/",
-      "published_at": "2026-08-01T09:31:00+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:230030",
-      "kind": "media",
-      "source": "Frandroid",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Lenovo Yoga Slim 7 14ILL10 OLED laptop drops 15% to €930.99 on Amazon",
-      "url": "https://www.frandroid.com/bons-plans/3197673_alors-que-les-prix-des-pc-senvolent-ce-laptop-lenovo-oled-ultra-7-soffre-une-remise-de-170-e",
-      "published_at": "2026-08-01T09:23:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:230128",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo launches ThinkCentre Neo 50a 24 Gen 7 desktop with 120Hz display and 32GB RAM",
-      "url": "https://www.notebookcheck.com/Lenovo-veroeffentlicht-iMac-Alternative-mit-120Hz-Display-und-bis-zu-32GB-RAM.1357604.0.html",
-      "published_at": "2026-08-01T09:20:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6329,6 +6329,82 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "media:265561",
+      "kind": "media",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft removes 32GB RAM recommendation for gaming PCs, launches 8GB Surface",
+      "url": "https://www.adrenaline.com.br/microsoft/windows/microsoft-remove-do-ar-outra-recomendacao-de-pc-ideal-para-jogos-ter-32gb-de-ram/",
+      "published_at": "2026-08-05T21:42:17+00:00",
+      "score": 55,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:266114",
+      "kind": "media",
+      "source": "ZDNet",
+      "source_icon": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo's Yoga Mini Gen 11: Compact PC with Unique Features",
+      "url": "https://www.zdnet.com/article/lenovo-yoga-mini-gen-11-review/",
+      "published_at": "2026-08-05T19:20:00+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:266320",
+      "kind": "media",
+      "source": "TechSpot",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus TUF A14 laptop runs SteamOS well in gaming tests",
+      "url": "https://www.techspot.com/news/113364-steamos-runs-surprisingly-well-amd-strix-halo-laptop.html",
+      "published_at": "2026-08-05T19:06:00+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:266320",
+      "kind": "media",
+      "source": "TechSpot",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus TUF A14 laptop runs SteamOS well in gaming tests",
+      "url": "https://www.techspot.com/news/113364-steamos-runs-surprisingly-well-amd-strix-halo-laptop.html",
+      "published_at": "2026-08-05T19:06:00+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
     },
     {
       "id": "media:262177",
@@ -6533,6 +6609,25 @@
       "url": "https://www.clubic.com/bons-plans-624196-un-pc-portable-16-pouces-a-16-go-de-ram-sous-les-500-l-equation-lenovo-chez-cdiscount.html",
       "published_at": "2026-08-05T15:41:00+00:00",
       "score": 20,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:265543",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo BIOS update bricks Legion Go consoles, causing repair issues",
+      "url": "https://www.tudocelular.com/jogos/noticias/n260098/atualizacao-bios-lenovo-legion-go-brickado.html",
+      "published_at": "2026-08-05T15:32:00+00:00",
+      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Lenovo",
@@ -7177,6 +7272,25 @@
       "deal_metric_only": false,
       "title": "Lenovo launches 17-inch V17 Gen 7 laptop with 14+ hour battery life",
       "url": "https://www.notebookcheck.com/Lenovo-veroeffentlicht-grossen-17-Zoll-Laptop-mit-ueber-14-Stunden-Laufzeit.1360408.0.html",
+      "published_at": "2026-08-05T05:20:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:266845",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo Launches 17-inch V17 Gen 7 Laptop with 14+ Hour Battery Life",
+      "url": "https://www.notebookcheck.com/17-Zoll-grosser-Lenovo-Laptop-mit-ueber-14-Stunden-Laufzeit-startet.1360408.0.html",
       "published_at": "2026-08-05T05:20:00+00:00",
       "score": 65,
       "is_review": false,
@@ -29055,44 +29169,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:107694",
-      "kind": "media",
-      "source": "XDA Developers",
-      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Budget monitor with 4.5-star rating offers good value",
-      "url": "https://www.xda-developers.com/sceptre-34-inch-gaming-monitor-180hz-refresh-rate-1ms-response-178-deal/",
-      "published_at": "2026-07-14T15:06:02+00:00",
-      "score": 20,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Amazon",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:107277",
-      "kind": "media",
-      "source": "TecMundo",
-      "source_icon": "",
-      "country": "BR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Windows 11 search gets cleaner interface, removes ads in results",
-      "url": "https://www.tecmundo.com.br/software/414531-busca-do-windows-11-ganha-visual-mais-limpo-e-fim-de-anuncios-nos-resultados.htm",
-      "published_at": "2026-07-14T15:00:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:72718",
       "kind": "youtube",
       "source": "Lucas Ishii",
@@ -29108,25 +29184,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:107570",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft urges immediate Windows updates due to AI security risks",
-      "url": "https://www.pcworld.com/article/3190652/microsoft-says-stop-waiting-to-install-windows-updates-heres-why.html",
-      "published_at": "2026-07-14T14:36:49+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
     },
