@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T23:59:33.763191+00:00",
-  "total_items": 1475,
+  "generated_at": "2026-08-05T00:05:56.178103+00:00",
+  "total_items": 1472,
   "brands": [
     {
       "brand": "Apple",
@@ -73,8 +73,8 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 185,
-      "media": 121,
+      "total": 186,
+      "media": 122,
       "youtube": 64,
       "reviews": 48,
       "sponsored": 5,
@@ -117,7 +117,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 143
+          "count": 144
         },
         {
           "section": "Deals",
@@ -209,8 +209,8 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 115,
-      "media": 62,
+      "total": 114,
+      "media": 61,
       "youtube": 53,
       "reviews": 45,
       "sponsored": 1,
@@ -219,7 +219,7 @@
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
-          "count": 11
+          "count": 10
         },
         {
           "source": "Crimson Tech",
@@ -253,7 +253,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 86
+          "count": 85
         },
         {
           "section": "Deals",
@@ -407,74 +407,6 @@
       "avg_score": 58.9
     },
     {
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "total": 81,
-      "media": 73,
-      "youtube": 8,
-      "reviews": 5,
-      "sponsored": 1,
-      "dell_stories": 0,
-      "high_signal": 4,
-      "top_sources": [
-        {
-          "source": "Tom's Hardware",
-          "count": 15
-        },
-        {
-          "source": "Wccftech",
-          "count": 14
-        },
-        {
-          "source": "HotHardware",
-          "count": 5
-        },
-        {
-          "source": "Adrenaline",
-          "count": 4
-        },
-        {
-          "source": "TechRadar",
-          "count": 4
-        },
-        {
-          "source": "Clubic",
-          "count": 3
-        },
-        {
-          "source": "TechSpot",
-          "count": 3
-        },
-        {
-          "source": "The Register",
-          "count": 3
-        }
-      ],
-      "sections": [
-        {
-          "section": "Ecosystem",
-          "count": 53
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 17
-        },
-        {
-          "section": "Deals",
-          "count": 5
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 3
-        },
-        {
-          "section": "Market Trends",
-          "count": 3
-        }
-      ],
-      "avg_score": 64.7
-    },
-    {
       "brand": "Intel",
       "family": "Ecosystem",
       "total": 80,
@@ -543,11 +475,79 @@
       "avg_score": 67.4
     },
     {
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "total": 80,
+      "media": 72,
+      "youtube": 8,
+      "reviews": 5,
+      "sponsored": 1,
+      "dell_stories": 0,
+      "high_signal": 4,
+      "top_sources": [
+        {
+          "source": "Tom's Hardware",
+          "count": 15
+        },
+        {
+          "source": "Wccftech",
+          "count": 13
+        },
+        {
+          "source": "HotHardware",
+          "count": 5
+        },
+        {
+          "source": "Adrenaline",
+          "count": 4
+        },
+        {
+          "source": "TechRadar",
+          "count": 4
+        },
+        {
+          "source": "Clubic",
+          "count": 3
+        },
+        {
+          "source": "TechSpot",
+          "count": 3
+        },
+        {
+          "source": "The Register",
+          "count": 3
+        }
+      ],
+      "sections": [
+        {
+          "section": "Ecosystem",
+          "count": 52
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 17
+        },
+        {
+          "section": "Deals",
+          "count": 5
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 3
+        },
+        {
+          "section": "Market Trends",
+          "count": 3
+        }
+      ],
+      "avg_score": 64.7
+    },
+    {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 75,
-      "media": 31,
-      "youtube": 44,
+      "total": 73,
+      "media": 30,
+      "youtube": 43,
       "reviews": 15,
       "sponsored": 0,
       "dell_stories": 0,
@@ -562,16 +562,16 @@
           "count": 7
         },
         {
-          "source": "Adrenaline",
-          "count": 5
-        },
-        {
           "source": "PCWorld",
           "count": 5
         },
         {
           "source": "The Verge",
           "count": 5
+        },
+        {
+          "source": "Adrenaline",
+          "count": 4
         },
         {
           "source": "Austin Evans",
@@ -582,14 +582,14 @@
           "count": 3
         },
         {
-          "source": "PC-WELT News",
+          "source": "Tom's Guide",
           "count": 3
         }
       ],
       "sections": [
         {
           "section": "Market Trends",
-          "count": 66
+          "count": 64
         },
         {
           "section": "Competitor Coverage",
@@ -680,7 +680,7 @@
       "total": 57,
       "media": 40,
       "youtube": 17,
-      "reviews": 16,
+      "reviews": 17,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 1,
@@ -740,7 +740,7 @@
           "count": 1
         }
       ],
-      "avg_score": 56.7
+      "avg_score": 56.9
     },
     {
       "brand": "Amazon",
@@ -1524,7 +1524,7 @@
       "brands": {
         "Apple": 133,
         "Microsoft": 130,
-        "Lenovo": 113,
+        "Lenovo": 114,
         "AMD": 74,
         "Asus": 71,
         "Dell": 71,
@@ -1546,19 +1546,19 @@
         "Lenovo": 38,
         "Apple": 28,
         "Microsoft": 27,
-        "Asus": 17,
+        "Asus": 16,
         "Dell": 13,
         "AMD": 12,
         "HP": 11,
         "MSI": 10,
         "Samsung": 10,
         "Alienware": 6,
-        "Valve": 6,
         "Intel": 5,
         "Acer": 4,
         "Framework": 4,
-        "NVIDIA": 4,
-        "Qualcomm": 4
+        "Qualcomm": 4,
+        "Valve": 4,
+        "Amazon": 3
       }
     }
   ],
@@ -2074,25 +2074,6 @@
       "is_sponsored": false,
       "brand": "Microsoft",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:252867",
-      "kind": "media",
-      "source": "PC-WELT News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "PS5 Pro outperforms Steam Machine in native 4K and ray tracing",
-      "url": "https://www.pcwelt.de/article/3194215/steam-machine-was-ist-das-und-fuer-wen-lohnt-sich-das.html",
-      "published_at": "2026-08-04T13:30:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -2664,25 +2645,6 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "youtube:108825",
-      "kind": "youtube",
-      "source": "Adrenaline",
-      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Did SteamOS Win? 🏆",
-      "url": "https://www.youtube.com/watch?v=lF8QdegSHDw",
-      "published_at": "2026-08-03T23:00:21+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
     },
     {
       "id": "media:243749",
@@ -3958,25 +3920,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:237482",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus launches ROG USB-C10G with 10G Ethernet",
-      "url": "https://www.notebookcheck.com/Asus-launcht-ROG-USB-C-Dongle-mit-schnellem-Ethernet-Port-und-breiter-Kompatibilitaet.1358541.0.html",
-      "published_at": "2026-08-03T08:07:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "media:236556",
       "kind": "media",
       "source": "PCWorld",
@@ -4338,25 +4281,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:233381",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "DFSX's TY64 SuperNode Claims 960TB/s Memory Bandwidth vs. NVIDIA's GB200 NVL72",
-      "url": "https://wccftech.com/chinas-dfsx-offers-2x-the-memory-bandwidth-of-nvidias-gb200-nvl72-system-with-a-14nm-supernode-that-skips-microbumps-for-vertical-compute-memory-towers/",
-      "published_at": "2026-08-02T17:34:41+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:106500",
       "kind": "youtube",
       "source": "Notebookcheck Reviews",
@@ -4517,11 +4441,11 @@
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "HP launches HyperX Omen 15 as successor to budget-friendly Victus 15",
+      "title": "HP HyperX Omen 15 review: budget gaming laptop successor to Victus 15",
       "url": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
       "published_at": "2026-08-02T14:00:00+00:00",
-      "score": 65,
-      "is_review": false,
+      "score": 78,
+      "is_review": true,
       "is_sponsored": false,
       "brand": "HP",
       "family": "PC competitors",
@@ -6312,6 +6236,82 @@
       "brand": "Amazon",
       "family": "Other",
       "is_dell_story": false
+    },
+    {
+      "id": "media:223539",
+      "kind": "media",
+      "source": "Les Numériques",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Apple TV 4K (2022) 64 Go on sale for €161 (-18%)",
+      "url": "https://www.lesnumeriques.com/disque-dur-multimedia/bon-plan-le-boitier-multimedia-apple-tv-4k-2022-64-go-5-etoiles-a-161-00-18-n259954.html",
+      "published_at": "2026-07-31T13:11:03+00:00",
+      "score": 0,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:218162",
+      "kind": "media",
+      "source": "CNET",
+      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
+      "country": "US",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Valve's Steam Machine reviewed for living room gaming",
+      "url": "https://www.cnet.com/videos/is-the-steam-machine-perfect-for-your-living-room/",
+      "published_at": "2026-07-31T12:49:00+00:00",
+      "score": 75,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:219859",
+      "kind": "media",
+      "source": "Les Numériques",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Windows 11 File Explorer now displays crucial data more intelligently",
+      "url": "https://www.lesnumeriques.com/appli-logiciel/windows-11-l-explorateur-de-fichiers-affiche-enfin-une-donnee-cruciale-de-maniere-intelligente-n259937.html",
+      "published_at": "2026-07-31T12:48:00+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:218974",
+      "kind": "media",
+      "source": "Frandroid",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Garmin Venu 4 smartwatch discounted 30% on Amazon",
+      "url": "https://www.frandroid.com/bons-plans/2968497_garmin-venu-4-cette-excellente-montre-notee-9-10-est-a-prix-casse-sur-amazon",
+      "published_at": "2026-07-31T12:40:13+00:00",
+      "score": 0,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Amazon",
+      "family": "Other",
+      "is_dell_story": false
     }
   ],
   "items": [
@@ -6826,25 +6826,6 @@
       "is_sponsored": false,
       "brand": "Microsoft",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:252867",
-      "kind": "media",
-      "source": "PC-WELT News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "PS5 Pro outperforms Steam Machine in native 4K and ray tracing",
-      "url": "https://www.pcwelt.de/article/3194215/steam-machine-was-ist-das-und-fuer-wen-lohnt-sich-das.html",
-      "published_at": "2026-08-04T13:30:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -7416,25 +7397,6 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "youtube:108825",
-      "kind": "youtube",
-      "source": "Adrenaline",
-      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Did SteamOS Win? 🏆",
-      "url": "https://www.youtube.com/watch?v=lF8QdegSHDw",
-      "published_at": "2026-08-03T23:00:21+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
     },
     {
       "id": "media:243749",
@@ -8710,25 +8672,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:237482",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus launches ROG USB-C10G with 10G Ethernet",
-      "url": "https://www.notebookcheck.com/Asus-launcht-ROG-USB-C-Dongle-mit-schnellem-Ethernet-Port-und-breiter-Kompatibilitaet.1358541.0.html",
-      "published_at": "2026-08-03T08:07:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "media:236556",
       "kind": "media",
       "source": "PCWorld",
@@ -9090,25 +9033,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:233381",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "DFSX's TY64 SuperNode Claims 960TB/s Memory Bandwidth vs. NVIDIA's GB200 NVL72",
-      "url": "https://wccftech.com/chinas-dfsx-offers-2x-the-memory-bandwidth-of-nvidias-gb200-nvl72-system-with-a-14nm-supernode-that-skips-microbumps-for-vertical-compute-memory-towers/",
-      "published_at": "2026-08-02T17:34:41+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:106500",
       "kind": "youtube",
       "source": "Notebookcheck Reviews",
@@ -9269,11 +9193,11 @@
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "HP launches HyperX Omen 15 as successor to budget-friendly Victus 15",
+      "title": "HP HyperX Omen 15 review: budget gaming laptop successor to Victus 15",
       "url": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
       "published_at": "2026-08-02T14:00:00+00:00",
-      "score": 65,
-      "is_review": false,
+      "score": 78,
+      "is_review": true,
       "is_sponsored": false,
       "brand": "HP",
       "family": "PC competitors",
@@ -29283,6 +29207,25 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:102092",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo adds RTX 5070 12GB to Legion 7a gaming laptop at $3,375",
+      "url": "https://www.tomshardware.com/laptops/lenovos-legion-7a-gaming-laptop-now-comes-with-an-rtx-5070-12gb-gpu-option-but-it-costs-usd3-375-paired-with-a-ryzen-ai-9-cpu-sku-was-previously-limited-to-rtx-5060",
+      "published_at": "2026-07-12T15:46:18+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
