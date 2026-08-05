@@ -32,7 +32,7 @@
   const youtubeBrandFilter = document.getElementById("youtubeBrandFilter");
   const RAW_FEED_URL = "https://raw.githubusercontent.com/DellPR/dellcsgnews/main/data/feed.json";
   const RAW_BRAND_METRICS_URL = "https://raw.githubusercontent.com/DellPR/dellcsgnews/main/data/brand_metrics.json";
-  const TOP_STORY_URL = "https://www.digitaltrends.com/computing/i-tried-dells-sleek-xps-13-and-its-a-breath-of-fresh-air-for-budget-windows-laptops/";
+  const TOP_STORY_URL = "https://www.pcworld.com/article/3195908/dell-16s-review.html";
   const controlsEl = document.querySelector(".controls");
   const viewSwitch = document.getElementById("viewSwitch");
   const metricsView = document.getElementById("metricsView");
@@ -73,6 +73,10 @@
     const raw = item.published_at || item.captured_at;
     const date = raw ? new Date(raw) : null;
     return date && !Number.isNaN(date.getTime()) ? date.getTime() : 0;
+  }
+
+  function normalizeUrlForCompare(value) {
+    return String(value || "").trim().replace(/\/+$/, "");
   }
 
   function formatDate(value, long = false) {
@@ -1247,7 +1251,7 @@
       return;
     }
     if (topStoryHead) topStoryHead.style.display = "";
-    const forcedTopStory = state.items.find(item => item.url === TOP_STORY_URL && !isDeal(item));
+    const forcedTopStory = state.items.find(item => normalizeUrlForCompare(item.url) === normalizeUrlForCompare(TOP_STORY_URL) && !isDeal(item));
     const topStory = forcedTopStory || [...state.items]
       .filter(item => item.kind !== "x" && !isDeal(item))
       .filter(item => Number(item.score || 0) >= 90)
