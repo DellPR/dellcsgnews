@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T00:07:32.994675+00:00",
-  "total_items": 1472,
+  "generated_at": "2026-08-05T12:04:26.661071+00:00",
+  "total_items": 1474,
   "brands": [
     {
       "brand": "Apple",
@@ -11,7 +11,7 @@
       "reviews": 32,
       "sponsored": 1,
       "dell_stories": 0,
-      "high_signal": 17,
+      "high_signal": 16,
       "top_sources": [
         {
           "source": "Wccftech",
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 125
+          "count": 126
         },
         {
           "section": "Deals",
@@ -57,7 +57,7 @@
         },
         {
           "section": "Dell Coverage",
-          "count": 15
+          "count": 14
         },
         {
           "section": "Market Trends",
@@ -68,7 +68,7 @@
           "count": 5
         }
       ],
-      "avg_score": 62.1
+      "avg_score": 61.9
     },
     {
       "brand": "Lenovo",
@@ -209,11 +209,11 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 114,
+      "total": 115,
       "media": 61,
-      "youtube": 53,
+      "youtube": 54,
       "reviews": 45,
-      "sponsored": 1,
+      "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 12,
       "top_sources": [
@@ -253,7 +253,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 85
+          "count": 86
         },
         {
           "section": "Deals",
@@ -987,6 +987,66 @@
       "avg_score": 64.0
     },
     {
+      "brand": "Acer",
+      "family": "PC competitors",
+      "total": 31,
+      "media": 18,
+      "youtube": 13,
+      "reviews": 6,
+      "sponsored": 5,
+      "dell_stories": 0,
+      "high_signal": 0,
+      "top_sources": [
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 4
+        },
+        {
+          "source": "TecMundo",
+          "count": 4
+        },
+        {
+          "source": "TudoCelular",
+          "count": 4
+        },
+        {
+          "source": "Adrenaline",
+          "count": 2
+        },
+        {
+          "source": "LaptopMedia",
+          "count": 2
+        },
+        {
+          "source": "Qual Notebook Comprar?",
+          "count": 2
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 2
+        },
+        {
+          "source": "Trusted Reviews",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 18
+        },
+        {
+          "section": "Deals",
+          "count": 12
+        },
+        {
+          "section": "Ecosystem",
+          "count": 1
+        }
+      ],
+      "avg_score": 57.0
+    },
+    {
       "brand": "Alienware",
       "family": "Dell family",
       "total": 31,
@@ -1041,66 +1101,6 @@
         }
       ],
       "avg_score": 93.9
-    },
-    {
-      "brand": "Acer",
-      "family": "PC competitors",
-      "total": 30,
-      "media": 18,
-      "youtube": 12,
-      "reviews": 5,
-      "sponsored": 5,
-      "dell_stories": 0,
-      "high_signal": 0,
-      "top_sources": [
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 4
-        },
-        {
-          "source": "TecMundo",
-          "count": 4
-        },
-        {
-          "source": "TudoCelular",
-          "count": 4
-        },
-        {
-          "source": "Adrenaline",
-          "count": 2
-        },
-        {
-          "source": "LaptopMedia",
-          "count": 2
-        },
-        {
-          "source": "Qual Notebook Comprar?",
-          "count": 2
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 2
-        },
-        {
-          "source": "Trusted Reviews",
-          "count": 2
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 17
-        },
-        {
-          "section": "Deals",
-          "count": 12
-        },
-        {
-          "section": "Ecosystem",
-          "count": 1
-        }
-      ],
-      "avg_score": 56.5
     },
     {
       "brand": "Razer",
@@ -1546,15 +1546,15 @@
         "Lenovo": 38,
         "Apple": 28,
         "Microsoft": 27,
-        "Asus": 16,
+        "Asus": 17,
         "Dell": 13,
         "AMD": 12,
         "HP": 11,
         "MSI": 10,
         "Samsung": 10,
         "Alienware": 6,
+        "Acer": 5,
         "Intel": 5,
-        "Acer": 4,
         "Framework": 4,
         "Qualcomm": 4,
         "Valve": 4,
@@ -1563,6 +1563,44 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:111930",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer Nitro V 16S (2026) unboxing and budget gaming laptop evaluation",
+      "url": "https://www.youtube.com/watch?v=HCZ8nux2GSI",
+      "published_at": "2026-08-05T08:00:26+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:111660",
+      "kind": "youtube",
+      "source": "TecMundo",
+      "source_icon": "https://yt3.googleusercontent.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "What laptop is Spider-Man using in the movie?",
+      "url": "https://www.youtube.com/shorts/KC8FpAwXkhk",
+      "published_at": "2026-08-05T01:00:01+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:110970",
       "kind": "youtube",
@@ -3374,13 +3412,13 @@
       "source": "Tom's Guide",
       "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
       "country": "US",
-      "section": "Dell Coverage",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
       "title": "Head-to-head comparison between MacBook Neo and Dell XPS 13",
       "url": "https://www.youtube.com/watch?v=lrpnK2ftlxg",
       "published_at": "2026-08-03T15:00:29+00:00",
-      "score": 100,
+      "score": 78,
       "is_review": true,
       "is_sponsored": false,
       "brand": "Apple",
@@ -6274,47 +6312,47 @@
       "brand": "Valve",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:219859",
-      "kind": "media",
-      "source": "Les Numériques",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Ecosystem",
+      "id": "youtube:111930",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Windows 11 File Explorer now displays crucial data more intelligently",
-      "url": "https://www.lesnumeriques.com/appli-logiciel/windows-11-l-explorateur-de-fichiers-affiche-enfin-une-donnee-cruciale-de-maniere-intelligente-n259937.html",
-      "published_at": "2026-07-31T12:48:00+00:00",
-      "score": 50,
-      "is_review": false,
+      "title": "Acer Nitro V 16S (2026) unboxing and budget gaming laptop evaluation",
+      "url": "https://www.youtube.com/watch?v=HCZ8nux2GSI",
+      "published_at": "2026-08-05T08:00:26+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
-      "brand": "Microsoft",
+      "brand": "Acer",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:218974",
-      "kind": "media",
-      "source": "Frandroid",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Garmin Venu 4 smartwatch discounted 30% on Amazon",
-      "url": "https://www.frandroid.com/bons-plans/2968497_garmin-venu-4-cette-excellente-montre-notee-9-10-est-a-prix-casse-sur-amazon",
-      "published_at": "2026-07-31T12:40:13+00:00",
-      "score": 0,
+      "id": "youtube:111660",
+      "kind": "youtube",
+      "source": "TecMundo",
+      "source_icon": "https://yt3.googleusercontent.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "What laptop is Spider-Man using in the movie?",
+      "url": "https://www.youtube.com/shorts/KC8FpAwXkhk",
+      "published_at": "2026-08-05T01:00:01+00:00",
+      "score": 65,
       "is_review": false,
-      "is_sponsored": false,
-      "brand": "Amazon",
-      "family": "Other",
+      "is_sponsored": true,
+      "brand": "Asus",
+      "family": "PC competitors",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "youtube:110970",
       "kind": "youtube",
@@ -8126,13 +8164,13 @@
       "source": "Tom's Guide",
       "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
       "country": "US",
-      "section": "Dell Coverage",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
       "title": "Head-to-head comparison between MacBook Neo and Dell XPS 13",
       "url": "https://www.youtube.com/watch?v=lrpnK2ftlxg",
       "published_at": "2026-08-03T15:00:29+00:00",
-      "score": 100,
+      "score": 78,
       "is_review": true,
       "is_sponsored": false,
       "brand": "Apple",
