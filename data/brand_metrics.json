@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T22:40:26.191081+00:00",
-  "total_items": 1481,
+  "generated_at": "2026-08-05T23:52:11.925268+00:00",
+  "total_items": 1478,
   "brands": [
     {
       "brand": "Apple",
@@ -73,10 +73,10 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 191,
+      "total": 189,
       "media": 127,
-      "youtube": 64,
-      "reviews": 48,
+      "youtube": 62,
+      "reviews": 46,
       "sponsored": 5,
       "dell_stories": 0,
       "high_signal": 11,
@@ -91,14 +91,10 @@
         },
         {
           "source": "Notebookcheck Reviews",
-          "count": 9
-        },
-        {
-          "source": "Qual Notebook Comprar?",
           "count": 8
         },
         {
-          "source": "Tech BR",
+          "source": "Qual Notebook Comprar?",
           "count": 8
         },
         {
@@ -110,6 +106,10 @@
           "count": 7
         },
         {
+          "source": "Tech BR",
+          "count": 7
+        },
+        {
           "source": "TudoCelular",
           "count": 7
         }
@@ -117,7 +117,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 146
+          "count": 144
         },
         {
           "section": "Deals",
@@ -132,14 +132,14 @@
           "count": 2
         }
       ],
-      "avg_score": 62.2
+      "avg_score": 62.1
     },
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 157,
+      "total": 156,
       "media": 149,
-      "youtube": 8,
+      "youtube": 7,
       "reviews": 4,
       "sponsored": 0,
       "dell_stories": 0,
@@ -197,7 +197,7 @@
         },
         {
           "section": "Market Trends",
-          "count": 6
+          "count": 5
         }
       ],
       "avg_score": 57.0
@@ -541,9 +541,9 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 74,
+      "total": 73,
       "media": 31,
-      "youtube": 43,
+      "youtube": 42,
       "reviews": 16,
       "sponsored": 0,
       "dell_stories": 0,
@@ -551,7 +551,7 @@
       "top_sources": [
         {
           "source": "JayzTwoCents",
-          "count": 8
+          "count": 7
         },
         {
           "source": "Linus Tech Tips",
@@ -585,7 +585,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 63
+          "count": 62
         },
         {
           "section": "Competitor Coverage",
@@ -600,7 +600,75 @@
           "count": 2
         }
       ],
-      "avg_score": 69.0
+      "avg_score": 69.1
+    },
+    {
+      "brand": "HP",
+      "family": "PC competitors",
+      "total": 57,
+      "media": 39,
+      "youtube": 18,
+      "reviews": 17,
+      "sponsored": 1,
+      "dell_stories": 0,
+      "high_signal": 1,
+      "top_sources": [
+        {
+          "source": "TechRadar",
+          "count": 10
+        },
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 7
+        },
+        {
+          "source": "LaptopMedia",
+          "count": 6
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 4
+        },
+        {
+          "source": "Crimson Tech",
+          "count": 3
+        },
+        {
+          "source": "Windows Central",
+          "count": 3
+        },
+        {
+          "source": "Just Josh",
+          "count": 2
+        },
+        {
+          "source": "Linus Tech Tips",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 36
+        },
+        {
+          "section": "Deals",
+          "count": 18
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 1
+        },
+        {
+          "section": "Ecosystem",
+          "count": 1
+        },
+        {
+          "section": "Market Trends",
+          "count": 1
+        }
+      ],
+      "avg_score": 59.2
     },
     {
       "brand": "MSI",
@@ -669,74 +737,6 @@
         }
       ],
       "avg_score": 63.4
-    },
-    {
-      "brand": "HP",
-      "family": "PC competitors",
-      "total": 56,
-      "media": 39,
-      "youtube": 17,
-      "reviews": 17,
-      "sponsored": 1,
-      "dell_stories": 0,
-      "high_signal": 1,
-      "top_sources": [
-        {
-          "source": "TechRadar",
-          "count": 10
-        },
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 7
-        },
-        {
-          "source": "LaptopMedia",
-          "count": 6
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 4
-        },
-        {
-          "source": "Crimson Tech",
-          "count": 3
-        },
-        {
-          "source": "Windows Central",
-          "count": 3
-        },
-        {
-          "source": "Just Josh",
-          "count": 2
-        },
-        {
-          "source": "Linus Tech Tips",
-          "count": 2
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 35
-        },
-        {
-          "section": "Deals",
-          "count": 18
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 1
-        },
-        {
-          "section": "Ecosystem",
-          "count": 1
-        },
-        {
-          "section": "Market Trends",
-          "count": 1
-        }
-      ],
-      "avg_score": 58.9
     },
     {
       "brand": "Samsung",
@@ -1497,16 +1497,16 @@
     {
       "month": "2026-06",
       "brands": {
-        "Valve": 24,
+        "Valve": 23,
         "Apple": 21,
-        "Lenovo": 19,
         "Dell": 18,
+        "Lenovo": 17,
         "Asus": 15,
         "MSI": 10,
         "Intel": 7,
         "HP": 6,
-        "Microsoft": 6,
         "Acer": 5,
+        "Microsoft": 5,
         "NVIDIA": 4,
         "Alienware": 3,
         "AMD": 2,
@@ -1545,7 +1545,7 @@
         "Asus": 22,
         "AMD": 21,
         "Dell": 16,
-        "HP": 13,
+        "HP": 14,
         "Samsung": 11,
         "MSI": 10,
         "NVIDIA": 8,
@@ -1577,6 +1577,25 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:113220",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "TCL Mini LED Monitor Comparison: 25-inch vs 27-inch",
+      "url": "https://www.youtube.com/watch?v=DVapZA6H__I",
+      "published_at": "2026-08-05T22:15:08+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:265561",
@@ -6289,25 +6308,6 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:230028",
-      "kind": "media",
-      "source": "Frandroid",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Belkin BoostCharge Pro battery for Apple devices drops in price on Amazon",
-      "url": "https://www.frandroid.com/bons-plans/3198227_cest-la-batterie-externe-ultime-pour-lecosysteme-apple-et-elle-perd-pres-de-20-sur-amazon",
-      "published_at": "2026-08-01T11:09:00+00:00",
-      "score": 5,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Amazon",
-      "family": "Other",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6329,6 +6329,25 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:113220",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "TCL Mini LED Monitor Comparison: 25-inch vs 27-inch",
+      "url": "https://www.youtube.com/watch?v=DVapZA6H__I",
+      "published_at": "2026-08-05T22:15:08+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:265561",
@@ -32243,82 +32262,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:22622",
-      "kind": "youtube",
-      "source": "JayzTwoCents",
-      "source_icon": "https://yt3.googleusercontent.com/60ZHdHfspX1q6YI8_RW8Zz8fyR8Ne5aDHIwQ0TGN-vFkBWp5J1htI2VsLQQsnVoQbGhIxmJ3lQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Xbox profitability issues and AI-driven hardware cost challenges",
-      "url": "https://www.youtube.com/watch?v=om5Y6b1x_8o",
-      "published_at": "2026-06-21T15:00:08+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:22622",
-      "kind": "youtube",
-      "source": "JayzTwoCents",
-      "source_icon": "https://yt3.googleusercontent.com/60ZHdHfspX1q6YI8_RW8Zz8fyR8Ne5aDHIwQ0TGN-vFkBWp5J1htI2VsLQQsnVoQbGhIxmJ3lQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Xbox profitability issues and AI-driven hardware cost challenges",
-      "url": "https://www.youtube.com/watch?v=om5Y6b1x_8o",
-      "published_at": "2026-06-21T15:00:08+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:22547",
-      "kind": "youtube",
-      "source": "Tech BR",
-      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Slim 5 vs Yoga Slim 7i: 2026 Laptop Comparison",
-      "url": "https://www.youtube.com/watch?v=NYvuITNv9oI",
-      "published_at": "2026-06-21T14:45:04+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:22502",
-      "kind": "youtube",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo ThinkPad T14 Gen 7 2026 review: repairability, ports, and battery life",
-      "url": "https://www.youtube.com/watch?v=8Hu24TTbX6I",
-      "published_at": "2026-06-21T12:40:47+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
