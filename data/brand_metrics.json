@@ -1,13 +1,77 @@
 {
-  "generated_at": "2026-08-06T15:02:24.917032+00:00",
-  "total_items": 1468,
+  "generated_at": "2026-08-06T18:11:21.818704+00:00",
+  "total_items": 1474,
   "brands": [
+    {
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "total": 193,
+      "media": 130,
+      "youtube": 63,
+      "reviews": 44,
+      "sponsored": 5,
+      "dell_stories": 0,
+      "high_signal": 9,
+      "top_sources": [
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 37
+        },
+        {
+          "source": "TechRadar",
+          "count": 10
+        },
+        {
+          "source": "Just Josh",
+          "count": 8
+        },
+        {
+          "source": "Qual Notebook Comprar?",
+          "count": 8
+        },
+        {
+          "source": "Tech BR",
+          "count": 8
+        },
+        {
+          "source": "Digital Trends",
+          "count": 7
+        },
+        {
+          "source": "Notebookcheck Reviews",
+          "count": 7
+        },
+        {
+          "source": "TudoCelular",
+          "count": 7
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 147
+        },
+        {
+          "section": "Deals",
+          "count": 40
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 4
+        },
+        {
+          "section": "Market Trends",
+          "count": 2
+        }
+      ],
+      "avg_score": 61.8
+    },
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 191,
+      "total": 192,
       "media": 135,
-      "youtube": 56,
+      "youtube": 57,
       "reviews": 31,
       "sponsored": 1,
       "dell_stories": 0,
@@ -30,11 +94,11 @@
           "count": 9
         },
         {
-          "source": "Clubic",
-          "count": 8
+          "source": "Tom's Guide",
+          "count": 9
         },
         {
-          "source": "Tom's Guide",
+          "source": "Clubic",
           "count": 8
         },
         {
@@ -49,7 +113,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 119
+          "count": 120
         },
         {
           "section": "Deals",
@@ -69,70 +133,6 @@
         }
       ],
       "avg_score": 61.3
-    },
-    {
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "total": 191,
-      "media": 130,
-      "youtube": 61,
-      "reviews": 43,
-      "sponsored": 5,
-      "dell_stories": 0,
-      "high_signal": 8,
-      "top_sources": [
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 37
-        },
-        {
-          "source": "TechRadar",
-          "count": 10
-        },
-        {
-          "source": "Qual Notebook Comprar?",
-          "count": 8
-        },
-        {
-          "source": "Digital Trends",
-          "count": 7
-        },
-        {
-          "source": "Just Josh",
-          "count": 7
-        },
-        {
-          "source": "Notebookcheck Reviews",
-          "count": 7
-        },
-        {
-          "source": "Tech BR",
-          "count": 7
-        },
-        {
-          "source": "TudoCelular",
-          "count": 7
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 146
-        },
-        {
-          "section": "Deals",
-          "count": 40
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 3
-        },
-        {
-          "section": "Market Trends",
-          "count": 2
-        }
-      ],
-      "avg_score": 61.6
     },
     {
       "brand": "Microsoft",
@@ -205,9 +205,9 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 117,
+      "total": 118,
       "media": 63,
-      "youtube": 54,
+      "youtube": 55,
       "reviews": 47,
       "sponsored": 2,
       "dell_stories": 0,
@@ -249,7 +249,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 91
+          "count": 92
         },
         {
           "section": "Deals",
@@ -273,13 +273,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 108,
+      "total": 110,
       "media": 66,
-      "youtube": 42,
-      "reviews": 44,
+      "youtube": 44,
+      "reviews": 46,
       "sponsored": 6,
-      "dell_stories": 105,
-      "high_signal": 96,
+      "dell_stories": 107,
+      "high_signal": 98,
       "top_sources": [
         {
           "source": "TechRadar",
@@ -317,7 +317,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 85
+          "count": 87
         },
         {
           "section": "Deals",
@@ -336,7 +336,7 @@
           "count": 1
         }
       ],
-      "avg_score": 91.9
+      "avg_score": 92.1
     },
     {
       "brand": "AMD",
@@ -1534,12 +1534,12 @@
     {
       "month": "2026-08",
       "brands": {
-        "Lenovo": 54,
+        "Lenovo": 56,
         "Microsoft": 39,
-        "Apple": 35,
-        "Asus": 26,
+        "Apple": 36,
+        "Asus": 27,
         "AMD": 23,
-        "Dell": 18,
+        "Dell": 20,
         "HP": 15,
         "Samsung": 11,
         "MSI": 10,
@@ -1572,6 +1572,101 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:114450",
+      "kind": "youtube",
+      "source": "Tom's Guide",
+      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Connecting HDMI to MacBook Neo with USB-C hub and Dell monitor",
+      "url": "https://www.youtube.com/shorts/XxHepJVFseY",
+      "published_at": "2026-08-06T17:29:33+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:114345",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell S Series laptops review: Build quality, display, and performance analysis",
+      "url": "https://www.youtube.com/watch?v=kGkMr8sTSy8",
+      "published_at": "2026-08-06T15:25:34+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:114345",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell S Series laptops review: Build quality, display, and performance analysis",
+      "url": "https://www.youtube.com/watch?v=kGkMr8sTSy8",
+      "published_at": "2026-08-06T15:25:34+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:114885",
+      "kind": "youtube",
+      "source": "Austin Evans",
+      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell Latitude laptop review: $253 vs $2000 original price",
+      "url": "https://www.youtube.com/watch?v=NQxRrGMjTeU",
+      "published_at": "2026-08-06T15:01:57+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:114946",
+      "kind": "youtube",
+      "source": "Canaltech",
+      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Meet the new ASUS Zenbook A16! Premium design and high performance",
+      "url": "https://www.youtube.com/shorts/9nl-ryUS99k",
+      "published_at": "2026-08-06T13:31:09+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:269726",
@@ -1627,6 +1722,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:114795",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo Lock vs Lock Essential Notebook Comparison Teaser",
+      "url": "https://www.youtube.com/shorts/TILSdHDwzbM",
+      "published_at": "2026-08-06T12:46:51+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -6189,120 +6303,6 @@
       "brand": "Framework",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:237361",
-      "kind": "media",
-      "source": "BFMTV Tech",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Lenovo laptop on Amazon for 200 euros during back-to-school sale",
-      "url": "https://www.bfmtv.com/tech/bons-plans/on-aurait-dit-une-vente-a-perte-le-prix-de-ce-pc-portable-lenovo-est-a-son-prime-avant-la-rentree-scolaire_AB-202608020011.html",
-      "published_at": "2026-08-02T09:30:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:234479",
-      "kind": "media",
-      "source": "Tom's Guide",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "HP Omnibook Ultra 14 reviewed as strong MacBook competitor with pricing issues",
-      "url": "https://www.tomsguide.com/computing/laptops/hp-omnibook-ultra-14-2026-review",
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:234479",
-      "kind": "media",
-      "source": "Tom's Guide",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "HP Omnibook Ultra 14 reviewed as strong MacBook competitor with pricing issues",
-      "url": "https://www.tomsguide.com/computing/laptops/hp-omnibook-ultra-14-2026-review",
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:233386",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MSI Gaming Laptop Owner Claims 144Hz Screen Replaced With 60Hz One",
-      "url": "https://wccftech.com/msi-laptop-owner-claims-service-center-swapped-144hz-screen-60hz/",
-      "published_at": "2026-08-02T08:16:54+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "MSI",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:233797",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo launches ThinkPad T1g Gen 9 with RTX 5070 and 64GB RAM",
-      "url": "https://www.notebookcheck.com/Lenovo-veroeffentlicht-ThinkPad-T1g-Gen-9-mit-64GB-LPCAMM2-RAM-und-RTX-5070-12GB.1358059.0.html",
-      "published_at": "2026-08-02T07:00:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:233416",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Amazon's daily tech flash sales and price comparisons",
-      "url": "https://winfuture.de/special/amazon/angebote/#1785623040",
-      "published_at": "2026-08-01T22:24:00+00:00",
-      "score": 5,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Amazon",
-      "family": "Other",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6324,6 +6324,101 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:114450",
+      "kind": "youtube",
+      "source": "Tom's Guide",
+      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Connecting HDMI to MacBook Neo with USB-C hub and Dell monitor",
+      "url": "https://www.youtube.com/shorts/XxHepJVFseY",
+      "published_at": "2026-08-06T17:29:33+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:114345",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell S Series laptops review: Build quality, display, and performance analysis",
+      "url": "https://www.youtube.com/watch?v=kGkMr8sTSy8",
+      "published_at": "2026-08-06T15:25:34+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:114345",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell S Series laptops review: Build quality, display, and performance analysis",
+      "url": "https://www.youtube.com/watch?v=kGkMr8sTSy8",
+      "published_at": "2026-08-06T15:25:34+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:114885",
+      "kind": "youtube",
+      "source": "Austin Evans",
+      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell Latitude laptop review: $253 vs $2000 original price",
+      "url": "https://www.youtube.com/watch?v=NQxRrGMjTeU",
+      "published_at": "2026-08-06T15:01:57+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:114946",
+      "kind": "youtube",
+      "source": "Canaltech",
+      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Meet the new ASUS Zenbook A16! Premium design and high performance",
+      "url": "https://www.youtube.com/shorts/9nl-ryUS99k",
+      "published_at": "2026-08-06T13:31:09+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:269726",
@@ -6379,6 +6474,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:114795",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo Lock vs Lock Essential Notebook Comparison Teaser",
+      "url": "https://www.youtube.com/shorts/TILSdHDwzbM",
+      "published_at": "2026-08-06T12:46:51+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
