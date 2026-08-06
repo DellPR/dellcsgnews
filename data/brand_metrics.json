@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-06T22:43:31.342943+00:00",
-  "total_items": 1463,
+  "generated_at": "2026-08-06T23:41:30.613966+00:00",
+  "total_items": 1455,
   "brands": [
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 195,
+      "total": 197,
       "media": 132,
-      "youtube": 63,
+      "youtube": 65,
       "reviews": 46,
       "sponsored": 5,
       "dell_stories": 0,
@@ -16,6 +16,10 @@
         {
           "source": "Notebookcheck DE - News",
           "count": 39
+        },
+        {
+          "source": "Tech BR",
+          "count": 9
         },
         {
           "source": "TechRadar",
@@ -27,10 +31,6 @@
         },
         {
           "source": "Qual Notebook Comprar?",
-          "count": 8
-        },
-        {
-          "source": "Tech BR",
           "count": 8
         },
         {
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 149
+          "count": 151
         },
         {
           "section": "Deals",
@@ -64,15 +64,15 @@
           "count": 2
         }
       ],
-      "avg_score": 61.8
+      "avg_score": 61.9
     },
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 191,
+      "total": 190,
       "media": 134,
-      "youtube": 57,
-      "reviews": 30,
+      "youtube": 56,
+      "reviews": 29,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 18,
@@ -113,7 +113,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 118
+          "count": 117
         },
         {
           "section": "Deals",
@@ -132,7 +132,7 @@
           "count": 5
         }
       ],
-      "avg_score": 61.3
+      "avg_score": 61.2
     },
     {
       "brand": "Microsoft",
@@ -205,10 +205,10 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 123,
+      "total": 122,
       "media": 68,
-      "youtube": 55,
-      "reviews": 47,
+      "youtube": 54,
+      "reviews": 46,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 12,
@@ -249,7 +249,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 94
+          "count": 93
         },
         {
           "section": "Deals",
@@ -405,10 +405,10 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 78,
+      "total": 76,
       "media": 60,
-      "youtube": 18,
-      "reviews": 12,
+      "youtube": 16,
+      "reviews": 11,
       "sponsored": 4,
       "dell_stories": 0,
       "high_signal": 8,
@@ -453,7 +453,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 20
+          "count": 19
         },
         {
           "section": "Deals",
@@ -465,7 +465,7 @@
         },
         {
           "section": "Market Trends",
-          "count": 2
+          "count": 1
         }
       ],
       "avg_score": 66.4
@@ -541,13 +541,13 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 76,
+      "total": 71,
       "media": 34,
-      "youtube": 42,
-      "reviews": 16,
+      "youtube": 37,
+      "reviews": 13,
       "sponsored": 0,
       "dell_stories": 0,
-      "high_signal": 14,
+      "high_signal": 10,
       "top_sources": [
         {
           "source": "JayzTwoCents",
@@ -555,14 +555,10 @@
         },
         {
           "source": "Linus Tech Tips",
-          "count": 7
+          "count": 6
         },
         {
           "source": "PCWorld",
-          "count": 5
-        },
-        {
-          "source": "The Verge",
           "count": 5
         },
         {
@@ -571,6 +567,10 @@
         },
         {
           "source": "Adrenaline",
+          "count": 4
+        },
+        {
+          "source": "The Verge",
           "count": 4
         },
         {
@@ -585,7 +585,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 65
+          "count": 60
         },
         {
           "section": "Competitor Coverage",
@@ -600,14 +600,14 @@
           "count": 2
         }
       ],
-      "avg_score": 68.7
+      "avg_score": 67.2
     },
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 57,
+      "total": 56,
       "media": 41,
-      "youtube": 16,
+      "youtube": 15,
       "reviews": 8,
       "sponsored": 1,
       "dell_stories": 0,
@@ -662,13 +662,9 @@
         {
           "section": "Ecosystem",
           "count": 2
-        },
-        {
-          "section": "Market Trends",
-          "count": 1
         }
       ],
-      "avg_score": 63.4
+      "avg_score": 63.5
     },
     {
       "brand": "HP",
@@ -1492,15 +1488,15 @@
     {
       "month": "2026-06",
       "brands": {
-        "Valve": 23,
-        "Apple": 20,
+        "Apple": 19,
         "Dell": 18,
-        "Lenovo": 17,
-        "Asus": 14,
-        "MSI": 10,
-        "Intel": 7,
+        "Lenovo": 18,
+        "Valve": 18,
+        "Asus": 13,
+        "MSI": 9,
         "HP": 6,
         "Acer": 5,
+        "Intel": 5,
         "Microsoft": 5,
         "NVIDIA": 4,
         "Alienware": 3,
@@ -1534,7 +1530,7 @@
     {
       "month": "2026-08",
       "brands": {
-        "Lenovo": 60,
+        "Lenovo": 61,
         "Apple": 43,
         "Microsoft": 42,
         "Asus": 34,
@@ -1572,6 +1568,25 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:115545",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo Slim 3 with Ryzen 5 running Fortnite performance test",
+      "url": "https://www.youtube.com/shorts/A44U23OqOTA",
+      "published_at": "2026-08-06T21:10:49+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:277457",
@@ -6284,25 +6299,6 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "media:237067",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple faces component shortages impacting MacBook Air production",
-      "url": "https://winfuture.de/news,160369.html",
-      "published_at": "2026-08-03T10:08:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6324,6 +6320,25 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:115545",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo Slim 3 with Ryzen 5 running Fortnite performance test",
+      "url": "https://www.youtube.com/shorts/A44U23OqOTA",
+      "published_at": "2026-08-06T21:10:49+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:277457",
@@ -31786,193 +31801,22 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:25595",
+      "id": "youtube:115529",
       "kind": "youtube",
-      "source": "PCWorld",
-      "source_icon": "https://yt3.googleusercontent.com/Y9Qeoq6gXw_cDQUpUmmJCoVh66rCotYtyetmYEyd9rryQZoJXLvhjtMupYCG6J02ghSvw6qZDEc=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "PC news discussion: Steam Machine reviews, Intel Arc G3 benchmarks, and MSI Claw 8 EX AI+",
-      "url": "https://www.youtube.com/watch?v=W0o90MgyMTA",
-      "published_at": "2026-06-22T21:24:28+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "MSI",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:25595",
-      "kind": "youtube",
-      "source": "PCWorld",
-      "source_icon": "https://yt3.googleusercontent.com/Y9Qeoq6gXw_cDQUpUmmJCoVh66rCotYtyetmYEyd9rryQZoJXLvhjtMupYCG6J02ghSvw6qZDEc=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "PC news discussion: Steam Machine reviews, Intel Arc G3 benchmarks, and MSI Claw 8 EX AI+",
-      "url": "https://www.youtube.com/watch?v=W0o90MgyMTA",
-      "published_at": "2026-06-22T21:24:28+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:25865",
-      "kind": "youtube",
-      "source": "MW Informática",
-      "source_icon": "https://yt3.googleusercontent.com/o8BtikpsYJgccc2is9SvZtZtZ9xgQwesG0PJDWg2zeHWkoltlPThO32qPwo_zi2I_j6TYBGRxA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
+      "source": "The Tech Chap",
+      "source_icon": "https://yt3.googleusercontent.com/BqQGAGWm03aiyeviWMIjILHE9EInqFQSvKFHGBZcT9M_BBhCh5NdPXrmpbHZb_mmhkhu_C3K=s68-c-k-c0x00ffffff-no-rj",
+      "country": "GB",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Testing new Intel integrated graphics on Asus Zenbook S14",
-      "url": "https://www.youtube.com/watch?v=DkHvpaBwvno",
-      "published_at": "2026-06-22T20:58:48+00:00",
+      "title": "Lenovo Legion Pro 5i with RTX 5070 12GB VRAM and improved cooling reviewed",
+      "url": "https://www.youtube.com/shorts/Hqgd0PmULRU",
+      "published_at": "2026-06-22T12:22:28+00:00",
       "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:25865",
-      "kind": "youtube",
-      "source": "MW Informática",
-      "source_icon": "https://yt3.googleusercontent.com/o8BtikpsYJgccc2is9SvZtZtZ9xgQwesG0PJDWg2zeHWkoltlPThO32qPwo_zi2I_j6TYBGRxA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Testing new Intel integrated graphics on Asus Zenbook S14",
-      "url": "https://www.youtube.com/watch?v=DkHvpaBwvno",
-      "published_at": "2026-06-22T20:58:48+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:24815",
-      "kind": "youtube",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Podcast discusses Steam Machine's potential and challenges",
-      "url": "https://www.youtube.com/watch?v=iVDDr4d5Zfk",
-      "published_at": "2026-06-22T19:38:25+00:00",
-      "score": 60,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:24754",
-      "kind": "youtube",
-      "source": "Dave2D",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Steam Machine review: Performance, design, and price analysis",
-      "url": "https://www.youtube.com/watch?v=Huw11M9aaMk",
-      "published_at": "2026-06-22T18:59:25.197923+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:24753",
-      "kind": "youtube",
-      "source": "EscolhaSegura",
-      "source_icon": "",
-      "country": "",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MacBook Neo vs. Windows Notebooks: Apple's Best Cost Benefit Claim?",
-      "url": "https://www.youtube.com/watch?v=bDFmCTxOm7M",
-      "published_at": "2026-06-22T18:38:01.846463+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
+      "brand": "Lenovo",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:24752",
-      "kind": "youtube",
-      "source": "Linus Tech Tips",
-      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Steam Machine review: Pros and cons of Valve's hybrid PC/console",
-      "url": "https://www.youtube.com/watch?v=6tI1SoMj5vg",
-      "published_at": "2026-06-22T18:32:56.340299+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:25250",
-      "kind": "youtube",
-      "source": "Gamers Nexus",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_n50Rj8oqwUnusv4I6_DllKflZrSdSxmXhYvpHs0hOEj5o=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Valve Steam Machine performance and thermal testing with 3D-printed vents",
-      "url": "https://www.youtube.com/watch?v=66QzlDewigE",
-      "published_at": "2026-06-22T17:00:08+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:24785",
-      "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Hands-on with Valve's Steam Machine: Compact PC with Steam Controller and Zen 4 hardware",
-      "url": "https://www.youtube.com/watch?v=5-x404P3g1M",
-      "published_at": "2026-06-22T17:00:07+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
