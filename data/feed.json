@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-07T12:32:52.925177+00:00",
+  "generated_at": "2026-08-07T12:35:10.448425+00:00",
   "trigger": "manual",
-  "total": 1468,
+  "total": 1465,
   "counts": {
-    "media": 1079,
+    "media": 1077,
     "youtube": 334,
-    "x": 55
+    "x": 54
   },
   "section_counts": {
     "Competitor Coverage": 550,
-    "Deals": 414,
-    "Ecosystem": 260,
+    "Deals": 413,
+    "Ecosystem": 259,
     "Dell Coverage": 113,
     "Market Trends": 76,
-    "X Watch": 55
+    "X Watch": 54
   },
   "brand_metrics": "data/brand_metrics.json",
   "items": [
@@ -502,39 +502,6 @@
       "is_dell_story": false,
       "has_dell_mention": false,
       "is_competitor_story": true,
-      "is_market_story": false,
-      "market_interest": "high"
-    },
-    {
-      "id": "media:273664",
-      "kind": "media",
-      "source": "TechSpot",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
-      "country": "US",
-      "title": "PC cooling company Arctic discounts products due to tariff refunds",
-      "display_title": "PC cooling company Arctic discounts products due to tariff refunds",
-      "original_title": "Apple, Sony, and Nintendo pocketed their tariff refunds, this PC cooling company won't",
-      "url": "https://www.techspot.com/news/113373-apple-sony-nintendo-pocketed-their-tariff-refunds-pc.html",
-      "published_at": "2026-08-06T16:11:00+00:00",
-      "captured_at": "2026-08-06 19:00:23",
-      "section": "Deals",
-      "is_deal": true,
-      "company": "",
-      "product": "",
-      "score": 25,
-      "summary": "Arctic has temporarily discounted its US products until its tariff refund is exhausted, contrasting with larger manufacturers that did not compensate customers for tariff-driven price increases. The article highlights differing corporate responses to tariffs affecting the PC industry.",
-      "why_it_matters": "",
-      "tags": [
-        "TechSpot",
-        "US",
-        "Deals"
-      ],
-      "is_review": false,
-      "is_short": false,
-      "is_sponsored": false,
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": false,
       "is_market_story": false,
       "market_interest": "high"
     },
@@ -1378,40 +1345,6 @@
       "is_competitor_story": false,
       "is_market_story": false,
       "market_interest": "low"
-    },
-    {
-      "id": "media:270041",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "title": "NVIDIA releases RTX Neural Texture Compression SDK for ARM64 platform",
-      "display_title": "NVIDIA releases RTX Neural Texture Compression SDK for ARM64 platform",
-      "original_title": "With RTX Spark Laptops Right Around The Corner, NVIDIA Has Released Its RTX Neural Texture Compression SDK For The ARM64 Platform",
-      "url": "https://wccftech.com/nvidia-rtx-neural-texture-compression-sdk-arm64/",
-      "published_at": "2026-08-06T10:41:34+00:00",
-      "captured_at": "2026-08-06 13:00:23",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "company": "NVIDIA",
-      "product": "",
-      "score": 65,
-      "summary": "NVIDIA has released its RTX Neural Texture Compression SDK for the ARM64 platform, aiming to reduce VRAM usage by 85% in upcoming RTX Spark laptops. The SDK is now available to developers, though no games currently support the technique.",
-      "why_it_matters": "",
-      "tags": [
-        "Wccftech",
-        "US",
-        "NVIDIA",
-        "Ecosystem"
-      ],
-      "is_review": false,
-      "is_short": false,
-      "is_sponsored": false,
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": false,
-      "is_market_story": true,
-      "market_interest": "high"
     },
     {
       "id": "media:269283",
@@ -2653,34 +2586,6 @@
       "also_competitor_story": true,
       "review_type": "review",
       "tone": "positive"
-    },
-    {
-      "id": "x:https://x.com/mweinbach/status/2084985357548785909",
-      "kind": "x",
-      "source": "Max Weinbach",
-      "source_icon": "https://www.google.com/s2/favicons?domain=x.com&sz=64",
-      "country": "",
-      "title": "Max Weinbach @mweinbach · 2 h Cool cool cool when do I get GPT Astra Comentar Polymarket @Polymarket · 17 h JUST IN: Trump’s AI framework to",
-      "url": "https://x.com/mweinbach/status/2084985357548785909",
-      "published_at": "2026-08-05T12:50:21+00:00",
-      "captured_at": "2026-08-05T14:57:51.421748+00:00",
-      "section": "X Watch",
-      "company": "",
-      "product": "",
-      "score": 60,
-      "summary": "Max Weinbach @mweinbach · 2 h Cool cool cool when do I get GPT Astra Comentar Polymarket @Polymarket · 17 h JUST IN: Trump’s AI framework to require advanced closed models to undergo a 30-day government safety review, while exempting open models. — Axios 4 42 7 mil",
-      "why_it_matters": "competitor, coverage signal",
-      "tags": [
-        "Max Weinbach",
-        "X Watch"
-      ],
-      "is_review": false,
-      "is_short": false,
-      "is_sponsored": false,
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": false,
-      "is_market_story": false
     },
     {
       "id": "media:262439",
