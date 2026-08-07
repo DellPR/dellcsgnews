@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T14:53:34.879420+00:00",
+  "generated_at": "2026-08-07T18:08:33.443803+00:00",
   "total_items": 1444,
   "brands": [
     {
@@ -69,10 +69,10 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 189,
+      "total": 190,
       "media": 133,
-      "youtube": 56,
-      "reviews": 28,
+      "youtube": 57,
+      "reviews": 29,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 17,
@@ -113,7 +113,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 118
+          "count": 119
         },
         {
           "section": "Deals",
@@ -132,7 +132,7 @@
           "count": 5
         }
       ],
-      "avg_score": 61.2
+      "avg_score": 61.3
     },
     {
       "brand": "Microsoft",
@@ -541,9 +541,9 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 68,
+      "total": 66,
       "media": 31,
-      "youtube": 37,
+      "youtube": 35,
       "reviews": 14,
       "sponsored": 0,
       "dell_stories": 0,
@@ -566,10 +566,6 @@
           "count": 4
         },
         {
-          "source": "The Verge",
-          "count": 4
-        },
-        {
           "source": "VideoCardz",
           "count": 4
         },
@@ -580,12 +576,16 @@
         {
           "source": "LMGClips",
           "count": 3
+        },
+        {
+          "source": "Tom's Guide",
+          "count": 3
         }
       ],
       "sections": [
         {
           "section": "Market Trends",
-          "count": 57
+          "count": 55
         },
         {
           "section": "Competitor Coverage",
@@ -600,7 +600,75 @@
           "count": 2
         }
       ],
-      "avg_score": 68.1
+      "avg_score": 68.4
+    },
+    {
+      "brand": "HP",
+      "family": "PC competitors",
+      "total": 55,
+      "media": 36,
+      "youtube": 19,
+      "reviews": 18,
+      "sponsored": 1,
+      "dell_stories": 0,
+      "high_signal": 1,
+      "top_sources": [
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 7
+        },
+        {
+          "source": "TechRadar",
+          "count": 7
+        },
+        {
+          "source": "LaptopMedia",
+          "count": 6
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 4
+        },
+        {
+          "source": "Crimson Tech",
+          "count": 3
+        },
+        {
+          "source": "Windows Central",
+          "count": 3
+        },
+        {
+          "source": "Just Josh",
+          "count": 2
+        },
+        {
+          "source": "Linus Tech Tips",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 37
+        },
+        {
+          "section": "Deals",
+          "count": 14
+        },
+        {
+          "section": "Market Trends",
+          "count": 2
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 1
+        },
+        {
+          "section": "Ecosystem",
+          "count": 1
+        }
+      ],
+      "avg_score": 61.6
     },
     {
       "brand": "MSI",
@@ -665,74 +733,6 @@
         }
       ],
       "avg_score": 64.7
-    },
-    {
-      "brand": "HP",
-      "family": "PC competitors",
-      "total": 54,
-      "media": 36,
-      "youtube": 18,
-      "reviews": 18,
-      "sponsored": 1,
-      "dell_stories": 0,
-      "high_signal": 1,
-      "top_sources": [
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 7
-        },
-        {
-          "source": "TechRadar",
-          "count": 7
-        },
-        {
-          "source": "LaptopMedia",
-          "count": 6
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 4
-        },
-        {
-          "source": "Crimson Tech",
-          "count": 3
-        },
-        {
-          "source": "Windows Central",
-          "count": 3
-        },
-        {
-          "source": "Just Josh",
-          "count": 2
-        },
-        {
-          "source": "Linus Tech Tips",
-          "count": 2
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 36
-        },
-        {
-          "section": "Deals",
-          "count": 14
-        },
-        {
-          "section": "Market Trends",
-          "count": 2
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 1
-        },
-        {
-          "section": "Ecosystem",
-          "count": 1
-        }
-      ],
-      "avg_score": 61.4
     },
     {
       "brand": "Amazon",
@@ -1495,7 +1495,7 @@
         "Apple": 19,
         "Dell": 18,
         "Lenovo": 18,
-        "Valve": 18,
+        "Valve": 16,
         "Asus": 13,
         "MSI": 9,
         "HP": 6,
@@ -1535,12 +1535,12 @@
       "month": "2026-08",
       "brands": {
         "Lenovo": 69,
-        "Apple": 45,
+        "Apple": 46,
         "Microsoft": 41,
         "Asus": 40,
         "AMD": 24,
         "Dell": 23,
-        "HP": 18,
+        "HP": 19,
         "MSI": 11,
         "Samsung": 11,
         "Intel": 9,
@@ -1572,6 +1572,44 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:116941",
+      "kind": "youtube",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Corsair Voyager A1600 Gaming Laptop Full AMD Setup and 12GB VRAM",
+      "url": "https://www.youtube.com/shorts/a5mHA0M_JJE",
+      "published_at": "2026-08-07T15:19:21+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:116970",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Best Laptops for Productivity Tested",
+      "url": "https://www.youtube.com/watch?v=AxxOyu2Qyrk",
+      "published_at": "2026-08-07T14:04:43+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:282445",
@@ -6265,44 +6303,6 @@
       "brand": "Google",
       "family": "Other",
       "is_dell_story": false
-    },
-    {
-      "id": "media:240124",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus ProArt PA32UCDMR 4K OLED monitor review highlights precision and flexibility",
-      "url": "https://www.tomshardware.com/monitors/asus-proart-pa32ucdmr-32-inch-4k-professional-oled-monitor-review",
-      "published_at": "2026-08-03T13:00:00+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:240124",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus ProArt PA32UCDMR 4K OLED monitor review highlights precision and flexibility",
-      "url": "https://www.tomshardware.com/monitors/asus-proart-pa32ucdmr-32-inch-4k-professional-oled-monitor-review",
-      "published_at": "2026-08-03T13:00:00+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6324,6 +6324,44 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:116941",
+      "kind": "youtube",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Corsair Voyager A1600 Gaming Laptop Full AMD Setup and 12GB VRAM",
+      "url": "https://www.youtube.com/shorts/a5mHA0M_JJE",
+      "published_at": "2026-08-07T15:19:21+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:116970",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Best Laptops for Productivity Tested",
+      "url": "https://www.youtube.com/watch?v=AxxOyu2Qyrk",
+      "published_at": "2026-08-07T14:04:43+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:282445",
@@ -31512,44 +31550,6 @@
       "title": "DIY PC build vs Steam Machine: Cost, performance, and trade-offs",
       "url": "https://www.youtube.com/watch?v=zvaO4DPM1ZM",
       "published_at": "2026-06-23T19:00:32+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:27455",
-      "kind": "youtube",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Steam Machine vs. PS5 #Vergecast",
-      "url": "https://www.youtube.com/shorts/jEDR2CTRBMQ",
-      "published_at": "2026-06-23T14:00:28+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:26795",
-      "kind": "youtube",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Steam Machine: PS5 performance?",
-      "url": "https://www.youtube.com/shorts/oLLDkItSQLg",
-      "published_at": "2026-06-23T13:00:29+00:00",
       "score": 60,
       "is_review": false,
       "is_sponsored": false,
