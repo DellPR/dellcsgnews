@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T14:51:57.244759+00:00",
-  "total_items": 1446,
+  "generated_at": "2026-08-10T18:13:34.616607+00:00",
+  "total_items": 1441,
   "brands": [
     {
       "brand": "Lenovo",
@@ -69,10 +69,10 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 197,
+      "total": 194,
       "media": 142,
-      "youtube": 55,
-      "reviews": 31,
+      "youtube": 52,
+      "reviews": 30,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 21,
@@ -113,7 +113,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 121
+          "count": 118
         },
         {
           "section": "Deals",
@@ -132,14 +132,14 @@
           "count": 7
         }
       ],
-      "avg_score": 61.8
+      "avg_score": 61.6
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 137,
+      "total": 136,
       "media": 80,
-      "youtube": 57,
+      "youtube": 56,
       "reviews": 47,
       "sponsored": 2,
       "dell_stories": 0,
@@ -159,7 +159,7 @@
         },
         {
           "source": "Qual Notebook Comprar?",
-          "count": 8
+          "count": 7
         },
         {
           "source": "Tech BR",
@@ -181,7 +181,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 109
+          "count": 108
         },
         {
           "section": "Deals",
@@ -200,16 +200,16 @@
           "count": 2
         }
       ],
-      "avg_score": 67.0
+      "avg_score": 66.9
     },
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 132,
+      "total": 133,
       "media": 128,
-      "youtube": 4,
+      "youtube": 5,
       "reviews": 3,
-      "sponsored": 0,
+      "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 1,
       "top_sources": [
@@ -253,7 +253,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 30
+          "count": 31
         },
         {
           "section": "Deals",
@@ -268,18 +268,18 @@
           "count": 1
         }
       ],
-      "avg_score": 53.1
+      "avg_score": 53.3
     },
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 100,
+      "total": 97,
       "media": 57,
-      "youtube": 43,
-      "reviews": 42,
-      "sponsored": 6,
-      "dell_stories": 97,
-      "high_signal": 89,
+      "youtube": 40,
+      "reviews": 41,
+      "sponsored": 5,
+      "dell_stories": 94,
+      "high_signal": 86,
       "top_sources": [
         {
           "source": "Tom's Guide",
@@ -317,7 +317,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 78
+          "count": 75
         },
         {
           "section": "Deals",
@@ -1337,14 +1337,18 @@
     {
       "brand": "Meta",
       "family": "Other",
-      "total": 2,
+      "total": 3,
       "media": 2,
-      "youtube": 0,
-      "reviews": 0,
+      "youtube": 1,
+      "reviews": 1,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
       "top_sources": [
+        {
+          "source": "Alex Ziskind",
+          "count": 1
+        },
         {
           "source": "PC Gamer",
           "count": 1
@@ -1357,10 +1361,10 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 2
+          "count": 3
         }
       ],
-      "avg_score": 65.0
+      "avg_score": 67.3
     },
     {
       "brand": "Positivo",
@@ -1488,10 +1492,10 @@
     {
       "month": "2026-06",
       "brands": {
-        "Dell": 18,
         "Lenovo": 18,
-        "Apple": 16,
-        "Asus": 13,
+        "Dell": 15,
+        "Apple": 13,
+        "Asus": 12,
         "HP": 7,
         "MSI": 6,
         "Valve": 6,
@@ -1532,7 +1536,7 @@
       "brands": {
         "Lenovo": 86,
         "Apple": 64,
-        "Microsoft": 59,
+        "Microsoft": 60,
         "Asus": 57,
         "AMD": 34,
         "Dell": 29,
@@ -1568,6 +1572,44 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:120375",
+      "kind": "youtube",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Nubia Red Magic 8 Pro review: Gaming phone with elite cooling and 185Hz screen",
+      "url": "https://www.youtube.com/watch?v=arA6Q45qTz0",
+      "published_at": "2026-08-10T17:04:24+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:120645",
+      "kind": "youtube",
+      "source": "Alex Ziskind",
+      "source_icon": "https://yt3.googleusercontent.com/At-1Kn54AljCodKZ7G9jxzd-1cCR3BknxIqpwGiXckFOXATpOjSyL-ivxtZQPE7RRAtWC8abFA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Meta releases open-weight AI model Muse Glimmer with 30B parameters",
+      "url": "https://www.youtube.com/watch?v=dtb1ihWSkP4",
+      "published_at": "2026-08-10T16:30:50+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Meta",
+      "family": "Other",
+      "is_dell_story": false
     },
     {
       "id": "media:298370",
@@ -6261,44 +6303,6 @@
       "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:262439",
-      "kind": "media",
-      "source": "Trusted Reviews",
-      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
-      "country": "GB",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Apple’s MacBook Pro M5 price drops by £110",
-      "url": "https://www.trustedreviews.com/deals/apples-macbook-pro-m5-price-just-went-down-instead-of-up",
-      "published_at": "2026-08-05T12:33:05+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:259472",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus Launches VivoBook 18 with Ryzen AI 7 and 32 GB RAM",
-      "url": "https://www.notebookcheck.com/Asus-Office-Notebook-mit-Ryzen-AI-7-32-GB-RAM-1-TB-SSD-im-Angebot.1360575.0.html",
-      "published_at": "2026-08-05T11:55:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6320,6 +6324,44 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:120375",
+      "kind": "youtube",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Nubia Red Magic 8 Pro review: Gaming phone with elite cooling and 185Hz screen",
+      "url": "https://www.youtube.com/watch?v=arA6Q45qTz0",
+      "published_at": "2026-08-10T17:04:24+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:120645",
+      "kind": "youtube",
+      "source": "Alex Ziskind",
+      "source_icon": "https://yt3.googleusercontent.com/At-1Kn54AljCodKZ7G9jxzd-1cCR3BknxIqpwGiXckFOXATpOjSyL-ivxtZQPE7RRAtWC8abFA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Meta releases open-weight AI model Muse Glimmer with 30B parameters",
+      "url": "https://www.youtube.com/watch?v=dtb1ihWSkP4",
+      "published_at": "2026-08-10T16:30:50+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Meta",
+      "family": "Other",
+      "is_dell_story": false
     },
     {
       "id": "media:298370",
@@ -31421,44 +31463,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:38272",
-      "kind": "youtube",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review of Dell 14: Premium design, performance, and value analysis",
-      "url": "https://www.youtube.com/watch?v=uBIH0aJYB0c",
-      "published_at": "2026-06-26T15:49:33+00:00",
-      "score": 95,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:38273",
-      "kind": "youtube",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "2026 Dell XPS: Lighter, faster, and stronger | Hype Desk",
-      "url": "https://www.youtube.com/watch?v=UplcgjvkD7k",
-      "published_at": "2026-06-26T15:49:33+00:00",
-      "score": 92,
-      "is_review": false,
-      "is_sponsored": true,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "youtube:40391",
       "kind": "youtube",
       "source": "Micro Center",
@@ -31877,25 +31881,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:38879",
-      "kind": "youtube",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Macbook Air M4 VS Zenbook S 14? 🤔 #notebook #macbook #zenbook #qualnotebook #qnc",
-      "url": "https://www.youtube.com/shorts/WymvsD96KPA",
-      "published_at": "2026-06-16T19:48:30+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:105851",
       "kind": "youtube",
       "source": "Marques Brownlee (MKBHD)",
@@ -32067,25 +32052,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:38880",
-      "kind": "youtube",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "The ASUS Zenbook S14 is reviewed as a premium laptop with a metal body",
-      "url": "https://www.youtube.com/shorts/ffmMK-3EMUE",
-      "published_at": "2026-06-15T20:04:17+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:100510",
       "kind": "youtube",
       "source": "Notebookcheck Reviews",
@@ -32141,25 +32107,6 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:38882",
-      "kind": "youtube",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ÓTIMO NOTEBOOK p/ produtividade 💼 Dell 14",
-      "url": "https://www.youtube.com/shorts/ZsGuz-3_A8w",
-      "published_at": "2026-06-11T21:31:47+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
     },
     {
       "id": "youtube:99011",
@@ -32367,44 +32314,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:38884",
-      "kind": "youtube",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "A detailed review of the Arzopa Z3FC 16.1\" portable monitor, highlighting its 2.8K IPS",
-      "url": "https://www.youtube.com/shorts/dfArhQ7AzNE",
-      "published_at": "2026-06-09T21:05:50+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:38885",
-      "kind": "youtube",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review of Arzopa Z3FC 2.8K 180Hz portable monitor for notebooks",
-      "url": "https://www.youtube.com/watch?v=RnZSIDtRzLA",
-      "published_at": "2026-06-09T21:00:16+00:00",
-      "score": 75,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
