@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T20:36:15.174609+00:00",
-  "total_items": 1446,
+  "generated_at": "2026-08-10T22:45:00.577979+00:00",
+  "total_items": 1447,
   "brands": [
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 206,
-      "media": 140,
+      "total": 205,
+      "media": 139,
       "youtube": 66,
       "reviews": 44,
       "sponsored": 6,
@@ -53,7 +53,7 @@
         },
         {
           "section": "Deals",
-          "count": 39
+          "count": 38
         },
         {
           "section": "Market Trends",
@@ -64,13 +64,13 @@
           "count": 3
         }
       ],
-      "avg_score": 62.1
+      "avg_score": 62.3
     },
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 192,
-      "media": 140,
+      "total": 193,
+      "media": 141,
       "youtube": 52,
       "reviews": 30,
       "sponsored": 1,
@@ -113,7 +113,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 118
+          "count": 119
         },
         {
           "section": "Deals",
@@ -205,8 +205,8 @@
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 133,
-      "media": 128,
+      "total": 135,
+      "media": 130,
       "youtube": 5,
       "reviews": 3,
       "sponsored": 1,
@@ -222,24 +222,24 @@
           "count": 11
         },
         {
+          "source": "Windows Central",
+          "count": 11
+        },
+        {
           "source": "PCWorld",
           "count": 10
         },
         {
-          "source": "Windows Central",
-          "count": 10
-        },
-        {
           "source": "Tecnoblog",
-          "count": 7
-        },
-        {
-          "source": "TudoCelular",
-          "count": 7
+          "count": 8
         },
         {
           "source": "Wccftech",
           "count": 7
+        },
+        {
+          "source": "TudoCelular",
+          "count": 6
         },
         {
           "source": "Adrenaline",
@@ -249,7 +249,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 89
+          "count": 91
         },
         {
           "section": "Competitor Coverage",
@@ -341,8 +341,8 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 94,
-      "media": 86,
+      "total": 93,
+      "media": 85,
       "youtube": 8,
       "reviews": 11,
       "sponsored": 0,
@@ -354,15 +354,15 @@
           "count": 12
         },
         {
-          "source": "Tom's Hardware",
-          "count": 11
-        },
-        {
           "source": "Wccftech",
           "count": 11
         },
         {
           "source": "Notebookcheck DE - News",
+          "count": 10
+        },
+        {
+          "source": "Tom's Hardware",
           "count": 10
         },
         {
@@ -393,14 +393,14 @@
         },
         {
           "section": "Deals",
-          "count": 15
+          "count": 14
         },
         {
           "section": "Market Trends",
           "count": 3
         }
       ],
-      "avg_score": 60.8
+      "avg_score": 61.3
     },
     {
       "brand": "Intel",
@@ -541,8 +541,8 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 59,
-      "media": 34,
+      "total": 58,
+      "media": 33,
       "youtube": 25,
       "reviews": 13,
       "sponsored": 0,
@@ -597,16 +597,16 @@
         },
         {
           "section": "Deals",
-          "count": 2
+          "count": 1
         }
       ],
-      "avg_score": 68.7
+      "avg_score": 69.6
     },
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 55,
-      "media": 35,
+      "total": 56,
+      "media": 36,
       "youtube": 20,
       "reviews": 20,
       "sponsored": 1,
@@ -615,7 +615,7 @@
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
-          "count": 7
+          "count": 8
         },
         {
           "source": "LaptopMedia",
@@ -649,7 +649,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 40
+          "count": 41
         },
         {
           "section": "Deals",
@@ -668,7 +668,7 @@
           "count": 1
         }
       ],
-      "avg_score": 64.5
+      "avg_score": 64.6
     },
     {
       "brand": "MSI",
@@ -1513,18 +1513,18 @@
     {
       "month": "2026-07",
       "brands": {
-        "Apple": 100,
-        "Lenovo": 85,
-        "Microsoft": 69,
-        "AMD": 56,
+        "Apple": 99,
+        "Lenovo": 84,
+        "Microsoft": 68,
+        "AMD": 55,
         "Asus": 52,
         "Intel": 49,
         "Dell": 46,
         "NVIDIA": 46,
         "Framework": 37,
         "Amazon": 33,
-        "Valve": 32,
         "MSI": 31,
+        "Valve": 31,
         "Qualcomm": 25,
         "Samsung": 24,
         "HP": 16,
@@ -1535,13 +1535,13 @@
       "month": "2026-08",
       "brands": {
         "Lenovo": 92,
-        "Apple": 69,
-        "Microsoft": 62,
+        "Apple": 71,
+        "Microsoft": 65,
         "Asus": 58,
         "AMD": 35,
         "Dell": 31,
         "Intel": 27,
-        "HP": 25,
+        "HP": 26,
         "Valve": 20,
         "Acer": 16,
         "MSI": 16,
@@ -1572,6 +1572,101 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "media:305924",
+      "kind": "media",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft reportedly raises Windows license cost by 10% for OEMs",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/amid-ram-price-hikes-microsoft-reportedly-raises-windows-license-cost-forcing-oems-to-hike-prices-even-further-on-hardware",
+      "published_at": "2026-08-10T20:47:20+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:305742",
+      "kind": "media",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft disables Picture Password mode in Windows 11",
+      "url": "https://tecnoblog.net/noticias/sem-alarde-microsoft-desativa-modo-senha-com-imagem-do-windows-11/",
+      "published_at": "2026-08-10T19:34:44+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:306160",
+      "kind": "media",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft raises Windows OEM fees, increasing PC costs",
+      "url": "https://hothardware.com/news/microsoft-jacks-up-windows-oem-fees-driving-up-pc-retail-costs",
+      "published_at": "2026-08-10T19:04:00+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:305710",
+      "kind": "media",
+      "source": "TecMundo",
+      "source_icon": "",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple tests Chinese supplier chips for iPhones and MacBooks",
+      "url": "https://www.tecmundo.com.br/mercado/415172-apple-testa-chips-de-fornecedora-chinesa-para-iphones-e-macbooks.htm",
+      "published_at": "2026-08-10T19:00:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:306874",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP Launches EliteDesk Mini-PC with Core Ultra 9, 64 GB RAM, 1 TB SSD",
+      "url": "https://www.notebookcheck.com/HP-EliteDesk-Mini-PC-mit-Core-Ultra-9-64-GB-RAM-1-TB-SSD-im-Angebot.1364987.0.html",
+      "published_at": "2026-08-10T18:57:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:302345",
@@ -2065,6 +2160,25 @@
       "is_sponsored": false,
       "brand": "Valve",
       "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:305649",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple faces MacBook Air M5 delivery delays due to RAM crisis",
+      "url": "https://www.tudocelular.com/mercado/noticias/n260377/macbook-air-sofre-crise-memoria-encara-atrasos.html",
+      "published_at": "2026-08-10T14:50:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -6189,120 +6303,6 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:270448",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Legion Pro 7 with Ryzen 9 and RTX 5070 Ti specs revealed",
-      "url": "https://www.notebookcheck.com/Lenovo-Legion-Pro-mit-Ryzen-9-GeForce-RTX-5070-Ti-32-GB-RAM-1-TB-SSD-2-5k-OLED-im-Angebot.1361376.0.html",
-      "published_at": "2026-08-06T12:53:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:269831",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus ROG celebrates 20 years with new gaming and creator laptops",
-      "url": "https://www.techradar.com/gaming/asus-rog-now-has-20-years-of-innovation-under-its-belt-and-its-current-range-has-a-wealth-of-options-for-gamers-and-creators",
-      "published_at": "2026-08-06T12:47:53+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:114795",
-      "kind": "youtube",
-      "source": "Tech BR",
-      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Lock vs Lock Essential Notebook Comparison Teaser",
-      "url": "https://www.youtube.com/shorts/TILSdHDwzbM",
-      "published_at": "2026-08-06T12:46:51+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:270055",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Faulty BIOS update bricks Lenovo Legion Go handhelds, costly repairs",
-      "url": "https://winfuture.de/news,160449.html",
-      "published_at": "2026-08-06T12:28:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:272890",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell Pro P 43 4K 2026 arrives in Brazil as all-in-one meeting monitor",
-      "url": "https://www.tudocelular.com/dell/noticias/n260158/dell-pro-p-43-4k-2026-lancamento-preco-ficha.html",
-      "published_at": "2026-08-06T11:54:00+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:270453",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Launches Office-Notebook with Snapdragon X and 19h Battery Life",
-      "url": "https://www.notebookcheck.com/Lenovo-Office-Notebook-mit-Snapdragon-X-1-TB-SSD-und-19-h-Laufzeit-im-Angebot.1361347.0.html",
-      "published_at": "2026-08-06T11:37:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6324,6 +6324,101 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "media:305924",
+      "kind": "media",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft reportedly raises Windows license cost by 10% for OEMs",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/amid-ram-price-hikes-microsoft-reportedly-raises-windows-license-cost-forcing-oems-to-hike-prices-even-further-on-hardware",
+      "published_at": "2026-08-10T20:47:20+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:305742",
+      "kind": "media",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft disables Picture Password mode in Windows 11",
+      "url": "https://tecnoblog.net/noticias/sem-alarde-microsoft-desativa-modo-senha-com-imagem-do-windows-11/",
+      "published_at": "2026-08-10T19:34:44+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:306160",
+      "kind": "media",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft raises Windows OEM fees, increasing PC costs",
+      "url": "https://hothardware.com/news/microsoft-jacks-up-windows-oem-fees-driving-up-pc-retail-costs",
+      "published_at": "2026-08-10T19:04:00+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:305710",
+      "kind": "media",
+      "source": "TecMundo",
+      "source_icon": "",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple tests Chinese supplier chips for iPhones and MacBooks",
+      "url": "https://www.tecmundo.com.br/mercado/415172-apple-testa-chips-de-fornecedora-chinesa-para-iphones-e-macbooks.htm",
+      "published_at": "2026-08-10T19:00:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:306874",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP Launches EliteDesk Mini-PC with Core Ultra 9, 64 GB RAM, 1 TB SSD",
+      "url": "https://www.notebookcheck.com/HP-EliteDesk-Mini-PC-mit-Core-Ultra-9-64-GB-RAM-1-TB-SSD-im-Angebot.1364987.0.html",
+      "published_at": "2026-08-10T18:57:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:302345",
@@ -6817,6 +6912,25 @@
       "is_sponsored": false,
       "brand": "Valve",
       "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:305649",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple faces MacBook Air M5 delivery delays due to RAM crisis",
+      "url": "https://www.tudocelular.com/mercado/noticias/n260377/macbook-air-sofre-crise-memoria-encara-atrasos.html",
+      "published_at": "2026-08-10T14:50:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -28592,101 +28706,6 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "media:126653",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple plans new MacBooks, iMacs, Mac Studio in next two years",
-      "url": "https://www.tudocelular.com/apple/noticias/n259194/apple-plano-renovacao-linha-mac-novos-modelos.html",
-      "published_at": "2026-07-22T11:44:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:125788",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Skytech offers discounted gaming PC with RTX 5060 Ti and Ryzen 7 7800X3D",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/just-usd1-399-for-this-potent-rtx-5060-ti-16gb-powered-gaming-pc-32gb-of-ddr5-ram-and-amds-7800x3d-to-help-you-crush-the-competition",
-      "published_at": "2026-07-22T11:06:19+00:00",
-      "score": 10,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:126066",
-      "kind": "media",
-      "source": "Trusted Reviews",
-      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
-      "country": "GB",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Lenovo IdeaPad deal offers 16-inch Core i5 laptop for £499.99",
-      "url": "https://www.trustedreviews.com/deals/sort-your-back-to-school-laptop-early-with-this-lenovo-ideapad-deal",
-      "published_at": "2026-07-22T10:26:27+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:126664",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Windows 11 adds dark mode to key interface elements",
-      "url": "https://www.tudocelular.com/software/noticias/n259183/windows-11-modo-escuro-janela-propriedades.html",
-      "published_at": "2026-07-22T10:18:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:126377",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Steam Deck sales drop after price increase",
-      "url": "https://winfuture.de/news,160133.html",
-      "published_at": "2026-07-22T09:55:00+00:00",
-      "score": 15,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
     },
     {
       "id": "youtube:85620",
