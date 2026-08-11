@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-11T18:22:01.676458+00:00",
-  "trigger": "youtube",
-  "total": 1477,
+  "generated_at": "2026-08-11T18:30:53.186186+00:00",
+  "trigger": "manual",
+  "total": 1469,
   "counts": {
-    "media": 1107,
-    "youtube": 310,
+    "media": 1102,
+    "youtube": 307,
     "x": 60
   },
   "section_counts": {
-    "Competitor Coverage": 571,
-    "Deals": 420,
-    "Ecosystem": 261,
+    "Competitor Coverage": 572,
+    "Deals": 418,
+    "Ecosystem": 254,
     "Dell Coverage": 97,
     "Market Trends": 68,
     "X Watch": 60
@@ -362,40 +362,6 @@
       "market_interest": "high"
     },
     {
-      "id": "media:309530",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "title": "Nvidia partners with financial firms for $500B AI infrastructure funds",
-      "display_title": "Nvidia partners with financial firms for $500B AI infrastructure funds",
-      "original_title": "Nvidia teams up with financial giants to create $500 billion AI infrastructure funds — six investment firms to enable access to long-term funding at attractive rates",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-teams-up-with-financial-giants-to-create-usd500-billion-ai-infrastructure-funds-six-investment-firms-to-enable-access-to-long-term-funding-at-attractive-rates",
-      "published_at": "2026-08-11T11:04:32+00:00",
-      "captured_at": "2026-08-11 13:00:11",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "company": "NVIDIA",
-      "product": "",
-      "score": 60,
-      "summary": "Nvidia is collaborating with major financial institutions to provide long-term financing at attractive rates for customers building AI data centers, aiming to lower barriers to entry for AI infrastructure development.",
-      "why_it_matters": "",
-      "tags": [
-        "Tom's Hardware",
-        "US",
-        "NVIDIA",
-        "Ecosystem"
-      ],
-      "is_review": false,
-      "is_short": false,
-      "is_sponsored": false,
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": false,
-      "is_market_story": true,
-      "market_interest": "high"
-    },
-    {
       "id": "x:https://x.com/WindowsCentral/status/2087130523973927347",
       "kind": "x",
       "source": "Jez repostou Windows Central",
@@ -489,41 +455,7 @@
       "has_dell_mention": false,
       "is_competitor_story": false,
       "is_market_story": false,
-      "market_interest": "high"
-    },
-    {
-      "id": "media:311359",
-      "kind": "media",
-      "source": "Clubic",
-      "source_icon": "",
-      "country": "FR",
-      "title": "Intel raises $20B to boost data center processor production",
-      "display_title": "Intel raises $20B to boost data center processor production",
-      "original_title": "Intel va lever 20 milliards de dollars pour financer sa relance industrielle",
-      "url": "https://www.clubic.com/actualite-624850-intel-va-lever-20-milliards-de-dollars-pour-financer-sa-relance-industrielle.html",
-      "published_at": "2026-08-11T09:41:00+00:00",
-      "captured_at": "2026-08-11 13:00:49",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "company": "Intel",
-      "product": "",
-      "score": 65,
-      "summary": "Intel is raising $20 billion through a stock offering to strengthen its balance sheet and fund industrial investments, driven by surging demand for data center processors that outpaces current production capacity.",
-      "why_it_matters": "",
-      "tags": [
-        "Clubic",
-        "FR",
-        "Intel",
-        "Ecosystem"
-      ],
-      "is_review": false,
-      "is_short": false,
-      "is_sponsored": false,
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": false,
-      "is_market_story": true,
-      "market_interest": "high"
+      "market_interest": "deal"
     },
     {
       "id": "media:310134",
@@ -672,7 +604,7 @@
       "url": "https://exame.com/invest/mercados/nvidia-prepara-plano-de-us-500-bilhoes-para-financiar-corrida-da-ia/",
       "published_at": "2026-08-11T08:38:23+00:00",
       "captured_at": "2026-08-11 13:00:09",
-      "section": "Ecosystem",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "company": "NVIDIA",
       "product": "",
@@ -683,15 +615,15 @@
         "Exame",
         "BR",
         "NVIDIA",
-        "Ecosystem"
+        "Competitor Coverage"
       ],
       "is_review": false,
       "is_short": false,
       "is_sponsored": false,
       "is_dell_story": false,
       "has_dell_mention": false,
-      "is_competitor_story": false,
-      "is_market_story": true,
+      "is_competitor_story": true,
+      "is_market_story": false,
       "market_interest": "high"
     },
     {
@@ -706,7 +638,7 @@
       "url": "https://exame.com/inteligencia-artificial/nvidia-fecha-parceria-para-financiar-us-500-bilhoes-em-infraestrutura-de-ia/",
       "published_at": "2026-08-11T08:27:24+00:00",
       "captured_at": "2026-08-11 13:00:09",
-      "section": "Ecosystem",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "company": "NVIDIA",
       "product": "",
@@ -717,15 +649,15 @@
         "Exame",
         "BR",
         "NVIDIA",
-        "Ecosystem"
+        "Competitor Coverage"
       ],
       "is_review": false,
       "is_short": false,
       "is_sponsored": false,
       "is_dell_story": false,
       "has_dell_mention": false,
-      "is_competitor_story": false,
-      "is_market_story": true,
+      "is_competitor_story": true,
+      "is_market_story": false,
       "market_interest": "high"
     },
     {
@@ -879,7 +811,7 @@
       "is_deal": true,
       "company": "Asus",
       "product": "",
-      "score": 35,
+      "score": 55,
       "summary": "ASUS Vivobook Go 15 is available at a discounted price with an AMD Ryzen 5 processor, 8GB memory, and Linux system through a Shopee coupon.",
       "why_it_matters": "",
       "tags": [
@@ -1140,7 +1072,7 @@
       "has_dell_mention": false,
       "is_competitor_story": false,
       "is_market_story": false,
-      "market_interest": "high"
+      "market_interest": "deal"
     },
     {
       "id": "media:305742",
@@ -1324,7 +1256,7 @@
       "url": "https://www.tecmundo.com.br/mercado/415181-ia-chinesa-ainda-depende-da-nvidia-apesar-de-avanco-dos-chips-locais.htm",
       "published_at": "2026-08-10T18:15:00+00:00",
       "captured_at": "2026-08-10 19:00:01",
-      "section": "Ecosystem",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "company": "NVIDIA",
       "product": "",
@@ -1335,15 +1267,15 @@
         "TecMundo",
         "BR",
         "NVIDIA",
-        "Ecosystem"
+        "Competitor Coverage"
       ],
       "is_review": false,
       "is_short": false,
       "is_sponsored": false,
       "is_dell_story": false,
       "has_dell_mention": false,
-      "is_competitor_story": false,
-      "is_market_story": true,
+      "is_competitor_story": true,
+      "is_market_story": false,
       "market_interest": "high"
     },
     {
@@ -1449,46 +1381,6 @@
       "market_interest": "high"
     },
     {
-      "id": "youtube:120375",
-      "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "title": "Nubia Red Magic 8 Pro review: Gaming phone with elite cooling and 185Hz screen",
-      "display_title": "Nubia Red Magic 8 Pro review: Gaming phone with elite cooling and 185Hz screen",
-      "original_title": "Tablets are for gamers now - REDMAGIC Astra 2",
-      "url": "https://www.youtube.com/watch?v=arA6Q45qTz0",
-      "published_at": "2026-08-10T17:04:24+00:00",
-      "captured_at": "2026-08-10 18:00:02",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "company": "Microsoft",
-      "product": "Nubia Red Magic 8 Pro",
-      "score": 72,
-      "summary": "Silver Starfrost reviews the Nubia Red Magic 8 Pro, highlighting its Snapdragon 8 Elite Gen 5 chip, 185Hz OLED display with 1600 nits brightness, and advanced cooling system. The phone excels in gaming performance with minimal thermal throttling, though the complex cooling setup may not suit casual users. It also features IP54 dust/water resistance, 8300 mAh battery, and Magic Key for quick game access.",
-      "why_it_matters": "",
-      "thumbnail": "https://i2.ytimg.com/vi/arA6Q45qTz0/hqdefault.jpg",
-      "tags": [
-        "Short Circuit",
-        "CA",
-        "Microsoft",
-        "Nubia Red Magic 8 Pro",
-        "Sponsored",
-        "Competitor Coverage"
-      ],
-      "is_review": false,
-      "is_short": false,
-      "is_sponsored": true,
-      "sponsor_brand": "Red Magic",
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": true,
-      "is_market_story": false,
-      "also_competitor_story": true,
-      "review_type": "sponsored",
-      "tone": "positive"
-    },
-    {
       "id": "media:302708",
       "kind": "media",
       "source": "IT Forum",
@@ -1521,45 +1413,6 @@
       "is_competitor_story": true,
       "is_market_story": false,
       "market_interest": "high"
-    },
-    {
-      "id": "youtube:120645",
-      "kind": "youtube",
-      "source": "Alex Ziskind",
-      "source_icon": "https://yt3.googleusercontent.com/At-1Kn54AljCodKZ7G9jxzd-1cCR3BknxIqpwGiXckFOXATpOjSyL-ivxtZQPE7RRAtWC8abFA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "title": "Meta releases open-weight AI model Muse Glimmer with 30B parameters",
-      "display_title": "Meta releases open-weight AI model Muse Glimmer with 30B parameters",
-      "original_title": "Meta Open Source Is BACK – Muse Glimmer First Test!",
-      "url": "https://www.youtube.com/watch?v=dtb1ihWSkP4",
-      "published_at": "2026-08-10T16:30:50+00:00",
-      "captured_at": "2026-08-10 18:00:12",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "company": "Meta",
-      "product": "",
-      "score": 72,
-      "summary": "Meta introduces Muse Glimmer, a 30-billion-parameter open-weight AI model available under Apache 2.0 license, capable of running on single-GPU systems with 24GB VRAM. The model demonstrates competitive performance against larger models in specific tasks, with tests showing its ability to handle complex scenarios like 3D maze navigation and C++ code generation. Meta also plans to release an open-weight version of Muse Spark 1.2.",
-      "why_it_matters": "",
-      "thumbnail": "https://i1.ytimg.com/vi/dtb1ihWSkP4/hqdefault.jpg",
-      "tags": [
-        "Alex Ziskind",
-        "US",
-        "Meta",
-        "Review",
-        "Ecosystem"
-      ],
-      "is_review": true,
-      "is_short": false,
-      "is_sponsored": false,
-      "sponsor_brand": "",
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": false,
-      "is_market_story": true,
-      "also_competitor_story": true,
-      "review_type": "review",
-      "tone": ""
     },
     {
       "id": "media:302410",
@@ -1695,7 +1548,7 @@
       "has_dell_mention": false,
       "is_competitor_story": false,
       "is_market_story": true,
-      "market_interest": "high"
+      "market_interest": "market"
     },
     {
       "id": "media:302036",
@@ -1852,8 +1705,8 @@
       "company": "Apple",
       "product": "",
       "score": 75,
-      "summary": "Apple is working with Chinese memory manufacturer CXMT to secure chip supplies for iPhones and MacBooks, despite U.S. restrictions on Chinese tech components, highlighting challenges in sourcing memory amid global supply chain disruptions.",
-      "why_it_matters": "",
+      "summary": "Non-CSG/off-topic content removed from hub",
+      "why_it_matters": "Non-CSG/off-topic content removed from hub",
       "tags": [
         "Computerworld",
         "US",
@@ -1867,7 +1720,7 @@
       "has_dell_mention": false,
       "is_competitor_story": true,
       "is_market_story": false,
-      "market_interest": "high"
+      "market_interest": "competitor"
     },
     {
       "id": "media:302372",
@@ -2322,7 +2175,7 @@
       "is_deal": true,
       "company": "Asus",
       "product": "",
-      "score": 35,
+      "score": 55,
       "summary": "Article highlights a promotional offer for the ASUS Zenbook S14, emphasizing its OLED display and 1 TB storage capacity available in national retail.",
       "why_it_matters": "",
       "tags": [
@@ -2512,40 +2365,6 @@
       "market_interest": "high"
     },
     {
-      "id": "media:298370",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "title": "Intel Xeon 7 Diamond Rapids may feature up to 256 performance cores",
-      "display_title": "Intel Xeon 7 Diamond Rapids may feature up to 256 performance cores",
-      "original_title": "Intel Xeon 7, a geração Diamond Rapids, pode vir com até 256 núcleos P",
-      "url": "https://www.adrenaline.com.br/intel/intel-xeon-7-a-geracao-diamond-rapids-pode-vir-com-ate-256-nucleos-p/",
-      "published_at": "2026-08-10T12:58:13+00:00",
-      "captured_at": "2026-08-10 13:00:01",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "company": "Intel",
-      "product": "",
-      "score": 65,
-      "summary": "An insider claims the Intel Xeon 7 Diamond Rapids processor could have up to 256 performance cores, signaling a significant leap in server and workstation CPU capabilities.",
-      "why_it_matters": "",
-      "tags": [
-        "Adrenaline",
-        "BR",
-        "Intel",
-        "Ecosystem"
-      ],
-      "is_review": false,
-      "is_short": false,
-      "is_sponsored": false,
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": false,
-      "is_market_story": true,
-      "market_interest": "high"
-    },
-    {
       "id": "media:300408",
       "kind": "media",
       "source": "Clubic",
@@ -2593,7 +2412,7 @@
       "captured_at": "2026-08-10 13:00:29",
       "section": "Competitor Coverage",
       "is_deal": false,
-      "company": "Microsoft",
+      "company": "NVIDIA",
       "product": "",
       "score": 60,
       "summary": "Benchmark results show the Surface Laptop Ultra's Nvidia RTX Spark platform, featuring a 20-core CPU, outperforming x86-based laptop CPUs. The article highlights its potential impact on the premium laptop market.",
@@ -2601,7 +2420,7 @@
       "tags": [
         "WinFuture",
         "DE",
-        "Microsoft",
+        "NVIDIA",
         "Competitor Coverage"
       ],
       "is_review": false,
@@ -2785,40 +2604,6 @@
       "market_interest": "high"
     },
     {
-      "id": "media:299585",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "title": "Asus V16 Gaming Notebook with RTX 5070 and Core 7 on Sale",
-      "display_title": "Asus V16 Gaming Notebook with RTX 5070 and Core 7 on Sale",
-      "original_title": "GeForce RTX 5070, Core 7, 32 GB RAM, 1 TB SSD: Asus Gaming-Notebook im Angebot",
-      "url": "https://www.notebookcheck.com/GeForce-RTX-5070-Core-7-32-GB-RAM-1-TB-SSD-Asus-Gaming-Notebook-im-Angebot.1364524.0.html",
-      "published_at": "2026-08-10T11:46:00+00:00",
-      "captured_at": "2026-08-10 13:00:39",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "company": "Asus",
-      "product": "",
-      "score": 65,
-      "summary": "Asus promotes its V16 gaming notebook featuring an Intel Core 7 processor, NVIDIA GeForce RTX 5070 GPU, 32 GB RAM, 1 TB SSD, and a 16-inch 144 Hz IPS display.",
-      "why_it_matters": "",
-      "tags": [
-        "Notebookcheck DE - News",
-        "DE",
-        "Asus",
-        "Competitor Coverage"
-      ],
-      "is_review": false,
-      "is_short": false,
-      "is_sponsored": false,
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": true,
-      "is_market_story": false,
-      "market_interest": "high"
-    },
-    {
       "id": "media:302025",
       "kind": "media",
       "source": "TudoCelular",
@@ -2986,7 +2771,7 @@
       "has_dell_mention": false,
       "is_competitor_story": false,
       "is_market_story": true,
-      "market_interest": "high"
+      "market_interest": "market"
     },
     {
       "id": "media:298752",
@@ -3190,7 +2975,7 @@
       "has_dell_mention": false,
       "is_competitor_story": false,
       "is_market_story": true,
-      "market_interest": "high"
+      "market_interest": "ecosystem"
     },
     {
       "id": "media:301515",
@@ -3224,40 +3009,6 @@
       "has_dell_mention": false,
       "is_competitor_story": false,
       "is_market_story": true,
-      "market_interest": "high"
-    },
-    {
-      "id": "media:300366",
-      "kind": "media",
-      "source": "Les Numériques",
-      "source_icon": "",
-      "country": "FR",
-      "title": "Corsair DDR5 32GB RAM kit on sale for €359.99 (-14%)",
-      "display_title": "Corsair DDR5 32GB RAM kit on sale for €359.99 (-14%)",
-      "original_title": "Actualité : Le kit ram 32 Go DDR 5 Corsair Vengeance (6 000 MHz) est à 359.99 € (-14 %)",
-      "url": "https://www.lesnumeriques.com/ram-memoire-vive/le-kit-ram-32-go-ddr-5-corsair-vengeance-6-000-mhz-est-a-359-99-14-n260246.html",
-      "published_at": "2026-08-10T08:01:00+00:00",
-      "captured_at": "2026-08-10 13:00:49",
-      "section": "Deals",
-      "is_deal": true,
-      "company": "Corsair",
-      "product": "",
-      "score": 35,
-      "summary": "A discounted 32GB DDR5 Corsair Vengeance RAM kit is highlighted for gaming and multitasking PCs, offering improved performance-to-compatibility value at €359.99. The article emphasizes the rare discount making the product more attractive.",
-      "why_it_matters": "",
-      "tags": [
-        "Les Numériques",
-        "FR",
-        "Corsair",
-        "Deals"
-      ],
-      "is_review": false,
-      "is_short": false,
-      "is_sponsored": false,
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": false,
-      "is_market_story": false,
       "market_interest": "high"
     },
     {
@@ -3360,40 +3111,6 @@
       "has_dell_mention": true,
       "is_competitor_story": false,
       "is_market_story": false,
-      "market_interest": "high"
-    },
-    {
-      "id": "media:301557",
-      "kind": "media",
-      "source": "ZDNET France",
-      "source_icon": "",
-      "country": "FR",
-      "title": "Nvidia expands into power solutions for data centers and chips",
-      "display_title": "Nvidia expands into power solutions for data centers and chips",
-      "original_title": "Après les puces et les data centers, Nvidia viserait aussi l’électricité qui les alimente - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONmR0UTZKVTZRZFRGMGs0aGg3RDdaUDJHZUc3azg1dDlMUnV5SkFYM0RVd2Y2M3ZxT3RkWlBCTE05V2hfNllDbXVNaGhzanc5d2hpWW1xUHdPemo3XzR1SWZoUnFNNGxuWmZ1ODA1VlM5MUdEd3ctYWhRUHJlTGUxNVM3dkEtT0w0VFlnT2lFckd2eWNRTlpoNi0wdWxacWpnSEVyRnZFd0w5WHNFT3FiUXlQbmZhVjZrOHp2ODBNcTJaem1fRWxTa1pn?oc=5",
-      "published_at": "2026-08-10T06:01:19+00:00",
-      "captured_at": "2026-08-10 13:01:07",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "company": "NVIDIA",
-      "product": "",
-      "score": 60,
-      "summary": "Nvidia is reportedly entering the power infrastructure market, aiming to provide electricity solutions for its data centers and chip operations, signaling a broader move into energy-related technologies.",
-      "why_it_matters": "",
-      "tags": [
-        "ZDNET France",
-        "FR",
-        "NVIDIA",
-        "Ecosystem"
-      ],
-      "is_review": false,
-      "is_short": false,
-      "is_sponsored": false,
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": false,
-      "is_market_story": true,
       "market_interest": "high"
     },
     {
@@ -4172,45 +3889,6 @@
       "market_interest": "high"
     },
     {
-      "id": "youtube:119250",
-      "kind": "youtube",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
-      "country": "DE",
-      "title": "External GPU solution for ThinkPad X914 with Lunar Lake performance",
-      "display_title": "External GPU solution for ThinkPad X914 with Lunar Lake performance",
-      "original_title": "Upgrade Your Laptop GPU Without Buying a New One! (Aorus RTX 5060 Ti AI Box Review)",
-      "url": "https://www.youtube.com/watch?v=78AmKYiK3-4",
-      "published_at": "2026-08-09T12:14:55+00:00",
-      "captured_at": "2026-08-09 19:00:16",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "company": "Lenovo",
-      "product": "",
-      "score": 72,
-      "summary": "A video explores using an external RTX 560 Ti GPU (Aora's AI box) with a ThinkPad X914 featuring Intel's Lunar Lake CPU. It highlights performance gains in gaming (Cyberpunk, Fortnite), creative workflows (Blender, Resolve), and local AI tasks (Comfy UI, LM Studio), while noting limitations like CPU bottlenecks and Thunderbolt 5 requirements.",
-      "why_it_matters": "",
-      "thumbnail": "https://i4.ytimg.com/vi/78AmKYiK3-4/hqdefault.jpg",
-      "tags": [
-        "Notebookcheck Reviews",
-        "DE",
-        "Lenovo",
-        "Review",
-        "Competitor Coverage"
-      ],
-      "is_review": true,
-      "is_short": false,
-      "is_sponsored": false,
-      "sponsor_brand": "",
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": true,
-      "is_market_story": false,
-      "also_competitor_story": true,
-      "review_type": "review",
-      "tone": ""
-    },
-    {
       "id": "media:295540",
       "kind": "media",
       "source": "Wccftech",
@@ -4489,40 +4167,6 @@
       "market_interest": "high"
     },
     {
-      "id": "media:295542",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "title": "Intel's Diamond Rapids Xeon 7 to reach 256 P-cores, competing with AMD EPYC Venice in 2027",
-      "display_title": "Intel's Diamond Rapids Xeon 7 to reach 256 P-cores, competing with AMD EPYC Venice in 2027",
-      "original_title": "Intel Diamond Rapids “Xeon 7” To Reach 256 P-Cores To Match AMD’s EPYC Venice, Yet Trails On Timeline",
-      "url": "https://wccftech.com/intel-diamond-rapids-xeon-7-to-reach-256-p-cores-to-match-amds-epyc-venice/",
-      "published_at": "2026-08-09T06:40:42+00:00",
-      "captured_at": "2026-08-09 20:00:24",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "company": "Intel",
-      "product": "",
-      "score": 75,
-      "summary": "Intel's upcoming Diamond Rapids Xeon 7 CPUs will feature up to 256 P-cores to rival AMD's EPYC Venice, though launch timelines lag behind initial plans. The article discusses Intel's adjusted strategy for its next-gen data center processors.",
-      "why_it_matters": "",
-      "tags": [
-        "Wccftech",
-        "US",
-        "Intel",
-        "Ecosystem"
-      ],
-      "is_review": false,
-      "is_short": false,
-      "is_sponsored": false,
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": false,
-      "is_market_story": true,
-      "market_interest": "high"
-    },
-    {
       "id": "media:295969",
       "kind": "media",
       "source": "Notebookcheck DE - News",
@@ -4554,7 +4198,7 @@
       "has_dell_mention": false,
       "is_competitor_story": true,
       "is_market_story": false,
-      "market_interest": "high"
+      "market_interest": "competitor"
     },
     {
       "id": "media:294892",
@@ -4858,7 +4502,7 @@
       "is_deal": false,
       "company": "Asus",
       "product": "",
-      "score": 65,
+      "score": 72,
       "summary": "The ASUS ROG Strix XG32UQWMS OLED gaming monitor convinces the author with its 4K glossy panel and advanced screen-protection features, marking a shift towards OLED technology.",
       "why_it_matters": "",
       "tags": [
@@ -4890,7 +4534,7 @@
       "captured_at": "2026-08-08 20:00:16",
       "section": "Competitor Coverage",
       "is_deal": false,
-      "company": "Apple",
+      "company": "Chuwi",
       "product": "",
       "score": 78,
       "summary": "A review of the Chuwi UniBook highlights its Intel Wildcat Lake processor, matte IPS display, and port selection, but criticizes its 8GB RAM limitation for Windows 11, questioning its viability as a MacBook Neo competitor.",
@@ -4898,7 +4542,7 @@
       "tags": [
         "Notebookcheck Reviews",
         "DE",
-        "Apple",
+        "Chuwi",
         "Review",
         "Competitor Coverage"
       ],
@@ -4909,7 +4553,7 @@
       "has_dell_mention": false,
       "is_competitor_story": true,
       "is_market_story": false,
-      "market_interest": "high"
+      "market_interest": "competitor"
     },
     {
       "id": "media:291516",
@@ -4943,7 +4587,7 @@
       "has_dell_mention": false,
       "is_competitor_story": false,
       "is_market_story": true,
-      "market_interest": "high"
+      "market_interest": "market"
     },
     {
       "id": "media:293008",
@@ -4977,7 +4621,7 @@
       "has_dell_mention": false,
       "is_competitor_story": true,
       "is_market_story": false,
-      "market_interest": "high"
+      "market_interest": "competitor"
     },
     {
       "id": "media:294942",
@@ -4993,7 +4637,7 @@
       "captured_at": "2026-08-09 20:00:03",
       "section": "Competitor Coverage",
       "is_deal": false,
-      "company": "Apple",
+      "company": "Other",
       "product": "",
       "score": 72,
       "summary": "Apple's MacBook Neo is highlighted as a disruptive force in the laptop market, offering competitive build quality and performance starting at $599, challenging Windows laptops despite its higher price point.",
@@ -5001,7 +4645,7 @@
       "tags": [
         "The Verge",
         "US",
-        "Apple",
+        "Other",
         "Competitor Coverage"
       ],
       "is_review": false,
@@ -5011,7 +4655,7 @@
       "has_dell_mention": false,
       "is_competitor_story": true,
       "is_market_story": false,
-      "market_interest": "high"
+      "market_interest": "competitor"
     },
     {
       "id": "media:291544",
@@ -5234,7 +4878,7 @@
       "is_deal": false,
       "company": "Asus",
       "product": "",
-      "score": 65,
+      "score": 72,
       "summary": "The Asus ROG Swift OLED gaming monitor is highlighted for its stunning picture quality and fast performance, catering to competitive gamers.",
       "why_it_matters": "",
       "tags": [
@@ -5660,40 +5304,6 @@
       "is_market_story": false
     },
     {
-      "id": "media:287483",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "title": "AliExpress Choice Day offers up to 75% off on AMD Ryzen 7 9700X and Poco X8",
-      "display_title": "AliExpress Choice Day offers up to 75% off on AMD Ryzen 7 9700X and Poco X8",
-      "original_title": "CHOICE DAY ALIEXPRESS | Aproveite! CPU AMD Ryzen 7 9700X, Poco X8 e mais com descontos de até 75%",
-      "url": "https://www.adrenaline.com.br/publieditorial/choice-day-aliexpress-aproveite-cpu-amd-ryzen-7-9700x-poco-x8-e-mais-com-descontos-de-ate-75/",
-      "published_at": "2026-08-07T21:53:15+00:00",
-      "captured_at": "2026-08-07 22:00:01",
-      "section": "Deals",
-      "is_deal": true,
-      "company": "AMD",
-      "product": "",
-      "score": 15,
-      "summary": "AliExpress is promoting a limited-time sale featuring discounts on an AMD Ryzen 7 9700X processor and a Poco X8 smartphone, with some items marked up to 75% off.",
-      "why_it_matters": "",
-      "tags": [
-        "Adrenaline",
-        "BR",
-        "AMD",
-        "Deals"
-      ],
-      "is_review": false,
-      "is_short": false,
-      "is_sponsored": false,
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": false,
-      "is_market_story": false,
-      "market_interest": "high"
-    },
-    {
       "id": "media:288068",
       "kind": "media",
       "source": "TechRadar",
@@ -5809,7 +5419,7 @@
       "captured_at": "2026-08-07 19:00:15",
       "section": "Competitor Coverage",
       "is_deal": false,
-      "company": "Valve",
+      "company": "Asus",
       "product": "",
       "score": 75,
       "summary": "ASUS has launched the ROG NUC 16, a compact gaming PC featuring an RTX 5070 Ti GPU and 32GB RAM, priced at $3,117. The device targets users seeking high-performance in a small form factor.",
@@ -5817,7 +5427,7 @@
       "tags": [
         "HotHardware",
         "US",
-        "Valve",
+        "Asus",
         "Competitor Coverage"
       ],
       "is_review": false,
@@ -41765,6 +41375,108 @@
         "Wccftech",
         "US",
         "NVIDIA",
+        "Ecosystem"
+      ],
+      "is_review": false,
+      "is_short": false,
+      "is_sponsored": false,
+      "is_dell_story": false,
+      "has_dell_mention": false,
+      "is_competitor_story": false,
+      "is_market_story": true,
+      "market_interest": "high"
+    },
+    {
+      "id": "media:152491",
+      "kind": "media",
+      "source": "VideoCardz",
+      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
+      "country": "US",
+      "title": "AMD reveals EPYC Venice layout with 256 Zen 6c cores and two I/O dies",
+      "display_title": "AMD reveals EPYC Venice layout with 256 Zen 6c cores and two I/O dies",
+      "original_title": "AMD reveals EPYC Venice layout with 256 Zen 6c cores and two I/O dies",
+      "url": "https://videocardz.com/newz/amd-reveals-epyc-venice-layout-with-256-zen-6c-cores-and-two-i-o-dies",
+      "published_at": "2026-07-22T17:49:51+00:00",
+      "captured_at": "2026-07-24 01:09:30",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "company": "AMD",
+      "product": "",
+      "score": 65,
+      "summary": "AMD's EPYC Venice processor, featuring 256 Zen 6c cores and two I/O dies, has been detailed ahead of the company's Advancing AI 2026 keynote, signaling advancements in server and high-performance computing hardware.",
+      "why_it_matters": "",
+      "tags": [
+        "VideoCardz",
+        "US",
+        "AMD",
+        "Ecosystem"
+      ],
+      "is_review": false,
+      "is_short": false,
+      "is_sponsored": false,
+      "is_dell_story": false,
+      "has_dell_mention": false,
+      "is_competitor_story": false,
+      "is_market_story": true,
+      "market_interest": "high"
+    },
+    {
+      "id": "media:130580",
+      "kind": "media",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "title": "Surface Pro with Snapdragon X2 now available with improved graphics",
+      "display_title": "Surface Pro with Snapdragon X2 now available with improved graphics",
+      "original_title": "Surface Pro with Snapdragon X2 is now available with a noticeable graphics bump",
+      "url": "https://www.windowscentral.com/hardware/surface/surface-pro-with-snapdragon-x2-is-now-available-with-a-noticeable-graphics-bump",
+      "published_at": "2026-07-22T17:24:14+00:00",
+      "captured_at": "2026-07-22 19:00:07",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "company": "Microsoft",
+      "product": "",
+      "score": 60,
+      "summary": "Microsoft’s latest Surface Pro features Snapdragon X2 processors, enhanced graphics, and optional OLED panels, with early reviews highlighting smoother performance and extended battery life.",
+      "why_it_matters": "",
+      "tags": [
+        "Windows Central",
+        "US",
+        "Microsoft",
+        "Competitor Coverage"
+      ],
+      "is_review": false,
+      "is_short": false,
+      "is_sponsored": false,
+      "is_dell_story": false,
+      "has_dell_mention": false,
+      "is_competitor_story": true,
+      "is_market_story": false,
+      "market_interest": "high"
+    },
+    {
+      "id": "media:134981",
+      "kind": "media",
+      "source": "TI Inside",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
+      "country": "BR",
+      "title": "AMD to sell AI server chips to Anthropic with $5B investment",
+      "display_title": "AMD to sell AI server chips to Anthropic with $5B investment",
+      "original_title": "AMD venderá bilhões de dólares em chips para servidores de IA da Anthropic, com investimento de até US$ 5 bilhões",
+      "url": "https://tiinside.com.br/22/07/2026/amd-vendera-dezenas-de-bilhoes-em-servidores-de-ia-para-a-anthropic-com-investimento-de-ate-us-5-bilhoes/",
+      "published_at": "2026-07-22T17:12:44+00:00",
+      "captured_at": "2026-07-22 22:00:29",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "company": "AMD",
+      "product": "",
+      "score": 65,
+      "summary": "AMD has agreed to sell up to 2 gigawatts of its Instinct MI450 AI chips to Anthropic, with a potential $5 billion investment tied to implementation milestones. The deal underscores AMD's growing role in AI infrastructure and its competition with Nvidia.",
+      "why_it_matters": "",
+      "tags": [
+        "TI Inside",
+        "BR",
+        "AMD",
         "Ecosystem"
       ],
       "is_review": false,
