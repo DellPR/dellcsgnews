@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T18:33:03.386312+00:00",
-  "total_items": 1434,
+  "generated_at": "2026-08-11T18:37:58.770662+00:00",
+  "total_items": 1431,
   "brands": [
     {
       "brand": "Lenovo",
@@ -205,8 +205,8 @@
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 133,
-      "media": 128,
+      "total": 130,
+      "media": 125,
       "youtube": 5,
       "reviews": 4,
       "sponsored": 0,
@@ -215,7 +215,7 @@
       "top_sources": [
         {
           "source": "WinFuture",
-          "count": 19
+          "count": 18
         },
         {
           "source": "Windows Central",
@@ -227,11 +227,11 @@
         },
         {
           "source": "PCWorld",
-          "count": 10
+          "count": 9
         },
         {
           "source": "Tecnoblog",
-          "count": 8
+          "count": 7
         },
         {
           "source": "TudoCelular",
@@ -249,7 +249,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 90
+          "count": 88
         },
         {
           "section": "Competitor Coverage",
@@ -257,7 +257,7 @@
         },
         {
           "section": "Deals",
-          "count": 9
+          "count": 8
         },
         {
           "section": "Market Trends",
@@ -268,7 +268,7 @@
           "count": 1
         }
       ],
-      "avg_score": 53.2
+      "avg_score": 53.6
     },
     {
       "brand": "Dell",
@@ -1536,8 +1536,8 @@
       "brands": {
         "Lenovo": 96,
         "Apple": 68,
-        "Microsoft": 62,
         "Asus": 59,
+        "Microsoft": 59,
         "AMD": 32,
         "Dell": 32,
         "Intel": 27,
@@ -2733,25 +2733,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:302121",
-      "kind": "media",
-      "source": "Tecnoblog",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Windows Weather App Uses 5x More RAM Than Mac",
-      "url": "https://tecnoblog.net/noticias/previsao-do-tempo-do-windows-usa-5-vezes-mais-ram-que-no-mac/",
-      "published_at": "2026-08-10T13:36:36+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "media:303236",
       "kind": "media",
       "source": "Notebookcheck DE - News",
@@ -3303,25 +3284,6 @@
       "is_dell_story": true
     },
     {
-      "id": "media:299236",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Windows 11 Weather App Uses Up to 1.6 GB RAM",
-      "url": "https://winfuture.de/news,160504.html",
-      "published_at": "2026-08-10T05:50:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "media:299213",
       "kind": "media",
       "source": "Wccftech",
@@ -3793,25 +3755,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:295089",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Microsoft Visio Professional 2024 sold for $44.97",
-      "url": "https://www.pcworld.com/article/3207067/the-microsoft-tool-that-makes-complicated-workflows-easier-is-on-sale-for-a-flat-44-97.html",
-      "published_at": "2026-08-09T08:00:00+00:00",
-      "score": 5,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -6303,6 +6246,63 @@
       "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
+    },
+    {
+      "id": "media:280725",
+      "kind": "media",
+      "source": "Trusted Reviews",
+      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
+      "country": "GB",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "AMD Ryzen 7 7800X3D CPU drops 26% in price",
+      "url": "https://www.trustedreviews.com/deals/this-last-gen-amd-gaming-cpu-just-crashed-in-price-and-it-can-still-keep-up",
+      "published_at": "2026-08-06T13:19:51+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:272880",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple updates Trade In program with higher values for devices",
+      "url": "https://www.tudocelular.com/mercado/noticias/n260168/apple-trade-in-valor-troca-iphone-android.html",
+      "published_at": "2026-08-06T13:18:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:269726",
+      "kind": "media",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo Legion Go outperforms user's ultrabook for travel",
+      "url": "https://www.xda-developers.com/my-old-legion-go-does-something-my-ultrabook-couldnt-and-now-i-travel-lighter/",
+      "published_at": "2026-08-06T13:00:10+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
     }
   ],
   "items": [
@@ -7485,25 +7485,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:302121",
-      "kind": "media",
-      "source": "Tecnoblog",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Windows Weather App Uses 5x More RAM Than Mac",
-      "url": "https://tecnoblog.net/noticias/previsao-do-tempo-do-windows-usa-5-vezes-mais-ram-que-no-mac/",
-      "published_at": "2026-08-10T13:36:36+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "media:303236",
       "kind": "media",
       "source": "Notebookcheck DE - News",
@@ -8055,25 +8036,6 @@
       "is_dell_story": true
     },
     {
-      "id": "media:299236",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Windows 11 Weather App Uses Up to 1.6 GB RAM",
-      "url": "https://winfuture.de/news,160504.html",
-      "published_at": "2026-08-10T05:50:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "media:299213",
       "kind": "media",
       "source": "Wccftech",
@@ -8545,25 +8507,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:295089",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Microsoft Visio Professional 2024 sold for $44.97",
-      "url": "https://www.pcworld.com/article/3207067/the-microsoft-tool-that-makes-complicated-workflows-easier-is-on-sale-for-a-flat-44-97.html",
-      "published_at": "2026-08-09T08:00:00+00:00",
-      "score": 5,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
     },
