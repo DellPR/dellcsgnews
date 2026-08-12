@@ -820,51 +820,52 @@
     return `M ${cx} ${cy} L ${start.x} ${start.y} A ${radius} ${radius} 0 ${largeArc} 0 ${end.x} ${end.y} Z`;
   }
 
-  function metricMonthKey(raw) {
+  function metricWeekStart(raw) {
     const date = raw ? new Date(raw) : null;
     if (!date || Number.isNaN(date.getTime())) return "";
-    const year = date.getUTCFullYear();
-    const month = String(date.getUTCMonth() + 1).padStart(2, "0");
-    return `${year}-${month}`;
+    const utc = new Date(Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()));
+    const day = utc.getUTCDay() || 7;
+    utc.setUTCDate(utc.getUTCDate() - day + 1);
+    return utc.toISOString().slice(0, 10);
   }
 
-  function metricMonthLabel(monthKey) {
-    const date = new Date(`${monthKey}-01T00:00:00Z`);
-    if (Number.isNaN(date.getTime())) return monthKey;
-    return date.toLocaleDateString("en-US", {month: "short", year: "2-digit", timeZone: "UTC"});
+  function metricWeekLabel(weekStart) {
+    const date = new Date(`${weekStart}T00:00:00Z`);
+    if (Number.isNaN(date.getTime())) return weekStart;
+    return date.toLocaleDateString("en-US", {month: "short", day: "numeric", timeZone: "UTC"});
   }
 
-  function renderMonthlyMetricLineChart(rows, options = {}) {
+  function renderWeeklyMetricLineChart(rows, options = {}) {
     const tracked = ["Apple", "Dell", "Lenovo", "Asus", "Acer", "Samsung", "Alienware"];
     const trackedKeys = new Set(tracked.map(brand => brand.toLowerCase()));
-    const title = options.title || "Month-to-month share of voice";
+    const title = options.title || "Week-to-week share of voice";
     const metricKey = options.metricKey || "total";
-    const note = options.note || "Monthly share among all brand-coded stories.";
-    const minVolume = Number(options.minVolume || 20);
-    const fallbackMinVolume = Number(options.fallbackMinVolume || 3);
+    const note = options.note || "Weekly share among all brand-coded stories. Sparse early weeks are excluded to avoid distorted 100% spikes.";
+    const minVolume = Number(options.minVolume || 25);
+    const fallbackMinVolume = Number(options.fallbackMinVolume || 5);
     const denominator = options.denominator || ((item) => true);
     const numerator = options.numerator || denominator;
-    const months = {};
+    const weeks = {};
     rows.forEach(item => {
-      const month = metricMonthKey(item.published_at || item.captured_at);
-      if (!month || !isShareBrand(item.brand) || !denominator(item)) return;
+      const week = metricWeekStart(item.published_at || item.captured_at);
+      if (!week || !isShareBrand(item.brand) || !denominator(item)) return;
       const brand = item.brand || "Other";
-      const slot = months[month] || {total: 0, brands: {}};
+      const slot = weeks[week] || {total: 0, brands: {}};
       slot.total += 1;
       if (trackedKeys.has(String(brand).toLowerCase()) && numerator(item)) {
         slot.brands[brand] = (slot.brands[brand] || 0) + 1;
       }
-      months[month] = slot;
+      weeks[week] = slot;
     });
 
-    const allMonthKeys = Object.keys(months).sort();
-    const recentMonths = allMonthKeys.slice(-12);
-    let monthKeys = recentMonths.filter(month => Number(months[month].total || 0) >= minVolume).slice(-12);
-    if (monthKeys.length < 2) {
-      monthKeys = recentMonths.filter(month => Number(months[month].total || 0) >= fallbackMinVolume).slice(-12);
+    const allWeekKeys = Object.keys(weeks).sort();
+    const recentWeeks = allWeekKeys.slice(-12);
+    let weekKeys = recentWeeks.filter(week => Number(weeks[week].total || 0) >= minVolume).slice(-10);
+    if (weekKeys.length < 2) {
+      weekKeys = recentWeeks.filter(week => Number(weeks[week].total || 0) >= fallbackMinVolume).slice(-10);
     }
-    if (monthKeys.length < 2) {
-      return `<section class="metric-panel line-chart-panel"><h3>${escapeHtml(title)}</h3><div class="empty mini-empty">Not enough monthly history yet.</div></section>`;
+    if (weekKeys.length < 2) {
+      return `<section class="metric-panel line-chart-panel"><h3>${escapeHtml(title)}</h3><div class="empty mini-empty">Not enough weekly history yet.</div></section>`;
     }
 
     const width = 760;
@@ -874,18 +875,18 @@
     const chartH = height - pad.top - pad.bottom;
     const allValues = [];
     const series = tracked.map(brand => {
-      const points = monthKeys.map((month, index) => {
-        const total = months[month].total || 1;
-        const count = months[month].brands[brand] || 0;
+      const points = weekKeys.map((week, index) => {
+        const total = weeks[week].total || 1;
+        const count = weeks[week].brands[brand] || 0;
         const value = (count / total) * 100;
         allValues.push(value);
-        const x = pad.left + (monthKeys.length === 1 ? chartW / 2 : (index / (monthKeys.length - 1)) * chartW);
-        return {month, value, x, total, count};
+        const x = pad.left + (weekKeys.length === 1 ? chartW / 2 : (index / (weekKeys.length - 1)) * chartW);
+        return {week, value, x, total, count};
       });
       return {brand, points, color: brandColor(brand)};
     });
 
-    const maxValue = Math.max(10, Math.min(70, Math.ceil(Math.max(...allValues) / 5) * 5));
+    const maxValue = Math.max(10, Math.min(60, Math.ceil(Math.max(...allValues) / 5) * 5));
     series.forEach(line => {
       line.points.forEach(point => {
         point.y = pad.top + chartH - (Math.min(point.value, maxValue) / maxValue) * chartH;
@@ -898,20 +899,20 @@
       return `<g><line x1="${pad.left}" y1="${y}" x2="${width - pad.right}" y2="${y}" stroke="#e5edf4" stroke-width="1"></line><text x="8" y="${y + 4}" fill="#7b8797" font-size="11" font-weight="700">${value}%</text></g>`;
     }).join("");
 
-    const monthLabels = monthKeys.map((month, index) => {
-      const x = pad.left + (monthKeys.length === 1 ? chartW / 2 : (index / (monthKeys.length - 1)) * chartW);
-      const label = metricMonthLabel(month);
+    const weekLabels = weekKeys.map((week, index) => {
+      const x = pad.left + (weekKeys.length === 1 ? chartW / 2 : (index / (weekKeys.length - 1)) * chartW);
+      const label = metricWeekLabel(week);
       return `<text x="${x}" y="${height - 24}" fill="#7b8797" font-size="11" font-weight="800" text-anchor="middle">${escapeHtml(label)}</text>`;
     }).join("");
 
-    const volumeLabels = monthKeys.map((month, index) => {
-      const x = pad.left + (monthKeys.length === 1 ? chartW / 2 : (index / (monthKeys.length - 1)) * chartW);
-      return `<text x="${x}" y="${height - 9}" fill="#9aa6b5" font-size="10" font-weight="700" text-anchor="middle">n=${months[month].total}</text>`;
+    const volumeLabels = weekKeys.map((week, index) => {
+      const x = pad.left + (weekKeys.length === 1 ? chartW / 2 : (index / (weekKeys.length - 1)) * chartW);
+      return `<text x="${x}" y="${height - 9}" fill="#9aa6b5" font-size="10" font-weight="700" text-anchor="middle">n=${weeks[week].total}</text>`;
     }).join("");
 
     const paths = series.map(line => {
       const d = line.points.map((point, index) => `${index ? "L" : "M"} ${point.x.toFixed(1)} ${point.y.toFixed(1)}`).join(" ");
-      const dots = line.points.map(point => `<circle cx="${point.x.toFixed(1)}" cy="${point.y.toFixed(1)}" r="3" fill="${line.color}"><title>${escapeHtml(line.brand)} ${metricMonthLabel(point.month)}: ${point.value.toFixed(1)}% (${point.count} of ${point.total})</title></circle>`).join("");
+      const dots = line.points.map(point => `<circle cx="${point.x.toFixed(1)}" cy="${point.y.toFixed(1)}" r="3" fill="${line.color}"><title>${escapeHtml(line.brand)} ${metricWeekLabel(point.week)}: ${point.value.toFixed(1)}% (${point.count} of ${point.total})</title></circle>`).join("");
       return `<path d="${d}" fill="none" stroke="${line.color}" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"></path>${dots}`;
     }).join("");
 
@@ -923,7 +924,7 @@
         <svg class="line-chart" viewBox="0 0 ${width} ${height}" role="img" aria-label="${escapeHtml(title)} for Apple, Dell, Lenovo, Asus, Acer, Samsung and Alienware">
           ${grid}
           ${paths}
-          ${monthLabels}
+          ${weekLabels}
           ${volumeLabels}
         </svg>
       </div>
@@ -931,39 +932,39 @@
     </section>`;
   }
 
-  function renderMonthlyMetricLineCharts(rows) {
+  function renderWeeklyMetricLineCharts(rows) {
     const charts = [
-      renderMonthlyMetricLineChart(rows, {
-        title: "Month-to-month share of voice",
+      renderWeeklyMetricLineChart(rows, {
+        title: "Week-to-week share of voice",
         metricKey: "total",
-        note: "Monthly share among all brand-coded stories in the selected view.",
+        note: "Weekly share among all brand-coded stories. Sparse early weeks are excluded to avoid distorted 100% spikes.",
       }),
-      renderMonthlyMetricLineChart(rows, {
-        title: "Month-to-month YouTube share of voice",
+      renderWeeklyMetricLineChart(rows, {
+        title: "Week-to-week YouTube share of voice",
         metricKey: "youtube",
         denominator: item => item.kind === "youtube",
         numerator: item => item.kind === "youtube",
-        minVolume: 6,
-        fallbackMinVolume: 2,
-        note: "Monthly share among YouTube brand-coded videos only.",
+        minVolume: 8,
+        fallbackMinVolume: 3,
+        note: "Weekly share among YouTube brand-coded videos only.",
       }),
-      renderMonthlyMetricLineChart(rows, {
-        title: "Month-to-month product review share",
+      renderWeeklyMetricLineChart(rows, {
+        title: "Week-to-week product review share",
         metricKey: "reviews",
         denominator: item => Boolean(item.is_review),
         numerator: item => Boolean(item.is_review),
-        minVolume: 4,
+        minVolume: 6,
         fallbackMinVolume: 2,
-        note: "Monthly share among product reviews only.",
+        note: "Weekly share among product reviews only.",
       }),
-      renderMonthlyMetricLineChart(rows, {
-        title: "Month-to-month deals share",
+      renderWeeklyMetricLineChart(rows, {
+        title: "Week-to-week deals share",
         metricKey: "deals",
         denominator: item => metricIsDeal(item),
         numerator: item => metricIsDeal(item),
-        minVolume: 3,
-        fallbackMinVolume: 1,
-        note: "Monthly share among deal/commerce items only.",
+        minVolume: 4,
+        fallbackMinVolume: 2,
+        note: "Weekly share among deal/commerce items only.",
       }),
     ];
     return `<div class="line-chart-stack">${charts.join("")}</div>`;
@@ -1133,7 +1134,7 @@
         ${renderPieChart("Share of product reviews", shareBrands, "reviews", "No CSG/OEM product reviews in this period.", ["Dell", "Alienware"])}
         ${renderPieChart("Share of deals", dealBrands, "deals", "No CSG/OEM deals coverage in this period.", ["Dell", "Alienware"])}
       </div>
-      ${renderMonthlyMetricLineCharts(rows)}
+      ${renderWeeklyMetricLineCharts(rows)}
       <section class="metric-panel">
         <h3>Brand table</h3>
         <div class="metric-table-wrap"><table class="metric-table">
