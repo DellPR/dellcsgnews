@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T20:12:36.559257+00:00",
-  "total_items": 1389,
+  "generated_at": "2026-08-12T22:38:11.915296+00:00",
+  "total_items": 1390,
   "brands": [
     {
       "brand": "Lenovo",
@@ -403,7 +403,7 @@
       "top_sources": [
         {
           "source": "Tom's Hardware",
-          "count": 13
+          "count": 14
         },
         {
           "source": "Wccftech",
@@ -423,7 +423,7 @@
         },
         {
           "source": "Clubic",
-          "count": 4
+          "count": 3
         },
         {
           "source": "TecMundo",
@@ -452,7 +452,7 @@
           "count": 4
         }
       ],
-      "avg_score": 64.8
+      "avg_score": 64.7
     },
     {
       "brand": "NVIDIA",
@@ -717,8 +717,8 @@
     {
       "brand": "Qualcomm",
       "family": "Ecosystem",
-      "total": 42,
-      "media": 32,
+      "total": 43,
+      "media": 33,
       "youtube": 10,
       "reviews": 6,
       "sponsored": 2,
@@ -754,7 +754,7 @@
           "count": 2
         },
         {
-          "source": "TudoCelular",
+          "source": "Tom's Hardware",
           "count": 2
         }
       ],
@@ -765,7 +765,7 @@
         },
         {
           "section": "Ecosystem",
-          "count": 16
+          "count": 17
         },
         {
           "section": "Deals",
@@ -1475,7 +1475,7 @@
         "Asus": 46,
         "Dell": 41,
         "AMD": 36,
-        "Intel": 36,
+        "Intel": 35,
         "NVIDIA": 35,
         "Amazon": 29,
         "Valve": 28,
@@ -1496,13 +1496,13 @@
         "Asus": 70,
         "AMD": 41,
         "Dell": 39,
-        "Intel": 32,
+        "Intel": 33,
         "HP": 28,
         "Valve": 23,
         "Acer": 22,
         "MSI": 19,
         "NVIDIA": 18,
-        "Qualcomm": 15,
+        "Qualcomm": 16,
         "Samsung": 13,
         "Alienware": 11,
         "Framework": 10
@@ -1528,6 +1528,44 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "media:327844",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Qualcomm details Snapdragon C specs for $300 laptops, claims 67% faster battery performance than Intel N250",
+      "url": "https://www.tomshardware.com/pc-components/cpus/qualcomm-details-snapdragon-c-specs-for-usd300-laptops-for-the-first-time-claims-67-percent-faster-performance-on-battery-than-intel-n250-ac-performance-remains-a-mystery",
+      "published_at": "2026-08-12T21:14:33+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:327844",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Qualcomm details Snapdragon C specs for $300 laptops, claims 67% faster battery performance than Intel N250",
+      "url": "https://www.tomshardware.com/pc-components/cpus/qualcomm-details-snapdragon-c-specs-for-usd300-laptops-for-the-first-time-claims-67-percent-faster-performance-on-battery-than-intel-n250-ac-performance-remains-a-mystery",
+      "published_at": "2026-08-12T21:14:33+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
     },
     {
       "id": "media:325180",
@@ -6221,44 +6259,6 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:292344",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo launches ThinkBook Plus Gen 7 with motorized hinge and 21-hour battery",
-      "url": "https://www.notebookcheck.com/Lenovo-veroeffentlicht-ThinkBook-Plus-Gen-7-mit-motorisiertem-Scharnier-und-ueber-21-Stunden-Laufzeit.1363027.0.html",
-      "published_at": "2026-08-08T06:30:00+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:291954",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Windows 11 update improves laptop battery life via Modern Standby fix",
-      "url": "https://winfuture.de/news,160488.html",
-      "published_at": "2026-08-08T06:17:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6280,6 +6280,44 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "media:327844",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Qualcomm details Snapdragon C specs for $300 laptops, claims 67% faster battery performance than Intel N250",
+      "url": "https://www.tomshardware.com/pc-components/cpus/qualcomm-details-snapdragon-c-specs-for-usd300-laptops-for-the-first-time-claims-67-percent-faster-performance-on-battery-than-intel-n250-ac-performance-remains-a-mystery",
+      "published_at": "2026-08-12T21:14:33+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:327844",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Qualcomm details Snapdragon C specs for $300 laptops, claims 67% faster battery performance than Intel N250",
+      "url": "https://www.tomshardware.com/pc-components/cpus/qualcomm-details-snapdragon-c-specs-for-usd300-laptops-for-the-first-time-claims-67-percent-faster-performance-on-battery-than-intel-n250-ac-performance-remains-a-mystery",
+      "published_at": "2026-08-12T21:14:33+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
     },
     {
       "id": "media:325180",
@@ -27806,25 +27844,6 @@
       "is_sponsored": false,
       "brand": "Apple",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:157797",
-      "kind": "media",
-      "source": "Clubic",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Intel reports 25% growth driven by data center demand",
-      "url": "https://www.clubic.com/actualite-622582-un-phenix-intel-renait-de-ses-cendres-et-enregistre-sa-plus-forte-croissance-depuis-pres-de-15-ans.html",
-      "published_at": "2026-07-24T09:10:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
