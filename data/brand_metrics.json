@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-14T14:52:58.424285+00:00",
-  "total_items": 1400,
+  "generated_at": "2026-08-14T18:22:27.036634+00:00",
+  "total_items": 1389,
   "brands": [
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 213,
+      "total": 210,
       "media": 151,
-      "youtube": 62,
-      "reviews": 41,
-      "sponsored": 6,
+      "youtube": 59,
+      "reviews": 39,
+      "sponsored": 5,
       "dell_stories": 0,
       "high_signal": 5,
       "top_sources": [
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 170
+          "count": 167
         },
         {
           "section": "Deals",
@@ -60,15 +60,15 @@
           "count": 4
         }
       ],
-      "avg_score": 61.6
+      "avg_score": 61.5
     },
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 179,
+      "total": 176,
       "media": 139,
-      "youtube": 40,
-      "reviews": 20,
+      "youtube": 37,
+      "reviews": 19,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 4,
@@ -109,7 +109,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 119
+          "count": 116
         },
         {
           "section": "Deals",
@@ -124,7 +124,7 @@
           "count": 6
         }
       ],
-      "avg_score": 57.9
+      "avg_score": 57.6
     },
     {
       "brand": "Asus",
@@ -261,18 +261,14 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 91,
+      "total": 88,
       "media": 56,
-      "youtube": 35,
-      "reviews": 37,
+      "youtube": 32,
+      "reviews": 34,
       "sponsored": 5,
-      "dell_stories": 87,
-      "high_signal": 79,
+      "dell_stories": 84,
+      "high_signal": 76,
       "top_sources": [
-        {
-          "source": "Techaeris",
-          "count": 5
-        },
         {
           "source": "Digital Trends",
           "count": 4
@@ -300,12 +296,16 @@
         {
           "source": "Windows Central",
           "count": 4
+        },
+        {
+          "source": "Andrew Marc David",
+          "count": 3
         }
       ],
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 71
+          "count": 68
         },
         {
           "section": "Deals",
@@ -320,7 +320,7 @@
           "count": 1
         }
       ],
-      "avg_score": 90.7
+      "avg_score": 90.5
     },
     {
       "brand": "Intel",
@@ -451,70 +451,6 @@
       "avg_score": 57.9
     },
     {
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "total": 57,
-      "media": 34,
-      "youtube": 23,
-      "reviews": 13,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 9,
-      "top_sources": [
-        {
-          "source": "JayzTwoCents",
-          "count": 6
-        },
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 5
-        },
-        {
-          "source": "PC Gamer",
-          "count": 5
-        },
-        {
-          "source": "VideoCardz",
-          "count": 4
-        },
-        {
-          "source": "CNET",
-          "count": 3
-        },
-        {
-          "source": "GamesRadar+",
-          "count": 3
-        },
-        {
-          "source": "PCWorld",
-          "count": 3
-        },
-        {
-          "source": "XDA Developers",
-          "count": 3
-        }
-      ],
-      "sections": [
-        {
-          "section": "Market Trends",
-          "count": 47
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 6
-        },
-        {
-          "section": "Ecosystem",
-          "count": 3
-        },
-        {
-          "section": "Deals",
-          "count": 1
-        }
-      ],
-      "avg_score": 70.3
-    },
-    {
       "brand": "HP",
       "family": "PC competitors",
       "total": 56,
@@ -577,6 +513,70 @@
         }
       ],
       "avg_score": 63.7
+    },
+    {
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "total": 56,
+      "media": 34,
+      "youtube": 22,
+      "reviews": 12,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 8,
+      "top_sources": [
+        {
+          "source": "JayzTwoCents",
+          "count": 6
+        },
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 5
+        },
+        {
+          "source": "PC Gamer",
+          "count": 5
+        },
+        {
+          "source": "VideoCardz",
+          "count": 4
+        },
+        {
+          "source": "CNET",
+          "count": 3
+        },
+        {
+          "source": "GamesRadar+",
+          "count": 3
+        },
+        {
+          "source": "PCWorld",
+          "count": 3
+        },
+        {
+          "source": "XDA Developers",
+          "count": 3
+        }
+      ],
+      "sections": [
+        {
+          "section": "Market Trends",
+          "count": 46
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 6
+        },
+        {
+          "section": "Ecosystem",
+          "count": 3
+        },
+        {
+          "section": "Deals",
+          "count": 1
+        }
+      ],
+      "avg_score": 69.9
     },
     {
       "brand": "NVIDIA",
@@ -1005,13 +1005,13 @@
     {
       "brand": "Alienware",
       "family": "Dell family",
-      "total": 29,
+      "total": 28,
       "media": 16,
-      "youtube": 13,
+      "youtube": 12,
       "reviews": 15,
       "sponsored": 0,
-      "dell_stories": 29,
-      "high_signal": 27,
+      "dell_stories": 28,
+      "high_signal": 26,
       "top_sources": [
         {
           "source": "Futura",
@@ -1049,14 +1049,14 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 23
+          "count": 22
         },
         {
           "section": "Deals",
           "count": 6
         }
       ],
-      "avg_score": 95.7
+      "avg_score": 96.1
     },
     {
       "brand": "Razer",
@@ -1412,7 +1412,7 @@
     {
       "month": "2026-03",
       "brands": {
-        "Apple": 6,
+        "Apple": 4,
         "Acer": 1,
         "Asus": 1,
         "Lenovo": 1
@@ -1421,8 +1421,8 @@
     {
       "month": "2026-04",
       "brands": {
-        "Dell": 3,
         "Apple": 1,
+        "Dell": 1,
         "Intel": 1,
         "Lenovo": 1,
         "Valve": 1
@@ -1440,22 +1440,22 @@
     {
       "month": "2026-06",
       "brands": {
-        "Dell": 11,
-        "Lenovo": 11,
+        "Dell": 10,
         "Asus": 8,
-        "Apple": 5,
+        "Lenovo": 8,
+        "Apple": 4,
         "HP": 4,
         "MSI": 4,
         "Acer": 3,
         "NVIDIA": 3,
         "Qualcomm": 3,
         "AMD": 2,
-        "Alienware": 2,
         "Intel": 2,
         "Microsoft": 2,
-        "Valve": 2,
+        "Alienware": 1,
         "Positivo": 1,
-        "Razer": 1
+        "Razer": 1,
+        "Valve": 1
       }
     },
     {
@@ -30613,101 +30613,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:45445",
-      "kind": "youtube",
-      "source": "Just Josh",
-      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Legion Pro 7i 2026 review: New processor boosts performance",
-      "url": "https://www.youtube.com/watch?v=SU205bzXHhM",
-      "published_at": "2026-06-30T17:43:49+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": true,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:45550",
-      "kind": "youtube",
-      "source": "Tom's Guide",
-      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Steam Machine review: Console-like PC with performance and pricing issues",
-      "url": "https://www.youtube.com/watch?v=vYWbZGcIKVI",
-      "published_at": "2026-06-30T17:00:24+00:00",
-      "score": 90,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:45985",
-      "kind": "youtube",
-      "source": "Austin Evans",
-      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review of Lenovo Legion 5i laptop with OLED display and cooling system",
-      "url": "https://www.youtube.com/watch?v=4TtvRYuCZ40",
-      "published_at": "2026-06-30T15:05:00+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:46015",
-      "kind": "youtube",
-      "source": "Max Tech",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple MacBook Ultra confirmed for October 2028 with M5 chips and OLED display",
-      "url": "https://www.youtube.com/watch?v=DBymUhg7kvc",
-      "published_at": "2026-06-30T15:00:11+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:45655",
-      "kind": "youtube",
-      "source": "Techaeris",
-      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware 15 overview: design, specs, and pricing details",
-      "url": "https://www.youtube.com/watch?v=r2d9VCVibjs",
-      "published_at": "2026-06-29T14:40:10+00:00",
-      "score": 85,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "youtube:128244",
       "kind": "youtube",
       "source": "Notebookcheck Reviews",
@@ -30740,25 +30645,6 @@
       "published_at": "2026-06-28T08:00:26+00:00",
       "score": 90,
       "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:45656",
-      "kind": "youtube",
-      "source": "Techaeris",
-      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell 16S 2026 review: Practical design, OLED display, and mid-range pricing",
-      "url": "https://www.youtube.com/watch?v=_76ICjcrRIg",
-      "published_at": "2026-06-26T22:40:51+00:00",
-      "score": 90,
-      "is_review": true,
       "is_sponsored": false,
       "brand": "Dell",
       "family": "Dell family",
@@ -31293,25 +31179,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "MSI",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:45657",
-      "kind": "youtube",
-      "source": "Techaeris",
-      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Yoga Pro 9i review highlights design, display, and performance upgrades",
-      "url": "https://www.youtube.com/watch?v=M5EyKe1lELQ",
-      "published_at": "2026-06-13T20:02:22+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -31962,25 +31829,6 @@
       "is_dell_story": true
     },
     {
-      "id": "youtube:45662",
-      "kind": "youtube",
-      "source": "Techaeris",
-      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 16 review: Premium design, OLED display, and performance compared to MacBook Pro",
-      "url": "https://www.youtube.com/watch?v=MaHZeM3TB40",
-      "published_at": "2026-04-21T21:20:50+00:00",
-      "score": 95,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
       "id": "youtube:96402",
       "kind": "youtube",
       "source": "Dave2D",
@@ -32017,25 +31865,6 @@
       "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:45665",
-      "kind": "youtube",
-      "source": "Techaeris",
-      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 14 2026 review: Premium design, OLED display, and Panther Lake performance",
-      "url": "https://www.youtube.com/watch?v=uHJBos72L1c",
-      "published_at": "2026-04-08T21:05:33+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
     },
     {
       "id": "youtube:96403",
@@ -32089,44 +31918,6 @@
       "published_at": "2026-03-29T17:56:25+00:00",
       "score": 72,
       "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:45667",
-      "kind": "youtube",
-      "source": "Techaeris",
-      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review of Apple's new MacBook Neo for basic users",
-      "url": "https://www.youtube.com/watch?v=74Ywodbtzwk",
-      "published_at": "2026-03-26T20:16:12+00:00",
-      "score": 75,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:45669",
-      "kind": "youtube",
-      "source": "Techaeris",
-      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple MacBook Neo unboxing and initial impressions",
-      "url": "https://www.youtube.com/watch?v=bPqT3feFo1Y",
-      "published_at": "2026-03-19T19:02:26+00:00",
-      "score": 75,
-      "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
       "family": "PC competitors",
