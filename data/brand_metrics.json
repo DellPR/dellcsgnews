@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T22:40:39.712279+00:00",
-  "total_items": 1402,
+  "generated_at": "2026-08-14T00:16:15.030983+00:00",
+  "total_items": 1396,
   "brands": [
     {
       "brand": "Lenovo",
@@ -132,10 +132,10 @@
       "total": 148,
       "media": 91,
       "youtube": 57,
-      "reviews": 45,
+      "reviews": 44,
       "sponsored": 2,
       "dell_stories": 0,
-      "high_signal": 5,
+      "high_signal": 4,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -192,14 +192,14 @@
           "count": 1
         }
       ],
-      "avg_score": 63.9
+      "avg_score": 63.8
     },
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 146,
+      "total": 145,
       "media": 141,
-      "youtube": 5,
+      "youtube": 4,
       "reviews": 4,
       "sponsored": 0,
       "dell_stories": 0,
@@ -253,17 +253,17 @@
         },
         {
           "section": "Market Trends",
-          "count": 3
+          "count": 2
         }
       ],
-      "avg_score": 53.1
+      "avg_score": 53.0
     },
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 91,
+      "total": 90,
       "media": 55,
-      "youtube": 36,
+      "youtube": 35,
       "reviews": 36,
       "sponsored": 5,
       "dell_stories": 87,
@@ -318,13 +318,9 @@
         {
           "section": "Competitor Coverage",
           "count": 1
-        },
-        {
-          "section": "Market Trends",
-          "count": 1
         }
       ],
-      "avg_score": 90.8
+      "avg_score": 91.1
     },
     {
       "brand": "Intel",
@@ -455,134 +451,6 @@
       "avg_score": 58.5
     },
     {
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "total": 59,
-      "media": 34,
-      "youtube": 25,
-      "reviews": 12,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 9,
-      "top_sources": [
-        {
-          "source": "JayzTwoCents",
-          "count": 6
-        },
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 5
-        },
-        {
-          "source": "PC Gamer",
-          "count": 5
-        },
-        {
-          "source": "VideoCardz",
-          "count": 5
-        },
-        {
-          "source": "CNET",
-          "count": 3
-        },
-        {
-          "source": "GamesRadar+",
-          "count": 3
-        },
-        {
-          "source": "LMGClips",
-          "count": 3
-        },
-        {
-          "source": "PCWorld",
-          "count": 3
-        }
-      ],
-      "sections": [
-        {
-          "section": "Market Trends",
-          "count": 49
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 5
-        },
-        {
-          "section": "Ecosystem",
-          "count": 4
-        },
-        {
-          "section": "Deals",
-          "count": 1
-        }
-      ],
-      "avg_score": 69.7
-    },
-    {
-      "brand": "HP",
-      "family": "PC competitors",
-      "total": 56,
-      "media": 36,
-      "youtube": 20,
-      "reviews": 22,
-      "sponsored": 1,
-      "dell_stories": 0,
-      "high_signal": 2,
-      "top_sources": [
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 7
-        },
-        {
-          "source": "LaptopMedia",
-          "count": 6
-        },
-        {
-          "source": "TechRadar",
-          "count": 5
-        },
-        {
-          "source": "Crimson Tech",
-          "count": 3
-        },
-        {
-          "source": "Just Josh",
-          "count": 3
-        },
-        {
-          "source": "Lipe Mal Estar",
-          "count": 3
-        },
-        {
-          "source": "Tom's Guide",
-          "count": 3
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 3
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 41
-        },
-        {
-          "section": "Deals",
-          "count": 11
-        },
-        {
-          "section": "Market Trends",
-          "count": 3
-        },
-        {
-          "section": "Ecosystem",
-          "count": 1
-        }
-      ],
-      "avg_score": 64.1
-    },
-    {
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "total": 56,
@@ -645,6 +513,134 @@
         }
       ],
       "avg_score": 61.8
+    },
+    {
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "total": 56,
+      "media": 34,
+      "youtube": 22,
+      "reviews": 12,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 9,
+      "top_sources": [
+        {
+          "source": "JayzTwoCents",
+          "count": 6
+        },
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 5
+        },
+        {
+          "source": "PC Gamer",
+          "count": 5
+        },
+        {
+          "source": "VideoCardz",
+          "count": 5
+        },
+        {
+          "source": "CNET",
+          "count": 3
+        },
+        {
+          "source": "GamesRadar+",
+          "count": 3
+        },
+        {
+          "source": "Adrenaline",
+          "count": 2
+        },
+        {
+          "source": "Austin Evans",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Market Trends",
+          "count": 46
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 5
+        },
+        {
+          "section": "Ecosystem",
+          "count": 4
+        },
+        {
+          "section": "Deals",
+          "count": 1
+        }
+      ],
+      "avg_score": 70.2
+    },
+    {
+      "brand": "HP",
+      "family": "PC competitors",
+      "total": 55,
+      "media": 36,
+      "youtube": 19,
+      "reviews": 22,
+      "sponsored": 1,
+      "dell_stories": 0,
+      "high_signal": 2,
+      "top_sources": [
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 7
+        },
+        {
+          "source": "LaptopMedia",
+          "count": 6
+        },
+        {
+          "source": "TechRadar",
+          "count": 5
+        },
+        {
+          "source": "Crimson Tech",
+          "count": 3
+        },
+        {
+          "source": "Just Josh",
+          "count": 3
+        },
+        {
+          "source": "Lipe Mal Estar",
+          "count": 3
+        },
+        {
+          "source": "Tom's Guide",
+          "count": 3
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 3
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 41
+        },
+        {
+          "section": "Deals",
+          "count": 11
+        },
+        {
+          "section": "Market Trends",
+          "count": 2
+        },
+        {
+          "section": "Ecosystem",
+          "count": 1
+        }
+      ],
+      "avg_score": 64.2
     },
     {
       "brand": "Qualcomm",
@@ -1444,20 +1440,20 @@
     {
       "month": "2026-06",
       "brands": {
-        "Dell": 12,
+        "Dell": 11,
         "Lenovo": 11,
-        "Asus": 8,
+        "Asus": 7,
         "Apple": 5,
-        "HP": 5,
-        "Valve": 5,
+        "HP": 4,
         "MSI": 4,
         "Acer": 3,
-        "Microsoft": 3,
         "NVIDIA": 3,
         "Qualcomm": 3,
         "AMD": 2,
         "Alienware": 2,
         "Intel": 2,
+        "Microsoft": 2,
+        "Valve": 2,
         "Positivo": 1,
         "Razer": 1
       }
@@ -1488,7 +1484,7 @@
       "brands": {
         "Lenovo": 124,
         "Microsoft": 87,
-        "Asus": 83,
+        "Asus": 84,
         "Apple": 81,
         "Intel": 45,
         "AMD": 41,
@@ -1524,6 +1520,25 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:127425",
+      "kind": "youtube",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Unboxing and Review of Asus Gaming V16 with RTX 5050: Is It Truly a Gamer Laptop?",
+      "url": "https://www.youtube.com/watch?v=r9CXJemIrJE",
+      "published_at": "2026-08-13T22:00:23+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:339174",
@@ -6236,25 +6251,6 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:302534",
-      "kind": "media",
-      "source": "HotHardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "HP Omen 16 OLED Gaming Laptop Drops to $1,425 at Best Buy",
-      "url": "https://hothardware.com/news/hp-omen-16-oled-gaming-laptop-ryzen-9-hits-1425",
-      "published_at": "2026-08-10T14:45:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6276,6 +6272,25 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:127425",
+      "kind": "youtube",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Unboxing and Review of Asus Gaming V16 with RTX 5050: Is It Truly a Gamer Laptop?",
+      "url": "https://www.youtube.com/watch?v=r9CXJemIrJE",
+      "published_at": "2026-08-13T22:00:23+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:339174",
@@ -30617,120 +30632,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:44680",
-      "kind": "youtube",
-      "source": "LMGClips",
-      "source_icon": "https://yt3.googleusercontent.com/NO9_Ek-oyWF-AkGrZVS3kCdWJo7PCjCsY5WUlM-7G-1mPu_8gWDcTfX1asa4tQnWQTI62rZf=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Major Windows update causes widespread bugs and user frustration",
-      "url": "https://www.youtube.com/watch?v=MSGKMBfTEzw",
-      "published_at": "2026-06-29T20:00:28+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:44680",
-      "kind": "youtube",
-      "source": "LMGClips",
-      "source_icon": "https://yt3.googleusercontent.com/NO9_Ek-oyWF-AkGrZVS3kCdWJo7PCjCsY5WUlM-7G-1mPu_8gWDcTfX1asa4tQnWQTI62rZf=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Major Windows update causes widespread bugs and user frustration",
-      "url": "https://www.youtube.com/watch?v=MSGKMBfTEzw",
-      "published_at": "2026-06-29T20:00:28+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:44680",
-      "kind": "youtube",
-      "source": "LMGClips",
-      "source_icon": "https://yt3.googleusercontent.com/NO9_Ek-oyWF-AkGrZVS3kCdWJo7PCjCsY5WUlM-7G-1mPu_8gWDcTfX1asa4tQnWQTI62rZf=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Major Windows update causes widespread bugs and user frustration",
-      "url": "https://www.youtube.com/watch?v=MSGKMBfTEzw",
-      "published_at": "2026-06-29T20:00:28+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:44185",
-      "kind": "youtube",
-      "source": "PCWorld",
-      "source_icon": "https://yt3.googleusercontent.com/Y9Qeoq6gXw_cDQUpUmmJCoVh66rCotYtyetmYEyd9rryQZoJXLvhjtMupYCG6J02ghSvw6qZDEc=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "PC build challenge and Steam Machine news discussed in The Full Nerd podcast",
-      "url": "https://www.youtube.com/watch?v=QXKgybz-5ZE",
-      "published_at": "2026-06-29T18:37:56+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:44681",
-      "kind": "youtube",
-      "source": "LMGClips",
-      "source_icon": "https://yt3.googleusercontent.com/NO9_Ek-oyWF-AkGrZVS3kCdWJo7PCjCsY5WUlM-7G-1mPu_8gWDcTfX1asa4tQnWQTI62rZf=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Steam Machine pricing issues and cake-eating bet",
-      "url": "https://www.youtube.com/watch?v=l7tjgm_6LLk",
-      "published_at": "2026-06-29T18:33:22+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:44681",
-      "kind": "youtube",
-      "source": "LMGClips",
-      "source_icon": "https://yt3.googleusercontent.com/NO9_Ek-oyWF-AkGrZVS3kCdWJo7PCjCsY5WUlM-7G-1mPu_8gWDcTfX1asa4tQnWQTI62rZf=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Steam Machine pricing issues and cake-eating bet",
-      "url": "https://www.youtube.com/watch?v=l7tjgm_6LLk",
-      "published_at": "2026-06-29T18:33:22+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:45655",
       "kind": "youtube",
       "source": "Techaeris",
@@ -30748,25 +30649,6 @@
       "brand": "Alienware",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "youtube:42235",
-      "kind": "youtube",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ASUS ROG Zephyrus G14 2026 review: Intel CPU, display upgrades, and thermal tradeoffs",
-      "url": "https://www.youtube.com/watch?v=JVi6ts-Pzmc",
-      "published_at": "2026-06-29T00:49:41.261809+00:00",
-      "score": 88,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
     },
     {
       "id": "youtube:48973",
