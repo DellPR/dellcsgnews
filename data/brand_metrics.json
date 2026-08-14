@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T21:01:24.523874+00:00",
-  "total_items": 1380,
+  "generated_at": "2026-08-14T21:02:47.244501+00:00",
+  "total_items": 1375,
   "brands": [
     {
       "brand": "Lenovo",
@@ -65,8 +65,8 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 172,
-      "media": 135,
+      "total": 171,
+      "media": 134,
       "youtube": 37,
       "reviews": 19,
       "sponsored": 0,
@@ -86,11 +86,11 @@
           "count": 9
         },
         {
-          "source": "TechRadar",
-          "count": 9
+          "source": "Notebookcheck DE - News",
+          "count": 8
         },
         {
-          "source": "Notebookcheck DE - News",
+          "source": "TechRadar",
           "count": 8
         },
         {
@@ -109,11 +109,11 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 113
+          "count": 114
         },
         {
           "section": "Deals",
-          "count": 46
+          "count": 44
         },
         {
           "section": "Market Trends",
@@ -124,7 +124,7 @@
           "count": 6
         }
       ],
-      "avg_score": 57.9
+      "avg_score": 58.0
     },
     {
       "brand": "Microsoft",
@@ -193,8 +193,8 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 147,
-      "media": 89,
+      "total": 146,
+      "media": 88,
       "youtube": 58,
       "reviews": 46,
       "sponsored": 2,
@@ -207,7 +207,7 @@
         },
         {
           "source": "TudoCelular",
-          "count": 14
+          "count": 13
         },
         {
           "source": "Qual Notebook Comprar?",
@@ -241,7 +241,7 @@
         },
         {
           "section": "Deals",
-          "count": 26
+          "count": 25
         },
         {
           "section": "Ecosystem",
@@ -256,7 +256,7 @@
           "count": 1
         }
       ],
-      "avg_score": 64.2
+      "avg_score": 64.4
     },
     {
       "brand": "Dell",
@@ -325,8 +325,8 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 80,
-      "media": 67,
+      "total": 78,
+      "media": 65,
       "youtube": 13,
       "reviews": 15,
       "sponsored": 3,
@@ -343,7 +343,7 @@
         },
         {
           "source": "VideoCardz",
-          "count": 7
+          "count": 6
         },
         {
           "source": "Adrenaline",
@@ -377,14 +377,14 @@
         },
         {
           "section": "Deals",
-          "count": 11
+          "count": 9
         },
         {
           "section": "Market Trends",
           "count": 4
         }
       ],
-      "avg_score": 63.3
+      "avg_score": 64.0
     },
     {
       "brand": "AMD",
@@ -515,70 +515,6 @@
       "avg_score": 62.9
     },
     {
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "total": 53,
-      "media": 46,
-      "youtube": 7,
-      "reviews": 3,
-      "sponsored": 1,
-      "dell_stories": 0,
-      "high_signal": 1,
-      "top_sources": [
-        {
-          "source": "Tom's Hardware",
-          "count": 9
-        },
-        {
-          "source": "Wccftech",
-          "count": 6
-        },
-        {
-          "source": "WinFuture",
-          "count": 4
-        },
-        {
-          "source": "Exame",
-          "count": 3
-        },
-        {
-          "source": "HotHardware",
-          "count": 3
-        },
-        {
-          "source": "TechRadar",
-          "count": 3
-        },
-        {
-          "source": "VideoCardz",
-          "count": 3
-        },
-        {
-          "source": "Adrenaline",
-          "count": 2
-        }
-      ],
-      "sections": [
-        {
-          "section": "Ecosystem",
-          "count": 25
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 19
-        },
-        {
-          "section": "Deals",
-          "count": 7
-        },
-        {
-          "section": "Market Trends",
-          "count": 2
-        }
-      ],
-      "avg_score": 61.6
-    },
-    {
       "brand": "Valve",
       "family": "Ecosystem",
       "total": 53,
@@ -641,6 +577,70 @@
         }
       ],
       "avg_score": 70.0
+    },
+    {
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "total": 52,
+      "media": 45,
+      "youtube": 7,
+      "reviews": 3,
+      "sponsored": 1,
+      "dell_stories": 0,
+      "high_signal": 1,
+      "top_sources": [
+        {
+          "source": "Tom's Hardware",
+          "count": 9
+        },
+        {
+          "source": "Wccftech",
+          "count": 5
+        },
+        {
+          "source": "WinFuture",
+          "count": 4
+        },
+        {
+          "source": "Exame",
+          "count": 3
+        },
+        {
+          "source": "HotHardware",
+          "count": 3
+        },
+        {
+          "source": "TechRadar",
+          "count": 3
+        },
+        {
+          "source": "VideoCardz",
+          "count": 3
+        },
+        {
+          "source": "Adrenaline",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Ecosystem",
+          "count": 25
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 19
+        },
+        {
+          "section": "Deals",
+          "count": 6
+        },
+        {
+          "section": "Market Trends",
+          "count": 2
+        }
+      ],
+      "avg_score": 62.1
     },
     {
       "brand": "Qualcomm",
@@ -1460,9 +1460,9 @@
         "Apple": 68,
         "Lenovo": 56,
         "Microsoft": 49,
-        "Asus": 38,
+        "Asus": 37,
         "Dell": 31,
-        "NVIDIA": 28,
+        "NVIDIA": 27,
         "AMD": 24,
         "Amazon": 23,
         "Framework": 23,
@@ -1480,9 +1480,9 @@
       "brands": {
         "Lenovo": 130,
         "Microsoft": 99,
-        "Apple": 93,
+        "Apple": 92,
         "Asus": 88,
-        "Intel": 54,
+        "Intel": 52,
         "Dell": 48,
         "AMD": 43,
         "HP": 32,
@@ -3715,25 +3715,6 @@
       "url": "https://www.numerama.com/tech/2310913-vous-etes-etudiant-apple-lance-ses-remises-de-la-rentree-mais-comparez-bien-avec-les-autres-sites.html",
       "published_at": "2026-08-13T11:20:00+00:00",
       "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:331918",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Apple's back-to-school offer provides discounts on iPads and MacBooks",
-      "url": "https://www.techradar.com/computing/macbooks/apples-back-to-school-offer-is-live-students-and-teachers-get-exclusive-savings-on-ipads-and-macbooks-plus-free-gift-cards",
-      "published_at": "2026-08-13T11:09:04+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
@@ -6247,6 +6228,25 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
+    },
+    {
+      "id": "media:316617",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Lenovo IdeaPad Slim 3x with Snapdragon X now under R$5k",
+      "url": "https://www.tudocelular.com/mercado/noticias/n260463/lenovo-ideapad-slim-3x-snapdragon-oferta.html",
+      "published_at": "2026-08-11T14:43:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
     }
   ],
   "items": [
@@ -8467,25 +8467,6 @@
       "url": "https://www.numerama.com/tech/2310913-vous-etes-etudiant-apple-lance-ses-remises-de-la-rentree-mais-comparez-bien-avec-les-autres-sites.html",
       "published_at": "2026-08-13T11:20:00+00:00",
       "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:331918",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Apple's back-to-school offer provides discounts on iPads and MacBooks",
-      "url": "https://www.techradar.com/computing/macbooks/apples-back-to-school-offer-is-live-students-and-teachers-get-exclusive-savings-on-ipads-and-macbooks-plus-free-gift-cards",
-      "published_at": "2026-08-13T11:09:04+00:00",
-      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
@@ -11267,25 +11248,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:311132",
-      "kind": "media",
-      "source": "GamesRadar+",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Intel's 2026 Gamer Days promotion offers free games with qualifying hardware",
-      "url": "https://www.gamesradar.com/hardware/tomb-raider-legacy-of-atlantis-and-star-wars-galactic-racer-headline-intels-gamer-days-freebie-promos-but-were-still-waiting-on-some-stores/",
-      "published_at": "2026-08-11T10:42:57+00:00",
-      "score": 30,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
       "id": "media:323463",
       "kind": "media",
       "source": "ZDNET France",
@@ -12556,25 +12518,6 @@
       "is_sponsored": false,
       "brand": "LG",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:298751",
-      "kind": "media",
-      "source": "VideoCardz",
-      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Intel launches Star Wars and Tomb Raider game bundle for Core Ultra and Arc G3 CPUs",
-      "url": "https://videocardz.com/newz/intel-launches-star-wars-and-tomb-raider-game-bundle-for-core-ultra-200-300-14th-gen-core-and-arc-g3-cpus",
-      "published_at": "2026-08-10T11:46:42+00:00",
-      "score": 40,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -19556,8 +19499,8 @@
       "source": "CHIP DE",
       "source_icon": "",
       "country": "DE",
-      "section": "Deals",
-      "is_deal": true,
+      "section": "Competitor Coverage",
+      "is_deal": false,
       "deal_metric_only": false,
       "title": "Apple bundles iPhone 17 and MacBook Air 13 M5 with on-demand data",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQ3lEbktYTnlxQ1U2ZHBwalpOOXhNSlM3eWQwWDNHcTN4LVhZaV83aDQ3WTJuY1dCam9BTnpPX3piVi1Eb3o5N1Q3aFY2LU9oNXFfRF9adkd3cjloM1ZPRkE2dGoyRlNSdjVKUUlneFRvaEI1ZzVQSlN5VEdHSG5aUzM5U0J1eVNpMnd2YVFjY1A1S1huMjlNRzBuUG1OaEh0VlR2VFBSNkY4Ymp3dUEwRnVDMVppMVNabXR4ZmpyTU96MU55M3pMMzhVZy1ETld6bkd0V2JFcEFkbWNkcVE?oc=5",
@@ -21656,25 +21599,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:225208",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Asus Vivobook Go 15 priced under R$2,700 with Ryzen and 256GB storage",
-      "url": "https://www.tudocelular.com/asus/noticias/n259832/oferta-asus-vivobook-go-15-notebook-barato-resiste.html",
-      "published_at": "2026-07-31T14:08:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -24526,25 +24450,6 @@
       "is_sponsored": false,
       "brand": "Lenovo",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:200393",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "NVIDIA RTX 5070 SUPER specs and performance details emerge",
-      "url": "https://wccftech.com/roundup/nvidia-geforce-rtx-5070-super/",
-      "published_at": "2026-07-29T16:00:18+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
