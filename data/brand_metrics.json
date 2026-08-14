@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T20:33:08.769858+00:00",
-  "total_items": 1381,
+  "generated_at": "2026-08-14T21:01:24.523874+00:00",
+  "total_items": 1380,
   "brands": [
     {
       "brand": "Lenovo",
@@ -453,8 +453,8 @@
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 57,
-      "media": 38,
+      "total": 56,
+      "media": 37,
       "youtube": 19,
       "reviews": 21,
       "sponsored": 1,
@@ -497,7 +497,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 41
+          "count": 40
         },
         {
           "section": "Deals",
@@ -512,71 +512,7 @@
           "count": 1
         }
       ],
-      "avg_score": 63.0
-    },
-    {
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "total": 54,
-      "media": 32,
-      "youtube": 22,
-      "reviews": 12,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 8,
-      "top_sources": [
-        {
-          "source": "JayzTwoCents",
-          "count": 6
-        },
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 5
-        },
-        {
-          "source": "PC Gamer",
-          "count": 5
-        },
-        {
-          "source": "VideoCardz",
-          "count": 4
-        },
-        {
-          "source": "CNET",
-          "count": 3
-        },
-        {
-          "source": "GamesRadar+",
-          "count": 3
-        },
-        {
-          "source": "PCWorld",
-          "count": 3
-        },
-        {
-          "source": "XDA Developers",
-          "count": 3
-        }
-      ],
-      "sections": [
-        {
-          "section": "Market Trends",
-          "count": 44
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 6
-        },
-        {
-          "section": "Ecosystem",
-          "count": 3
-        },
-        {
-          "section": "Deals",
-          "count": 1
-        }
-      ],
-      "avg_score": 70.0
+      "avg_score": 62.9
     },
     {
       "brand": "NVIDIA",
@@ -641,6 +577,70 @@
         }
       ],
       "avg_score": 61.6
+    },
+    {
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "total": 53,
+      "media": 32,
+      "youtube": 21,
+      "reviews": 11,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 8,
+      "top_sources": [
+        {
+          "source": "JayzTwoCents",
+          "count": 6
+        },
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 5
+        },
+        {
+          "source": "PC Gamer",
+          "count": 5
+        },
+        {
+          "source": "VideoCardz",
+          "count": 4
+        },
+        {
+          "source": "CNET",
+          "count": 3
+        },
+        {
+          "source": "GamesRadar+",
+          "count": 3
+        },
+        {
+          "source": "XDA Developers",
+          "count": 3
+        },
+        {
+          "source": "Adrenaline",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Market Trends",
+          "count": 44
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 5
+        },
+        {
+          "section": "Ecosystem",
+          "count": 3
+        },
+        {
+          "section": "Deals",
+          "count": 1
+        }
+      ],
+      "avg_score": 70.0
     },
     {
       "brand": "Qualcomm",
@@ -1233,8 +1233,8 @@
     {
       "brand": "OpenAI",
       "family": "Other",
-      "total": 5,
-      "media": 5,
+      "total": 6,
+      "media": 6,
       "youtube": 0,
       "reviews": 0,
       "sponsored": 0,
@@ -1243,7 +1243,7 @@
       "top_sources": [
         {
           "source": "Computerworld",
-          "count": 1
+          "count": 2
         },
         {
           "source": "PC Gamer",
@@ -1264,15 +1264,15 @@
       ],
       "sections": [
         {
-          "section": "Ecosystem",
+          "section": "Deals",
           "count": 3
         },
         {
-          "section": "Deals",
-          "count": 2
+          "section": "Ecosystem",
+          "count": 3
         }
       ],
-      "avg_score": 42.0
+      "avg_score": 39.2
     },
     {
       "brand": "Meta",
@@ -1485,9 +1485,9 @@
         "Intel": 54,
         "Dell": 48,
         "AMD": 43,
-        "HP": 33,
+        "HP": 32,
         "Qualcomm": 32,
-        "Valve": 29,
+        "Valve": 28,
         "Acer": 22,
         "MSI": 22,
         "NVIDIA": 20,
@@ -1666,25 +1666,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:349175",
-      "kind": "media",
-      "source": "ZDNET France",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "HP Smart Tank 7306 printer tested for hybrid printing and TCO optimization",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaEUybmNxaG41SlRJWm0xQVJhOEZHQlRvbXVxZmdUWjZ1ZEFUXzhvc1JwMEFIdkhaak0xZE1LZkZoMGIycnZxNFNxR2xRWDZoNW5WY2pDT1A3dHBGWlhRUWpycV9ac0VNQ0NvX2FrLVNwU1F3VHF3a2JQQWY2aE5mYWhmTFhGSTJkcm54LS1pV1lzWVJtZklhMllOeTEyM1N3bzJLQTRlWnkwc2lZd1pNUGFsbTVseEVDNWlsRTdzc0lVb1dOTVEweldZcGFsYml6YnRV?oc=5",
-      "published_at": "2026-08-14T16:18:40+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -2579,25 +2560,6 @@
       "is_sponsored": false,
       "brand": "Apple",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:128010",
-      "kind": "youtube",
-      "source": "PCWorld",
-      "source_icon": "https://yt3.googleusercontent.com/Y9Qeoq6gXw_cDQUpUmmJCoVh66rCotYtyetmYEyd9rryQZoJXLvhjtMupYCG6J02ghSvw6qZDEc=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Expedition: Handheld podcast episode on modding with Your Cool Uncle Marisa",
-      "url": "https://www.youtube.com/watch?v=CHRAAAcUivw",
-      "published_at": "2026-08-14T05:32:27+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -6247,6 +6209,44 @@
       "brand": "Acer",
       "family": "PC competitors",
       "is_dell_story": false
+    },
+    {
+      "id": "media:314138",
+      "kind": "media",
+      "source": "PC Gamer",
+      "source_icon": "",
+      "country": "GB",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Valve adds wireless adapter support to SteamOS beta",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/yet-another-sign-the-steam-frame-is-approaching-launch-maybe-really-for-real-this-time-as-the-steamos-beta-adds-preliminary-support-for-its-wireless-adapter/",
+      "published_at": "2026-08-11T15:02:25+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:314197",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ThinkPad X9 features Core Ultra 7, 32 GB RAM, 1 TB SSD, and 2.8K OLED display",
+      "url": "https://www.notebookcheck.com/Core-Ultra-7-32-GB-RAM-1-TB-SSD-2-8k-OLED-ThinkPad-X9-im-Angebot.1365873.0.html",
+      "published_at": "2026-08-11T15:00:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
     }
   ],
   "items": [
@@ -6418,25 +6418,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:349175",
-      "kind": "media",
-      "source": "ZDNET France",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "HP Smart Tank 7306 printer tested for hybrid printing and TCO optimization",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaEUybmNxaG41SlRJWm0xQVJhOEZHQlRvbXVxZmdUWjZ1ZEFUXzhvc1JwMEFIdkhaak0xZE1LZkZoMGIycnZxNFNxR2xRWDZoNW5WY2pDT1A3dHBGWlhRUWpycV9ac0VNQ0NvX2FrLVNwU1F3VHF3a2JQQWY2aE5mYWhmTFhGSTJkcm54LS1pV1lzWVJtZklhMllOeTEyM1N3bzJLQTRlWnkwc2lZd1pNUGFsbTVseEVDNWlsRTdzc0lVb1dOTVEweldZcGFsYml6YnRV?oc=5",
-      "published_at": "2026-08-14T16:18:40+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -7331,25 +7312,6 @@
       "is_sponsored": false,
       "brand": "Apple",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:128010",
-      "kind": "youtube",
-      "source": "PCWorld",
-      "source_icon": "https://yt3.googleusercontent.com/Y9Qeoq6gXw_cDQUpUmmJCoVh66rCotYtyetmYEyd9rryQZoJXLvhjtMupYCG6J02ghSvw6qZDEc=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Expedition: Handheld podcast episode on modding with Your Cool Uncle Marisa",
-      "url": "https://www.youtube.com/watch?v=CHRAAAcUivw",
-      "published_at": "2026-08-14T05:32:27+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -28004,6 +27966,25 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "media:174507",
+      "kind": "media",
+      "source": "Computerworld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Choosing a DEX platform: Key factors for alignment with business goals",
+      "url": "https://www.computerworld.com/article/1612638/how-to-choose-digital-employee-experience-tool.html",
+      "published_at": "2026-07-27T11:00:00+00:00",
+      "score": 25,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "OpenAI",
+      "family": "Other",
+      "is_dell_story": false
     },
     {
       "id": "youtube:94560",
