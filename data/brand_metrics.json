@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-14T00:16:15.030983+00:00",
-  "total_items": 1396,
+  "generated_at": "2026-08-14T12:17:26.559505+00:00",
+  "total_items": 1400,
   "brands": [
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 214,
+      "total": 215,
       "media": 153,
-      "youtube": 61,
-      "reviews": 41,
+      "youtube": 62,
+      "reviews": 42,
       "sponsored": 6,
       "dell_stories": 0,
       "high_signal": 6,
@@ -34,11 +34,11 @@
           "count": 7
         },
         {
-          "source": "Clubic",
-          "count": 6
+          "source": "Qual Notebook Comprar?",
+          "count": 7
         },
         {
-          "source": "Qual Notebook Comprar?",
+          "source": "Clubic",
           "count": 6
         },
         {
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 171
+          "count": 172
         },
         {
           "section": "Deals",
@@ -65,10 +65,10 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 172,
+      "total": 173,
       "media": 133,
-      "youtube": 39,
-      "reviews": 19,
+      "youtube": 40,
+      "reviews": 20,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 4,
@@ -109,7 +109,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 113
+          "count": 114
         },
         {
           "section": "Deals",
@@ -124,18 +124,18 @@
           "count": 6
         }
       ],
-      "avg_score": 57.6
+      "avg_score": 57.7
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 148,
+      "total": 149,
       "media": 91,
-      "youtube": 57,
-      "reviews": 44,
+      "youtube": 58,
+      "reviews": 45,
       "sponsored": 2,
       "dell_stories": 0,
-      "high_signal": 4,
+      "high_signal": 5,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -173,7 +173,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 116
+          "count": 117
         },
         {
           "section": "Deals",
@@ -192,7 +192,7 @@
           "count": 1
         }
       ],
-      "avg_score": 63.8
+      "avg_score": 64.0
     },
     {
       "brand": "Microsoft",
@@ -451,6 +451,70 @@
       "avg_score": 58.5
     },
     {
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "total": 57,
+      "media": 34,
+      "youtube": 23,
+      "reviews": 13,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 9,
+      "top_sources": [
+        {
+          "source": "JayzTwoCents",
+          "count": 6
+        },
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 5
+        },
+        {
+          "source": "PC Gamer",
+          "count": 5
+        },
+        {
+          "source": "VideoCardz",
+          "count": 5
+        },
+        {
+          "source": "CNET",
+          "count": 3
+        },
+        {
+          "source": "GamesRadar+",
+          "count": 3
+        },
+        {
+          "source": "PCWorld",
+          "count": 3
+        },
+        {
+          "source": "Adrenaline",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Market Trends",
+          "count": 46
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 6
+        },
+        {
+          "section": "Ecosystem",
+          "count": 4
+        },
+        {
+          "section": "Deals",
+          "count": 1
+        }
+      ],
+      "avg_score": 70.3
+    },
+    {
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "total": 56,
@@ -513,70 +577,6 @@
         }
       ],
       "avg_score": 61.8
-    },
-    {
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "total": 56,
-      "media": 34,
-      "youtube": 22,
-      "reviews": 12,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 9,
-      "top_sources": [
-        {
-          "source": "JayzTwoCents",
-          "count": 6
-        },
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 5
-        },
-        {
-          "source": "PC Gamer",
-          "count": 5
-        },
-        {
-          "source": "VideoCardz",
-          "count": 5
-        },
-        {
-          "source": "CNET",
-          "count": 3
-        },
-        {
-          "source": "GamesRadar+",
-          "count": 3
-        },
-        {
-          "source": "Adrenaline",
-          "count": 2
-        },
-        {
-          "source": "Austin Evans",
-          "count": 2
-        }
-      ],
-      "sections": [
-        {
-          "section": "Market Trends",
-          "count": 46
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 5
-        },
-        {
-          "section": "Ecosystem",
-          "count": 4
-        },
-        {
-          "section": "Deals",
-          "count": 1
-        }
-      ],
-      "avg_score": 70.2
     },
     {
       "brand": "HP",
@@ -1442,7 +1442,7 @@
       "brands": {
         "Dell": 11,
         "Lenovo": 11,
-        "Asus": 7,
+        "Asus": 8,
         "Apple": 5,
         "HP": 4,
         "MSI": 4,
@@ -1482,16 +1482,16 @@
     {
       "month": "2026-08",
       "brands": {
-        "Lenovo": 124,
+        "Lenovo": 125,
         "Microsoft": 87,
         "Asus": 84,
-        "Apple": 81,
+        "Apple": 82,
         "Intel": 45,
         "AMD": 41,
         "Dell": 41,
         "HP": 30,
         "Qualcomm": 28,
-        "Valve": 27,
+        "Valve": 28,
         "Acer": 22,
         "MSI": 21,
         "NVIDIA": 20,
@@ -1520,6 +1520,63 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:128010",
+      "kind": "youtube",
+      "source": "PCWorld",
+      "source_icon": "https://yt3.googleusercontent.com/Y9Qeoq6gXw_cDQUpUmmJCoVh66rCotYtyetmYEyd9rryQZoJXLvhjtMupYCG6J02ghSvw6qZDEc=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Expedition: Handheld podcast episode on modding with Your Cool Uncle Marisa",
+      "url": "https://www.youtube.com/watch?v=CHRAAAcUivw",
+      "published_at": "2026-08-14T05:32:27+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:128460",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Best Laptops for Video Editing in 2026: Lenovo LOQ, Acer Predator, MacBook Pro",
+      "url": "https://www.youtube.com/watch?v=FMx5doSZY7I",
+      "published_at": "2026-08-13T23:59:27+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:128460",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Best Laptops for Video Editing in 2026: Lenovo LOQ, Acer Predator, MacBook Pro",
+      "url": "https://www.youtube.com/watch?v=FMx5doSZY7I",
+      "published_at": "2026-08-13T23:59:27+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "youtube:127425",
@@ -6194,63 +6251,6 @@
       "brand": "LG",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:304044",
-      "kind": "media",
-      "source": "Clubic",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple tests CXMT memory components on iPhone and MacBook",
-      "url": "https://www.clubic.com/actualite-624775-apple-met-a-l-essai-les-composants-memoires-de-cxmt-sur-ses-iphone-et-macbook.html",
-      "published_at": "2026-08-10T15:17:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:303170",
-      "kind": "media",
-      "source": "PC Gamer",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Water-cooled Steam Machine criticized as over-engineered",
-      "url": "https://www.pcgamer.com/hardware/gaming-pcs/the-worlds-first-water-cooled-steam-machine-is-a-frankensteins-monster-of-neon-pink-tubing-and-external-hardware/",
-      "published_at": "2026-08-10T15:07:58+00:00",
-      "score": 60,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:305649",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple faces MacBook Air M5 delivery delays due to RAM crisis",
-      "url": "https://www.tudocelular.com/mercado/noticias/n260377/macbook-air-sofre-crise-memoria-encara-atrasos.html",
-      "published_at": "2026-08-10T14:50:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6272,6 +6272,63 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:128010",
+      "kind": "youtube",
+      "source": "PCWorld",
+      "source_icon": "https://yt3.googleusercontent.com/Y9Qeoq6gXw_cDQUpUmmJCoVh66rCotYtyetmYEyd9rryQZoJXLvhjtMupYCG6J02ghSvw6qZDEc=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Expedition: Handheld podcast episode on modding with Your Cool Uncle Marisa",
+      "url": "https://www.youtube.com/watch?v=CHRAAAcUivw",
+      "published_at": "2026-08-14T05:32:27+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:128460",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Best Laptops for Video Editing in 2026: Lenovo LOQ, Acer Predator, MacBook Pro",
+      "url": "https://www.youtube.com/watch?v=FMx5doSZY7I",
+      "published_at": "2026-08-13T23:59:27+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:128460",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Best Laptops for Video Editing in 2026: Lenovo LOQ, Acer Predator, MacBook Pro",
+      "url": "https://www.youtube.com/watch?v=FMx5doSZY7I",
+      "published_at": "2026-08-13T23:59:27+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "youtube:127425",
@@ -30649,6 +30706,25 @@
       "brand": "Alienware",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:128244",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS ROG Zephyrus G14 2026 review: Power in a compact form",
+      "url": "https://www.youtube.com/watch?v=JVi6ts-Pzmc",
+      "published_at": "2026-06-28T11:06:58+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "youtube:48973",
