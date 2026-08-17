@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T20:41:18.533632+00:00",
-  "total_items": 1347,
+  "generated_at": "2026-08-17T22:40:46.889008+00:00",
+  "total_items": 1353,
   "brands": [
     {
       "brand": "Lenovo",
@@ -65,8 +65,8 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 168,
-      "media": 131,
+      "total": 170,
+      "media": 133,
       "youtube": 37,
       "reviews": 19,
       "sponsored": 0,
@@ -82,20 +82,20 @@
           "count": 12
         },
         {
+          "source": "TechRadar",
+          "count": 11
+        },
+        {
           "source": "Clubic",
           "count": 10
         },
         {
-          "source": "TechRadar",
-          "count": 10
+          "source": "Tom's Guide",
+          "count": 8
         },
         {
           "source": "Digital Trends",
-          "count": 8
-        },
-        {
-          "source": "Tom's Guide",
-          "count": 8
+          "count": 7
         },
         {
           "source": "Frandroid",
@@ -113,7 +113,7 @@
         },
         {
           "section": "Deals",
-          "count": 41
+          "count": 43
         },
         {
           "section": "Ecosystem",
@@ -128,13 +128,13 @@
           "count": 1
         }
       ],
-      "avg_score": 58.8
+      "avg_score": 58.5
     },
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 145,
-      "media": 141,
+      "total": 144,
+      "media": 140,
       "youtube": 4,
       "reviews": 6,
       "sponsored": 0,
@@ -177,7 +177,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 110
+          "count": 109
         },
         {
           "section": "Competitor Coverage",
@@ -197,8 +197,8 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 141,
-      "media": 90,
+      "total": 142,
+      "media": 91,
       "youtube": 51,
       "reviews": 42,
       "sponsored": 1,
@@ -211,7 +211,7 @@
         },
         {
           "source": "TudoCelular",
-          "count": 13
+          "count": 14
         },
         {
           "source": "Qual Notebook Comprar?",
@@ -245,7 +245,7 @@
         },
         {
           "section": "Deals",
-          "count": 25
+          "count": 26
         },
         {
           "section": "Ecosystem",
@@ -260,18 +260,82 @@
           "count": 1
         }
       ],
-      "avg_score": 63.6
+      "avg_score": 63.4
+    },
+    {
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "total": 99,
+      "media": 84,
+      "youtube": 15,
+      "reviews": 17,
+      "sponsored": 3,
+      "dell_stories": 0,
+      "high_signal": 2,
+      "top_sources": [
+        {
+          "source": "Tom's Hardware",
+          "count": 18
+        },
+        {
+          "source": "VideoCardz",
+          "count": 10
+        },
+        {
+          "source": "Wccftech",
+          "count": 10
+        },
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 8
+        },
+        {
+          "source": "Adrenaline",
+          "count": 7
+        },
+        {
+          "source": "Clubic",
+          "count": 3
+        },
+        {
+          "source": "Frandroid",
+          "count": 3
+        },
+        {
+          "source": "TecMundo",
+          "count": 3
+        }
+      ],
+      "sections": [
+        {
+          "section": "Ecosystem",
+          "count": 59
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 26
+        },
+        {
+          "section": "Deals",
+          "count": 10
+        },
+        {
+          "section": "Market Trends",
+          "count": 4
+        }
+      ],
+      "avg_score": 64.0
     },
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 99,
-      "media": 66,
+      "total": 98,
+      "media": 65,
       "youtube": 33,
       "reviews": 39,
       "sponsored": 4,
-      "dell_stories": 95,
-      "high_signal": 87,
+      "dell_stories": 94,
+      "high_signal": 86,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -309,7 +373,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 79
+          "count": 78
         },
         {
           "section": "Deals",
@@ -324,77 +388,13 @@
           "count": 1
         }
       ],
-      "avg_score": 91.7
-    },
-    {
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "total": 97,
-      "media": 82,
-      "youtube": 15,
-      "reviews": 17,
-      "sponsored": 3,
-      "dell_stories": 0,
-      "high_signal": 2,
-      "top_sources": [
-        {
-          "source": "Tom's Hardware",
-          "count": 18
-        },
-        {
-          "source": "VideoCardz",
-          "count": 10
-        },
-        {
-          "source": "Wccftech",
-          "count": 9
-        },
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 8
-        },
-        {
-          "source": "Adrenaline",
-          "count": 7
-        },
-        {
-          "source": "Clubic",
-          "count": 3
-        },
-        {
-          "source": "Frandroid",
-          "count": 3
-        },
-        {
-          "source": "TecMundo",
-          "count": 3
-        }
-      ],
-      "sections": [
-        {
-          "section": "Ecosystem",
-          "count": 57
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 26
-        },
-        {
-          "section": "Deals",
-          "count": 10
-        },
-        {
-          "section": "Market Trends",
-          "count": 4
-        }
-      ],
-      "avg_score": 63.9
+      "avg_score": 91.6
     },
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 68,
-      "media": 62,
+      "total": 70,
+      "media": 64,
       "youtube": 6,
       "reviews": 8,
       "sponsored": 0,
@@ -406,11 +406,11 @@
           "count": 11
         },
         {
-          "source": "VideoCardz",
-          "count": 9
+          "source": "Wccftech",
+          "count": 10
         },
         {
-          "source": "Wccftech",
+          "source": "VideoCardz",
           "count": 9
         },
         {
@@ -437,7 +437,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 39
+          "count": 41
         },
         {
           "section": "Deals",
@@ -452,7 +452,7 @@
           "count": 3
         }
       ],
-      "avg_score": 58.5
+      "avg_score": 58.7
     },
     {
       "brand": "HP",
@@ -585,8 +585,8 @@
     {
       "brand": "Qualcomm",
       "family": "Ecosystem",
-      "total": 48,
-      "media": 38,
+      "total": 49,
+      "media": 39,
       "youtube": 10,
       "reviews": 8,
       "sponsored": 1,
@@ -606,6 +606,10 @@
           "count": 3
         },
         {
+          "source": "Wccftech",
+          "count": 3
+        },
+        {
           "source": "Andrew Marc David",
           "count": 2
         },
@@ -620,16 +624,12 @@
         {
           "source": "Digital Trends",
           "count": 2
-        },
-        {
-          "source": "TecMundo",
-          "count": 2
         }
       ],
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 22
+          "count": 23
         },
         {
           "section": "Competitor Coverage",
@@ -644,7 +644,7 @@
           "count": 2
         }
       ],
-      "avg_score": 63.3
+      "avg_score": 63.4
     },
     {
       "brand": "Acer",
@@ -769,8 +769,8 @@
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 39,
-      "media": 32,
+      "total": 40,
+      "media": 33,
       "youtube": 7,
       "reviews": 3,
       "sponsored": 1,
@@ -813,7 +813,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 20
+          "count": 21
         },
         {
           "section": "Competitor Coverage",
@@ -828,7 +828,7 @@
           "count": 2
         }
       ],
-      "avg_score": 60.0
+      "avg_score": 60.1
     },
     {
       "brand": "Alienware",
@@ -966,12 +966,16 @@
           "count": 7
         },
         {
-          "source": "BFMTV Tech",
+          "source": "Frandroid",
           "count": 3
         },
         {
-          "source": "Frandroid",
+          "source": "Wccftech",
           "count": 3
+        },
+        {
+          "source": "BFMTV Tech",
+          "count": 2
         },
         {
           "source": "Futura",
@@ -979,10 +983,6 @@
         },
         {
           "source": "TechRadar",
-          "count": 2
-        },
-        {
-          "source": "Wccftech",
           "count": 2
         },
         {
@@ -1005,8 +1005,8 @@
     {
       "brand": "Framework",
       "family": "PC competitors",
-      "total": 25,
-      "media": 17,
+      "total": 24,
+      "media": 16,
       "youtube": 8,
       "reviews": 9,
       "sponsored": 0,
@@ -1038,11 +1038,11 @@
           "count": 1
         },
         {
-          "source": "HotHardware",
+          "source": "Just Josh",
           "count": 1
         },
         {
-          "source": "Just Josh",
+          "source": "LMGClips",
           "count": 1
         }
       ],
@@ -1052,15 +1052,15 @@
           "count": 22
         },
         {
-          "section": "Ecosystem",
-          "count": 2
+          "section": "Dell Coverage",
+          "count": 1
         },
         {
-          "section": "Dell Coverage",
+          "section": "Ecosystem",
           "count": 1
         }
       ],
-      "avg_score": 71.4
+      "avg_score": 72.3
     },
     {
       "brand": "Razer",
@@ -1438,18 +1438,18 @@
     {
       "month": "2026-07",
       "brands": {
-        "Apple": 45,
         "Lenovo": 43,
+        "Apple": 42,
         "Asus": 31,
-        "Microsoft": 30,
-        "Dell": 28,
+        "Microsoft": 29,
+        "Dell": 27,
         "Valve": 21,
-        "Amazon": 19,
+        "Amazon": 18,
         "AMD": 17,
         "Intel": 17,
         "Samsung": 13,
-        "Framework": 12,
         "Alienware": 11,
+        "Framework": 11,
         "HP": 11,
         "Qualcomm": 11,
         "MSI": 10,
@@ -1460,18 +1460,18 @@
       "month": "2026-08",
       "brands": {
         "Lenovo": 142,
+        "Apple": 117,
         "Microsoft": 113,
-        "Apple": 112,
-        "Asus": 94,
-        "Intel": 75,
+        "Asus": 95,
+        "Intel": 77,
         "Dell": 58,
-        "AMD": 50,
+        "AMD": 52,
         "Acer": 34,
         "HP": 34,
-        "Qualcomm": 33,
+        "Qualcomm": 34,
         "Valve": 30,
         "MSI": 25,
-        "NVIDIA": 24,
+        "NVIDIA": 25,
         "Alienware": 17,
         "Samsung": 15,
         "Framework": 13
@@ -1499,6 +1499,196 @@
       "is_dell_story": true
     },
     {
+      "id": "media:369024",
+      "kind": "media",
+      "source": "Showmetech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=showmetech.com.br&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple releases iOS 26.6.1 and macOS 26.6.2 security updates",
+      "url": "https://www.showmetech.com.br/apple-ios-26-6-1-macos-26-6-2-seguranca/",
+      "published_at": "2026-08-17T21:54:17+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368835",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Snapdragon X2 Elite Extreme Outperforms Intel and AMD in AI Benchmarks",
+      "url": "https://wccftech.com/a-battery-powered-snapdragon-x2-elite-extreme-system-beats-a-plugged-in-intel-core-ultra-x9-system-while-also-surpassing-amd-ryzen-ai-9-465-in-geekbench-7-by-83/",
+      "published_at": "2026-08-17T21:36:42+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368835",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Snapdragon X2 Elite Extreme Outperforms Intel and AMD in AI Benchmarks",
+      "url": "https://wccftech.com/a-battery-powered-snapdragon-x2-elite-extreme-system-beats-a-plugged-in-intel-core-ultra-x9-system-while-also-surpassing-amd-ryzen-ai-9-465-in-geekbench-7-by-83/",
+      "published_at": "2026-08-17T21:36:42+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368835",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Snapdragon X2 Elite Extreme Outperforms Intel and AMD in AI Benchmarks",
+      "url": "https://wccftech.com/a-battery-powered-snapdragon-x2-elite-extreme-system-beats-a-plugged-in-intel-core-ultra-x9-system-while-also-surpassing-amd-ryzen-ai-9-465-in-geekbench-7-by-83/",
+      "published_at": "2026-08-17T21:36:42+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368652",
+      "kind": "media",
+      "source": "CRN",
+      "source_icon": "https://www.google.com/s2/favicons?domain=crn.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Nvidia appoints Monica Gille to lead global partnerships",
+      "url": "https://www.crn.com/news/components-peripherals/2026/nvidia-taps-26-year-hpe-sales-veteran-monica-gille-to-lead-global-partnerships",
+      "published_at": "2026-08-17T21:15:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368838",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Lexar NQ780 4TB SSD drops 35% on Amazon to $479.99",
+      "url": "https://wccftech.com/lexar-nq780-4tb-ssd-amazon-deal/",
+      "published_at": "2026-08-17T19:21:48+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Amazon",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368610",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Viral $119 MacBook Neo deal exposed as scam, real discounts highlighted",
+      "url": "https://www.techradar.com/computing/macbooks/the-usd119-macbook-neo-deal-going-viral-on-tiktok-is-a-scam-and-i-almost-fell-for-it-heres-where-you-can-actually-find-it-on-sale",
+      "published_at": "2026-08-17T19:03:26+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368519",
+      "kind": "media",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Intel Nova Lake CPUs to debut on desktops with AVX-512",
+      "url": "https://hothardware.com/news/intel-nova-lake-cpus-to-hit-desktop-first-avx10",
+      "published_at": "2026-08-17T18:55:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368519",
+      "kind": "media",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Intel Nova Lake CPUs to debut on desktops with AVX-512",
+      "url": "https://hothardware.com/news/intel-nova-lake-cpus-to-hit-desktop-first-avx10",
+      "published_at": "2026-08-17T18:55:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368333",
+      "kind": "media",
+      "source": "CNET",
+      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple patches Mac screen-sharing vulnerability",
+      "url": "https://www.cnet.com/tech/services-and-software/attackers-could-take-over-your-mac-through-screen-sharing-unless-you-update-now/",
+      "published_at": "2026-08-17T18:48:13+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "media:365125",
       "kind": "media",
       "source": "TechSpot",
@@ -1511,6 +1701,25 @@
       "url": "https://www.techspot.com/news/113507-apple-begin-assembling-mac-minis-foxconn-houston-plant.html",
       "published_at": "2026-08-17T18:38:00+00:00",
       "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368335",
+      "kind": "media",
+      "source": "CNET",
+      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Free Starbucks gift card with Apple MacBook Neo purchase at Best Buy",
+      "url": "https://www.cnet.com/deals/macbook-neo-starbucks-deal-2026-08-17/",
+      "published_at": "2026-08-17T18:31:25+00:00",
+      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
@@ -1632,6 +1841,25 @@
       "is_dell_story": false
     },
     {
+      "id": "media:368347",
+      "kind": "media",
+      "source": "CNET",
+      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Apple offers $650 discount on 16-inch M5 Pro MacBook Pro",
+      "url": "https://www.cnet.com/deals/16-inch-m5-pro-macbook-pro-deal-2026-08-17/",
+      "published_at": "2026-08-17T15:39:03+00:00",
+      "score": 25,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "media:364638",
       "kind": "media",
       "source": "Windows Central",
@@ -1704,6 +1932,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368003",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "ASUS Vivobook 15 on sale with Ryzen 7 and 512 GB SSD",
+      "url": "https://www.tudocelular.com/asus/noticias/n260855/asus-vivobook-15-ryzen-7-oferta.html",
+      "published_at": "2026-08-17T14:51:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -5981,253 +6228,6 @@
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:331575",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Snapdragon C specs challenge Intel in budget laptops",
-      "url": "https://www.windowscentral.com/hardware/qualcomm/snapdragon-c-specs-mean-qualcomm-could-eat-intels-lunch-with-budget-laptops-heres-what-we-know-and-what-we-still-dont",
-      "published_at": "2026-08-13T11:56:41+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:331575",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Snapdragon C specs challenge Intel in budget laptops",
-      "url": "https://www.windowscentral.com/hardware/qualcomm/snapdragon-c-specs-mean-qualcomm-could-eat-intels-lunch-with-budget-laptops-heres-what-we-know-and-what-we-still-dont",
-      "published_at": "2026-08-13T11:56:41+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:335529",
-      "kind": "media",
-      "source": "Trusted Reviews",
-      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
-      "country": "GB",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Lenovo Chromebook drops to £199.99 for back-to-school sales",
-      "url": "https://www.trustedreviews.com/deals/this-lenovo-chromebook-is-150-cheaper-right-now-just-in-time-for-back-to-school",
-      "published_at": "2026-08-13T11:36:44+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:331916",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Leaked Lenovo IdeaPad rivals MacBook Neo but faces price concerns",
-      "url": "https://www.techradar.com/computing/windows-laptops/leaked-ideapad-looks-like-a-proper-macbook-neo-rival-but-i-dont-think-lenovo-can-beat-apple-on-price",
-      "published_at": "2026-08-13T11:26:59+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:331916",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Leaked Lenovo IdeaPad rivals MacBook Neo but faces price concerns",
-      "url": "https://www.techradar.com/computing/windows-laptops/leaked-ideapad-looks-like-a-proper-macbook-neo-rival-but-i-dont-think-lenovo-can-beat-apple-on-price",
-      "published_at": "2026-08-13T11:26:59+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:333366",
-      "kind": "media",
-      "source": "Numerama",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": false,
-      "title": "Apple launches student discounts for MacBooks and iPads until October 2026",
-      "url": "https://www.numerama.com/tech/2310913-vous-etes-etudiant-apple-lance-ses-remises-de-la-rentree-mais-comparez-bien-avec-les-autres-sites.html",
-      "published_at": "2026-08-13T11:20:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:331531",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "MSI Cyborg 15 gaming laptop discounted to $949 at Walmart",
-      "url": "https://www.tomshardware.com/laptops/gaming-laptops/jump-into-pc-gaming-for-under-a-thousand-dollars-with-a-usd350-saving-on-this-rtx-5060-powered-laptop-the-15-6-inch-msi-cyborg-15-is-just-usd949-at-walmart",
-      "published_at": "2026-08-13T11:07:46+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "MSI",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:331532",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Intel CEO invests $12M in company as analysts see foundry success conviction",
-      "url": "https://www.tomshardware.com/pc-components/cpus/analysts-see-increasing-foundry-success-conviction-as-intel-ceo-puts-usd12-million-more-of-his-own-money-in-company-analysts-point-to-accelerating-foundry-progress-and-capex-expansion",
-      "published_at": "2026-08-13T11:00:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:333382",
-      "kind": "media",
-      "source": "Clubic",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo's IdeaPad Vibe to Launch with Qualcomm/AMD Options, Targeting MacBook Neo",
-      "url": "https://www.clubic.com/actualite-625147-ideapad-vibe-lenovo-s-apprete-a-annoncer-un-rival-tres-colore-au-macbook-neo.html",
-      "published_at": "2026-08-13T10:53:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:333382",
-      "kind": "media",
-      "source": "Clubic",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo's IdeaPad Vibe to Launch with Qualcomm/AMD Options, Targeting MacBook Neo",
-      "url": "https://www.clubic.com/actualite-625147-ideapad-vibe-lenovo-s-apprete-a-annoncer-un-rival-tres-colore-au-macbook-neo.html",
-      "published_at": "2026-08-13T10:53:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:332138",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ASUS Optimistic About RTX Spark Laptops, Pre-Orders Exceed Expectations",
-      "url": "https://wccftech.com/asus-rtx-spark-laptops-channel-partners-pre-ordered-launch/",
-      "published_at": "2026-08-13T10:14:54+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:332110",
-      "kind": "media",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft advises ditching SMS passwords for passkeys due to AI phishing",
-      "url": "https://www.digitaltrends.com/computing/microsoft-wants-you-to-ditch-sms-passwords-as-ai-makes-phishing-harder-to-stop/",
-      "published_at": "2026-08-13T10:08:32+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:333388",
-      "kind": "media",
-      "source": "Clubic",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft disables 365 features on Windows 10, limits OneDrive to 22H2",
-      "url": "https://www.clubic.com/actualite-625123-windows-10-microsoft-365-et-onedrive-bientot-brides-pour-vous-faire-migrer-vers-windows-11.html",
-      "published_at": "2026-08-13T09:46:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6251,6 +6251,196 @@
       "is_dell_story": true
     },
     {
+      "id": "media:369024",
+      "kind": "media",
+      "source": "Showmetech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=showmetech.com.br&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple releases iOS 26.6.1 and macOS 26.6.2 security updates",
+      "url": "https://www.showmetech.com.br/apple-ios-26-6-1-macos-26-6-2-seguranca/",
+      "published_at": "2026-08-17T21:54:17+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368835",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Snapdragon X2 Elite Extreme Outperforms Intel and AMD in AI Benchmarks",
+      "url": "https://wccftech.com/a-battery-powered-snapdragon-x2-elite-extreme-system-beats-a-plugged-in-intel-core-ultra-x9-system-while-also-surpassing-amd-ryzen-ai-9-465-in-geekbench-7-by-83/",
+      "published_at": "2026-08-17T21:36:42+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368835",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Snapdragon X2 Elite Extreme Outperforms Intel and AMD in AI Benchmarks",
+      "url": "https://wccftech.com/a-battery-powered-snapdragon-x2-elite-extreme-system-beats-a-plugged-in-intel-core-ultra-x9-system-while-also-surpassing-amd-ryzen-ai-9-465-in-geekbench-7-by-83/",
+      "published_at": "2026-08-17T21:36:42+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368835",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Snapdragon X2 Elite Extreme Outperforms Intel and AMD in AI Benchmarks",
+      "url": "https://wccftech.com/a-battery-powered-snapdragon-x2-elite-extreme-system-beats-a-plugged-in-intel-core-ultra-x9-system-while-also-surpassing-amd-ryzen-ai-9-465-in-geekbench-7-by-83/",
+      "published_at": "2026-08-17T21:36:42+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368652",
+      "kind": "media",
+      "source": "CRN",
+      "source_icon": "https://www.google.com/s2/favicons?domain=crn.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Nvidia appoints Monica Gille to lead global partnerships",
+      "url": "https://www.crn.com/news/components-peripherals/2026/nvidia-taps-26-year-hpe-sales-veteran-monica-gille-to-lead-global-partnerships",
+      "published_at": "2026-08-17T21:15:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368838",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Lexar NQ780 4TB SSD drops 35% on Amazon to $479.99",
+      "url": "https://wccftech.com/lexar-nq780-4tb-ssd-amazon-deal/",
+      "published_at": "2026-08-17T19:21:48+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Amazon",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368610",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Viral $119 MacBook Neo deal exposed as scam, real discounts highlighted",
+      "url": "https://www.techradar.com/computing/macbooks/the-usd119-macbook-neo-deal-going-viral-on-tiktok-is-a-scam-and-i-almost-fell-for-it-heres-where-you-can-actually-find-it-on-sale",
+      "published_at": "2026-08-17T19:03:26+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368519",
+      "kind": "media",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Intel Nova Lake CPUs to debut on desktops with AVX-512",
+      "url": "https://hothardware.com/news/intel-nova-lake-cpus-to-hit-desktop-first-avx10",
+      "published_at": "2026-08-17T18:55:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368519",
+      "kind": "media",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Intel Nova Lake CPUs to debut on desktops with AVX-512",
+      "url": "https://hothardware.com/news/intel-nova-lake-cpus-to-hit-desktop-first-avx10",
+      "published_at": "2026-08-17T18:55:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368333",
+      "kind": "media",
+      "source": "CNET",
+      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple patches Mac screen-sharing vulnerability",
+      "url": "https://www.cnet.com/tech/services-and-software/attackers-could-take-over-your-mac-through-screen-sharing-unless-you-update-now/",
+      "published_at": "2026-08-17T18:48:13+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "media:365125",
       "kind": "media",
       "source": "TechSpot",
@@ -6263,6 +6453,25 @@
       "url": "https://www.techspot.com/news/113507-apple-begin-assembling-mac-minis-foxconn-houston-plant.html",
       "published_at": "2026-08-17T18:38:00+00:00",
       "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368335",
+      "kind": "media",
+      "source": "CNET",
+      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Free Starbucks gift card with Apple MacBook Neo purchase at Best Buy",
+      "url": "https://www.cnet.com/deals/macbook-neo-starbucks-deal-2026-08-17/",
+      "published_at": "2026-08-17T18:31:25+00:00",
+      "score": 35,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
@@ -6384,6 +6593,25 @@
       "is_dell_story": false
     },
     {
+      "id": "media:368347",
+      "kind": "media",
+      "source": "CNET",
+      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Apple offers $650 discount on 16-inch M5 Pro MacBook Pro",
+      "url": "https://www.cnet.com/deals/16-inch-m5-pro-macbook-pro-deal-2026-08-17/",
+      "published_at": "2026-08-17T15:39:03+00:00",
+      "score": 25,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "media:364638",
       "kind": "media",
       "source": "Windows Central",
@@ -6456,6 +6684,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:368003",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "ASUS Vivobook 15 on sale with Ryzen 7 and 512 GB SSD",
+      "url": "https://www.tudocelular.com/asus/noticias/n260855/asus-vivobook-15-ryzen-7-oferta.html",
+      "published_at": "2026-08-17T14:51:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -27550,101 +27797,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:197037",
-      "kind": "media",
-      "source": "BFMTV Tech",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Apple lowers MacBook Neo price on Amazon for back-to-school",
-      "url": "https://www.bfmtv.com/tech/bons-plans/vous-avez-rate-les-soldes-amazon-pousse-le-prix-du-mac-book-neo-au-plus-bas-pour-preparer-la-rentree_AB-202607290005.html",
-      "published_at": "2026-07-29T03:31:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:197037",
-      "kind": "media",
-      "source": "BFMTV Tech",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Apple lowers MacBook Neo price on Amazon for back-to-school",
-      "url": "https://www.bfmtv.com/tech/bons-plans/vous-avez-rate-les-soldes-amazon-pousse-le-prix-du-mac-book-neo-au-plus-bas-pour-preparer-la-rentree_AB-202607290005.html",
-      "published_at": "2026-07-29T03:31:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Amazon",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:195916",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "NVIDIA forms AI security alliance with Microsoft, Dell, and SpaceX",
-      "url": "https://www.adrenaline.com.br/nvidia/nvidia-alianca-seguranca-da-ia/",
-      "published_at": "2026-07-29T01:32:57+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:196055",
-      "kind": "media",
-      "source": "Mundo Conectado",
-      "source_icon": "https://www.google.com/s2/favicons?domain=mundoconectado.com.br&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple launches rental service for iPhones, iPads, MacBooks in the US",
-      "url": "https://www.mundoconectado.com.br/apple/apple-cria-servico-de-aluguel-de-iphones-ipads-e-macbooks-nos-eua/",
-      "published_at": "2026-07-28T23:42:34+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:196703",
-      "kind": "media",
-      "source": "Digital Trends",
-      "source_icon": "https://www.google.com/s2/favicons?domain=digitaltrends.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple's Upgrade Plan Pricing and Value Analysis",
-      "url": "https://www.digitaltrends.com/phones/apple-upgrade-program-2026-explained/",
-      "published_at": "2026-07-28T22:54:05+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:98190",
       "kind": "youtube",
       "source": "Lucas Ishii",
@@ -27699,44 +27851,6 @@
       "is_sponsored": false,
       "brand": "Valve",
       "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:192743",
-      "kind": "media",
-      "source": "HotHardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft addresses Windows 11 RAM issues by shifting to native WinUI framework",
-      "url": "https://hothardware.com/news/microsoft-knows-windows-11-apps-use-too-much-ram-and-vows-a-fix",
-      "published_at": "2026-07-28T20:17:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:192743",
-      "kind": "media",
-      "source": "HotHardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft addresses Windows 11 RAM issues by shifting to native WinUI framework",
-      "url": "https://hothardware.com/news/microsoft-knows-windows-11-apps-use-too-much-ram-and-vows-a-fix",
-      "published_at": "2026-07-28T20:17:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
       "is_dell_story": false
     },
     {
