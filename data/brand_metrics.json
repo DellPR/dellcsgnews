@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-18T22:37:18.871628+00:00",
+  "generated_at": "2026-08-19T00:02:11.346602+00:00",
   "total_items": 1394,
   "brands": [
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 207,
+      "total": 206,
       "media": 153,
-      "youtube": 54,
-      "reviews": 41,
+      "youtube": 53,
+      "reviews": 40,
       "sponsored": 4,
       "dell_stories": 0,
       "high_signal": 6,
@@ -26,10 +26,6 @@
           "count": 8
         },
         {
-          "source": "Tech BR",
-          "count": 7
-        },
-        {
           "source": "Clubic",
           "count": 6
         },
@@ -44,12 +40,16 @@
         {
           "source": "Qual Notebook Comprar?",
           "count": 6
+        },
+        {
+          "source": "Tech BR",
+          "count": 6
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 159
+          "count": 158
         },
         {
           "section": "Deals",
@@ -64,14 +64,14 @@
           "count": 1
         }
       ],
-      "avg_score": 61.6
+      "avg_score": 61.5
     },
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 187,
+      "total": 188,
       "media": 149,
-      "youtube": 38,
+      "youtube": 39,
       "reviews": 19,
       "sponsored": 0,
       "dell_stories": 0,
@@ -113,7 +113,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 126
+          "count": 127
         },
         {
           "section": "Deals",
@@ -137,10 +137,10 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 150,
+      "total": 149,
       "media": 98,
-      "youtube": 52,
-      "reviews": 43,
+      "youtube": 51,
+      "reviews": 42,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 4,
@@ -181,7 +181,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 113
+          "count": 112
         },
         {
           "section": "Deals",
@@ -461,9 +461,9 @@
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 53,
+      "total": 54,
       "media": 38,
-      "youtube": 15,
+      "youtube": 16,
       "reviews": 19,
       "sponsored": 0,
       "dell_stories": 0,
@@ -505,7 +505,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 36
+          "count": 37
         },
         {
           "section": "Deals",
@@ -520,7 +520,7 @@
           "count": 1
         }
       ],
-      "avg_score": 61.4
+      "avg_score": 61.6
     },
     {
       "brand": "Qualcomm",
@@ -1446,9 +1446,9 @@
     {
       "month": "2026-07",
       "brands": {
-        "Lenovo": 41,
+        "Lenovo": 40,
         "Apple": 37,
-        "Asus": 31,
+        "Asus": 30,
         "Dell": 22,
         "Microsoft": 21,
         "Valve": 17,
@@ -1468,13 +1468,13 @@
       "month": "2026-08",
       "brands": {
         "Lenovo": 150,
-        "Apple": 139,
+        "Apple": 140,
         "Microsoft": 118,
         "Asus": 103,
         "Intel": 88,
         "Dell": 63,
         "AMD": 60,
-        "HP": 36,
+        "HP": 37,
         "Qualcomm": 36,
         "Acer": 35,
         "Valve": 31,
@@ -1505,6 +1505,25 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:135960",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "VAIO FE14 highlights 12-hour battery life and portability",
+      "url": "https://www.youtube.com/shorts/13Ea3ugU7Ok",
+      "published_at": "2026-08-18T21:56:11+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:379850",
@@ -1599,6 +1618,25 @@
       "is_sponsored": false,
       "brand": "Amazon",
       "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:135405",
+      "kind": "youtube",
+      "source": "Engadget",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_nAJAaCJcqqNW790kTYUsStZJ1hmC_84Z8sBFPmE-9ld7jz=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "IMAX vs IMAX 70mm: Cinema Format Comparison",
+      "url": "https://www.youtube.com/watch?v=-MqBcrbQ7bE",
+      "published_at": "2026-08-18T19:44:36+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -6198,44 +6236,6 @@
       "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:346280",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Microsoft Surface Laptop 7th Edition gets 27% discount on Snapdragon X Plus model",
-      "url": "https://www.windowscentral.com/hardware/laptops/snapdragon-x-plus-surface-laptops-just-dropped-27-percent-deal",
-      "published_at": "2026-08-14T13:40:56+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:346280",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Microsoft Surface Laptop 7th Edition gets 27% discount on Snapdragon X Plus model",
-      "url": "https://www.windowscentral.com/hardware/laptops/snapdragon-x-plus-surface-laptops-just-dropped-27-percent-deal",
-      "published_at": "2026-08-14T13:40:56+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6257,6 +6257,25 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:135960",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "VAIO FE14 highlights 12-hour battery life and portability",
+      "url": "https://www.youtube.com/shorts/13Ea3ugU7Ok",
+      "published_at": "2026-08-18T21:56:11+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:379850",
@@ -6351,6 +6370,25 @@
       "is_sponsored": false,
       "brand": "Amazon",
       "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:135405",
+      "kind": "youtube",
+      "source": "Engadget",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_nAJAaCJcqqNW790kTYUsStZJ1hmC_84Z8sBFPmE-9ld7jz=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "IMAX vs IMAX 70mm: Cinema Format Comparison",
+      "url": "https://www.youtube.com/watch?v=-MqBcrbQ7bE",
+      "published_at": "2026-08-18T19:44:36+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -30710,44 +30748,6 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "youtube:54087",
-      "kind": "youtube",
-      "source": "Tech BR",
-      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Slim 3 vs Asus Vivobook 15: Ryzen 5 vs Ryzen 7 performance showdown",
-      "url": "https://www.youtube.com/watch?v=mJEeJgtbrN4",
-      "published_at": "2026-07-04T18:15:13+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:54087",
-      "kind": "youtube",
-      "source": "Tech BR",
-      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Slim 3 vs Asus Vivobook 15: Ryzen 5 vs Ryzen 7 performance showdown",
-      "url": "https://www.youtube.com/watch?v=mJEeJgtbrN4",
-      "published_at": "2026-07-04T18:15:13+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
     },
     {
       "id": "youtube:133094",
