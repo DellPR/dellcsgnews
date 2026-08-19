@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T20:39:45.070649+00:00",
-  "total_items": 1409,
+  "generated_at": "2026-08-19T22:40:04.223142+00:00",
+  "total_items": 1414,
   "brands": [
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 208,
-      "media": 155,
+      "total": 209,
+      "media": 156,
       "youtube": 53,
       "reviews": 40,
       "sponsored": 4,
@@ -15,7 +15,7 @@
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
-          "count": 53
+          "count": 54
         },
         {
           "source": "TudoCelular",
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 159
+          "count": 160
         },
         {
           "section": "Deals",
@@ -64,13 +64,13 @@
           "count": 1
         }
       ],
-      "avg_score": 61.4
+      "avg_score": 61.5
     },
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 189,
-      "media": 150,
+      "total": 190,
+      "media": 151,
       "youtube": 39,
       "reviews": 19,
       "sponsored": 0,
@@ -78,11 +78,11 @@
       "high_signal": 4,
       "top_sources": [
         {
-          "source": "Clubic",
-          "count": 13
+          "source": "TudoCelular",
+          "count": 14
         },
         {
-          "source": "TudoCelular",
+          "source": "Clubic",
           "count": 13
         },
         {
@@ -113,7 +113,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 130
+          "count": 131
         },
         {
           "section": "Deals",
@@ -132,13 +132,13 @@
           "count": 1
         }
       ],
-      "avg_score": 59.5
+      "avg_score": 59.6
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 148,
-      "media": 97,
+      "total": 147,
+      "media": 96,
       "youtube": 51,
       "reviews": 42,
       "sponsored": 1,
@@ -181,7 +181,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 110
+          "count": 109
         },
         {
           "section": "Deals",
@@ -205,8 +205,8 @@
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 141,
-      "media": 137,
+      "total": 143,
+      "media": 139,
       "youtube": 4,
       "reviews": 6,
       "sponsored": 0,
@@ -227,11 +227,15 @@
         },
         {
           "source": "Tecnoblog",
-          "count": 8
+          "count": 9
         },
         {
           "source": "PCWorld",
           "count": 7
+        },
+        {
+          "source": "Les Numériques",
+          "count": 6
         },
         {
           "source": "Notebookcheck DE - News",
@@ -240,16 +244,12 @@
         {
           "source": "TudoCelular",
           "count": 6
-        },
-        {
-          "source": "Adrenaline",
-          "count": 5
         }
       ],
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 110
+          "count": 111
         },
         {
           "section": "Competitor Coverage",
@@ -257,14 +257,14 @@
         },
         {
           "section": "Deals",
-          "count": 8
+          "count": 9
         },
         {
           "section": "Market Trends",
           "count": 1
         }
       ],
-      "avg_score": 51.2
+      "avg_score": 50.8
     },
     {
       "brand": "Intel",
@@ -523,6 +523,70 @@
       "avg_score": 61.5
     },
     {
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "total": 49,
+      "media": 39,
+      "youtube": 10,
+      "reviews": 8,
+      "sponsored": 1,
+      "dell_stories": 0,
+      "high_signal": 2,
+      "top_sources": [
+        {
+          "source": "Windows Central",
+          "count": 7
+        },
+        {
+          "source": "VideoCardz",
+          "count": 4
+        },
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 3
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 3
+        },
+        {
+          "source": "TudoCelular",
+          "count": 3
+        },
+        {
+          "source": "Wccftech",
+          "count": 3
+        },
+        {
+          "source": "Adrenaline",
+          "count": 2
+        },
+        {
+          "source": "Andrew Marc David",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Ecosystem",
+          "count": 24
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 18
+        },
+        {
+          "section": "Deals",
+          "count": 5
+        },
+        {
+          "section": "Market Trends",
+          "count": 2
+        }
+      ],
+      "avg_score": 63.8
+    },
+    {
       "brand": "Valve",
       "family": "Ecosystem",
       "total": 49,
@@ -585,70 +649,6 @@
         }
       ],
       "avg_score": 71.1
-    },
-    {
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "total": 48,
-      "media": 38,
-      "youtube": 10,
-      "reviews": 8,
-      "sponsored": 1,
-      "dell_stories": 0,
-      "high_signal": 2,
-      "top_sources": [
-        {
-          "source": "Windows Central",
-          "count": 7
-        },
-        {
-          "source": "VideoCardz",
-          "count": 4
-        },
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 3
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 3
-        },
-        {
-          "source": "Wccftech",
-          "count": 3
-        },
-        {
-          "source": "Adrenaline",
-          "count": 2
-        },
-        {
-          "source": "Andrew Marc David",
-          "count": 2
-        },
-        {
-          "source": "CHIP DE",
-          "count": 2
-        }
-      ],
-      "sections": [
-        {
-          "section": "Ecosystem",
-          "count": 23
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 18
-        },
-        {
-          "section": "Deals",
-          "count": 5
-        },
-        {
-          "section": "Market Trends",
-          "count": 2
-        }
-      ],
-      "avg_score": 64.1
     },
     {
       "brand": "Acer",
@@ -837,8 +837,8 @@
     {
       "brand": "Framework",
       "family": "PC competitors",
-      "total": 33,
-      "media": 25,
+      "total": 34,
+      "media": 26,
       "youtube": 8,
       "reviews": 7,
       "sponsored": 0,
@@ -862,6 +862,10 @@
           "count": 2
         },
         {
+          "source": "Ars Technica",
+          "count": 1
+        },
+        {
           "source": "CNET",
           "count": 1
         },
@@ -872,16 +876,12 @@
         {
           "source": "Engadget",
           "count": 1
-        },
-        {
-          "source": "Gizmodo",
-          "count": 1
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 31
+          "count": 32
         },
         {
           "section": "Dell Coverage",
@@ -892,7 +892,7 @@
           "count": 1
         }
       ],
-      "avg_score": 69.7
+      "avg_score": 69.6
     },
     {
       "brand": "Amazon",
@@ -1440,7 +1440,7 @@
       "brands": {
         "Lenovo": 35,
         "Apple": 32,
-        "Asus": 25,
+        "Asus": 24,
         "Dell": 21,
         "Valve": 16,
         "Intel": 13,
@@ -1459,20 +1459,20 @@
     {
       "month": "2026-08",
       "brands": {
-        "Lenovo": 157,
-        "Apple": 146,
-        "Microsoft": 126,
+        "Lenovo": 158,
+        "Apple": 147,
+        "Microsoft": 128,
         "Asus": 107,
         "Intel": 95,
         "Dell": 67,
         "AMD": 65,
+        "Qualcomm": 38,
         "Acer": 37,
         "HP": 37,
-        "Qualcomm": 37,
         "Valve": 31,
         "NVIDIA": 29,
         "MSI": 28,
-        "Framework": 26,
+        "Framework": 27,
         "Amazon": 19,
         "Alienware": 18
       }
@@ -1497,6 +1497,82 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "media:392026",
+      "kind": "media",
+      "source": "Les Numériques",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Xbox Series X/S Pulse Red controller drops to €49.93 at Electro Depot",
+      "url": "https://www.lesnumeriques.com/joypad/bon-plan-la-manette-de-jeu-microsoft-manette-sans-fil-xbox-series-x-s-pulse-red-a-49-93-10-n260611.html",
+      "published_at": "2026-08-19T22:00:06+00:00",
+      "score": 0,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:391009",
+      "kind": "media",
+      "source": "Ars Technica",
+      "source_icon": "",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Framework addresses Ryzen 7040 BIOS update issues with mainboard replacements",
+      "url": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
+      "published_at": "2026-08-19T20:21:59+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:391255",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo launches ThinkBook Plus G7 Auto Twist with 120Hz OLED and 21h battery",
+      "url": "https://www.notebookcheck.com/Lenovo-veroeffentlicht-ThinkBook-Plus-G7-Auto-Twist-mit-120Hz-OLED-und-ueber-21h-Laufzeit.1373439.0.html",
+      "published_at": "2026-08-19T19:43:00+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:390107",
+      "kind": "media",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Windows 11 to let users block camera/microphone access per app",
+      "url": "https://tecnoblog.net/noticias/windows-11-vai-permitir-bloquear-camera-e-microfone-em-qualquer-aplicativo/",
+      "published_at": "2026-08-19T19:00:31+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:386373",
@@ -1803,6 +1879,25 @@
       "is_dell_story": false
     },
     {
+      "id": "media:390012",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Qualcomm adjusts benchmarks for affordable Snapdragon C notebooks",
+      "url": "https://www.tudocelular.com/curiosidade/noticias/n261026/qualcomm-muda-benchmarks-snapdragon-c-apos-estreia.html",
+      "published_at": "2026-08-19T14:38:00+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
       "id": "media:388354",
       "kind": "media",
       "source": "Les Numériques",
@@ -1838,6 +1933,25 @@
       "is_sponsored": false,
       "brand": "Intel",
       "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:390016",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple releases Safari 26.6.1 for Mac with critical security fixes",
+      "url": "https://www.tudocelular.com/apple/noticias/n261024/apple-atualizacao-safari-correcao-seguranca-macos.html",
+      "published_at": "2026-08-19T14:06:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -6114,120 +6228,6 @@
       "brand": "MSI",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:131415",
-      "kind": "youtube",
-      "source": "Crimson Tech",
-      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MSI Katana 15 HX (2026) Unboxing - Budget Gaming Laptop with Intel i9",
-      "url": "https://www.youtube.com/watch?v=IaAzikxQYkI",
-      "published_at": "2026-08-16T08:00:38+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:357905",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft releases dynamic Windows 11 and 10 updates",
-      "url": "https://winfuture.de/news,160637.html",
-      "published_at": "2026-08-16T07:57:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:357274",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Acer Nitro 85 gaming PC on sale for $1,499 with RTX 5070 and Core Ultra 7",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/grab-this-rtx-5070-gaming-pc-for-just-usd1-499-saving-usd600-off-list-price-acer-nitro-85-prebuilt-comes-with-16gb-of-ram-core-ultra-7-265f-and-a-1tb-pcie-4-0-ssd",
-      "published_at": "2026-08-15T20:53:34+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:130530",
-      "kind": "youtube",
-      "source": "Tech BR",
-      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell Aurora 16 laptop malfunction and warranty claim",
-      "url": "https://www.youtube.com/shorts/jOxjGtgT5QU",
-      "published_at": "2026-08-15T17:39:42+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:130365",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft Surface Laptop 8th Edition review: Intel vs. Snapdragon comparison",
-      "url": "https://www.youtube.com/watch?v=rfNap9eFVb0",
-      "published_at": "2026-08-15T17:34:19+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:130365",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft Surface Laptop 8th Edition review: Intel vs. Snapdragon comparison",
-      "url": "https://www.youtube.com/watch?v=rfNap9eFVb0",
-      "published_at": "2026-08-15T17:34:19+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6249,6 +6249,82 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "media:392026",
+      "kind": "media",
+      "source": "Les Numériques",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Xbox Series X/S Pulse Red controller drops to €49.93 at Electro Depot",
+      "url": "https://www.lesnumeriques.com/joypad/bon-plan-la-manette-de-jeu-microsoft-manette-sans-fil-xbox-series-x-s-pulse-red-a-49-93-10-n260611.html",
+      "published_at": "2026-08-19T22:00:06+00:00",
+      "score": 0,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:391009",
+      "kind": "media",
+      "source": "Ars Technica",
+      "source_icon": "",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Framework addresses Ryzen 7040 BIOS update issues with mainboard replacements",
+      "url": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
+      "published_at": "2026-08-19T20:21:59+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:391255",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo launches ThinkBook Plus G7 Auto Twist with 120Hz OLED and 21h battery",
+      "url": "https://www.notebookcheck.com/Lenovo-veroeffentlicht-ThinkBook-Plus-G7-Auto-Twist-mit-120Hz-OLED-und-ueber-21h-Laufzeit.1373439.0.html",
+      "published_at": "2026-08-19T19:43:00+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:390107",
+      "kind": "media",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Windows 11 to let users block camera/microphone access per app",
+      "url": "https://tecnoblog.net/noticias/windows-11-vai-permitir-bloquear-camera-e-microfone-em-qualquer-aplicativo/",
+      "published_at": "2026-08-19T19:00:31+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:386373",
@@ -6555,6 +6631,25 @@
       "is_dell_story": false
     },
     {
+      "id": "media:390012",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Qualcomm adjusts benchmarks for affordable Snapdragon C notebooks",
+      "url": "https://www.tudocelular.com/curiosidade/noticias/n261026/qualcomm-muda-benchmarks-snapdragon-c-apos-estreia.html",
+      "published_at": "2026-08-19T14:38:00+00:00",
+      "score": 50,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
       "id": "media:388354",
       "kind": "media",
       "source": "Les Numériques",
@@ -6590,6 +6685,25 @@
       "is_sponsored": false,
       "brand": "Intel",
       "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:390016",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple releases Safari 26.6.1 for Mac with critical security fixes",
+      "url": "https://www.tudocelular.com/apple/noticias/n261024/apple-atualizacao-safari-correcao-seguranca-macos.html",
+      "published_at": "2026-08-19T14:06:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -28649,25 +28763,6 @@
       "is_sponsored": false,
       "brand": "Intel",
       "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:210558",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ASUS launches more affordable ROG NUC 16 with RTX 5060",
-      "url": "https://www.adrenaline.com.br/asus/asus-lanca-nova-versao-mais-acessivel-do-rog-nuc-16-com-uma-rtx-5060/",
-      "published_at": "2026-07-30T13:12:45+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
       "is_dell_story": false
     },
     {
