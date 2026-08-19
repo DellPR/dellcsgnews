@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-19T22:40:04.223142+00:00",
-  "total_items": 1414,
+  "generated_at": "2026-08-19T23:49:47.858741+00:00",
+  "total_items": 1411,
   "brands": [
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 209,
+      "total": 207,
       "media": 156,
-      "youtube": 53,
-      "reviews": 40,
+      "youtube": 51,
+      "reviews": 38,
       "sponsored": 4,
       "dell_stories": 0,
       "high_signal": 6,
@@ -34,22 +34,22 @@
           "count": 6
         },
         {
-          "source": "Notebookcheck Reviews",
-          "count": 6
-        },
-        {
           "source": "Qual Notebook Comprar?",
           "count": 6
         },
         {
           "source": "Tech BR",
           "count": 6
+        },
+        {
+          "source": "TechRadar",
+          "count": 6
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 160
+          "count": 158
         },
         {
           "section": "Deals",
@@ -64,14 +64,14 @@
           "count": 1
         }
       ],
-      "avg_score": 61.5
+      "avg_score": 61.4
     },
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 190,
+      "total": 189,
       "media": 151,
-      "youtube": 39,
+      "youtube": 38,
       "reviews": 19,
       "sponsored": 0,
       "dell_stories": 0,
@@ -113,7 +113,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 131
+          "count": 130
         },
         {
           "section": "Deals",
@@ -132,14 +132,14 @@
           "count": 1
         }
       ],
-      "avg_score": 59.6
+      "avg_score": 59.5
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 147,
+      "total": 148,
       "media": 96,
-      "youtube": 51,
+      "youtube": 52,
       "reviews": 42,
       "sponsored": 1,
       "dell_stories": 0,
@@ -185,7 +185,7 @@
         },
         {
           "section": "Deals",
-          "count": 32
+          "count": 33
         },
         {
           "section": "Dell Coverage",
@@ -333,13 +333,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 101,
+      "total": 100,
       "media": 68,
-      "youtube": 33,
-      "reviews": 39,
+      "youtube": 32,
+      "reviews": 38,
       "sponsored": 4,
-      "dell_stories": 97,
-      "high_signal": 91,
+      "dell_stories": 96,
+      "high_signal": 90,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -377,7 +377,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 81
+          "count": 80
         },
         {
           "section": "Deals",
@@ -392,7 +392,7 @@
           "count": 1
         }
       ],
-      "avg_score": 93.1
+      "avg_score": 93.0
     },
     {
       "brand": "AMD",
@@ -1438,10 +1438,10 @@
     {
       "month": "2026-07",
       "brands": {
-        "Lenovo": 35,
-        "Apple": 32,
+        "Lenovo": 33,
+        "Apple": 31,
         "Asus": 24,
-        "Dell": 21,
+        "Dell": 20,
         "Valve": 16,
         "Intel": 13,
         "Microsoft": 13,
@@ -1462,7 +1462,7 @@
         "Lenovo": 158,
         "Apple": 147,
         "Microsoft": 128,
-        "Asus": 107,
+        "Asus": 108,
         "Intel": 95,
         "Dell": 67,
         "AMD": 65,
@@ -1514,6 +1514,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:137955",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": false,
+      "title": "8 must-do tips for new ASUS TUF F16 owners after unboxing",
+      "url": "https://www.youtube.com/watch?v=wy3hcbP6EG8",
+      "published_at": "2026-08-19T21:45:29+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -6209,25 +6228,6 @@
       "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:131415",
-      "kind": "youtube",
-      "source": "Crimson Tech",
-      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MSI Katana 15 HX (2026) Unboxing - Budget Gaming Laptop with Intel i9",
-      "url": "https://www.youtube.com/watch?v=IaAzikxQYkI",
-      "published_at": "2026-08-16T08:00:38+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "MSI",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6266,6 +6266,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:137955",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": false,
+      "title": "8 must-do tips for new ASUS TUF F16 owners after unboxing",
+      "url": "https://www.youtube.com/watch?v=wy3hcbP6EG8",
+      "published_at": "2026-08-19T21:45:29+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -31044,82 +31063,6 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:54927",
-      "kind": "youtube",
-      "source": "Austin Evans",
-      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review of Lenovo V15 G4 laptop and Fuse Audio vertical record player",
-      "url": "https://www.youtube.com/watch?v=Aia1TMxgdfQ",
-      "published_at": "2026-07-05T16:02:08+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:54762",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MacBook is also a gamer! Gaming on MacBook Air M5",
-      "url": "https://www.youtube.com/watch?v=oAeALTHwIpk",
-      "published_at": "2026-07-05T13:00:35+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:54792",
-      "kind": "youtube",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Gigabyte A16 Pro review: RTX 5070 Ti in a budget chassis",
-      "url": "https://www.youtube.com/watch?v=2HT0whCX4FU",
-      "published_at": "2026-07-05T10:56:36+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:54972",
-      "kind": "youtube",
-      "source": "Crimson Tech",
-      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 14 vs ASUS ROG Zephyrus G14: Gaming vs Productivity Showdown",
-      "url": "https://www.youtube.com/watch?v=KUoPyTBRzxM",
-      "published_at": "2026-07-05T08:00:05+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
     },
     {
       "id": "youtube:133094",
