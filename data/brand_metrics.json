@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-20T15:06:54.164332+00:00",
-  "total_items": 1406,
+  "generated_at": "2026-08-20T18:19:51.676854+00:00",
+  "total_items": 1403,
   "brands": [
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 206,
+      "total": 204,
       "media": 154,
-      "youtube": 52,
-      "reviews": 39,
+      "youtube": 50,
+      "reviews": 37,
       "sponsored": 4,
       "dell_stories": 0,
       "high_signal": 6,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 156
+          "count": 154
         },
         {
           "section": "Deals",
@@ -64,7 +64,7 @@
           "count": 1
         }
       ],
-      "avg_score": 61.2
+      "avg_score": 61.1
     },
     {
       "brand": "Apple",
@@ -333,13 +333,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 101,
+      "total": 100,
       "media": 68,
-      "youtube": 33,
+      "youtube": 32,
       "reviews": 39,
       "sponsored": 4,
-      "dell_stories": 97,
-      "high_signal": 91,
+      "dell_stories": 96,
+      "high_signal": 90,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -359,7 +359,7 @@
         },
         {
           "source": "Tom's Guide",
-          "count": 5
+          "count": 4
         },
         {
           "source": "Tom's Hardware",
@@ -377,7 +377,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 81
+          "count": 80
         },
         {
           "section": "Deals",
@@ -392,14 +392,14 @@
           "count": 1
         }
       ],
-      "avg_score": 93.1
+      "avg_score": 93.0
     },
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 79,
+      "total": 78,
       "media": 73,
-      "youtube": 6,
+      "youtube": 5,
       "reviews": 9,
       "sponsored": 0,
       "dell_stories": 0,
@@ -445,7 +445,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 14
+          "count": 13
         },
         {
           "section": "Deals",
@@ -456,7 +456,7 @@
           "count": 2
         }
       ],
-      "avg_score": 61.5
+      "avg_score": 61.3
     },
     {
       "brand": "HP",
@@ -653,9 +653,9 @@
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 47,
+      "total": 48,
       "media": 31,
-      "youtube": 16,
+      "youtube": 17,
       "reviews": 8,
       "sponsored": 4,
       "dell_stories": 0,
@@ -697,14 +697,14 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 33
+          "count": 34
         },
         {
           "section": "Deals",
           "count": 14
         }
       ],
-      "avg_score": 58.4
+      "avg_score": 58.7
     },
     {
       "brand": "MSI",
@@ -1434,12 +1434,12 @@
     {
       "month": "2026-07",
       "brands": {
-        "Lenovo": 30,
         "Apple": 28,
-        "Asus": 23,
-        "Dell": 21,
+        "Lenovo": 28,
+        "Asus": 22,
+        "Dell": 20,
         "Valve": 16,
-        "AMD": 12,
+        "AMD": 11,
         "Intel": 11,
         "Microsoft": 11,
         "Amazon": 9,
@@ -1458,13 +1458,13 @@
         "Lenovo": 160,
         "Apple": 142,
         "Microsoft": 131,
-        "Asus": 111,
+        "Asus": 112,
         "Intel": 100,
         "Dell": 67,
         "AMD": 66,
+        "Acer": 38,
         "HP": 38,
         "Qualcomm": 38,
-        "Acer": 37,
         "Valve": 32,
         "NVIDIA": 29,
         "Framework": 28,
@@ -1493,6 +1493,44 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:139185",
+      "kind": "youtube",
+      "source": "Tom's Guide",
+      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Comparing $200 and $600 Chromebooks: Features and Value",
+      "url": "https://www.youtube.com/shorts/l90xzKlL5YM",
+      "published_at": "2026-08-20T16:46:24+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:139185",
+      "kind": "youtube",
+      "source": "Tom's Guide",
+      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Comparing $200 and $600 Chromebooks: Features and Value",
+      "url": "https://www.youtube.com/shorts/l90xzKlL5YM",
+      "published_at": "2026-08-20T16:46:24+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:394470",
@@ -6186,44 +6224,6 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "media:358266",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 13 redefines expectations for affordable Windows laptops",
-      "url": "https://www.notebookcheck.com/Das-Dell-XPS-13-definiert-unsere-Erwartungen-an-guenstige-Windows-Laptops-neu.1368093.0.html",
-      "published_at": "2026-08-16T16:52:00+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:357891",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple's Smart Home Roadmap for 2026 Includes AI-Enhanced HomePod mini 2",
-      "url": "https://winfuture.de/news,160642.html",
-      "published_at": "2026-08-16T16:50:00+00:00",
-      "score": 55,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6245,6 +6245,44 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:139185",
+      "kind": "youtube",
+      "source": "Tom's Guide",
+      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Comparing $200 and $600 Chromebooks: Features and Value",
+      "url": "https://www.youtube.com/shorts/l90xzKlL5YM",
+      "published_at": "2026-08-20T16:46:24+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:139185",
+      "kind": "youtube",
+      "source": "Tom's Guide",
+      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Comparing $200 and $600 Chromebooks: Features and Value",
+      "url": "https://www.youtube.com/shorts/l90xzKlL5YM",
+      "published_at": "2026-08-20T16:46:24+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:394470",
@@ -30830,101 +30868,6 @@
       "is_sponsored": false,
       "brand": "Valve",
       "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:55992",
-      "kind": "youtube",
-      "source": "Tom's Guide",
-      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell Ultrasharp 52 Review | HUGE Ultrawide - Best Display for Productivity!",
-      "url": "https://www.youtube.com/shorts/nAG4ib8La8A",
-      "published_at": "2026-07-06T15:00:28+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:56622",
-      "kind": "youtube",
-      "source": "Micro Center",
-      "source_icon": "https://yt3.googleusercontent.com/DK_uVA19jFp7pf8jCpyzpTJPo1ImEroHlB8pbLbdGEM6llziJfBPcdCAxz-5w8KJobAS4ZR9tQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "AMD unveils Ryzen AI Halo: a compact AI developer platform with shared memory architecture",
-      "url": "https://www.youtube.com/watch?v=6vORU-FpN_c",
-      "published_at": "2026-07-06T15:00:13+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:56622",
-      "kind": "youtube",
-      "source": "Micro Center",
-      "source_icon": "https://yt3.googleusercontent.com/DK_uVA19jFp7pf8jCpyzpTJPo1ImEroHlB8pbLbdGEM6llziJfBPcdCAxz-5w8KJobAS4ZR9tQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "AMD unveils Ryzen AI Halo: a compact AI developer platform with shared memory architecture",
-      "url": "https://www.youtube.com/watch?v=6vORU-FpN_c",
-      "published_at": "2026-07-06T15:00:13+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:56262",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Why the Lenovo LOQ RTX 3050 may not be worth buying in 2026",
-      "url": "https://www.youtube.com/watch?v=w0hXGVTWCz8",
-      "published_at": "2026-07-06T13:00:33+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:55887",
-      "kind": "youtube",
-      "source": "Just Josh",
-      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Legion Pro 7i gaming laptop review: performance, cooling, and design analysis",
-      "url": "https://www.youtube.com/watch?v=PLadfsinL7U",
-      "published_at": "2026-07-06T13:00:13+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
       "is_dell_story": false
     },
     {
