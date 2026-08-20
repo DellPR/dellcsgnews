@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T00:01:25.116431+00:00",
+  "generated_at": "2026-08-20T00:05:25.418839+00:00",
   "trigger": "manual",
   "total": 1459,
   "counts": {
@@ -8,8 +8,8 @@
     "x": 71
   },
   "section_counts": {
-    "Competitor Coverage": 549,
-    "Deals": 394,
+    "Competitor Coverage": 548,
+    "Deals": 395,
     "Ecosystem": 274,
     "Dell Coverage": 113,
     "X Watch": 71,
@@ -130,7 +130,7 @@
       "is_deal": true,
       "company": "Asus",
       "product": "ASUS TUF F16",
-      "score": 65,
+      "score": 35,
       "summary": "A Portuguese-language video provides immediate setup and optimization tips for the ASUS TUF F16 gaming laptop, including affiliate links for accessories. The content focuses on maximizing the laptop's performance and includes promotional links for powerbanks, cases, and other products.",
       "why_it_matters": "",
       "thumbnail": "https://i4.ytimg.com/vi/wy3hcbP6EG8/hqdefault.jpg",
@@ -233,30 +233,29 @@
       "url": "https://www.youtube.com/watch?v=81Im6a9n44A",
       "published_at": "2026-08-19T19:26:47+00:00",
       "captured_at": "2026-08-19 23:30:17",
-      "section": "Competitor Coverage",
-      "is_deal": false,
+      "section": "Deals",
+      "is_deal": true,
       "company": "",
       "product": "",
-      "score": 72,
+      "score": 35,
       "summary": "A live-streamed Brazilian tech channel provides advice on selecting the best laptops in 2026, emphasizing cost-effectiveness and avoiding scams. The video includes live chat interaction, links to price monitoring tools, and a laptop comparator website.",
       "why_it_matters": "",
       "thumbnail": "https://i1.ytimg.com/vi/81Im6a9n44A/hqdefault.jpg",
       "tags": [
         "Qual Notebook Comprar?",
         "BR",
-        "Review",
-        "Competitor Coverage"
+        "Deals"
       ],
-      "is_review": true,
+      "is_review": false,
       "is_short": false,
       "is_sponsored": false,
       "sponsor_brand": "",
       "is_dell_story": false,
       "has_dell_mention": false,
-      "is_competitor_story": true,
+      "is_competitor_story": false,
       "is_market_story": false,
       "also_competitor_story": false,
-      "review_type": "review",
+      "review_type": "Buying Guide",
       "tone": ""
     },
     {
@@ -2736,9 +2735,10 @@
         "Notebookcheck Reviews",
         "DE",
         "HP",
+        "Review",
         "Competitor Coverage"
       ],
-      "is_review": false,
+      "is_review": true,
       "is_short": false,
       "is_sponsored": false,
       "is_dell_story": false,
