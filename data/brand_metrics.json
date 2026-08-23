@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T22:08:32.571060+00:00",
-  "total_items": 1435,
+  "generated_at": "2026-08-23T19:19:41.787213+00:00",
+  "total_items": 1432,
   "brands": [
     {
       "brand": "Lenovo",
@@ -269,10 +269,10 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 118,
+      "total": 117,
       "media": 103,
-      "youtube": 15,
-      "reviews": 16,
+      "youtube": 14,
+      "reviews": 15,
       "sponsored": 3,
       "dell_stories": 0,
       "high_signal": 2,
@@ -317,7 +317,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 27
+          "count": 26
         },
         {
           "section": "Deals",
@@ -328,18 +328,18 @@
           "count": 4
         }
       ],
-      "avg_score": 64.4
+      "avg_score": 64.3
     },
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 103,
+      "total": 102,
       "media": 67,
-      "youtube": 36,
+      "youtube": 35,
       "reviews": 42,
       "sponsored": 4,
-      "dell_stories": 103,
-      "high_signal": 97,
+      "dell_stories": 102,
+      "high_signal": 96,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -354,15 +354,15 @@
           "count": 5
         },
         {
-          "source": "Techaeris",
-          "count": 5
-        },
-        {
           "source": "Tom's Hardware",
           "count": 5
         },
         {
           "source": "Lucas Ishii",
+          "count": 4
+        },
+        {
+          "source": "Techaeris",
           "count": 4
         },
         {
@@ -382,10 +382,6 @@
         {
           "section": "Deals",
           "count": 15
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 1
         }
       ],
       "avg_score": 95.0
@@ -769,9 +765,9 @@
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 39,
+      "total": 40,
       "media": 30,
-      "youtube": 9,
+      "youtube": 10,
       "reviews": 6,
       "sponsored": 0,
       "dell_stories": 0,
@@ -786,16 +782,16 @@
           "count": 4
         },
         {
+          "source": "Adrenaline",
+          "count": 3
+        },
+        {
           "source": "Digital Trends",
           "count": 3
         },
         {
           "source": "Notebookcheck Reviews",
           "count": 3
-        },
-        {
-          "source": "Adrenaline",
-          "count": 2
         },
         {
           "source": "Clubic",
@@ -813,7 +809,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 24
+          "count": 25
         },
         {
           "section": "Deals",
@@ -828,7 +824,7 @@
           "count": 1
         }
       ],
-      "avg_score": 60.6
+      "avg_score": 61.1
     },
     {
       "brand": "Framework",
@@ -893,13 +889,13 @@
     {
       "brand": "Alienware",
       "family": "Dell family",
-      "total": 28,
+      "total": 26,
       "media": 16,
-      "youtube": 12,
-      "reviews": 16,
+      "youtube": 10,
+      "reviews": 14,
       "sponsored": 0,
-      "dell_stories": 28,
-      "high_signal": 24,
+      "dell_stories": 26,
+      "high_signal": 22,
       "top_sources": [
         {
           "source": "WIRED",
@@ -907,10 +903,6 @@
         },
         {
           "source": "Futura",
-          "count": 2
-        },
-        {
-          "source": "Lipe Mal Estar",
           "count": 2
         },
         {
@@ -932,19 +924,23 @@
         {
           "source": "Hardware Canucks",
           "count": 1
+        },
+        {
+          "source": "Jarrod's Tech",
+          "count": 1
         }
       ],
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 23
+          "count": 21
         },
         {
           "section": "Deals",
           "count": 5
         }
       ],
-      "avg_score": 91.2
+      "avg_score": 90.6
     },
     {
       "brand": "Amazon",
@@ -1425,19 +1421,19 @@
         "Lenovo": 22,
         "Apple": 18,
         "Asus": 16,
-        "Dell": 15,
+        "Dell": 14,
         "Valve": 13,
-        "Alienware": 7,
-        "Intel": 6,
         "Acer": 5,
+        "Alienware": 5,
         "Framework": 5,
+        "Intel": 5,
         "Qualcomm": 5,
         "AMD": 4,
         "HP": 4,
         "Microsoft": 3,
         "Razer": 3,
-        "MSI": 2,
-        "NVIDIA": 2
+        "NVIDIA": 2,
+        "MSI": 1
       }
     },
     {
@@ -1453,10 +1449,10 @@
         "HP": 46,
         "Acer": 41,
         "Qualcomm": 41,
+        "MSI": 34,
         "NVIDIA": 34,
         "Valve": 34,
         "Framework": 32,
-        "MSI": 32,
         "Amazon": 25,
         "Samsung": 19
       }
@@ -1481,6 +1477,44 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:143580",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MSI Stealth 16 review: Performance, build, and thermal analysis",
+      "url": "https://www.youtube.com/watch?v=RSu98L6tnZk",
+      "published_at": "2026-08-23T13:00:20+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "MSI",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:144060",
+      "kind": "youtube",
+      "source": "Adrenaline",
+      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Anime-Inspired Hardware? Unboxing of MSI x Frieren Collaboration",
+      "url": "https://www.youtube.com/watch?v=Q24TJwBwOcs",
+      "published_at": "2026-08-22T19:10:40+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "MSI",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:416904",
@@ -6174,44 +6208,6 @@
       "brand": "MSI",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:378799",
-      "kind": "media",
-      "source": "Futura",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Amazon lowers MSI Cyborg 15 laptop price, worth the detour",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV1pIUEpmdlVHazlkS251TkV4SnQ1UFZfTmhqc3ZhbnFUemU2WDZoLXlOQjA0VTEzMndzeFAxWEk0VzhmTElwRjExVTQ5bXhZdkVlUENXaGo3dGgyM2RKbXBEeFhSQWhfSUVaQ3drMVczMV9RUm9iX1JKM3NFemRXUzh5MHNsQnAyTFRFQ2RtQUMtbXYwajNnSE5Rblo0RDdfVkdYOENiYzRlZWxEUjR3NEVUZHFrVFEyR09fQ3dBSDJPTnQ4aDhYLXB3UGxGSXdIM0tib2tRWQ?oc=5",
-      "published_at": "2026-08-18T14:00:00+00:00",
-      "score": 15,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Amazon",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:376168",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "China's state-linked firms phasing out Windows 10 due to security concerns",
-      "url": "https://wccftech.com/china-state-agencies-uninstall-windows-10-cmit-government-edition/",
-      "published_at": "2026-08-18T13:50:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6233,6 +6229,44 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:143580",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MSI Stealth 16 review: Performance, build, and thermal analysis",
+      "url": "https://www.youtube.com/watch?v=RSu98L6tnZk",
+      "published_at": "2026-08-23T13:00:20+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "MSI",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:144060",
+      "kind": "youtube",
+      "source": "Adrenaline",
+      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Anime-Inspired Hardware? Unboxing of MSI x Frieren Collaboration",
+      "url": "https://www.youtube.com/watch?v=Q24TJwBwOcs",
+      "published_at": "2026-08-22T19:10:40+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "MSI",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:416904",
@@ -31370,101 +31404,6 @@
       "brand": "Alienware",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "youtube:63011",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Lipe Mal Estar covers Alienware AW3426DW 34-inch QD-OLED monitor",
-      "url": "https://www.youtube.com/watch?v=7nKYf2t34mM",
-      "published_at": "2026-07-09T14:00:22+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:63041",
-      "kind": "youtube",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
-      "country": "DE",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Notebookcheck covers Alienware AW3426DW as an affordable ultrawide gaming monitor",
-      "url": "https://www.youtube.com/watch?v=MrQuoIY_If0",
-      "published_at": "2026-07-09T13:03:05+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:62846",
-      "kind": "youtube",
-      "source": "Techaeris",
-      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Linux installation on 2020 Dell XPS 15 9500: stability, specs, and BIOS tweaks",
-      "url": "https://www.youtube.com/watch?v=umh1FCEIKvA",
-      "published_at": "2026-07-09T12:18:38+00:00",
-      "score": 90,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:61166",
-      "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MSI gaming laptop review highlights stealthy design, OLED display, and 125W RTX 5080",
-      "url": "https://www.youtube.com/watch?v=_nX1YF3FvHw",
-      "published_at": "2026-07-08T19:34:20+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "MSI",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:61166",
-      "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MSI gaming laptop review highlights stealthy design, OLED display, and 125W RTX 5080",
-      "url": "https://www.youtube.com/watch?v=_nX1YF3FvHw",
-      "published_at": "2026-07-08T19:34:20+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
     },
     {
       "id": "youtube:138745",
