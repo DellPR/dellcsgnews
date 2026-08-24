@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-24T14:46:56.946349+00:00",
-  "trigger": "media",
-  "total": 1432,
+  "generated_at": "2026-08-24T18:22:17.443894+00:00",
+  "trigger": "youtube",
+  "total": 1433,
   "counts": {
     "media": 1074,
-    "youtube": 286,
+    "youtube": 287,
     "x": 72
   },
   "section_counts": {
     "Competitor Coverage": 568,
     "Deals": 319,
-    "Ecosystem": 292,
+    "Ecosystem": 293,
     "Dell Coverage": 123,
     "X Watch": 72,
     "Market Trends": 58
@@ -120,6 +120,44 @@
       "is_competitor_story": true,
       "is_market_story": false,
       "market_interest": "high"
+    },
+    {
+      "id": "youtube:145380",
+      "kind": "youtube",
+      "source": "Alex Ziskind",
+      "source_icon": "https://yt3.googleusercontent.com/At-1Kn54AljCodKZ7G9jxzd-1cCR3BknxIqpwGiXckFOXATpOjSyL-ivxtZQPE7RRAtWC8abFA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "title": "V4 flash model's multimodal capabilities tested in browser OS and 3D wrestling game",
+      "display_title": "V4 flash model's multimodal capabilities tested in browser OS and 3D wrestling game",
+      "original_title": "DeepSeek V4 Flash Vision Is INSANE – Tested With DeepSeek Harness!",
+      "url": "https://www.youtube.com/watch?v=9Rx76Qz2XpM",
+      "published_at": "2026-08-24T12:36:02+00:00",
+      "captured_at": "2026-08-24 18:00:12",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "company": "",
+      "product": "",
+      "score": 72,
+      "summary": "The video script discusses the V4 flash model's multimodal capabilities, highlighting its performance in tasks like the browser OS and a 3D wrestling game. It mentions improvements in cost and specific features such as the moose in the OS, indicating the model's versatility and efficiency in handling complex tasks.",
+      "why_it_matters": "",
+      "thumbnail": "https://i2.ytimg.com/vi/9Rx76Qz2XpM/hqdefault.jpg",
+      "tags": [
+        "Alex Ziskind",
+        "US",
+        "Review",
+        "Ecosystem"
+      ],
+      "is_review": true,
+      "is_short": false,
+      "is_sponsored": false,
+      "sponsor_brand": "",
+      "is_dell_story": false,
+      "has_dell_mention": false,
+      "is_competitor_story": false,
+      "is_market_story": true,
+      "also_competitor_story": false,
+      "review_type": "review",
+      "tone": ""
     },
     {
       "id": "media:423373",
