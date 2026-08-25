@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T15:15:38.846118+00:00",
-  "total_items": 1452,
+  "generated_at": "2026-08-25T18:20:46.559636+00:00",
+  "total_items": 1455,
   "brands": [
     {
       "brand": "Lenovo",
@@ -631,6 +631,70 @@
       "avg_score": 58.5
     },
     {
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "total": 50,
+      "media": 42,
+      "youtube": 8,
+      "reviews": 4,
+      "sponsored": 1,
+      "dell_stories": 0,
+      "high_signal": 1,
+      "top_sources": [
+        {
+          "source": "Tom's Hardware",
+          "count": 10
+        },
+        {
+          "source": "Wccftech",
+          "count": 5
+        },
+        {
+          "source": "Exame",
+          "count": 4
+        },
+        {
+          "source": "VideoCardz",
+          "count": 4
+        },
+        {
+          "source": "TecMundo",
+          "count": 3
+        },
+        {
+          "source": "WinFuture",
+          "count": 3
+        },
+        {
+          "source": "Adrenaline",
+          "count": 2
+        },
+        {
+          "source": "Notebookcheck Reviews",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Ecosystem",
+          "count": 33
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 8
+        },
+        {
+          "section": "Deals",
+          "count": 6
+        },
+        {
+          "section": "Market Trends",
+          "count": 3
+        }
+      ],
+      "avg_score": 61.4
+    },
+    {
       "brand": "Valve",
       "family": "Ecosystem",
       "total": 50,
@@ -693,70 +757,6 @@
         }
       ],
       "avg_score": 71.5
-    },
-    {
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "total": 49,
-      "media": 42,
-      "youtube": 7,
-      "reviews": 3,
-      "sponsored": 1,
-      "dell_stories": 0,
-      "high_signal": 1,
-      "top_sources": [
-        {
-          "source": "Tom's Hardware",
-          "count": 10
-        },
-        {
-          "source": "Wccftech",
-          "count": 5
-        },
-        {
-          "source": "Exame",
-          "count": 4
-        },
-        {
-          "source": "VideoCardz",
-          "count": 4
-        },
-        {
-          "source": "TecMundo",
-          "count": 3
-        },
-        {
-          "source": "WinFuture",
-          "count": 3
-        },
-        {
-          "source": "Adrenaline",
-          "count": 2
-        },
-        {
-          "source": "ZDNET France",
-          "count": 2
-        }
-      ],
-      "sections": [
-        {
-          "section": "Ecosystem",
-          "count": 33
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 8
-        },
-        {
-          "section": "Deals",
-          "count": 6
-        },
-        {
-          "section": "Market Trends",
-          "count": 2
-        }
-      ],
-      "avg_score": 61.1
     },
     {
       "brand": "MSI",
@@ -825,10 +825,10 @@
     {
       "brand": "Framework",
       "family": "PC competitors",
-      "total": 35,
+      "total": 37,
       "media": 27,
-      "youtube": 8,
-      "reviews": 7,
+      "youtube": 10,
+      "reviews": 8,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
@@ -846,6 +846,10 @@
           "count": 2
         },
         {
+          "source": "LMGClips",
+          "count": 2
+        },
+        {
           "source": "PCMag",
           "count": 2
         },
@@ -860,19 +864,19 @@
         {
           "source": "Ars Technica",
           "count": 1
-        },
-        {
-          "source": "CNET",
-          "count": 1
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 35
+          "count": 36
+        },
+        {
+          "section": "Market Trends",
+          "count": 1
         }
       ],
-      "avg_score": 69.4
+      "avg_score": 69.2
     },
     {
       "brand": "Amazon",
@@ -1439,12 +1443,12 @@
         "Dell": 73,
         "AMD": 70,
         "HP": 49,
+        "NVIDIA": 43,
         "Qualcomm": 43,
-        "NVIDIA": 42,
         "Acer": 41,
         "Valve": 35,
         "MSI": 34,
-        "Framework": 30,
+        "Framework": 32,
         "Amazon": 27,
         "Samsung": 18
       }
@@ -1469,6 +1473,63 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:147870",
+      "kind": "youtube",
+      "source": "Austin Evans",
+      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Installing SteamOS on a Framework Laptop",
+      "url": "https://www.youtube.com/shorts/aSMBL0Iukls",
+      "published_at": "2026-08-25T16:38:10+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:147735",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "NVIDIA DLSS 4.5 Ray Reconstruction Explained",
+      "url": "https://www.youtube.com/watch?v=bM7a7rkkYBY",
+      "published_at": "2026-08-25T15:30:12+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:148036",
+      "kind": "youtube",
+      "source": "LMGClips",
+      "source_icon": "https://yt3.googleusercontent.com/NO9_Ek-oyWF-AkGrZVS3kCdWJo7PCjCsY5WUlM-7G-1mPu_8gWDcTfX1asa4tQnWQTI62rZf=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Framework Addresses BIOS Update Issues",
+      "url": "https://www.youtube.com/watch?v=JN2tYdl52OI",
+      "published_at": "2026-08-25T15:00:23+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:434264",
@@ -6143,63 +6204,6 @@
       "brand": "Valve",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:394084",
-      "kind": "media",
-      "source": "VideoCardz",
-      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Intel Arc B580 boots on SteamOS 3.9 without workarounds, 1440p gaming tested",
-      "url": "https://videocardz.com/newz/steamos-3-9-main-now-boots-on-intel-arc-b580-without-workarounds-1440p-gaming-tested",
-      "published_at": "2026-08-20T10:31:59+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:394231",
-      "kind": "media",
-      "source": "Trusted Reviews",
-      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework's Linux Laptop 12 outsells Windows version 10:1",
-      "url": "https://www.trustedreviews.com/news/frameworks-linux-laptop-12-is-massively-outselling-windows",
-      "published_at": "2026-08-20T09:25:56+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:395784",
-      "kind": "media",
-      "source": "Clubic",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "HP HyperX Omen 15 review highlights solid performance despite older specs",
-      "url": "https://www.clubic.com/test-produit-624772-test-hp-hyperx-omen-15-un-pc-portable-gamer-solide-malgre-son-age.html",
-      "published_at": "2026-08-20T09:01:00+00:00",
-      "score": 65,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6221,6 +6225,63 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:147870",
+      "kind": "youtube",
+      "source": "Austin Evans",
+      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Installing SteamOS on a Framework Laptop",
+      "url": "https://www.youtube.com/shorts/aSMBL0Iukls",
+      "published_at": "2026-08-25T16:38:10+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:147735",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "NVIDIA DLSS 4.5 Ray Reconstruction Explained",
+      "url": "https://www.youtube.com/watch?v=bM7a7rkkYBY",
+      "published_at": "2026-08-25T15:30:12+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:148036",
+      "kind": "youtube",
+      "source": "LMGClips",
+      "source_icon": "https://yt3.googleusercontent.com/NO9_Ek-oyWF-AkGrZVS3kCdWJo7PCjCsY5WUlM-7G-1mPu_8gWDcTfX1asa4tQnWQTI62rZf=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Framework Addresses BIOS Update Issues",
+      "url": "https://www.youtube.com/watch?v=JN2tYdl52OI",
+      "published_at": "2026-08-25T15:00:23+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:434264",
