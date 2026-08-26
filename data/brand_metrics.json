@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T22:46:28.989001+00:00",
-  "total_items": 1470,
+  "generated_at": "2026-08-26T00:13:51.324784+00:00",
+  "total_items": 1469,
   "brands": [
     {
       "brand": "Apple",
@@ -933,13 +933,13 @@
     {
       "brand": "Alienware",
       "family": "Dell family",
-      "total": 21,
+      "total": 20,
       "media": 12,
-      "youtube": 9,
+      "youtube": 8,
       "reviews": 11,
       "sponsored": 0,
-      "dell_stories": 21,
-      "high_signal": 17,
+      "dell_stories": 20,
+      "high_signal": 16,
       "top_sources": [
         {
           "source": "Tom's Hardware",
@@ -970,21 +970,21 @@
           "count": 1
         },
         {
-          "source": "Lipe Mal Estar",
+          "source": "MobileTechReview",
           "count": 1
         }
       ],
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 16
+          "count": 15
         },
         {
           "section": "Deals",
           "count": 5
         }
       ],
-      "avg_score": 86.6
+      "avg_score": 86.5
     },
     {
       "brand": "Samsung",
@@ -1407,7 +1407,7 @@
       "month": "2026-07",
       "brands": {
         "Lenovo": 20,
-        "Apple": 16,
+        "Apple": 15,
         "Asus": 14,
         "Dell": 13,
         "Valve": 13,
@@ -1415,8 +1415,8 @@
         "Framework": 5,
         "Intel": 5,
         "Qualcomm": 5,
-        "Alienware": 4,
         "AMD": 3,
+        "Alienware": 3,
         "HP": 3,
         "Razer": 3,
         "NVIDIA": 2,
@@ -1427,7 +1427,7 @@
     {
       "month": "2026-08",
       "brands": {
-        "Apple": 197,
+        "Apple": 198,
         "Lenovo": 160,
         "Microsoft": 146,
         "Asus": 137,
@@ -1465,6 +1465,25 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:148140",
+      "kind": "youtube",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple unveils new Mac mini with M6/M5 Pro chips and price hikes",
+      "url": "https://www.youtube.com/shorts/PFrN_CgVw5Q",
+      "published_at": "2026-08-25T22:09:46+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:444779",
@@ -6177,25 +6196,6 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:409639",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": false,
-      "title": "HP Omen 16L Gaming PC with Radeon RX 9060 XT and Core i5 on Sale",
-      "url": "https://www.notebookcheck.com/Radeon-RX-9060-XT-Core-i5-1-TB-SSD-HP-Omen-Gaming-PC-im-Angebot.1374774.0.html",
-      "published_at": "2026-08-21T13:15:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6217,6 +6217,25 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:148140",
+      "kind": "youtube",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple unveils new Mac mini with M6/M5 Pro chips and price hikes",
+      "url": "https://www.youtube.com/shorts/PFrN_CgVw5Q",
+      "published_at": "2026-08-25T22:09:46+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:444779",
@@ -32038,44 +32057,6 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:68443",
-      "kind": "youtube",
-      "source": "Max Tech",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple's upcoming MacBook Neo2 improvements and potential release timeline",
-      "url": "https://www.youtube.com/watch?v=8D69H-Ke5NI",
-      "published_at": "2026-07-11T15:40:24+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:68248",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Influencer setup video features Alienware AW3425DW monitor",
-      "url": "https://www.youtube.com/watch?v=l9_ZY8jxboU",
-      "published_at": "2026-07-11T13:30:23+00:00",
-      "score": 88,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
     },
     {
       "id": "youtube:144744",
