@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T15:24:04.351556+00:00",
-  "total_items": 1467,
+  "generated_at": "2026-08-26T18:22:44.448762+00:00",
+  "total_items": 1477,
   "brands": [
     {
       "brand": "Apple",
@@ -137,9 +137,9 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 168,
+      "total": 170,
       "media": 117,
-      "youtube": 51,
+      "youtube": 53,
       "reviews": 45,
       "sponsored": 1,
       "dell_stories": 0,
@@ -181,7 +181,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 127
+          "count": 129
         },
         {
           "section": "Deals",
@@ -200,7 +200,7 @@
           "count": 2
         }
       ],
-      "avg_score": 62.3
+      "avg_score": 62.4
     },
     {
       "brand": "Microsoft",
@@ -333,13 +333,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 97,
+      "total": 98,
       "media": 61,
-      "youtube": 36,
-      "reviews": 44,
+      "youtube": 37,
+      "reviews": 45,
       "sponsored": 4,
-      "dell_stories": 97,
-      "high_signal": 91,
+      "dell_stories": 98,
+      "high_signal": 92,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -377,7 +377,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 83
+          "count": 84
         },
         {
           "section": "Deals",
@@ -453,10 +453,10 @@
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 56,
+      "total": 58,
       "media": 40,
-      "youtube": 16,
-      "reviews": 16,
+      "youtube": 18,
+      "reviews": 18,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 1,
@@ -490,14 +490,14 @@
           "count": 3
         },
         {
-          "source": "Tom's Hardware",
+          "source": "Lucas Ishii",
           "count": 3
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 34
+          "count": 36
         },
         {
           "section": "Deals",
@@ -508,7 +508,7 @@
           "count": 2
         }
       ],
-      "avg_score": 57.2
+      "avg_score": 57.7
     },
     {
       "brand": "NVIDIA",
@@ -641,11 +641,11 @@
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 50,
+      "total": 51,
       "media": 33,
-      "youtube": 17,
+      "youtube": 18,
       "reviews": 9,
-      "sponsored": 4,
+      "sponsored": 5,
       "dell_stories": 0,
       "high_signal": 0,
       "top_sources": [
@@ -654,15 +654,15 @@
           "count": 10
         },
         {
+          "source": "TecMundo",
+          "count": 4
+        },
+        {
           "source": "TudoCelular",
           "count": 4
         },
         {
           "source": "Digital Trends",
-          "count": 3
-        },
-        {
-          "source": "TecMundo",
           "count": 3
         },
         {
@@ -685,14 +685,14 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 37
+          "count": 38
         },
         {
           "section": "Deals",
           "count": 13
         }
       ],
-      "avg_score": 59.7
+      "avg_score": 59.8
     },
     {
       "brand": "Valve",
@@ -985,10 +985,10 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 15,
+      "total": 19,
       "media": 12,
-      "youtube": 3,
-      "reviews": 2,
+      "youtube": 7,
+      "reviews": 6,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
@@ -1002,38 +1002,38 @@
           "count": 3
         },
         {
+          "source": "Lipe Mal Estar",
+          "count": 2
+        },
+        {
+          "source": "Qual Notebook Comprar?",
+          "count": 2
+        },
+        {
           "source": "TechRadar",
           "count": 2
+        },
+        {
+          "source": "Escolha Segura",
+          "count": 1
         },
         {
           "source": "Frandroid",
           "count": 1
         },
         {
-          "source": "Lipe Mal Estar",
-          "count": 1
-        },
-        {
-          "source": "MobileTechReview",
-          "count": 1
-        },
-        {
-          "source": "PCWorld",
-          "count": 1
-        },
-        {
-          "source": "Qual Notebook Comprar?",
+          "source": "Lucas Ishii",
           "count": 1
         }
       ],
       "sections": [
         {
-          "section": "Deals",
+          "section": "Competitor Coverage",
           "count": 8
         },
         {
-          "section": "Competitor Coverage",
-          "count": 4
+          "section": "Deals",
+          "count": 8
         },
         {
           "section": "Ecosystem",
@@ -1044,7 +1044,7 @@
           "count": 1
         }
       ],
-      "avg_score": 45.1
+      "avg_score": 50.7
     },
     {
       "brand": "Razer",
@@ -1426,23 +1426,213 @@
         "Apple": 204,
         "Lenovo": 155,
         "Microsoft": 142,
-        "Asus": 138,
+        "Asus": 140,
         "Intel": 122,
-        "Dell": 71,
+        "Dell": 72,
         "AMD": 70,
         "NVIDIA": 49,
-        "HP": 45,
+        "HP": 47,
         "Qualcomm": 43,
-        "Acer": 40,
+        "Acer": 41,
         "Valve": 33,
         "Framework": 32,
         "MSI": 30,
         "Amazon": 28,
-        "Alienware": 15
+        "Samsung": 17
       }
     }
   ],
   "recent": [
+    {
+      "id": "youtube:150210",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Unboxing Samsung Galaxy Book6 Pro with OLED display and powerful GPU",
+      "url": "https://www.youtube.com/watch?v=RtHGpz2oBtA",
+      "published_at": "2026-08-26T16:19:21+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:150210",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Unboxing Samsung Galaxy Book6 Pro with OLED display and powerful GPU",
+      "url": "https://www.youtube.com/watch?v=RtHGpz2oBtA",
+      "published_at": "2026-08-26T16:19:21+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:149685",
+      "kind": "youtube",
+      "source": "Tom's Guide",
+      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus ROG Swift OLED PG259QWS 720Hz Gaming Monitor",
+      "url": "https://www.youtube.com/shorts/E0djngBPS7o",
+      "published_at": "2026-08-26T15:24:18+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:149940",
+      "kind": "youtube",
+      "source": "Loop Infinito",
+      "source_icon": "https://yt3.googleusercontent.com/GDHTPQokpmjDxrJbAHuLi1Rhjx1_q75cgDFKboVzzAv8ZcEVi4Wc_HqSIWwwNon5rUXKztkaPA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus Zenbook Duo discussed on Maury & Jr. show",
+      "url": "https://www.youtube.com/shorts/gMuV7y7scYY",
+      "published_at": "2026-08-26T15:19:31+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:149580",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer Swift Air14 review: Budget laptop with strong battery life and keyboard",
+      "url": "https://www.youtube.com/watch?v=OiE4yFgb4ZM",
+      "published_at": "2026-08-26T14:52:46+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:149971",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book6 Pro Review: OLED Display, 30-Hour Battery, and Performance Analysis",
+      "url": "https://www.youtube.com/watch?v=bMcoGF1vF0U",
+      "published_at": "2026-08-26T14:07:37+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:149925",
+      "kind": "youtube",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book6 Pro arrives in Brazil with unboxing and testing",
+      "url": "https://www.youtube.com/watch?v=sy9Yx96siRU",
+      "published_at": "2026-08-26T14:00:23+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:149925",
+      "kind": "youtube",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book6 Pro arrives in Brazil with unboxing and testing",
+      "url": "https://www.youtube.com/watch?v=sy9Yx96siRU",
+      "published_at": "2026-08-26T14:00:23+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:149955",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book 6 Pro review highlights price, specs, and design in Brazil",
+      "url": "https://www.youtube.com/watch?v=xhCmlVDT3EA",
+      "published_at": "2026-08-26T14:00:15+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:149896",
+      "kind": "youtube",
+      "source": "TecMundo",
+      "source_icon": "https://yt3.googleusercontent.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer celebrates 50 years of innovation with product showcase and campaign",
+      "url": "https://www.youtube.com/shorts/pRGPPqLnCnI",
+      "published_at": "2026-08-26T13:00:20+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:445388",
       "kind": "media",
@@ -6002,171 +6192,59 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:416523",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
+      "id": "youtube:150210",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Windows 11 updates cause game crashes, temporary fix available",
-      "url": "https://winfuture.de/news,160783.html",
-      "published_at": "2026-08-22T08:05:00+00:00",
-      "score": 50,
-      "is_review": false,
+      "title": "Unboxing Samsung Galaxy Book6 Pro with OLED display and powerful GPU",
+      "url": "https://www.youtube.com/watch?v=RtHGpz2oBtA",
+      "published_at": "2026-08-26T16:19:21+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
-      "brand": "Microsoft",
+      "brand": "HP",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:415685",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "id": "youtube:150210",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
-      "section": "Ecosystem",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "NVIDIA RTX 5090 Mobile outperforms Apple M5 Max in AI tasks but faces memory limits",
-      "url": "https://www.tudocelular.com/curiosidade/noticias/n261246/rtx-5090-notebook-atropela-apple-m5-max-ia-limite.html",
-      "published_at": "2026-08-22T08:04:00+00:00",
-      "score": 65,
-      "is_review": false,
+      "title": "Unboxing Samsung Galaxy Book6 Pro with OLED display and powerful GPU",
+      "url": "https://www.youtube.com/watch?v=RtHGpz2oBtA",
+      "published_at": "2026-08-26T16:19:21+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
-      "brand": "Apple",
+      "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:415685",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "NVIDIA RTX 5090 Mobile outperforms Apple M5 Max in AI tasks but faces memory limits",
-      "url": "https://www.tudocelular.com/curiosidade/noticias/n261246/rtx-5090-notebook-atropela-apple-m5-max-ia-limite.html",
-      "published_at": "2026-08-22T08:04:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:416089",
-      "kind": "media",
-      "source": "VideoCardz",
-      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
+      "id": "youtube:149685",
+      "kind": "youtube",
+      "source": "Tom's Guide",
+      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
       "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Valve Proton 11.0-2 fixes Helldivers 2, Marvel Rivals and Forza Horizon on SteamOS",
-      "url": "https://videocardz.com/newz/valve-proton-11-0-2-released-fixes-helldivers-2-marvel-rivals-and-forza-horizon-on-steamos",
-      "published_at": "2026-08-22T08:03:03+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:418325",
-      "kind": "media",
-      "source": "CHIP DE",
-      "source_icon": "",
-      "country": "DE",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Apple lowers MacBook Pro M5 price by 370 Euros to 1,429 Euros",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdDE1aEgyU2JyaDJjLXpBM1BKVVJ5MnJDUWFOZkNreUhzMkp3Z05zSTBHanpZdWp3bXcxZm1zZ1JucExOSTNIUXFBei1uUFh3a1luYnJlR001X3lGNmNPRmVWZWJ0eVdMS2otdFEtcXRZM2hXMFlUYnhXWjZaTS02U0stUm5LNUxNTlltS1dCbHFjVzBhYld6SlNxcGM5YU1UX0s4V08yWWtGUWR5V0liUHlveTljYnBBaHpzdGhLWmpZT0pCZUxsT1NWV3lJOTJSYk9DTFhQQ1JYMkxvUnpEc1Q3dGlJaHUwMFZXSGlpWXdCaXlUN29Sd3M3NVZqd1dLMEE?oc=5",
-      "published_at": "2026-08-22T07:30:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:415686",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Intel Nova Lake 28-core chip may reach 300W power consumption, per rumor",
-      "url": "https://www.tudocelular.com/rumores/noticias/n261213/intel-nova-lake-28-nucleos-cache-3d-consumo-rumor.html",
-      "published_at": "2026-08-22T07:01:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:418530",
-      "kind": "media",
-      "source": "Le Parisien",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Amazon offers unprecedented deal on AI-enhanced MacBook Neo",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNMnR0Z1YtMzVZRTFmYTRseGlmZkdSZlk4NGZIUDZBbF9YcTlpZ0hyWW1yV3JHdzNmRWpKNGxsX2REVU5FUEJIRVZaZWN0dGlMLUcwUjByS3hieTNaLWpXaW1hT2hKai1XeGpDZVJPWm56UVlRQzJYZ3NjTUlYdEtRUUViV2NIaGFDSmFWRE02MXM2ZXdaV2FjWXdob09ZbDItc1VqRUNuem9YSkdmRVB4N3JyNlhIUVF6SnRCeGVyOU1Wc0xXWkh6ejU5dFpPU0hkVElhaVJUd0JrN1cxRWZ6LTR3U2VsUFp0OEFHOFZRYjB1cktKaEM3TnhGSmUtcmVXXzN2Z0FPM0RmUUcyRm51WnZSdWtNQQ?oc=5",
-      "published_at": "2026-08-22T06:15:00+00:00",
-      "score": 20,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:418530",
-      "kind": "media",
-      "source": "Le Parisien",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Amazon offers unprecedented deal on AI-enhanced MacBook Neo",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNMnR0Z1YtMzVZRTFmYTRseGlmZkdSZlk4NGZIUDZBbF9YcTlpZ0hyWW1yV3JHdzNmRWpKNGxsX2REVU5FUEJIRVZaZWN0dGlMLUcwUjByS3hieTNaLWpXaW1hT2hKai1XeGpDZVJPWm56UVlRQzJYZ3NjTUlYdEtRUUViV2NIaGFDSmFWRE02MXM2ZXdaV2FjWXdob09ZbDItc1VqRUNuem9YSkdmRVB4N3JyNlhIUVF6SnRCeGVyOU1Wc0xXWkh6ejU5dFpPU0hkVElhaVJUd0JrN1cxRWZ6LTR3U2VsUFp0OEFHOFZRYjB1cktKaEM3TnhGSmUtcmVXXzN2Z0FPM0RmUUcyRm51WnZSdWtNQQ?oc=5",
-      "published_at": "2026-08-22T06:15:00+00:00",
-      "score": 20,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Amazon",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:417667",
-      "kind": "media",
-      "source": "PC-WELT News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Optimus GX 7100M SSD achieves top PCIe 4.0 speeds in testing",
-      "url": "https://www.pcwelt.de/article/3196982/sandisk-optimus-gx-7100m-test.html",
-      "published_at": "2026-08-22T06:00:00+00:00",
+      "title": "Asus ROG Swift OLED PG259QWS 720Hz Gaming Monitor",
+      "url": "https://www.youtube.com/shorts/E0djngBPS7o",
+      "published_at": "2026-08-26T15:24:18+00:00",
       "score": 72,
       "is_review": false,
       "is_sponsored": false,
@@ -6175,26 +6253,138 @@
       "is_dell_story": false
     },
     {
-      "id": "media:416935",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Market Trends",
+      "id": "youtube:149940",
+      "kind": "youtube",
+      "source": "Loop Infinito",
+      "source_icon": "https://yt3.googleusercontent.com/GDHTPQokpmjDxrJbAHuLi1Rhjx1_q75cgDFKboVzzAv8ZcEVi4Wc_HqSIWwwNon5rUXKztkaPA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Valve releases Proton 11.0-2 with Linux/SteamOS compatibility updates",
-      "url": "https://www.notebookcheck.com/Steam-Deck-bekommt-9-neue-spielbare-Titel-dank-Proton-11-0-2-Update.1375195.0.html",
-      "published_at": "2026-08-22T05:20:00+00:00",
-      "score": 75,
+      "title": "Asus Zenbook Duo discussed on Maury & Jr. show",
+      "url": "https://www.youtube.com/shorts/gMuV7y7scYY",
+      "published_at": "2026-08-26T15:19:31+00:00",
+      "score": 65,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
+      "brand": "Asus",
+      "family": "PC competitors",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "youtube:149580",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer Swift Air14 review: Budget laptop with strong battery life and keyboard",
+      "url": "https://www.youtube.com/watch?v=OiE4yFgb4ZM",
+      "published_at": "2026-08-26T14:52:46+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:149971",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book6 Pro Review: OLED Display, 30-Hour Battery, and Performance Analysis",
+      "url": "https://www.youtube.com/watch?v=bMcoGF1vF0U",
+      "published_at": "2026-08-26T14:07:37+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:149925",
+      "kind": "youtube",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book6 Pro arrives in Brazil with unboxing and testing",
+      "url": "https://www.youtube.com/watch?v=sy9Yx96siRU",
+      "published_at": "2026-08-26T14:00:23+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:149925",
+      "kind": "youtube",
+      "source": "Lucas Ishii",
+      "source_icon": "https://yt3.googleusercontent.com/9uOO2VvGNc1tEypF2Da4n5AMKdf-H_Hzs3Q06ZVe0elVgraFmjp3Q_9sH9VacW5Sb4uyJ5yPeA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book6 Pro arrives in Brazil with unboxing and testing",
+      "url": "https://www.youtube.com/watch?v=sy9Yx96siRU",
+      "published_at": "2026-08-26T14:00:23+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:149955",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book 6 Pro review highlights price, specs, and design in Brazil",
+      "url": "https://www.youtube.com/watch?v=xhCmlVDT3EA",
+      "published_at": "2026-08-26T14:00:15+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:149896",
+      "kind": "youtube",
+      "source": "TecMundo",
+      "source_icon": "https://yt3.googleusercontent.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer celebrates 50 years of innovation with product showcase and campaign",
+      "url": "https://www.youtube.com/shorts/pRGPPqLnCnI",
+      "published_at": "2026-08-26T13:00:20+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:445388",
       "kind": "media",
