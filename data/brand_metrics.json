@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T00:13:51.324784+00:00",
-  "total_items": 1469,
+  "generated_at": "2026-08-26T12:24:58.535848+00:00",
+  "total_items": 1471,
   "brands": [
     {
       "brand": "Apple",
@@ -73,10 +73,10 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 196,
+      "total": 197,
       "media": 146,
-      "youtube": 50,
-      "reviews": 37,
+      "youtube": 51,
+      "reviews": 38,
       "sponsored": 4,
       "dell_stories": 0,
       "high_signal": 6,
@@ -90,11 +90,11 @@
           "count": 11
         },
         {
-          "source": "Notebookcheck Reviews",
-          "count": 6
+          "source": "Qual Notebook Comprar?",
+          "count": 7
         },
         {
-          "source": "Qual Notebook Comprar?",
+          "source": "Notebookcheck Reviews",
           "count": 6
         },
         {
@@ -117,7 +117,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 147
+          "count": 148
         },
         {
           "section": "Deals",
@@ -132,15 +132,15 @@
           "count": 1
         }
       ],
-      "avg_score": 62.0
+      "avg_score": 62.1
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 167,
+      "total": 168,
       "media": 117,
-      "youtube": 50,
-      "reviews": 44,
+      "youtube": 51,
+      "reviews": 45,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 3,
@@ -181,7 +181,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 125
+          "count": 126
         },
         {
           "section": "Deals",
@@ -200,7 +200,7 @@
           "count": 2
         }
       ],
-      "avg_score": 62.2
+      "avg_score": 62.3
     },
     {
       "brand": "Microsoft",
@@ -1428,9 +1428,9 @@
       "month": "2026-08",
       "brands": {
         "Apple": 198,
-        "Lenovo": 160,
+        "Lenovo": 161,
         "Microsoft": 146,
-        "Asus": 137,
+        "Asus": 138,
         "Intel": 121,
         "Dell": 71,
         "AMD": 69,
@@ -1465,6 +1465,44 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:149415",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus Zenbook 14 (2026) Unboxing and Review: Premium 14\" Laptop",
+      "url": "https://www.youtube.com/watch?v=bYC8cc8qf1k",
+      "published_at": "2026-08-26T08:00:33+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:148710",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Why the Lenovo IdeaPad Slim 3 is popular and which models to avoid in 2026",
+      "url": "https://www.youtube.com/watch?v=EFKKVSEyon0",
+      "published_at": "2026-08-25T22:13:28+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "youtube:148140",
@@ -6158,44 +6196,6 @@
       "brand": "Acer",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:408404",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "BIOS update turns Framework notebooks into paperweights due to fatal flaw",
-      "url": "https://www.tudocelular.com/software/noticias/n261253/falha-fatal-notebooks-framework-peso-papel-bios.html",
-      "published_at": "2026-08-21T13:35:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:410376",
-      "kind": "media",
-      "source": "PC-WELT News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Guide to Choosing a Laptop for Students and Professionals",
-      "url": "https://www.pcwelt.de/article/1204273/die-besten-laptops-fuer-studenten-und-schueler-im-test.html",
-      "published_at": "2026-08-21T13:30:00+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6217,6 +6217,44 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:149415",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus Zenbook 14 (2026) Unboxing and Review: Premium 14\" Laptop",
+      "url": "https://www.youtube.com/watch?v=bYC8cc8qf1k",
+      "published_at": "2026-08-26T08:00:33+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:148710",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Why the Lenovo IdeaPad Slim 3 is popular and which models to avoid in 2026",
+      "url": "https://www.youtube.com/watch?v=EFKKVSEyon0",
+      "published_at": "2026-08-25T22:13:28+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "youtube:148140",
