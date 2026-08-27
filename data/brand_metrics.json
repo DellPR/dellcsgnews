@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-26T22:40:41.844789+00:00",
-  "total_items": 1485,
+  "generated_at": "2026-08-27T00:05:48.125589+00:00",
+  "total_items": 1486,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 236,
+      "total": 237,
       "media": 197,
-      "youtube": 39,
-      "reviews": 19,
+      "youtube": 40,
+      "reviews": 20,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 4,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 178
+          "count": 179
         },
         {
           "section": "Deals",
@@ -73,9 +73,9 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 187,
+      "total": 186,
       "media": 136,
-      "youtube": 51,
+      "youtube": 50,
       "reviews": 35,
       "sponsored": 4,
       "dell_stories": 0,
@@ -117,7 +117,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 143
+          "count": 142
         },
         {
           "section": "Deals",
@@ -132,7 +132,7 @@
           "count": 1
         }
       ],
-      "avg_score": 62.5
+      "avg_score": 62.4
     },
     {
       "brand": "Asus",
@@ -929,9 +929,9 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 25,
+      "total": 26,
       "media": 18,
-      "youtube": 7,
+      "youtube": 8,
       "reviews": 6,
       "sponsored": 0,
       "dell_stories": 0,
@@ -946,11 +946,11 @@
           "count": 3
         },
         {
-          "source": "Lipe Mal Estar",
-          "count": 2
+          "source": "Qual Notebook Comprar?",
+          "count": 3
         },
         {
-          "source": "Qual Notebook Comprar?",
+          "source": "Lipe Mal Estar",
           "count": 2
         },
         {
@@ -973,7 +973,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 12
+          "count": 13
         },
         {
           "section": "Deals",
@@ -988,7 +988,7 @@
           "count": 1
         }
       ],
-      "avg_score": 51.8
+      "avg_score": 52.5
     },
     {
       "brand": "Alienware",
@@ -1398,9 +1398,9 @@
     {
       "month": "2026-07",
       "brands": {
-        "Lenovo": 20,
+        "Lenovo": 19,
         "Apple": 15,
-        "Asus": 14,
+        "Asus": 13,
         "Dell": 13,
         "Valve": 13,
         "Acer": 5,
@@ -1419,10 +1419,10 @@
     {
       "month": "2026-08",
       "brands": {
-        "Apple": 210,
+        "Apple": 211,
         "Lenovo": 151,
+        "Asus": 141,
         "Microsoft": 141,
-        "Asus": 140,
         "Intel": 122,
         "Dell": 73,
         "AMD": 67,
@@ -1434,7 +1434,7 @@
         "Valve": 31,
         "Amazon": 30,
         "MSI": 30,
-        "Samsung": 23
+        "Samsung": 24
       }
     }
   ],
@@ -1475,6 +1475,25 @@
       "is_sponsored": false,
       "brand": "OpenAI",
       "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:150931",
+      "kind": "youtube",
+      "source": "Canaltech",
+      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS Zenbook A14 review highlights battery efficiency and Snapdragon X performance",
+      "url": "https://www.youtube.com/watch?v=-MhKhkJX4Jk",
+      "published_at": "2026-08-26T21:00:04+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -1554,6 +1573,25 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:150961",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Unboxing Samsung Galaxy Book6 Pro",
+      "url": "https://www.youtube.com/shorts/HrhEaqx1WAk",
+      "published_at": "2026-08-26T18:51:31+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "media:448645",
       "kind": "media",
       "source": "Engadget",
@@ -1627,6 +1665,25 @@
       "is_sponsored": false,
       "brand": "Amazon",
       "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:150615",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple Unveils New M6 Mac Mini and Mac Studio",
+      "url": "https://www.youtube.com/watch?v=r4xX8gr6UPs",
+      "published_at": "2026-08-26T18:22:57+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -6131,63 +6188,6 @@
       "brand": "Acer",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:420567",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer Launches Aspire 14 AI with Snapdragon X and 32 GB RAM",
-      "url": "https://www.notebookcheck.com/1-TB-SSD-32-GB-RAM-Snapdragon-X-120-Hz-Display-Acer-Office-Notebook-im-Angebot.1376420.0.html",
-      "published_at": "2026-08-23T17:40:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:420154",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Micron highlights HBM challenges in AI as compute outpaces memory bandwidth",
-      "url": "https://wccftech.com/micron-says-ai-memory-wall-worsening-compute-outruns-hbm-bandwidth-by-3x-every-two-years/",
-      "published_at": "2026-08-23T17:35:42+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Meta",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:420568",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "AMD vs. Intel: Mid-range iGPU performance gap widens",
-      "url": "https://www.notebookcheck.com/Das-grosse-ARC-Problem-von-AMD-demonstriert-von-diesem-HP-ZBook.1376421.0.html",
-      "published_at": "2026-08-23T17:35:00+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6227,6 +6227,25 @@
       "is_sponsored": false,
       "brand": "OpenAI",
       "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:150931",
+      "kind": "youtube",
+      "source": "Canaltech",
+      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS Zenbook A14 review highlights battery efficiency and Snapdragon X performance",
+      "url": "https://www.youtube.com/watch?v=-MhKhkJX4Jk",
+      "published_at": "2026-08-26T21:00:04+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -6306,6 +6325,25 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:150961",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Unboxing Samsung Galaxy Book6 Pro",
+      "url": "https://www.youtube.com/shorts/HrhEaqx1WAk",
+      "published_at": "2026-08-26T18:51:31+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
       "id": "media:448645",
       "kind": "media",
       "source": "Engadget",
@@ -6379,6 +6417,25 @@
       "is_sponsored": false,
       "brand": "Amazon",
       "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:150615",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple Unveils New M6 Mac Mini and Mac Studio",
+      "url": "https://www.youtube.com/watch?v=r4xX8gr6UPs",
+      "published_at": "2026-08-26T18:22:57+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -32310,44 +32367,6 @@
       "url": "https://www.youtube.com/shorts/KyMOzmZZ-I0",
       "published_at": "2026-07-13T15:02:42+00:00",
       "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:69073",
-      "kind": "youtube",
-      "source": "Tech BR",
-      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ASUS Vivobook 15 2026 Review: Which Version to Buy?",
-      "url": "https://www.youtube.com/watch?v=pmg5Ij1ke5Y",
-      "published_at": "2026-07-12T17:15:36+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:68623",
-      "kind": "youtube",
-      "source": "Just Josh",
-      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ThinkPad X1 15 vs MacBook Pro 14 vs Framework 13 Pro: Best programming laptops",
-      "url": "https://www.youtube.com/watch?v=aI_0GVorq_0",
-      "published_at": "2026-07-12T13:00:13+00:00",
-      "score": 72,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Lenovo",
