@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-27T22:49:43.401438+00:00",
-  "total_items": 1505,
+  "generated_at": "2026-08-27T23:52:22.459367+00:00",
+  "total_items": 1501,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 238,
+      "total": 237,
       "media": 197,
-      "youtube": 41,
+      "youtube": 40,
       "reviews": 21,
       "sponsored": 0,
       "dell_stories": 0,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 183
+          "count": 182
         },
         {
           "section": "Deals",
@@ -68,14 +68,14 @@
           "count": 1
         }
       ],
-      "avg_score": 62.8
+      "avg_score": 62.7
     },
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 181,
+      "total": 179,
       "media": 132,
-      "youtube": 49,
+      "youtube": 47,
       "reviews": 34,
       "sponsored": 4,
       "dell_stories": 0,
@@ -91,7 +91,7 @@
         },
         {
           "source": "Qual Notebook Comprar?",
-          "count": 7
+          "count": 6
         },
         {
           "source": "Tech BR",
@@ -117,7 +117,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 138
+          "count": 136
         },
         {
           "section": "Deals",
@@ -132,14 +132,14 @@
           "count": 1
         }
       ],
-      "avg_score": 62.7
+      "avg_score": 62.6
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 167,
+      "total": 166,
       "media": 114,
-      "youtube": 53,
+      "youtube": 52,
       "reviews": 43,
       "sponsored": 1,
       "dell_stories": 0,
@@ -158,15 +158,15 @@
           "count": 12
         },
         {
-          "source": "Qual Notebook Comprar?",
-          "count": 7
-        },
-        {
           "source": "Frandroid",
           "count": 6
         },
         {
           "source": "Notebookcheck Reviews",
+          "count": 6
+        },
+        {
+          "source": "Qual Notebook Comprar?",
           "count": 6
         },
         {
@@ -181,7 +181,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 128
+          "count": 127
         },
         {
           "section": "Deals",
@@ -633,9 +633,9 @@
     {
       "brand": "Qualcomm",
       "family": "Ecosystem",
-      "total": 53,
+      "total": 52,
       "media": 43,
-      "youtube": 10,
+      "youtube": 9,
       "reviews": 8,
       "sponsored": 1,
       "dell_stories": 0,
@@ -681,7 +681,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 22
+          "count": 21
         },
         {
           "section": "Deals",
@@ -692,7 +692,7 @@
           "count": 2
         }
       ],
-      "avg_score": 64.2
+      "avg_score": 64.1
     },
     {
       "brand": "Valve",
@@ -927,6 +927,70 @@
       "avg_score": 27.8
     },
     {
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "total": 30,
+      "media": 20,
+      "youtube": 10,
+      "reviews": 7,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 0,
+      "top_sources": [
+        {
+          "source": "PC-WELT News",
+          "count": 4
+        },
+        {
+          "source": "Les Numériques",
+          "count": 3
+        },
+        {
+          "source": "Qual Notebook Comprar?",
+          "count": 3
+        },
+        {
+          "source": "Escolha Segura",
+          "count": 2
+        },
+        {
+          "source": "Frandroid",
+          "count": 2
+        },
+        {
+          "source": "Lipe Mal Estar",
+          "count": 2
+        },
+        {
+          "source": "TechRadar",
+          "count": 2
+        },
+        {
+          "source": "Wccftech",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 15
+        },
+        {
+          "section": "Deals",
+          "count": 12
+        },
+        {
+          "section": "Ecosystem",
+          "count": 2
+        },
+        {
+          "section": "Market Trends",
+          "count": 1
+        }
+      ],
+      "avg_score": 52.5
+    },
+    {
       "brand": "Alienware",
       "family": "Dell family",
       "total": 29,
@@ -981,70 +1045,6 @@
         }
       ],
       "avg_score": 88.4
-    },
-    {
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "total": 29,
-      "media": 20,
-      "youtube": 9,
-      "reviews": 7,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 0,
-      "top_sources": [
-        {
-          "source": "PC-WELT News",
-          "count": 4
-        },
-        {
-          "source": "Les Numériques",
-          "count": 3
-        },
-        {
-          "source": "Qual Notebook Comprar?",
-          "count": 3
-        },
-        {
-          "source": "Frandroid",
-          "count": 2
-        },
-        {
-          "source": "Lipe Mal Estar",
-          "count": 2
-        },
-        {
-          "source": "TechRadar",
-          "count": 2
-        },
-        {
-          "source": "Wccftech",
-          "count": 2
-        },
-        {
-          "source": "Escolha Segura",
-          "count": 1
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 14
-        },
-        {
-          "section": "Deals",
-          "count": 12
-        },
-        {
-          "section": "Ecosystem",
-          "count": 2
-        },
-        {
-          "section": "Market Trends",
-          "count": 1
-        }
-      ],
-      "avg_score": 51.8
     },
     {
       "brand": "Razer",
@@ -1402,15 +1402,15 @@
     {
       "month": "2026-07",
       "brands": {
-        "Lenovo": 18,
-        "Apple": 15,
-        "Asus": 13,
+        "Lenovo": 16,
+        "Apple": 14,
         "Dell": 13,
         "Valve": 13,
+        "Asus": 12,
         "Acer": 5,
         "Framework": 5,
         "Intel": 5,
-        "Qualcomm": 5,
+        "Qualcomm": 4,
         "AMD": 3,
         "Alienware": 3,
         "HP": 3,
@@ -1438,11 +1438,30 @@
         "Amazon": 30,
         "MSI": 30,
         "Valve": 30,
-        "Samsung": 27
+        "Samsung": 28
       }
     }
   ],
   "recent": [
+    {
+      "id": "youtube:152970",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book 6 Pro Unboxing and Performance",
+      "url": "https://www.youtube.com/shorts/EC_Gaa5bfpo",
+      "published_at": "2026-08-27T23:10:30+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:464158",
       "kind": "media",
@@ -6173,28 +6192,28 @@
       "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:433875",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "id": "youtube:152970",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Apple may launch new Mac mini M5 and M6 before iPhone 18 Pro event",
-      "url": "https://www.tudocelular.com/apple/noticias/n261398/apple-pode-lancar-novos-mac-mini-em-breve.html",
-      "published_at": "2026-08-25T05:16:00+00:00",
-      "score": 65,
+      "title": "Samsung Galaxy Book 6 Pro Unboxing and Performance",
+      "url": "https://www.youtube.com/shorts/EC_Gaa5bfpo",
+      "published_at": "2026-08-27T23:10:30+00:00",
+      "score": 72,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Apple",
+      "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "media:464158",
       "kind": "media",
@@ -32598,101 +32617,6 @@
       "title": "MacBook gaming Shorts update",
       "url": "https://www.youtube.com/shorts/4fwPtGf2X3I",
       "published_at": "2026-07-14T14:20:31+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:71503",
-      "kind": "youtube",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Yoga Slim 7i Ultra vs ASUS VivoBook S 14? 🤔 #notebook #vivobook #yoga #s14 #slim #qnc",
-      "url": "https://www.youtube.com/shorts/0qReIaiCIrw",
-      "published_at": "2026-07-13T21:18:02+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:71503",
-      "kind": "youtube",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Yoga Slim 7i Ultra vs ASUS VivoBook S 14? 🤔 #notebook #vivobook #yoga #s14 #slim #qnc",
-      "url": "https://www.youtube.com/shorts/0qReIaiCIrw",
-      "published_at": "2026-07-13T21:18:02+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:70888",
-      "kind": "youtube",
-      "source": "Linus Tech Tips",
-      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "$1000 to $4000 Laptop - Snapdragon Edition",
-      "url": "https://www.youtube.com/shorts/s9igt2i91q0",
-      "published_at": "2026-07-13T20:27:31+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:70888",
-      "kind": "youtube",
-      "source": "Linus Tech Tips",
-      "source_icon": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "$1000 to $4000 Laptop - Snapdragon Edition",
-      "url": "https://www.youtube.com/shorts/s9igt2i91q0",
-      "published_at": "2026-07-13T20:27:31+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:71053",
-      "kind": "youtube",
-      "source": "PCWorld",
-      "source_icon": "https://yt3.googleusercontent.com/Y9Qeoq6gXw_cDQUpUmmJCoVh66rCotYtyetmYEyd9rryQZoJXLvhjtMupYCG6J02ghSvw6qZDEc=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Debate: Gaming Laptop vs DIY Desktop and Electronics Flea Market Update",
-      "url": "https://www.youtube.com/watch?v=_4utqvlTiJY",
-      "published_at": "2026-07-13T18:00:31+00:00",
       "score": 72,
       "is_review": false,
       "is_sponsored": false,
