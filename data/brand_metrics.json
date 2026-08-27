@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T00:05:48.125589+00:00",
-  "total_items": 1486,
+  "generated_at": "2026-08-27T12:16:10.827798+00:00",
+  "total_items": 1488,
   "brands": [
     {
       "brand": "Apple",
@@ -813,10 +813,10 @@
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 36,
+      "total": 37,
       "media": 26,
-      "youtube": 10,
-      "reviews": 6,
+      "youtube": 11,
+      "reviews": 7,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
@@ -846,18 +846,18 @@
           "count": 2
         },
         {
-          "source": "Gizmodo",
+          "source": "Crimson Tech",
           "count": 2
         },
         {
-          "source": "Tom's Hardware",
+          "source": "Gizmodo",
           "count": 2
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 18
+          "count": 19
         },
         {
           "section": "Deals",
@@ -872,7 +872,7 @@
           "count": 1
         }
       ],
-      "avg_score": 58.8
+      "avg_score": 59.2
     },
     {
       "brand": "Amazon",
@@ -929,10 +929,10 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 26,
+      "total": 27,
       "media": 18,
-      "youtube": 8,
-      "reviews": 6,
+      "youtube": 9,
+      "reviews": 7,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
@@ -973,7 +973,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 13
+          "count": 14
         },
         {
           "section": "Deals",
@@ -988,7 +988,7 @@
           "count": 1
         }
       ],
-      "avg_score": 52.5
+      "avg_score": 53.3
     },
     {
       "brand": "Alienware",
@@ -1411,8 +1411,8 @@
         "Alienware": 3,
         "HP": 3,
         "Razer": 3,
+        "MSI": 2,
         "NVIDIA": 2,
-        "MSI": 1,
         "Microsoft": 1
       }
     },
@@ -1434,11 +1434,30 @@
         "Valve": 31,
         "Amazon": 30,
         "MSI": 30,
-        "Samsung": 24
+        "Samsung": 25
       }
     }
   ],
   "recent": [
+    {
+      "id": "youtube:151440",
+      "kind": "youtube",
+      "source": "Loop Infinito",
+      "source_icon": "https://yt3.googleusercontent.com/GDHTPQokpmjDxrJbAHuLi1Rhjx1_q75cgDFKboVzzAv8ZcEVi4Wc_HqSIWwwNon5rUXKztkaPA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book6 Pro Unboxing!",
+      "url": "https://www.youtube.com/watch?v=8m2bS-HNwWc",
+      "published_at": "2026-08-27T00:58:01+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:452908",
       "kind": "media",
@@ -6169,28 +6188,28 @@
       "brand": "AMD",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:420567",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer Launches Aspire 14 AI with Snapdragon X and 32 GB RAM",
-      "url": "https://www.notebookcheck.com/1-TB-SSD-32-GB-RAM-Snapdragon-X-120-Hz-Display-Acer-Office-Notebook-im-Angebot.1376420.0.html",
-      "published_at": "2026-08-23T17:40:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:151440",
+      "kind": "youtube",
+      "source": "Loop Infinito",
+      "source_icon": "https://yt3.googleusercontent.com/GDHTPQokpmjDxrJbAHuLi1Rhjx1_q75cgDFKboVzzAv8ZcEVi4Wc_HqSIWwwNon5rUXKztkaPA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book6 Pro Unboxing!",
+      "url": "https://www.youtube.com/watch?v=8m2bS-HNwWc",
+      "published_at": "2026-08-27T00:58:01+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:452908",
       "kind": "media",
@@ -32370,6 +32389,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:151678",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MSI Stealth 16 (2026) Unboxing - Premium Thin-and-Light Gaming Laptop",
+      "url": "https://www.youtube.com/watch?v=L8Qq4_7eip4",
+      "published_at": "2026-07-12T08:00:07+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "MSI",
       "family": "PC competitors",
       "is_dell_story": false
     },
