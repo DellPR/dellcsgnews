@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-27T15:05:09.178056+00:00",
-  "total_items": 1491,
+  "generated_at": "2026-08-27T18:33:00.226014+00:00",
+  "total_items": 1492,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 236,
+      "total": 237,
       "media": 196,
-      "youtube": 40,
+      "youtube": 41,
       "reviews": 20,
       "sponsored": 0,
       "dell_stories": 0,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 180
+          "count": 181
         },
         {
           "section": "Deals",
@@ -73,9 +73,9 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 185,
+      "total": 184,
       "media": 135,
-      "youtube": 50,
+      "youtube": 49,
       "reviews": 35,
       "sponsored": 4,
       "dell_stories": 0,
@@ -117,7 +117,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 142
+          "count": 141
         },
         {
           "section": "Deals",
@@ -993,16 +993,20 @@
     {
       "brand": "Alienware",
       "family": "Dell family",
-      "total": 22,
+      "total": 23,
       "media": 14,
-      "youtube": 8,
-      "reviews": 12,
+      "youtube": 9,
+      "reviews": 13,
       "sponsored": 0,
-      "dell_stories": 22,
-      "high_signal": 17,
+      "dell_stories": 23,
+      "high_signal": 18,
       "top_sources": [
         {
           "source": "CNET",
+          "count": 2
+        },
+        {
+          "source": "Notebookcheck Reviews",
           "count": 2
         },
         {
@@ -1028,23 +1032,19 @@
         {
           "source": "Jarrod's Tech",
           "count": 1
-        },
-        {
-          "source": "MobileTechReview",
-          "count": 1
         }
       ],
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 16
+          "count": 17
         },
         {
           "section": "Deals",
           "count": 6
         }
       ],
-      "avg_score": 84.8
+      "avg_score": 85.4
     },
     {
       "brand": "Razer",
@@ -1398,7 +1398,7 @@
     {
       "month": "2026-07",
       "brands": {
-        "Lenovo": 19,
+        "Lenovo": 18,
         "Apple": 15,
         "Asus": 13,
         "Dell": 13,
@@ -1419,7 +1419,7 @@
     {
       "month": "2026-08",
       "brands": {
-        "Apple": 210,
+        "Apple": 211,
         "Lenovo": 150,
         "Asus": 140,
         "Microsoft": 140,
@@ -1439,6 +1439,44 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:151860",
+      "kind": "youtube",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Review of Intricate's Magic Screen prototype for MacBooks",
+      "url": "https://www.youtube.com/watch?v=P5WzhbRbWKQ",
+      "published_at": "2026-08-27T14:10:28+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:152235",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Alienware's 39-inch 5K OLED monitor reviewed for gaming and productivity",
+      "url": "https://www.youtube.com/watch?v=G5_ukLtSbT0",
+      "published_at": "2026-08-27T13:00:43+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
     {
       "id": "media:457600",
       "kind": "media",
@@ -6150,20 +6188,22 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:423394",
-      "kind": "media",
-      "source": "VideoCardz",
-      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
-      "country": "US",
+      "id": "youtube:151860",
+      "kind": "youtube",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Apple planning M6 iMac launch by 2026 end",
-      "url": "https://videocardz.com/newz/apple-reportedly-launching-m6-imac-before-the-end-of-2026",
-      "published_at": "2026-08-24T10:58:43+00:00",
-      "score": 65,
+      "title": "Review of Intricate's Magic Screen prototype for MacBooks",
+      "url": "https://www.youtube.com/watch?v=P5WzhbRbWKQ",
+      "published_at": "2026-08-27T14:10:28+00:00",
+      "score": 72,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
@@ -6171,26 +6211,24 @@
       "is_dell_story": false
     },
     {
-      "id": "media:423816",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
+      "id": "youtube:152235",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Dell Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Windows 11 Adds GPU Memory Allocation Feature for AI Workloads",
-      "url": "https://wccftech.com/windows-11-gpu-unified-memory-allocation-ai-workloads-rtx-spark/",
-      "published_at": "2026-08-24T10:33:45+00:00",
-      "score": 50,
-      "is_review": false,
+      "title": "Alienware's 39-inch 5K OLED monitor reviewed for gaming and productivity",
+      "url": "https://www.youtube.com/watch?v=G5_ukLtSbT0",
+      "published_at": "2026-08-27T13:00:43+00:00",
+      "score": 100,
+      "is_review": true,
       "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    }
-  ],
-  "items": [
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
     {
       "id": "media:457600",
       "kind": "media",
@@ -32427,25 +32465,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:70723",
-      "kind": "youtube",
-      "source": "Canaltech",
-      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Notebook wizard reveals performance secrets and daily shortcuts",
-      "url": "https://www.youtube.com/shorts/KyMOzmZZ-I0",
-      "published_at": "2026-07-13T15:02:42+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
