@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-28T22:31:09.567833+00:00",
-  "total_items": 1492,
+  "generated_at": "2026-08-28T22:32:30.943905+00:00",
+  "total_items": 1490,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 237,
-      "media": 197,
-      "youtube": 40,
+      "total": 235,
+      "media": 196,
+      "youtube": 39,
       "reviews": 21,
       "sponsored": 0,
       "dell_stories": 0,
@@ -18,11 +18,11 @@
           "count": 18
         },
         {
-          "source": "Frandroid",
-          "count": 13
+          "source": "Tom's Guide",
+          "count": 14
         },
         {
-          "source": "Tom's Guide",
+          "source": "Frandroid",
           "count": 13
         },
         {
@@ -43,17 +43,17 @@
         },
         {
           "source": "CNET",
-          "count": 10
+          "count": 9
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 183
+          "count": 180
         },
         {
           "section": "Deals",
-          "count": 39
+          "count": 40
         },
         {
           "section": "Ecosystem",
@@ -68,7 +68,7 @@
           "count": 1
         }
       ],
-      "avg_score": 62.6
+      "avg_score": 62.5
     },
     {
       "brand": "Lenovo",
@@ -253,24 +253,28 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 18
+          "count": 17
         },
         {
           "section": "Deals",
           "count": 11
         },
         {
+          "section": "Competitor Watch",
+          "count": 1
+        },
+        {
           "section": "Market Trends",
           "count": 1
         }
       ],
-      "avg_score": 49.9
+      "avg_score": 50.0
     },
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 136,
-      "media": 122,
+      "total": 135,
+      "media": 121,
       "youtube": 14,
       "reviews": 13,
       "sponsored": 3,
@@ -299,7 +303,7 @@
         },
         {
           "source": "TudoCelular",
-          "count": 9
+          "count": 8
         },
         {
           "source": "Clubic",
@@ -317,7 +321,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 28
+          "count": 27
         },
         {
           "section": "Deals",
@@ -328,7 +332,7 @@
           "count": 4
         }
       ],
-      "avg_score": 63.5
+      "avg_score": 63.6
     },
     {
       "brand": "Dell",
@@ -453,10 +457,10 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 68,
-      "media": 63,
+      "total": 69,
+      "media": 64,
       "youtube": 5,
-      "reviews": 5,
+      "reviews": 6,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 2,
@@ -497,7 +501,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 43
+          "count": 44
         },
         {
           "section": "Deals",
@@ -512,7 +516,7 @@
           "count": 2
         }
       ],
-      "avg_score": 59.2
+      "avg_score": 59.3
     },
     {
       "brand": "HP",
@@ -573,62 +577,6 @@
         }
       ],
       "avg_score": 55.3
-    },
-    {
-      "brand": "Acer",
-      "family": "PC competitors",
-      "total": 52,
-      "media": 35,
-      "youtube": 17,
-      "reviews": 10,
-      "sponsored": 4,
-      "dell_stories": 0,
-      "high_signal": 0,
-      "top_sources": [
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 7
-        },
-        {
-          "source": "TudoCelular",
-          "count": 5
-        },
-        {
-          "source": "Digital Trends",
-          "count": 3
-        },
-        {
-          "source": "PCWorld",
-          "count": 3
-        },
-        {
-          "source": "TecMundo",
-          "count": 3
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 3
-        },
-        {
-          "source": "Clubic",
-          "count": 2
-        },
-        {
-          "source": "Crimson Tech",
-          "count": 2
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 37
-        },
-        {
-          "section": "Deals",
-          "count": 15
-        }
-      ],
-      "avg_score": 58.6
     },
     {
       "brand": "Qualcomm",
@@ -693,6 +641,62 @@
         }
       ],
       "avg_score": 63.5
+    },
+    {
+      "brand": "Acer",
+      "family": "PC competitors",
+      "total": 51,
+      "media": 34,
+      "youtube": 17,
+      "reviews": 10,
+      "sponsored": 4,
+      "dell_stories": 0,
+      "high_signal": 0,
+      "top_sources": [
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 7
+        },
+        {
+          "source": "TudoCelular",
+          "count": 4
+        },
+        {
+          "source": "Digital Trends",
+          "count": 3
+        },
+        {
+          "source": "PCWorld",
+          "count": 3
+        },
+        {
+          "source": "TecMundo",
+          "count": 3
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 3
+        },
+        {
+          "source": "Clubic",
+          "count": 2
+        },
+        {
+          "source": "Crimson Tech",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 36
+        },
+        {
+          "section": "Deals",
+          "count": 15
+        }
+      ],
+      "avg_score": 58.6
     },
     {
       "brand": "Valve",
@@ -881,13 +885,13 @@
     {
       "brand": "Alienware",
       "family": "Dell family",
-      "total": 33,
-      "media": 24,
+      "total": 34,
+      "media": 25,
       "youtube": 9,
       "reviews": 20,
       "sponsored": 0,
-      "dell_stories": 33,
-      "high_signal": 30,
+      "dell_stories": 34,
+      "high_signal": 31,
       "top_sources": [
         {
           "source": "TFTCentral",
@@ -910,29 +914,29 @@
           "count": 2
         },
         {
+          "source": "WIRED",
+          "count": 2
+        },
+        {
           "source": "Engadget",
           "count": 1
         },
         {
           "source": "Escolha Segura",
           "count": 1
-        },
-        {
-          "source": "Frandroid",
-          "count": 1
         }
       ],
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 26
+          "count": 27
         },
         {
           "section": "Deals",
           "count": 7
         }
       ],
-      "avg_score": 93.8
+      "avg_score": 94.0
     },
     {
       "brand": "Amazon",
@@ -1415,22 +1419,22 @@
     {
       "month": "2026-08",
       "brands": {
-        "Apple": 214,
+        "Apple": 212,
         "Microsoft": 140,
         "Lenovo": 136,
         "Asus": 133,
-        "Intel": 126,
+        "Intel": 125,
         "Dell": 68,
         "NVIDIA": 68,
-        "AMD": 64,
+        "AMD": 65,
         "HP": 50,
         "Qualcomm": 44,
-        "Acer": 42,
+        "Acer": 41,
         "MSI": 33,
         "Amazon": 31,
         "Framework": 31,
         "Valve": 30,
-        "Samsung": 28
+        "Alienware": 28
       }
     }
   ],
@@ -1547,25 +1551,6 @@
       "is_sponsored": false,
       "brand": "Qualcomm",
       "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:466747",
-      "kind": "media",
-      "source": "The Verge",
-      "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "iPhone Fold may worsen concert viewing experiences",
-      "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
-      "published_at": "2026-08-28T15:26:19+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -1764,13 +1749,13 @@
       "source": "Frandroid",
       "source_icon": "",
       "country": "FR",
-      "section": "Competitor Coverage",
+      "section": "Competitor Watch",
       "is_deal": false,
       "deal_metric_only": false,
       "title": "Microsoft tests new Surface Laptop 13.8 (2026) with Qualcomm X2 Plus/Elite chips",
       "url": "https://www.frandroid.com/marques/microsoft/3210415_test-du-microsoft-surface-laptop-138-2026-sublime-fluide-et-couteux",
       "published_at": "2026-08-28T13:50:35+00:00",
-      "score": 60,
+      "score": 75,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Microsoft",
@@ -1873,25 +1858,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:153480",
-      "kind": "youtube",
-      "source": "CNET",
-      "source_icon": "https://yt3.googleusercontent.com/SGoD0SodPuysPRUSFI8jd_eqR-ZCgvxhZk905338O1NUYI5eUqMZ1lQaekFNiDggJh0lA_5kQg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple announces new M6 chip, iPhone 18 Pro, and Apple Pay expansion",
-      "url": "https://www.youtube.com/watch?v=CwcShxWa0uU",
-      "published_at": "2026-08-28T12:00:16+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "media:470007",
       "kind": "media",
       "source": "Futura",
@@ -1946,44 +1912,6 @@
       "is_sponsored": false,
       "brand": "Microsoft",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:466556",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer launches affordable 2-in-1 Windows tablet with Intel chip",
-      "url": "https://www.tudocelular.com/acer/noticias/n261733/acer-a543-novo-tablet-windows-chip-intel-celeron.html",
-      "published_at": "2026-08-28T11:36:00+00:00",
-      "score": 55,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:466556",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer launches affordable 2-in-1 Windows tablet with Intel chip",
-      "url": "https://www.tudocelular.com/acer/noticias/n261733/acer-a543-novo-tablet-windows-chip-intel-celeron.html",
-      "published_at": "2026-08-28T11:36:00+00:00",
-      "score": 55,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -6184,6 +6112,82 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
+    },
+    {
+      "id": "media:438306",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple unveils M6 2nm chipset powering new Mac mini with enhanced CPU, GPU, and AI cores",
+      "url": "https://wccftech.com/apple-m6-2nm-chip-mac-mini-launch/",
+      "published_at": "2026-08-25T14:12:33+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:437561",
+      "kind": "media",
+      "source": "TecMundo",
+      "source_icon": "",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple launches new Mac mini and Mac Studio with details and prices",
+      "url": "https://www.tecmundo.com.br/produto/415535-apple-lanca-novos-computadores-mac-mini-e-mac-studio-saiba-detalhes-e-precos.htm",
+      "published_at": "2026-08-25T14:10:39+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:437852",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer Swift Go 16 AI laptop review highlights performance and battery issues",
+      "url": "https://www.pcworld.com/article/3205282/acer-swift-go-16-ai-review.html",
+      "published_at": "2026-08-25T14:00:00+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:439362",
+      "kind": "media",
+      "source": "T3",
+      "source_icon": "",
+      "country": "GB",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple launches Mac Studio with M5 Max/Ultra for AI performance",
+      "url": "https://www.t3.com/tech/computers-pcs/new-apple-mac-studio-goes-straight-to-m5-max-and-m5-ultra-with-significant-performance-gains",
+      "published_at": "2026-08-25T13:51:04+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
     }
   ],
   "items": [
@@ -6299,25 +6303,6 @@
       "is_sponsored": false,
       "brand": "Qualcomm",
       "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:466747",
-      "kind": "media",
-      "source": "The Verge",
-      "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "iPhone Fold may worsen concert viewing experiences",
-      "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
-      "published_at": "2026-08-28T15:26:19+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -6516,13 +6501,13 @@
       "source": "Frandroid",
       "source_icon": "",
       "country": "FR",
-      "section": "Competitor Coverage",
+      "section": "Competitor Watch",
       "is_deal": false,
       "deal_metric_only": false,
       "title": "Microsoft tests new Surface Laptop 13.8 (2026) with Qualcomm X2 Plus/Elite chips",
       "url": "https://www.frandroid.com/marques/microsoft/3210415_test-du-microsoft-surface-laptop-138-2026-sublime-fluide-et-couteux",
       "published_at": "2026-08-28T13:50:35+00:00",
-      "score": 60,
+      "score": 75,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Microsoft",
@@ -6625,25 +6610,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:153480",
-      "kind": "youtube",
-      "source": "CNET",
-      "source_icon": "https://yt3.googleusercontent.com/SGoD0SodPuysPRUSFI8jd_eqR-ZCgvxhZk905338O1NUYI5eUqMZ1lQaekFNiDggJh0lA_5kQg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple announces new M6 chip, iPhone 18 Pro, and Apple Pay expansion",
-      "url": "https://www.youtube.com/watch?v=CwcShxWa0uU",
-      "published_at": "2026-08-28T12:00:16+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "media:470007",
       "kind": "media",
       "source": "Futura",
@@ -6698,44 +6664,6 @@
       "is_sponsored": false,
       "brand": "Microsoft",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:466556",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer launches affordable 2-in-1 Windows tablet with Intel chip",
-      "url": "https://www.tudocelular.com/acer/noticias/n261733/acer-a543-novo-tablet-windows-chip-intel-celeron.html",
-      "published_at": "2026-08-28T11:36:00+00:00",
-      "score": 55,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:466556",
-      "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer launches affordable 2-in-1 Windows tablet with Intel chip",
-      "url": "https://www.tudocelular.com/acer/noticias/n261733/acer-a543-novo-tablet-windows-chip-intel-celeron.html",
-      "published_at": "2026-08-28T11:36:00+00:00",
-      "score": 55,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
@@ -12303,25 +12231,6 @@
       "is_sponsored": false,
       "brand": "Intel",
       "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:427219",
-      "kind": "media",
-      "source": "Computerworld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple's seven-wave product launch strategy analyzed",
-      "url": "https://www.computerworld.com/article/4213098/apples-folding-iphone-has-already-launched-in-your-head.html",
-      "published_at": "2026-08-24T15:51:48+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -30277,6 +30186,63 @@
       "is_sponsored": false,
       "brand": "Asus",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:282097",
+      "kind": "media",
+      "source": "Tom's Guide",
+      "source_icon": "",
+      "country": "GB",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": false,
+      "title": "Best student laptops for back to school: MacBook and Windows options",
+      "url": "https://www.tomsguide.com/computing/laptops/dont-overpay-heres-the-best-laptops-for-students-id-buy-right-now-for-back-to-school",
+      "published_at": "2026-08-07T11:00:00+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:280609",
+      "kind": "media",
+      "source": "WIRED",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wired.com&sz=64",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "3 Best Cheap Gaming Laptops (2026): Lenovo, MSI, Alienware",
+      "url": "https://www.wired.com/gallery/best-cheap-gaming-laptops/",
+      "published_at": "2026-08-07T11:00:00+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "media:283339",
+      "kind": "media",
+      "source": "ZDNET France",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Review: AMD Ryzen 9 9950X Zen 5 workstation processor tested",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaTdFR2tqazRVQzR6cEI5U3cxR2tpcGNldjM1Y3FheldJRENBSENhLV9WT19wTU5EeVFVQW9sVWJTZThiaDU0OHlUSmwtRGJISGlqSldRZldoSGItaVNYZkJFczFvZzYtZWFxQ1YyRXhFZjhNc0FHVUpTZkRpWGJnOE1Zbnd2RGYtUG9Bd2NaQTA5eWt4aGJyLXI5N1pJYnh6QWMyRzRyaExBR05oaXVlT25ITjRUY1V2NktyRmZqNmZpZXlBbEw0b1VTeTVCY1N4TWNGWjZCbi1NVkc3cERqUGxvUmhXVkRZ?oc=5",
+      "published_at": "2026-08-07T10:57:00+00:00",
+      "score": 65,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
