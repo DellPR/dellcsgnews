@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T22:32:30.943905+00:00",
-  "total_items": 1490,
+  "generated_at": "2026-08-28T22:52:15.233199+00:00",
+  "total_items": 1487,
   "brands": [
     {
       "brand": "Apple",
@@ -155,7 +155,7 @@
         },
         {
           "source": "VideoCardz",
-          "count": 9
+          "count": 10
         },
         {
           "source": "Notebookcheck Reviews",
@@ -181,11 +181,11 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 125
+          "count": 126
         },
         {
           "section": "Deals",
-          "count": 29
+          "count": 28
         },
         {
           "section": "Ecosystem",
@@ -200,13 +200,13 @@
           "count": 1
         }
       ],
-      "avg_score": 63.0
+      "avg_score": 63.4
     },
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 143,
-      "media": 139,
+      "total": 140,
+      "media": 136,
       "youtube": 4,
       "reviews": 6,
       "sponsored": 0,
@@ -230,16 +230,16 @@
           "count": 9
         },
         {
-          "source": "Les Numériques",
-          "count": 8
-        },
-        {
           "source": "Notebookcheck DE - News",
           "count": 8
         },
         {
           "source": "Tecnoblog",
           "count": 6
+        },
+        {
+          "source": "Les Numériques",
+          "count": 5
         },
         {
           "source": "PCWorld",
@@ -257,7 +257,7 @@
         },
         {
           "section": "Deals",
-          "count": 11
+          "count": 8
         },
         {
           "section": "Competitor Watch",
@@ -268,7 +268,7 @@
           "count": 1
         }
       ],
-      "avg_score": 50.0
+      "avg_score": 51.1
     },
     {
       "brand": "Intel",
@@ -457,8 +457,8 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 69,
-      "media": 64,
+      "total": 70,
+      "media": 65,
       "youtube": 5,
       "reviews": 6,
       "sponsored": 0,
@@ -501,7 +501,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 44
+          "count": 45
         },
         {
           "section": "Deals",
@@ -1113,8 +1113,8 @@
     {
       "brand": "OpenAI",
       "family": "Other",
-      "total": 8,
-      "media": 8,
+      "total": 7,
+      "media": 7,
       "youtube": 0,
       "reviews": 0,
       "sponsored": 0,
@@ -1127,10 +1127,6 @@
         },
         {
           "source": "Computerworld",
-          "count": 1
-        },
-        {
-          "source": "PCWorld",
           "count": 1
         },
         {
@@ -1149,10 +1145,10 @@
         },
         {
           "section": "Deals",
-          "count": 2
+          "count": 1
         }
       ],
-      "avg_score": 48.1
+      "avg_score": 55.0
     },
     {
       "brand": "LG",
@@ -1420,13 +1416,13 @@
       "month": "2026-08",
       "brands": {
         "Apple": 212,
-        "Microsoft": 140,
+        "Microsoft": 137,
         "Lenovo": 136,
         "Asus": 133,
         "Intel": 125,
         "Dell": 68,
         "NVIDIA": 68,
-        "AMD": 65,
+        "AMD": 66,
         "HP": 50,
         "Qualcomm": 44,
         "Acer": 41,
@@ -11569,25 +11565,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:434226",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Affiliate-linked product listicle with headphones, charger, and USB hub",
-      "url": "https://www.pcworld.com/article/2017152/9-laptop-accessories-id-actually-buy-for-college-all-under-100.html",
-      "published_at": "2026-08-25T10:30:00+00:00",
-      "score": 0,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "OpenAI",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
       "id": "media:434990",
       "kind": "media",
       "source": "Frandroid",
@@ -14077,25 +14054,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:417711",
-      "kind": "media",
-      "source": "Les Numériques",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Xbox Series X/S Carbon Black controller drops below €60 on Amazon",
-      "url": "https://www.lesnumeriques.com/joypad/bon-plan-la-manette-de-jeu-microsoft-manette-sans-fil-xbox-series-x-s-carbon-black-a-51-90-n260718.html",
-      "published_at": "2026-08-21T22:00:10+00:00",
-      "score": 0,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "media:415689",
       "kind": "media",
       "source": "TudoCelular",
@@ -16243,25 +16201,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:392026",
-      "kind": "media",
-      "source": "Les Numériques",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Xbox Series X/S Pulse Red controller drops to €49.93 at Electro Depot",
-      "url": "https://www.lesnumeriques.com/joypad/bon-plan-la-manette-de-jeu-microsoft-manette-sans-fil-xbox-series-x-s-pulse-red-a-49-93-10-n260611.html",
-      "published_at": "2026-08-19T22:00:06+00:00",
-      "score": 0,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:137955",
       "kind": "youtube",
       "source": "Lipe Mal Estar",
@@ -16658,25 +16597,6 @@
       "is_sponsored": false,
       "brand": "Qualcomm",
       "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:388354",
-      "kind": "media",
-      "source": "Les Numériques",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Xbox Series X/S Pulse Red controller drops to €49.93 at Electro Depot",
-      "url": "https://www.lesnumeriques.com/joypad/bon-plan-la-manette-de-jeu-microsoft-manette-sans-fil-xbox-series-x-s-pulse-red-a-49-93-10-n260601.html",
-      "published_at": "2026-08-19T14:16:03+00:00",
-      "score": 0,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -17266,25 +17186,6 @@
       "is_sponsored": false,
       "brand": "Amazon",
       "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:383518",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "ASUS Astral RTX 5080 sold on AliExpress for under $700 with red flags",
-      "url": "https://wccftech.com/asus-astral-rtx-5080-aliexpress-scam-under-700/",
-      "published_at": "2026-08-19T09:55:26+00:00",
-      "score": 0,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -30243,6 +30144,44 @@
       "is_sponsored": false,
       "brand": "AMD",
       "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:283337",
+      "kind": "media",
+      "source": "ZDNET France",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "AMD Ryzen 7 9800X3D Processor Performance Test for High-Intensity Workstations",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVGwxVjE1Y1NVcmVPQ2N3OVlCdkZhQ2Z2bWpQU1NMUURyZ3hZRndzZkktb3NiR191NFp0SDA5N0hHdHBTcnhnbzllazlqSV9yRlB5VExlSWpHRE41UEpTbXg5UVZWTFI2UHFPTEZoYUNkQ3VQcUNhTm4wb0FobVNRN1NMREJMVHJxSF9oT0sza0xxZWR6ckR3aHVRYnlTUXEwbHZmaGJQTUd4bTlMazNBOVVBMTE2OGxsQzBIYm40Qks5SVg5blBURDd1WnRFamVzSFJRZ0wzUmtqQjc1WEo0eWtkYmhsR3h5Z2toZXZFREFSTE9iN3lLVFhLbVphS2xIVm00?oc=5",
+      "published_at": "2026-08-07T10:51:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:280578",
+      "kind": "media",
+      "source": "VideoCardz",
+      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS launches ROG NUC 16 with RTX 5070 Ti at $3,117",
+      "url": "https://videocardz.com/newz/asus-rog-nuc-16-with-rtx-5070-ti-launches-in-the-us-for-3117",
+      "published_at": "2026-08-07T10:41:31+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
