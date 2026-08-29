@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-28T22:52:15.233199+00:00",
-  "total_items": 1487,
+  "generated_at": "2026-08-29T19:35:53.090371+00:00",
+  "total_items": 1490,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 235,
+      "total": 236,
       "media": 196,
-      "youtube": 39,
-      "reviews": 21,
+      "youtube": 40,
+      "reviews": 22,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 4,
@@ -57,7 +57,7 @@
         },
         {
           "section": "Ecosystem",
-          "count": 7
+          "count": 8
         },
         {
           "section": "Market Trends",
@@ -68,14 +68,14 @@
           "count": 1
         }
       ],
-      "avg_score": 62.5
+      "avg_score": 62.6
     },
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 168,
+      "total": 169,
       "media": 121,
-      "youtube": 47,
+      "youtube": 48,
       "reviews": 33,
       "sponsored": 4,
       "dell_stories": 0,
@@ -121,7 +121,7 @@
         },
         {
           "section": "Deals",
-          "count": 36
+          "count": 37
         },
         {
           "section": "Market Trends",
@@ -132,16 +132,16 @@
           "count": 1
         }
       ],
-      "avg_score": 62.4
+      "avg_score": 62.1
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 160,
+      "total": 161,
       "media": 109,
-      "youtube": 51,
+      "youtube": 52,
       "reviews": 43,
-      "sponsored": 1,
+      "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 3,
       "top_sources": [
@@ -181,7 +181,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 126
+          "count": 127
         },
         {
           "section": "Deals",
@@ -273,10 +273,10 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 135,
+      "total": 134,
       "media": 121,
-      "youtube": 14,
-      "reviews": 13,
+      "youtube": 13,
+      "reviews": 12,
       "sponsored": 3,
       "dell_stories": 0,
       "high_signal": 2,
@@ -321,7 +321,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 27
+          "count": 26
         },
         {
           "section": "Deals",
@@ -332,7 +332,7 @@
           "count": 4
         }
       ],
-      "avg_score": 63.6
+      "avg_score": 63.5
     },
     {
       "brand": "Dell",
@@ -765,9 +765,9 @@
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 39,
+      "total": 40,
       "media": 29,
-      "youtube": 10,
+      "youtube": 11,
       "reviews": 7,
       "sponsored": 0,
       "dell_stories": 0,
@@ -790,6 +790,10 @@
           "count": 3
         },
         {
+          "source": "Notebookcheck Reviews",
+          "count": 3
+        },
+        {
           "source": "Tom's Hardware",
           "count": 3
         },
@@ -800,16 +804,12 @@
         {
           "source": "Crimson Tech",
           "count": 2
-        },
-        {
-          "source": "Gizmodo",
-          "count": 2
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 21
+          "count": 22
         },
         {
           "section": "Deals",
@@ -824,7 +824,7 @@
           "count": 1
         }
       ],
-      "avg_score": 59.3
+      "avg_score": 59.6
     },
     {
       "brand": "Framework",
@@ -1398,27 +1398,27 @@
         "Dell": 13,
         "Valve": 13,
         "Apple": 12,
-        "Asus": 11,
+        "Asus": 10,
         "Acer": 5,
         "Framework": 5,
-        "Intel": 5,
+        "Intel": 4,
         "Qualcomm": 4,
         "AMD": 3,
         "Alienware": 3,
         "HP": 3,
         "Razer": 3,
+        "MSI": 2,
         "NVIDIA": 2,
-        "MSI": 1,
         "Microsoft": 1
       }
     },
     {
       "month": "2026-08",
       "brands": {
-        "Apple": 212,
+        "Apple": 213,
+        "Lenovo": 137,
         "Microsoft": 137,
-        "Lenovo": 136,
-        "Asus": 133,
+        "Asus": 135,
         "Intel": 125,
         "Dell": 68,
         "NVIDIA": 68,
@@ -1435,6 +1435,82 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:155190",
+      "kind": "youtube",
+      "source": "Loop Infinito",
+      "source_icon": "https://yt3.googleusercontent.com/GDHTPQokpmjDxrJbAHuLi1Rhjx1_q75cgDFKboVzzAv8ZcEVi4Wc_HqSIWwwNon5rUXKztkaPA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus Zenbook Duo Price in Brazil: Is It Expensive?",
+      "url": "https://www.youtube.com/shorts/3QzgRSzyFaA",
+      "published_at": "2026-08-29T16:09:52+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:154830",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "2026 student laptop recommendations comparing Apple, HP, Lenovo, and Gigabyte models",
+      "url": "https://www.youtube.com/shorts/VHkXphRFRBo",
+      "published_at": "2026-08-29T15:00:08+00:00",
+      "score": 0,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:155400",
+      "kind": "youtube",
+      "source": "Max Tech",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple unveils M5 Max and M5 Ultra chips with performance upgrades and new features",
+      "url": "https://www.youtube.com/watch?v=7UcSploiSp4",
+      "published_at": "2026-08-29T14:00:39+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:155280",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Best Value Laptops for Work and Study 2026",
+      "url": "https://www.youtube.com/watch?v=eire4JYRZO0",
+      "published_at": "2026-08-29T13:45:04+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:466639",
       "kind": "media",
@@ -6108,85 +6184,85 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:438306",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple unveils M6 2nm chipset powering new Mac mini with enhanced CPU, GPU, and AI cores",
-      "url": "https://wccftech.com/apple-m6-2nm-chip-mac-mini-launch/",
-      "published_at": "2026-08-25T14:12:33+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:437561",
-      "kind": "media",
-      "source": "TecMundo",
-      "source_icon": "",
+      "id": "youtube:155190",
+      "kind": "youtube",
+      "source": "Loop Infinito",
+      "source_icon": "https://yt3.googleusercontent.com/GDHTPQokpmjDxrJbAHuLi1Rhjx1_q75cgDFKboVzzAv8ZcEVi4Wc_HqSIWwwNon5rUXKztkaPA=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Apple launches new Mac mini and Mac Studio with details and prices",
-      "url": "https://www.tecmundo.com.br/produto/415535-apple-lanca-novos-computadores-mac-mini-e-mac-studio-saiba-detalhes-e-precos.htm",
-      "published_at": "2026-08-25T14:10:39+00:00",
+      "title": "Asus Zenbook Duo Price in Brazil: Is It Expensive?",
+      "url": "https://www.youtube.com/shorts/3QzgRSzyFaA",
+      "published_at": "2026-08-29T16:09:52+00:00",
       "score": 65,
       "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
+      "is_sponsored": true,
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:437852",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "id": "youtube:154830",
+      "kind": "youtube",
+      "source": "Just Josh",
+      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "2026 student laptop recommendations comparing Apple, HP, Lenovo, and Gigabyte models",
+      "url": "https://www.youtube.com/shorts/VHkXphRFRBo",
+      "published_at": "2026-08-29T15:00:08+00:00",
+      "score": 0,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:155400",
+      "kind": "youtube",
+      "source": "Max Tech",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
       "country": "US",
-      "section": "Competitor Coverage",
+      "section": "Ecosystem",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Acer Swift Go 16 AI laptop review highlights performance and battery issues",
-      "url": "https://www.pcworld.com/article/3205282/acer-swift-go-16-ai-review.html",
-      "published_at": "2026-08-25T14:00:00+00:00",
+      "title": "Apple unveils M5 Max and M5 Ultra chips with performance upgrades and new features",
+      "url": "https://www.youtube.com/watch?v=7UcSploiSp4",
+      "published_at": "2026-08-29T14:00:39+00:00",
       "score": 72,
       "is_review": true,
       "is_sponsored": false,
-      "brand": "Acer",
+      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:439362",
-      "kind": "media",
-      "source": "T3",
-      "source_icon": "",
-      "country": "GB",
+      "id": "youtube:155280",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Apple launches Mac Studio with M5 Max/Ultra for AI performance",
-      "url": "https://www.t3.com/tech/computers-pcs/new-apple-mac-studio-goes-straight-to-m5-max-and-m5-ultra-with-significant-performance-gains",
-      "published_at": "2026-08-25T13:51:04+00:00",
-      "score": 70,
-      "is_review": false,
+      "title": "Best Value Laptops for Work and Study 2026",
+      "url": "https://www.youtube.com/watch?v=eire4JYRZO0",
+      "published_at": "2026-08-29T13:45:04+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
-      "brand": "Apple",
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "media:466639",
       "kind": "media",
@@ -32313,41 +32389,22 @@
       "is_dell_story": true
     },
     {
-      "id": "youtube:73153",
+      "id": "youtube:154494",
       "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Review of Intel Arc Pro B70 GPU: Workstation Power with Gaming Potential",
-      "url": "https://www.youtube.com/watch?v=Dg2SzHCL9QY",
-      "published_at": "2026-07-14T19:56:09+00:00",
+      "title": "MSI Claw 8 EX Launch Edition unboxing - more than just a handheld!",
+      "url": "https://www.youtube.com/shorts/5NKMtsky4g0",
+      "published_at": "2026-07-14T15:30:42+00:00",
       "score": 72,
-      "is_review": true,
+      "is_review": false,
       "is_sponsored": false,
-      "brand": "Asus",
+      "brand": "MSI",
       "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:73153",
-      "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review of Intel Arc Pro B70 GPU: Workstation Power with Gaming Potential",
-      "url": "https://www.youtube.com/watch?v=Dg2SzHCL9QY",
-      "published_at": "2026-07-14T19:56:09+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
