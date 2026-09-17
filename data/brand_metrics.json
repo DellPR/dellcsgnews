@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T03:54:27.759060+00:00",
-  "total_items": 1570,
+  "generated_at": "2026-09-17T04:04:09.909795+00:00",
+  "total_items": 1575,
   "brands": [
     {
       "brand": "Apple",
@@ -585,8 +585,8 @@
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 57,
-      "media": 35,
+      "total": 56,
+      "media": 34,
       "youtube": 22,
       "reviews": 12,
       "sponsored": 5,
@@ -595,7 +595,7 @@
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
-          "count": 12
+          "count": 11
         },
         {
           "source": "Digital Trends",
@@ -629,14 +629,70 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 45
+          "count": 44
         },
         {
           "section": "Deals",
           "count": 12
         }
       ],
-      "avg_score": 61.4
+      "avg_score": 61.3
+    },
+    {
+      "brand": "Alienware",
+      "family": "Dell family",
+      "total": 50,
+      "media": 34,
+      "youtube": 16,
+      "reviews": 24,
+      "sponsored": 0,
+      "dell_stories": 50,
+      "high_signal": 46,
+      "top_sources": [
+        {
+          "source": "TFTCentral",
+          "count": 6
+        },
+        {
+          "source": "Adrenaline",
+          "count": 3
+        },
+        {
+          "source": "Notebookcheck Reviews",
+          "count": 3
+        },
+        {
+          "source": "CNET",
+          "count": 2
+        },
+        {
+          "source": "Lucas Ishii",
+          "count": 2
+        },
+        {
+          "source": "Tom's Guide",
+          "count": 2
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 2
+        },
+        {
+          "source": "Windows Central",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Dell Coverage",
+          "count": 43
+        },
+        {
+          "section": "Deals",
+          "count": 7
+        }
+      ],
+      "avg_score": 92.5
     },
     {
       "brand": "MSI",
@@ -761,62 +817,6 @@
         }
       ],
       "avg_score": 64.5
-    },
-    {
-      "brand": "Alienware",
-      "family": "Dell family",
-      "total": 44,
-      "media": 28,
-      "youtube": 16,
-      "reviews": 23,
-      "sponsored": 0,
-      "dell_stories": 44,
-      "high_signal": 40,
-      "top_sources": [
-        {
-          "source": "TFTCentral",
-          "count": 6
-        },
-        {
-          "source": "Notebookcheck Reviews",
-          "count": 3
-        },
-        {
-          "source": "CNET",
-          "count": 2
-        },
-        {
-          "source": "Lucas Ishii",
-          "count": 2
-        },
-        {
-          "source": "Tom's Guide",
-          "count": 2
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 2
-        },
-        {
-          "source": "Windows Central",
-          "count": 2
-        },
-        {
-          "source": "Adrenaline",
-          "count": 1
-        }
-      ],
-      "sections": [
-        {
-          "section": "Dell Coverage",
-          "count": 37
-        },
-        {
-          "section": "Deals",
-          "count": 7
-        }
-      ],
-      "avg_score": 92.4
     },
     {
       "brand": "Framework",
@@ -1417,8 +1417,8 @@
         "AMD": 57,
         "HP": 50,
         "Qualcomm": 36,
-        "Acer": 35,
         "Amazon": 35,
+        "Acer": 34,
         "Framework": 32,
         "MSI": 30,
         "Samsung": 29,
@@ -1432,9 +1432,9 @@
         "Microsoft": 27,
         "Apple": 26,
         "Asus": 22,
+        "Alienware": 19,
         "Dell": 18,
         "HP": 16,
-        "Alienware": 13,
         "Acer": 12,
         "NVIDIA": 10,
         "MSI": 9,
@@ -2608,6 +2608,25 @@
       "is_dell_story": false
     },
     {
+      "id": "media:484854",
+      "kind": "media",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Adrenaline reviews Alienware 15 as Dell's lower-cost gaming laptop for Brazil",
+      "url": "https://www.adrenaline.com.br/analise/notebooks/review-alienware-15-chegou-pra-brigar-no-segmento-mais-barato-de-notebooks-gamers/",
+      "published_at": "2026-09-14T16:33:00+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
       "id": "media:481735",
       "kind": "media",
       "source": "Trusted Reviews",
@@ -3634,6 +3653,25 @@
       "is_dell_story": false
     },
     {
+      "id": "media:484856",
+      "kind": "media",
+      "source": "PCLabs",
+      "source_icon": "",
+      "country": "",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "PCLabs covers Alienware 15 Brazil launch and entry configuration trade-offs",
+      "url": "https://pclabs.com.br/alienware-15-brasil-5999/",
+      "published_at": "2026-09-11T19:28:00+00:00",
+      "score": 85,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
       "id": "youtube:157351",
       "kind": "youtube",
       "source": "Andrew Marc David",
@@ -3767,6 +3805,44 @@
       "is_dell_story": true
     },
     {
+      "id": "media:484855",
+      "kind": "media",
+      "source": "SpaceMoney",
+      "source_icon": "",
+      "country": "",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "SpaceMoney covers Alienware 15 availability in Brazil from R$5,998",
+      "url": "https://www.spacemoney.com.br/tecnologia/alienware-15-notebook-gamer-brasil/",
+      "published_at": "2026-09-11T13:45:00+00:00",
+      "score": 90,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "media:484852",
+      "kind": "media",
+      "source": "Canaltech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=canaltech.com.br&sz=64",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Alienware 15 launches in Brazil as Dell's entry-level gaming laptop",
+      "url": "https://canaltech.com.br/notebook/alienware-anuncia-novo-notebook-gamer-da-crise-no-brasil-conheca/",
+      "published_at": "2026-09-11T12:50:00+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
       "id": "media:482628",
       "kind": "media",
       "source": "Notebookcheck DE - News",
@@ -3803,6 +3879,25 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
+    },
+    {
+      "id": "media:484857",
+      "kind": "media",
+      "source": "Melhores Tech",
+      "source_icon": "",
+      "country": "",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Melhores Tech frames Alienware 15 as the most affordable Alienware laptop in Brazil",
+      "url": "https://melhorestech.com/noticias/alienware-15-lancamento-brasil-preco/",
+      "published_at": "2026-09-11T12:00:00+00:00",
+      "score": 85,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
     },
     {
       "id": "media:482631",
@@ -3950,6 +4045,25 @@
       "url": "https://www.showmetech.com.br/alienware-15-chega-ao-brasil-a-partir-de-5999-reais/",
       "published_at": "2026-09-11T02:15:46+00:00",
       "score": 90,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "media:484853",
+      "kind": "media",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Alienware 15 arrives in Brazil with local manufacturing and R$5,999 starting price",
+      "url": "https://www.adrenaline.com.br/notebook/alienware-lanca-notebook-gamer-fabricado-no-brasil/",
+      "published_at": "2026-09-11T00:18:00+00:00",
+      "score": 100,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Alienware",
@@ -6083,120 +6197,6 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:478642",
-      "kind": "media",
-      "source": "Frandroid",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "OpenAI and Anthropic buy thousands of Mac mini and Studio for AI training",
-      "url": "https://www.frandroid.com/marques/apple/3226951_pourquoi-openai-et-anthropic-assechent-les-stocks-de-mac-mini-et-studio",
-      "published_at": "2026-08-31T10:30:17+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "OpenAI",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:480268",
-      "kind": "media",
-      "source": "Netzwelt",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Windows 11 tweak improves PC performance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3VHSDJMYnpjX2NyRzRYV1JTZU1hM3pCSGpXSmhxb1p2R1J3aVNSZW1NeGZwUkpUdWJjTmFrQUhPeWxYVW9kaFlCVHAzTWRZc25iTzhrcHJDVFIwc1F5WmN3eEx5STl3NkhRa1g4alE4ejB1aDZaR1laYk5TRGtjOGpqZ3JsMjFXUXBtSkZrZjBUT3JKbmRTejhPOA?oc=5",
-      "published_at": "2026-08-31T10:30:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:480984",
-      "kind": "media",
-      "source": "Futura",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Lenovo gaming PC with RTX 5070 discounted by €350 at Cdiscount",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTHB5ajNJSG5FSV8wUTBxVlN0blpGbFlYTnRBd2pvcThSdTBBZDBZZFFybXQyb25CbWtyaHVSek90QmFSRGIybUxlYnlUdjJhYzE1Z2NjUS1ERlZMN0UzaURMWktqaE9uMXRYUUtyMDh2RUlRM2FTcHVIOFpxRGNDT2duUXptcEsxYkNndTN3Yl92UDBDblR4UHhZTEQwYjlKM25DTTZReGdZdm1zN0xhSzFXRnRiNnpJMWFDaVprRmhWTU1aMnJtb2I3NF9YLXIwZ3ZnNi1jOA?oc=5",
-      "published_at": "2026-08-31T10:00:00+00:00",
-      "score": 20,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:479507",
-      "kind": "media",
-      "source": "PC-WELT News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "SSK 1-TB USB-Stick SSD drops to $120 on Amazon with dual ports",
-      "url": "https://www.pcwelt.de/article/3194489/ssk-1-tb-usb-c-stick-ssd-guenstiger-rabatt-deal-amazon.html",
-      "published_at": "2026-08-31T09:15:00+00:00",
-      "score": 15,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Amazon",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:478369",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple announces early Mac mini and Mac Studio due to AI demand",
-      "url": "https://winfuture.de/news,160957.html",
-      "published_at": "2026-08-31T07:43:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:479518",
-      "kind": "media",
-      "source": "PC-WELT News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "HP promotes Chromebook with 45% discount for students and remote workers",
-      "url": "https://www.pcwelt.de/article/3184585/hp-chromebook-x360-14-zoll-angebot-deal-rabatt.html",
-      "published_at": "2026-08-31T07:20:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -7360,6 +7360,25 @@
       "is_dell_story": false
     },
     {
+      "id": "media:484854",
+      "kind": "media",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Adrenaline reviews Alienware 15 as Dell's lower-cost gaming laptop for Brazil",
+      "url": "https://www.adrenaline.com.br/analise/notebooks/review-alienware-15-chegou-pra-brigar-no-segmento-mais-barato-de-notebooks-gamers/",
+      "published_at": "2026-09-14T16:33:00+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
       "id": "media:481735",
       "kind": "media",
       "source": "Trusted Reviews",
@@ -8386,6 +8405,25 @@
       "is_dell_story": false
     },
     {
+      "id": "media:484856",
+      "kind": "media",
+      "source": "PCLabs",
+      "source_icon": "",
+      "country": "",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "PCLabs covers Alienware 15 Brazil launch and entry configuration trade-offs",
+      "url": "https://pclabs.com.br/alienware-15-brasil-5999/",
+      "published_at": "2026-09-11T19:28:00+00:00",
+      "score": 85,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
       "id": "youtube:157351",
       "kind": "youtube",
       "source": "Andrew Marc David",
@@ -8519,6 +8557,44 @@
       "is_dell_story": true
     },
     {
+      "id": "media:484855",
+      "kind": "media",
+      "source": "SpaceMoney",
+      "source_icon": "",
+      "country": "",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "SpaceMoney covers Alienware 15 availability in Brazil from R$5,998",
+      "url": "https://www.spacemoney.com.br/tecnologia/alienware-15-notebook-gamer-brasil/",
+      "published_at": "2026-09-11T13:45:00+00:00",
+      "score": 90,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "media:484852",
+      "kind": "media",
+      "source": "Canaltech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=canaltech.com.br&sz=64",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Alienware 15 launches in Brazil as Dell's entry-level gaming laptop",
+      "url": "https://canaltech.com.br/notebook/alienware-anuncia-novo-notebook-gamer-da-crise-no-brasil-conheca/",
+      "published_at": "2026-09-11T12:50:00+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
       "id": "media:482628",
       "kind": "media",
       "source": "Notebookcheck DE - News",
@@ -8555,6 +8631,25 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
+    },
+    {
+      "id": "media:484857",
+      "kind": "media",
+      "source": "Melhores Tech",
+      "source_icon": "",
+      "country": "",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Melhores Tech frames Alienware 15 as the most affordable Alienware laptop in Brazil",
+      "url": "https://melhorestech.com/noticias/alienware-15-lancamento-brasil-preco/",
+      "published_at": "2026-09-11T12:00:00+00:00",
+      "score": 85,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
     },
     {
       "id": "media:482631",
@@ -8702,6 +8797,25 @@
       "url": "https://www.showmetech.com.br/alienware-15-chega-ao-brasil-a-partir-de-5999-reais/",
       "published_at": "2026-09-11T02:15:46+00:00",
       "score": 90,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "media:484853",
+      "kind": "media",
+      "source": "Adrenaline",
+      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Alienware 15 arrives in Brazil with local manufacturing and R$5,999 starting price",
+      "url": "https://www.adrenaline.com.br/notebook/alienware-lanca-notebook-gamer-fabricado-no-brasil/",
+      "published_at": "2026-09-11T00:18:00+00:00",
+      "score": 100,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Alienware",
@@ -31696,25 +31810,6 @@
       "is_sponsored": false,
       "brand": "Meta",
       "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:314180",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Leaked specs for Acer Googlebook 14: Intel Panther Lake, 14-inch OLED, 32GB RAM",
-      "url": "https://www.notebookcheck.com/Leak-Acer-Googlebook-14-setzt-auf-Core-Ultra-7-355-2-8K-OLED-und-32GB-RAM.1365911.0.html",
-      "published_at": "2026-08-11T18:52:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
       "is_dell_story": false
     },
     {
