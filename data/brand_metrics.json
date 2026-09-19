@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T00:03:54.219241+00:00",
-  "total_items": 1446,
+  "generated_at": "2026-09-19T19:36:20.290977+00:00",
+  "total_items": 1444,
   "brands": [
     {
       "brand": "Apple",
@@ -141,11 +141,11 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 150,
+      "total": 149,
       "media": 99,
-      "youtube": 51,
-      "reviews": 41,
-      "sponsored": 2,
+      "youtube": 50,
+      "reviews": 40,
+      "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 3,
       "top_sources": [
@@ -178,14 +178,14 @@
           "count": 6
         },
         {
-          "source": "LaptopMedia",
+          "source": "Adrenaline",
           "count": 5
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 122
+          "count": 121
         },
         {
           "section": "Deals",
@@ -200,7 +200,7 @@
           "count": 1
         }
       ],
-      "avg_score": 64.0
+      "avg_score": 63.9
     },
     {
       "brand": "Microsoft",
@@ -581,10 +581,10 @@
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 55,
+      "total": 54,
       "media": 38,
-      "youtube": 17,
-      "reviews": 13,
+      "youtube": 16,
+      "reviews": 12,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 0,
@@ -602,10 +602,6 @@
           "count": 3
         },
         {
-          "source": "Crimson Tech",
-          "count": 2
-        },
-        {
           "source": "Digital Trends",
           "count": 2
         },
@@ -620,19 +616,23 @@
         {
           "source": "Tom's Hardware",
           "count": 2
+        },
+        {
+          "source": "Zip Tie Tech",
+          "count": 2
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 45
+          "count": 44
         },
         {
           "section": "Deals",
           "count": 10
         }
       ],
-      "avg_score": 62.7
+      "avg_score": 62.5
     },
     {
       "brand": "Alienware",
@@ -1345,7 +1345,7 @@
       "month": "2026-08",
       "brands": {
         "Apple": 177,
-        "Asus": 99,
+        "Asus": 97,
         "Intel": 95,
         "Microsoft": 93,
         "Lenovo": 89,
@@ -1353,9 +1353,9 @@
         "Dell": 52,
         "AMD": 50,
         "HP": 48,
-        "Acer": 31,
         "Amazon": 31,
         "Framework": 31,
+        "Acer": 30,
         "MSI": 29,
         "Samsung": 27,
         "Alienware": 25,
@@ -1368,7 +1368,7 @@
         "Lenovo": 56,
         "Microsoft": 44,
         "Apple": 41,
-        "Asus": 36,
+        "Asus": 37,
         "Dell": 26,
         "HP": 26,
         "Intel": 25,
@@ -1441,6 +1441,25 @@
       "brand": "Alienware",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:162570",
+      "kind": "youtube",
+      "source": "Adrenaline",
+      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Testing Onimusha on Asus ROG Xbox Ally X portable gaming device",
+      "url": "https://www.youtube.com/shorts/oIuuI32l1qI",
+      "published_at": "2026-09-18T21:00:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:499685",
@@ -6115,25 +6134,6 @@
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:482122",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework refunds customers due to cheaper RAM purchases",
-      "url": "https://winfuture.de/news,161238.html",
-      "published_at": "2026-09-12T16:45:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6193,6 +6193,25 @@
       "brand": "Alienware",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:162570",
+      "kind": "youtube",
+      "source": "Adrenaline",
+      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Testing Onimusha on Asus ROG Xbox Ally X portable gaming device",
+      "url": "https://www.youtube.com/shorts/oIuuI32l1qI",
+      "published_at": "2026-09-18T21:00:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "media:499685",
@@ -31879,63 +31898,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:112380",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Back to School laptop review featuring four ASUS models",
-      "url": "https://www.youtube.com/watch?v=An5fUa7e-8A",
-      "published_at": "2026-08-05T13:00:21+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:111930",
-      "kind": "youtube",
-      "source": "Crimson Tech",
-      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer Nitro V 16S (2026) unboxing and budget gaming laptop evaluation",
-      "url": "https://www.youtube.com/watch?v=HCZ8nux2GSI",
-      "published_at": "2026-08-05T08:00:26+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:111660",
-      "kind": "youtube",
-      "source": "TecMundo",
-      "source_icon": "https://yt3.googleusercontent.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "What laptop is Spider-Man using in the movie?",
-      "url": "https://www.youtube.com/shorts/KC8FpAwXkhk",
-      "published_at": "2026-08-05T01:00:01+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": true,
-      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
