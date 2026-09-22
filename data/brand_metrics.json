@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-22T14:57:08.750998+00:00",
-  "total_items": 1430,
+  "generated_at": "2026-09-22T18:33:40.185902+00:00",
+  "total_items": 1433,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 231,
+      "total": 232,
       "media": 191,
-      "youtube": 40,
-      "reviews": 23,
+      "youtube": 41,
+      "reviews": 24,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 3,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 181
+          "count": 182
         },
         {
           "section": "Deals",
@@ -68,7 +68,7 @@
           "count": 3
         }
       ],
-      "avg_score": 62.9
+      "avg_score": 63.0
     },
     {
       "brand": "Lenovo",
@@ -141,10 +141,10 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 149,
+      "total": 150,
       "media": 100,
-      "youtube": 49,
-      "reviews": 38,
+      "youtube": 50,
+      "reviews": 39,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 3,
@@ -185,7 +185,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 120
+          "count": 121
         },
         {
           "section": "Deals",
@@ -989,9 +989,9 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 23,
+      "total": 24,
       "media": 17,
-      "youtube": 6,
+      "youtube": 7,
       "reviews": 2,
       "sponsored": 0,
       "dell_stories": 0,
@@ -1033,7 +1033,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 20
+          "count": 21
         },
         {
           "section": "Competitor Coverage",
@@ -1048,7 +1048,7 @@
           "count": 1
         }
       ],
-      "avg_score": 68.7
+      "avg_score": 68.3
     },
     {
       "brand": "Google",
@@ -1397,10 +1397,10 @@
     {
       "month": "2026-09",
       "brands": {
-        "Apple": 72,
+        "Apple": 73,
         "Lenovo": 66,
         "Microsoft": 58,
-        "Asus": 48,
+        "Asus": 49,
         "Dell": 39,
         "Acer": 34,
         "HP": 33,
@@ -1410,13 +1410,70 @@
         "MSI": 21,
         "AMD": 20,
         "Qualcomm": 12,
-        "Valve": 11,
+        "Valve": 12,
         "Amazon": 7,
         "Google": 7
       }
     }
   ],
   "recent": [
+    {
+      "id": "youtube:167010",
+      "kind": "youtube",
+      "source": "The Tech Chap",
+      "source_icon": "https://yt3.googleusercontent.com/BqQGAGWm03aiyeviWMIjILHE9EInqFQSvKFHGBZcT9M_BBhCh5NdPXrmpbHZb_mmhkhu_C3K=s68-c-k-c0x00ffffff-no-rj",
+      "country": "GB",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple Mac Mini M6 review: Performance, price, and value analysis",
+      "url": "https://www.youtube.com/watch?v=WMrIeVE0vOU",
+      "published_at": "2026-09-22T16:23:47+00:00",
+      "score": 75,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:166981",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Review of Asus Expertbook P1: Durable laptop with 3-year warranty",
+      "url": "https://www.youtube.com/watch?v=gsoGiWSDyAQ",
+      "published_at": "2026-09-22T14:06:07+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:166650",
+      "kind": "youtube",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Steam Machine gets snap-on screens",
+      "url": "https://www.youtube.com/shorts/qJRPeAw7kHo",
+      "published_at": "2026-09-22T14:00:15+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:521783",
       "kind": "media",
@@ -6109,66 +6166,66 @@
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:486115",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
+      "id": "youtube:167010",
+      "kind": "youtube",
+      "source": "The Tech Chap",
+      "source_icon": "https://yt3.googleusercontent.com/BqQGAGWm03aiyeviWMIjILHE9EInqFQSvKFHGBZcT9M_BBhCh5NdPXrmpbHZb_mmhkhu_C3K=s68-c-k-c0x00ffffff-no-rj",
+      "country": "GB",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "HP ZBook X Workstation with Core Ultra 7 and RTX Pro 2000 on Sale",
-      "url": "https://www.notebookcheck.com/RTX-Pro-2000-32-GB-RAM-1-TB-SSD-Core-Ultra-7-4k-Display-HP-Workstation-im-Angebot.1401840.0.html",
-      "published_at": "2026-09-17T11:59:00+00:00",
-      "score": 65,
-      "is_review": false,
+      "title": "Apple Mac Mini M6 review: Performance, price, and value analysis",
+      "url": "https://www.youtube.com/watch?v=WMrIeVE0vOU",
+      "published_at": "2026-09-22T16:23:47+00:00",
+      "score": 75,
+      "is_review": true,
       "is_sponsored": false,
-      "brand": "HP",
+      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:484971",
-      "kind": "media",
-      "source": "Tecnoblog",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "id": "youtube:166981",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Intel and SK Hynix may close deal to manufacture chips in the USA",
-      "url": "https://tecnoblog.net/noticias/intel-e-sk-hynix-podem-fechar-acordo-para-fabricar-chips-nos-eua/",
-      "published_at": "2026-09-17T11:20:51+00:00",
-      "score": 55,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:486883",
-      "kind": "media",
-      "source": "Les Numériques",
-      "source_icon": "",
-      "country": "FR",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Asus ProArt PZ14 tablet challenges Microsoft Surface with Snapdragon and larger screen",
-      "url": "https://www.lesnumeriques.com/ordinateur-portable/asus-poart-pz14-ht7407-p78233/test.html",
-      "published_at": "2026-09-17T11:00:00+00:00",
-      "score": 65,
-      "is_review": false,
+      "title": "Review of Asus Expertbook P1: Durable laptop with 3-year warranty",
+      "url": "https://www.youtube.com/watch?v=gsoGiWSDyAQ",
+      "published_at": "2026-09-22T14:06:07+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
       "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "youtube:166650",
+      "kind": "youtube",
+      "source": "The Verge",
+      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Steam Machine gets snap-on screens",
+      "url": "https://www.youtube.com/shorts/qJRPeAw7kHo",
+      "published_at": "2026-09-22T14:00:15+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:521783",
       "kind": "media",
