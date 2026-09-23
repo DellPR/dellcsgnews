@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T20:30:07.080458+00:00",
-  "total_items": 1421,
+  "generated_at": "2026-09-23T22:31:13.741892+00:00",
+  "total_items": 1429,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 220,
-      "media": 177,
+      "total": 218,
+      "media": 175,
       "youtube": 43,
       "reviews": 26,
       "sponsored": 0,
@@ -26,11 +26,11 @@
           "count": 11
         },
         {
-          "source": "Tom's Guide",
-          "count": 11
+          "source": "TechRadar",
+          "count": 10
         },
         {
-          "source": "TechRadar",
+          "source": "Tom's Guide",
           "count": 10
         },
         {
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 176
+          "count": 174
         },
         {
           "section": "Deals",
@@ -73,8 +73,8 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 150,
-      "media": 98,
+      "total": 149,
+      "media": 97,
       "youtube": 52,
       "reviews": 40,
       "sponsored": 1,
@@ -94,10 +94,6 @@
           "count": 7
         },
         {
-          "source": "Wccftech",
-          "count": 7
-        },
-        {
           "source": "Adrenaline",
           "count": 6
         },
@@ -112,6 +108,10 @@
         {
           "source": "VideoCardz",
           "count": 6
+        },
+        {
+          "source": "Wccftech",
+          "count": 6
         }
       ],
       "sections": [
@@ -121,7 +121,7 @@
         },
         {
           "section": "Deals",
-          "count": 22
+          "count": 21
         },
         {
           "section": "Ecosystem",
@@ -132,7 +132,7 @@
           "count": 1
         }
       ],
-      "avg_score": 64.7
+      "avg_score": 64.9
     },
     {
       "brand": "Lenovo",
@@ -147,7 +147,7 @@
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
-          "count": 54
+          "count": 53
         },
         {
           "source": "Futura",
@@ -181,11 +181,11 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 103
+          "count": 102
         },
         {
           "section": "Deals",
-          "count": 40
+          "count": 41
         },
         {
           "section": "Market Trends",
@@ -196,34 +196,34 @@
           "count": 1
         }
       ],
-      "avg_score": 61.5
+      "avg_score": 61.3
     },
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 137,
-      "media": 134,
+      "total": 146,
+      "media": 143,
       "youtube": 3,
-      "reviews": 4,
+      "reviews": 5,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
       "top_sources": [
         {
           "source": "WinFuture",
-          "count": 20
+          "count": 21
+        },
+        {
+          "source": "Windows Central",
+          "count": 15
         },
         {
           "source": "Clubic",
           "count": 14
         },
         {
-          "source": "Windows Central",
-          "count": 12
-        },
-        {
           "source": "Notebookcheck DE - News",
-          "count": 11
+          "count": 13
         },
         {
           "source": "Les Numériques",
@@ -245,11 +245,11 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 98
+          "count": 97
         },
         {
           "section": "Competitor Coverage",
-          "count": 28
+          "count": 38
         },
         {
           "section": "Deals",
@@ -260,7 +260,7 @@
           "count": 1
         }
       ],
-      "avg_score": 51.8
+      "avg_score": 52.9
     },
     {
       "brand": "Intel",
@@ -332,14 +332,14 @@
       "total": 89,
       "media": 73,
       "youtube": 16,
-      "reviews": 21,
+      "reviews": 20,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 1,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
-          "count": 22
+          "count": 23
         },
         {
           "source": "Futura",
@@ -358,12 +358,12 @@
           "count": 4
         },
         {
-          "source": "Notebookcheck Reviews",
+          "source": "VideoCardz",
           "count": 4
         },
         {
-          "source": "VideoCardz",
-          "count": 4
+          "source": "Notebookcheck Reviews",
+          "count": 3
         },
         {
           "source": "Olhar Digital",
@@ -388,7 +388,7 @@
           "count": 1
         }
       ],
-      "avg_score": 58.9
+      "avg_score": 58.8
     },
     {
       "brand": "NVIDIA",
@@ -457,13 +457,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 87,
-      "media": 55,
+      "total": 86,
+      "media": 54,
       "youtube": 32,
       "reviews": 41,
       "sponsored": 1,
-      "dell_stories": 87,
-      "high_signal": 84,
+      "dell_stories": 86,
+      "high_signal": 83,
       "top_sources": [
         {
           "source": "Tom's Hardware",
@@ -474,12 +474,12 @@
           "count": 5
         },
         {
-          "source": "Notebookcheck DE - News",
+          "source": "Techaeris",
           "count": 5
         },
         {
-          "source": "Techaeris",
-          "count": 5
+          "source": "Notebookcheck DE - News",
+          "count": 4
         },
         {
           "source": "Notebookcheck Reviews",
@@ -501,7 +501,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 79
+          "count": 78
         },
         {
           "section": "Deals",
@@ -573,8 +573,8 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 53,
-      "media": 49,
+      "total": 52,
+      "media": 48,
       "youtube": 4,
       "reviews": 5,
       "sponsored": 0,
@@ -586,11 +586,11 @@
           "count": 7
         },
         {
-          "source": "Wccftech",
-          "count": 6
+          "source": "Clubic",
+          "count": 5
         },
         {
-          "source": "Clubic",
+          "source": "Wccftech",
           "count": 5
         },
         {
@@ -617,7 +617,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 28
+          "count": 27
         },
         {
           "section": "Deals",
@@ -747,10 +747,78 @@
       "avg_score": 58.4
     },
     {
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "total": 39,
+      "media": 34,
+      "youtube": 5,
+      "reviews": 5,
+      "sponsored": 1,
+      "dell_stories": 0,
+      "high_signal": 2,
+      "top_sources": [
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 7
+        },
+        {
+          "source": "Windows Central",
+          "count": 4
+        },
+        {
+          "source": "Clubic",
+          "count": 3
+        },
+        {
+          "source": "TudoCelular",
+          "count": 3
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 2
+        },
+        {
+          "source": "Wccftech",
+          "count": 2
+        },
+        {
+          "source": "XDA Developers",
+          "count": 2
+        },
+        {
+          "source": "Adrenaline",
+          "count": 1
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 25
+        },
+        {
+          "section": "Ecosystem",
+          "count": 8
+        },
+        {
+          "section": "Deals",
+          "count": 4
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 1
+        },
+        {
+          "section": "Market Trends",
+          "count": 1
+        }
+      ],
+      "avg_score": 64.1
+    },
+    {
       "brand": "Amazon",
       "family": "Other",
-      "total": 37,
-      "media": 37,
+      "total": 36,
+      "media": 36,
       "youtube": 0,
       "reviews": 0,
       "sponsored": 0,
@@ -766,10 +834,6 @@
           "count": 5
         },
         {
-          "source": "Wccftech",
-          "count": 4
-        },
-        {
           "source": "Le Parisien",
           "count": 3
         },
@@ -779,6 +843,10 @@
         },
         {
           "source": "TechRadar",
+          "count": 3
+        },
+        {
+          "source": "Wccftech",
           "count": 3
         },
         {
@@ -793,134 +861,10 @@
       "sections": [
         {
           "section": "Deals",
-          "count": 37
+          "count": 36
         }
       ],
-      "avg_score": 28.9
-    },
-    {
-      "brand": "Framework",
-      "family": "PC competitors",
-      "total": 33,
-      "media": 26,
-      "youtube": 7,
-      "reviews": 3,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 0,
-      "top_sources": [
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 5
-        },
-        {
-          "source": "Clubic",
-          "count": 3
-        },
-        {
-          "source": "Austin Evans",
-          "count": 2
-        },
-        {
-          "source": "HotHardware",
-          "count": 2
-        },
-        {
-          "source": "LMGClips",
-          "count": 2
-        },
-        {
-          "source": "PCMag",
-          "count": 2
-        },
-        {
-          "source": "TI Inside",
-          "count": 2
-        },
-        {
-          "source": "The Verge",
-          "count": 2
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 31
-        },
-        {
-          "section": "Market Trends",
-          "count": 2
-        }
-      ],
-      "avg_score": 67.1
-    },
-    {
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "total": 33,
-      "media": 28,
-      "youtube": 5,
-      "reviews": 5,
-      "sponsored": 1,
-      "dell_stories": 0,
-      "high_signal": 2,
-      "top_sources": [
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 7
-        },
-        {
-          "source": "Clubic",
-          "count": 3
-        },
-        {
-          "source": "TudoCelular",
-          "count": 3
-        },
-        {
-          "source": "Windows Central",
-          "count": 3
-        },
-        {
-          "source": "Wccftech",
-          "count": 2
-        },
-        {
-          "source": "Adrenaline",
-          "count": 1
-        },
-        {
-          "source": "Andrew Marc David",
-          "count": 1
-        },
-        {
-          "source": "Computerworld",
-          "count": 1
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 20
-        },
-        {
-          "section": "Ecosystem",
-          "count": 7
-        },
-        {
-          "section": "Deals",
-          "count": 4
-        },
-        {
-          "section": "Dell Coverage",
-          "count": 1
-        },
-        {
-          "section": "Market Trends",
-          "count": 1
-        }
-      ],
-      "avg_score": 63.5
+      "avg_score": 28.8
     },
     {
       "brand": "Samsung",
@@ -983,10 +927,66 @@
       "avg_score": 51.6
     },
     {
+      "brand": "Framework",
+      "family": "PC competitors",
+      "total": 31,
+      "media": 24,
+      "youtube": 7,
+      "reviews": 3,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 0,
+      "top_sources": [
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 5
+        },
+        {
+          "source": "Clubic",
+          "count": 3
+        },
+        {
+          "source": "TI Inside",
+          "count": 3
+        },
+        {
+          "source": "Austin Evans",
+          "count": 2
+        },
+        {
+          "source": "HotHardware",
+          "count": 2
+        },
+        {
+          "source": "LMGClips",
+          "count": 2
+        },
+        {
+          "source": "PCMag",
+          "count": 2
+        },
+        {
+          "source": "The Verge",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 29
+        },
+        {
+          "section": "Market Trends",
+          "count": 2
+        }
+      ],
+      "avg_score": 67.7
+    },
+    {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 24,
-      "media": 16,
+      "total": 25,
+      "media": 17,
       "youtube": 8,
       "reviews": 3,
       "sponsored": 0,
@@ -999,7 +999,7 @@
         },
         {
           "source": "Notebookcheck DE - News",
-          "count": 4
+          "count": 5
         },
         {
           "source": "Austin Evans",
@@ -1029,7 +1029,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 21
+          "count": 22
         },
         {
           "section": "Competitor Coverage",
@@ -1044,7 +1044,7 @@
           "count": 1
         }
       ],
-      "avg_score": 68.9
+      "avg_score": 68.6
     },
     {
       "brand": "Google",
@@ -1388,18 +1388,18 @@
     {
       "month": "2026-08",
       "brands": {
-        "Apple": 130,
-        "Asus": 79,
-        "Microsoft": 66,
-        "Lenovo": 65,
+        "Apple": 128,
+        "Asus": 78,
+        "Microsoft": 65,
+        "Lenovo": 64,
         "NVIDIA": 56,
         "Intel": 52,
-        "HP": 42,
-        "AMD": 31,
-        "Dell": 29,
-        "Framework": 28,
-        "Amazon": 26,
+        "HP": 41,
+        "AMD": 30,
+        "Dell": 28,
         "Samsung": 26,
+        "Amazon": 25,
+        "Framework": 25,
         "MSI": 23,
         "Acer": 21,
         "Alienware": 21,
@@ -1410,25 +1410,405 @@
       "month": "2026-09",
       "brands": {
         "Apple": 82,
-        "Lenovo": 71,
-        "Microsoft": 70,
+        "Microsoft": 80,
+        "Lenovo": 72,
         "Asus": 56,
         "Dell": 44,
         "Acer": 41,
-        "HP": 40,
+        "HP": 41,
         "Intel": 37,
         "NVIDIA": 31,
         "Alienware": 27,
         "MSI": 23,
+        "Qualcomm": 22,
         "AMD": 20,
-        "Qualcomm": 16,
-        "Valve": 13,
+        "Valve": 14,
         "Amazon": 11,
         "Google": 10
       }
     }
   ],
   "recent": [
+    {
+      "id": "media:540125",
+      "kind": "media",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Lenovo Core 7 laptop drops to $680 in one-day sale",
+      "url": "https://www.xda-developers.com/this-lenovo-intel-core-7-laptop-is-now-nearly-half-off/",
+      "published_at": "2026-09-23T21:05:17+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539898",
+      "kind": "media",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft refreshes Surface hardware ahead of October event",
+      "url": "https://www.windowscentral.com/hardware/surface/microsoft-just-undercut-its-windows-and-surface-event-the-company-couldnt-even-last-two-weeks",
+      "published_at": "2026-09-23T21:00:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:540841",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP Launches Omen Transcend 14 with Core Ultra 9 and RTX 5070",
+      "url": "https://www.notebookcheck.com/GeForce-RTX-5070-Core-Ultra-9-64-GB-RAM-2-TB-SSD-2-8k-OLED-HP-Gaming-Notebook-im-Angebot.1407008.0.html",
+      "published_at": "2026-09-23T20:56:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:540127",
+      "kind": "media",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Qualcomm improves Linux support on Snapdragon X2 laptops",
+      "url": "https://www.xda-developers.com/qualcomm-is-helping-linux-run-better-on-snapdragon-x2-laptops-with-an-early-developer-preview/",
+      "published_at": "2026-09-23T20:54:19+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:540128",
+      "kind": "media",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft refreshes Surface Pro and Laptop with Snapdragon X2 Plus",
+      "url": "https://www.xda-developers.com/microsofts-surface-pro-and-surface-laptop-refresh-is-powered-by-qualcomms-x2-plus-chip/",
+      "published_at": "2026-09-23T20:33:31+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:540128",
+      "kind": "media",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft refreshes Surface Pro and Laptop with Snapdragon X2 Plus",
+      "url": "https://www.xda-developers.com/microsofts-surface-pro-and-surface-laptop-refresh-is-powered-by-qualcomms-x2-plus-chip/",
+      "published_at": "2026-09-23T20:33:31+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539818",
+      "kind": "media",
+      "source": "The Verge",
+      "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft refreshes Surface Pro and Laptop with Qualcomm X2 Plus chips",
+      "url": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539818",
+      "kind": "media",
+      "source": "The Verge",
+      "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft refreshes Surface Pro and Laptop with Qualcomm X2 Plus chips",
+      "url": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539829",
+      "kind": "media",
+      "source": "Engadget",
+      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft's new Surface Pro 12 and Surface Laptop 13 feature Snapdragon X2 Plus chips",
+      "url": "https://www.engadget.com/2266680/microsofts-new-surface-pro-12-and-surface-laptop-13-feature-snapdragon-x2-plus-chips/",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539829",
+      "kind": "media",
+      "source": "Engadget",
+      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft's new Surface Pro 12 and Surface Laptop 13 feature Snapdragon X2 Plus chips",
+      "url": "https://www.engadget.com/2266680/microsofts-new-surface-pro-12-and-surface-laptop-13-feature-snapdragon-x2-plus-chips/",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539848",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft upgrades Surface devices with Snapdragon X2 Plus",
+      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-brings-snapdragon-x2-plus-to-13-inch-surface-laptop-12-inch-surface-pro-low-end-systems-finally-get-upgrades",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539848",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft upgrades Surface devices with Snapdragon X2 Plus",
+      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-brings-snapdragon-x2-plus-to-13-inch-surface-laptop-12-inch-surface-pro-low-end-systems-finally-get-upgrades",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539899",
+      "kind": "media",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft introduces AI-powered Surface Ink Canvas for Windows PCs",
+      "url": "https://www.windowscentral.com/hardware/surface/microsoft-unveils-ai-powered-ink-canvas-alongside-refreshed-surface-pro-and-surface-laptop",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539901",
+      "kind": "media",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft refreshes Surface Pro and Surface Laptop with Snapdragon X2 and brighter screens",
+      "url": "https://www.windowscentral.com/hardware/surface/microsoft-unveils-new-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2-plus-brighter-screens-and-5g-options-heres-a-first-look",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539901",
+      "kind": "media",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft refreshes Surface Pro and Surface Laptop with Snapdragon X2 and brighter screens",
+      "url": "https://www.windowscentral.com/hardware/surface/microsoft-unveils-new-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2-plus-brighter-screens-and-5g-options-heres-a-first-look",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:540844",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft unveils new Surface Laptop 13 with brighter display and 18h battery",
+      "url": "https://www.notebookcheck.com/Microsoft-enthuellt-neuen-Surface-Laptop-13-mit-25-hellerem-Display-und-18h-Laufzeit.1407005.0.html",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:540845",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft launches silent Surface Pro 12 Gen 2 with 5G",
+      "url": "https://www.notebookcheck.com/Microsoft-veroeffentlicht-lautloses-Surface-Pro-12-Gen-2-mit-5G.1407004.0.html",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:540446",
+      "kind": "media",
+      "source": "WinFuture",
+      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Review: Microsoft Surface Pro 12th Gen Tested with Snapdragon X Plus",
+      "url": "https://winfuture.de/videos/Hardware/Microsoft-Surface-Pro-Die-12.-Generation-zeigt-im-Test-was-sie-kann-29089.html",
+      "published_at": "2026-09-23T19:34:20+00:00",
+      "score": 65,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:540667",
+      "kind": "media",
+      "source": "TI Inside",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "AI adoption requires human governance and data infrastructure overhaul",
+      "url": "https://tiinside.com.br/23/09/2026/adocao-de-ia-e-uma-operacao-continua-de-montagem-com-inteligencia-humana-e-governanca/",
+      "published_at": "2026-09-23T19:32:47+00:00",
+      "score": 78,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:540846",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Jsaux restocks Steam Machine front panels for sale",
+      "url": "https://www.notebookcheck.com/Jsaux-bringt-Steam-Machine-Frontblenden-zurueck-auf-Lager.1407002.0.html",
+      "published_at": "2026-09-23T19:15:00+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:537179",
       "kind": "media",
@@ -5798,19 +6178,21 @@
       "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:503433",
+      "id": "media:540125",
       "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
       "country": "US",
       "section": "Deals",
       "is_deal": true,
       "deal_metric_only": true,
-      "title": "Lenovo Chromebook drops to $80 with touchscreen",
-      "url": "https://www.pcworld.com/article/3238107/this-lenovo-chromebook-touchscreen-drops-to-80.html",
-      "published_at": "2026-09-19T08:00:00+00:00",
+      "title": "Lenovo Core 7 laptop drops to $680 in one-day sale",
+      "url": "https://www.xda-developers.com/this-lenovo-intel-core-7-laptop-is-now-nearly-half-off/",
+      "published_at": "2026-09-23T21:05:17+00:00",
       "score": 35,
       "is_review": false,
       "is_sponsored": false,
@@ -5819,226 +6201,188 @@
       "is_dell_story": false
     },
     {
-      "id": "media:503068",
+      "id": "media:539898",
       "kind": "media",
-      "source": "TudoCelular",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
-      "country": "BR",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "ASUS Googlebook CX9406 leaks with new details ahead of official reveal",
-      "url": "https://www.tudocelular.com/asus/noticias/n263231/asus-googlebook-volta-vazar-imagens-novos-detalhes.html",
-      "published_at": "2026-09-19T07:01:00+00:00",
+      "title": "Microsoft refreshes Surface hardware ahead of October event",
+      "url": "https://www.windowscentral.com/hardware/surface/microsoft-just-undercut-its-windows-and-surface-event-the-company-couldnt-even-last-two-weeks",
+      "published_at": "2026-09-23T21:00:00+00:00",
       "score": 65,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Asus",
+      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:503907",
+      "id": "media:540841",
       "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Apple's 14-inch M5 MacBook Pro on sale at B&H with $320 discount",
-      "url": "https://wccftech.com/apple-14-inch-m5-macbook-pro-24gb-ram-1tb-ssd-discount-bh-photo/",
-      "published_at": "2026-09-19T00:43:54+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:161835",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Acer Nitro V15 Review: Good Laptop but Not Ready Out of the Box",
-      "url": "https://www.youtube.com/watch?v=DF-rWWBzmjU",
-      "published_at": "2026-09-18T21:45:02+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:161895",
-      "kind": "youtube",
-      "source": "MW Informática",
-      "source_icon": "https://yt3.googleusercontent.com/o8BtikpsYJgccc2is9SvZtZtZ9xgQwesG0PJDWg2zeHWkoltlPThO32qPwo_zi2I_j6TYBGRxA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "New Sony Vaio FE14, Don't Buy Until You See This Full Analysis",
-      "url": "https://www.youtube.com/watch?v=2Sa0xO_3BrQ",
-      "published_at": "2026-09-18T21:27:18+00:00",
-      "score": 72,
+      "title": "HP Launches Omen Transcend 14 with Core Ultra 9 and RTX 5070",
+      "url": "https://www.notebookcheck.com/GeForce-RTX-5070-Core-Ultra-9-64-GB-RAM-2-TB-SSD-2-8k-OLED-HP-Gaming-Notebook-im-Angebot.1407008.0.html",
+      "published_at": "2026-09-23T20:56:00+00:00",
+      "score": 65,
       "is_review": false,
-      "is_sponsored": true,
+      "is_sponsored": false,
       "brand": "HP",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:499459",
+      "id": "media:540127",
       "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Dell Coverage",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Choosing the Right Alienware Notebook for Gaming",
-      "url": "https://www.adrenaline.com.br/noticias/qual-notebook-alienware-eu-escolho-para-meus-games/",
-      "published_at": "2026-09-18T21:21:01+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:162570",
-      "kind": "youtube",
-      "source": "Adrenaline",
-      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Testing Onimusha on Asus ROG Xbox Ally X portable gaming device",
-      "url": "https://www.youtube.com/shorts/oIuuI32l1qI",
-      "published_at": "2026-09-18T21:00:00+00:00",
+      "title": "Qualcomm improves Linux support on Snapdragon X2 laptops",
+      "url": "https://www.xda-developers.com/qualcomm-is-helping-linux-run-better-on-snapdragon-x2-laptops-with-an-early-developer-preview/",
+      "published_at": "2026-09-23T20:54:19+00:00",
       "score": 65,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Asus",
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:540128",
+      "kind": "media",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft refreshes Surface Pro and Laptop with Snapdragon X2 Plus",
+      "url": "https://www.xda-developers.com/microsofts-surface-pro-and-surface-laptop-refresh-is-powered-by-qualcomms-x2-plus-chip/",
+      "published_at": "2026-09-23T20:33:31+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:499685",
+      "id": "media:540128",
+      "kind": "media",
+      "source": "XDA Developers",
+      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft refreshes Surface Pro and Laptop with Snapdragon X2 Plus",
+      "url": "https://www.xda-developers.com/microsofts-surface-pro-and-surface-laptop-refresh-is-powered-by-qualcomms-x2-plus-chip/",
+      "published_at": "2026-09-23T20:33:31+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539818",
+      "kind": "media",
+      "source": "The Verge",
+      "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft refreshes Surface Pro and Laptop with Qualcomm X2 Plus chips",
+      "url": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539818",
+      "kind": "media",
+      "source": "The Verge",
+      "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft refreshes Surface Pro and Laptop with Qualcomm X2 Plus chips",
+      "url": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539829",
+      "kind": "media",
+      "source": "Engadget",
+      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft's new Surface Pro 12 and Surface Laptop 13 feature Snapdragon X2 Plus chips",
+      "url": "https://www.engadget.com/2266680/microsofts-new-surface-pro-12-and-surface-laptop-13-feature-snapdragon-x2-plus-chips/",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539829",
+      "kind": "media",
+      "source": "Engadget",
+      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft's new Surface Pro 12 and Surface Laptop 13 feature Snapdragon X2 Plus chips",
+      "url": "https://www.engadget.com/2266680/microsofts-new-surface-pro-12-and-surface-laptop-13-feature-snapdragon-x2-plus-chips/",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539848",
       "kind": "media",
       "source": "Tom's Hardware",
       "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
       "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Intel Nova Lake CPU leaks hint at release timeline",
-      "url": "https://www.tomshardware.com/pc-components/cpus/details-about-intels-next-gen-nova-lake-cpus-keep-leaking-an-attempt-to-establish-a-timeline-based-on-what-we-know-so-far",
-      "published_at": "2026-09-18T19:45:41+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:499809",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Microsoft's Auto SR upscales games on Intel laptops via Windows",
-      "url": "https://www.pcworld.com/article/3239142/microsoft-spreads-its-version-of-dlss-to-more-intel-chips.html",
-      "published_at": "2026-09-18T19:29:11+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:499809",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft's Auto SR upscales games on Intel laptops via Windows",
-      "url": "https://www.pcworld.com/article/3239142/microsoft-spreads-its-version-of-dlss-to-more-intel-chips.html",
-      "published_at": "2026-09-18T19:29:11+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:499809",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft's Auto SR upscales games on Intel laptops via Windows",
-      "url": "https://www.pcworld.com/article/3239142/microsoft-spreads-its-version-of-dlss-to-more-intel-chips.html",
-      "published_at": "2026-09-18T19:29:11+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:161565",
-      "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell XPS 13 review highlights design, performance, and trade-offs",
-      "url": "https://www.youtube.com/watch?v=Dznsr0KN1XU",
-      "published_at": "2026-09-18T19:17:05+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:499462",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Intel Panther Lake gains Microsoft AI tech to enhance game graphics",
-      "url": "https://www.adrenaline.com.br/intel/intel-panther-lake-auto-sr-microsoft-upscaling-jogos/",
-      "published_at": "2026-09-18T19:08:46+00:00",
+      "title": "Microsoft upgrades Surface devices with Snapdragon X2 Plus",
+      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-brings-snapdragon-x2-plus-to-13-inch-surface-laptop-12-inch-surface-pro-low-end-systems-finally-get-upgrades",
+      "published_at": "2026-09-23T20:30:00+00:00",
       "score": 65,
       "is_review": false,
       "is_sponsored": false,
@@ -6047,140 +6391,176 @@
       "is_dell_story": false
     },
     {
-      "id": "media:499462",
+      "id": "media:539848",
       "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Intel Panther Lake gains Microsoft AI tech to enhance game graphics",
-      "url": "https://www.adrenaline.com.br/intel/intel-panther-lake-auto-sr-microsoft-upscaling-jogos/",
-      "published_at": "2026-09-18T19:08:46+00:00",
+      "title": "Microsoft upgrades Surface devices with Snapdragon X2 Plus",
+      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-brings-snapdragon-x2-plus-to-13-inch-surface-laptop-12-inch-surface-pro-low-end-systems-finally-get-upgrades",
+      "published_at": "2026-09-23T20:30:00+00:00",
       "score": 65,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:161850",
-      "kind": "youtube",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Control Resonant performance analysis on ASUS ROG Flow PX13 with AMD and Nvidia hardware",
-      "url": "https://www.youtube.com/watch?v=zezIQwHDESY",
-      "published_at": "2026-09-18T18:01:21+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:161850",
-      "kind": "youtube",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Control Resonant performance analysis on ASUS ROG Flow PX13 with AMD and Nvidia hardware",
-      "url": "https://www.youtube.com/watch?v=zezIQwHDESY",
-      "published_at": "2026-09-18T18:01:21+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:497919",
-      "kind": "media",
-      "source": "ITPro",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus Zenbook 14 review highlights battery issues but office viability",
-      "url": "https://www.itpro.com/hardware/laptops/asus-zenbook-14-snapdragon-x-ux3480q-review-light-stylish-and-surprisingly-affordable",
-      "published_at": "2026-09-18T16:16:53+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:497919",
-      "kind": "media",
-      "source": "ITPro",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus Zenbook 14 review highlights battery issues but office viability",
-      "url": "https://www.itpro.com/hardware/laptops/asus-zenbook-14-snapdragon-x-ux3480q-review-light-stylish-and-surprisingly-affordable",
-      "published_at": "2026-09-18T16:16:53+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
       "brand": "Qualcomm",
       "family": "Ecosystem",
       "is_dell_story": false
     },
     {
-      "id": "media:496208",
+      "id": "media:539899",
       "kind": "media",
-      "source": "VideoCardz",
-      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
       "country": "US",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "ASUS launches Snapdragon X2 Elite mini PC, Ascent QN10 priced at $1,350",
-      "url": "https://videocardz.com/newz/asus-launches-first-snapdragon-x2-elite-mini-pc-ascent-qn10-costs-1350",
-      "published_at": "2026-09-18T16:12:59+00:00",
-      "score": 70,
+      "title": "Microsoft introduces AI-powered Surface Ink Canvas for Windows PCs",
+      "url": "https://www.windowscentral.com/hardware/surface/microsoft-unveils-ai-powered-ink-canvas-alongside-refreshed-surface-pro-and-surface-laptop",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 65,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Asus",
+      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:496208",
+      "id": "media:539901",
       "kind": "media",
-      "source": "VideoCardz",
-      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
       "country": "US",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "ASUS launches Snapdragon X2 Elite mini PC, Ascent QN10 priced at $1,350",
-      "url": "https://videocardz.com/newz/asus-launches-first-snapdragon-x2-elite-mini-pc-ascent-qn10-costs-1350",
-      "published_at": "2026-09-18T16:12:59+00:00",
+      "title": "Microsoft refreshes Surface Pro and Surface Laptop with Snapdragon X2 and brighter screens",
+      "url": "https://www.windowscentral.com/hardware/surface/microsoft-unveils-new-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2-plus-brighter-screens-and-5g-options-heres-a-first-look",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 70,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:539901",
+      "kind": "media",
+      "source": "Windows Central",
+      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft refreshes Surface Pro and Surface Laptop with Snapdragon X2 and brighter screens",
+      "url": "https://www.windowscentral.com/hardware/surface/microsoft-unveils-new-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2-plus-brighter-screens-and-5g-options-heres-a-first-look",
+      "published_at": "2026-09-23T20:30:00+00:00",
       "score": 70,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Qualcomm",
       "family": "Ecosystem",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "media:540844",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft unveils new Surface Laptop 13 with brighter display and 18h battery",
+      "url": "https://www.notebookcheck.com/Microsoft-enthuellt-neuen-Surface-Laptop-13-mit-25-hellerem-Display-und-18h-Laufzeit.1407005.0.html",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:540845",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft launches silent Surface Pro 12 Gen 2 with 5G",
+      "url": "https://www.notebookcheck.com/Microsoft-veroeffentlicht-lautloses-Surface-Pro-12-Gen-2-mit-5G.1407004.0.html",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:540446",
+      "kind": "media",
+      "source": "WinFuture",
+      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Review: Microsoft Surface Pro 12th Gen Tested with Snapdragon X Plus",
+      "url": "https://winfuture.de/videos/Hardware/Microsoft-Surface-Pro-Die-12.-Generation-zeigt-im-Test-was-sie-kann-29089.html",
+      "published_at": "2026-09-23T19:34:20+00:00",
+      "score": 65,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:540667",
+      "kind": "media",
+      "source": "TI Inside",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "AI adoption requires human governance and data infrastructure overhaul",
+      "url": "https://tiinside.com.br/23/09/2026/adocao-de-ia-e-uma-operacao-continua-de-montagem-com-inteligencia-humana-e-governanca/",
+      "published_at": "2026-09-23T19:32:47+00:00",
+      "score": 78,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:540846",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Jsaux restocks Steam Machine front panels for sale",
+      "url": "https://www.notebookcheck.com/Jsaux-bringt-Steam-Machine-Frontblenden-zurueck-auf-Lager.1407002.0.html",
+      "published_at": "2026-09-23T19:15:00+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:537179",
       "kind": "media",
@@ -30331,82 +30711,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:383953",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo confirms price for ThinkBook Plus G7 Auto Twist",
-      "url": "https://www.notebookcheck.com/Lenovos-ThinkBook-Plus-Auto-Twist-bekommt-einen-Preis-und-guenstig-ist-es-nicht.1372537.0.html",
-      "published_at": "2026-08-19T07:52:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:383181",
-      "kind": "media",
-      "source": "XDA Developers",
-      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft adds privacy tools to block app access to Windows 11 microphones/webcams",
-      "url": "https://www.xda-developers.com/microsoft-is-finally-adding-privacy-tools-to-windows-11-that-block-microphone-and-webcam-access-to-apps/",
-      "published_at": "2026-08-19T06:23:44+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:383965",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Dell launches new 15-inch laptop with Wildcat Lake and 32GB RAM",
-      "url": "https://www.notebookcheck.com/Dell-veroeffentlicht-neues-15-Zoll-Notebook-mit-32GB-RAM-und-Wildcat-Lake.1372488.0.html",
-      "published_at": "2026-08-19T03:00:00+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:382883",
-      "kind": "media",
-      "source": "Engadget",
-      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework upgrades Laptop 12 with Intel Core Series 3",
-      "url": "https://www.engadget.com/2239631/framework-laptop-12-just-got-a-major-spec-bump/",
-      "published_at": "2026-08-18T22:33:32+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:135960",
       "kind": "youtube",
       "source": "Qual Notebook Comprar?",
@@ -30426,101 +30730,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:379850",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "GMKtec NucBox EVO X1 PRO Mini PC Review with AMD Ryzen AI 9 HX 470",
-      "url": "https://wccftech.com/review/gmktec-nucbox-evo-x1-pro-amd-ryzen-ai-9-hx-470-mini-pc-review/",
-      "published_at": "2026-08-18T21:15:17+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:379384",
-      "kind": "media",
-      "source": "Gizmodo",
-      "source_icon": "https://www.google.com/s2/favicons?domain=gizmodo.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework Laptop 12 gets Linux pre-install upgrade",
-      "url": "https://gizmodo.com/the-cutest-framework-laptop-12-is-getting-a-smorgasbord-of-upgrades-2000800087",
-      "published_at": "2026-08-18T20:30:50+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:380934",
-      "kind": "media",
-      "source": "Tom's Guide",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple iOS 26 and macOS Tahoe updates address 30 security vulnerabilities",
-      "url": "https://www.tomsguide.com/computing/online-security/new-ios-26-and-macos-tahoe-updates-fix-30-security-vulnerabilities-what-you-need-to-know",
-      "published_at": "2026-08-18T20:29:55+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:379851",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "ASUS ROG G700 Gaming PC Gets $300 Off Deal on Amazon with RTX 5070",
-      "url": "https://wccftech.com/asus-rog-g700-rtx-5070-amazon-deal/",
-      "published_at": "2026-08-18T20:24:41+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:379851",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "ASUS ROG G700 Gaming PC Gets $300 Off Deal on Amazon with RTX 5070",
-      "url": "https://wccftech.com/asus-rog-g700-rtx-5070-amazon-deal/",
-      "published_at": "2026-08-18T20:24:41+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Amazon",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:135405",
       "kind": "youtube",
       "source": "Engadget",
@@ -30536,63 +30745,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:380149",
-      "kind": "media",
-      "source": "Frandroid",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework updates 12.2-inch laptop with Intel Core Series 3, Thunderbolt 4, and Linux preinstall",
-      "url": "https://www.frandroid.com/marques/framework/3215463_framework-laptop-12-intel-core-series-3-thunderbolt-4-et-linux-preinstalle-moins-cher-quun-macbook-neo",
-      "published_at": "2026-08-18T19:37:59+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:379104",
-      "kind": "media",
-      "source": "Tecnoblog",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple's macOS code hints at future iPhones, MacBooks, iPads, and home accessories",
-      "url": "https://tecnoblog.net/noticias/codigo-do-macos-tahoe-revela-possiveis-novos-produtos-da-apple-veja-a-lista/",
-      "published_at": "2026-08-18T19:34:30+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:379557",
-      "kind": "media",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://www.google.com/s2/favicons?domain=notebookcheck.net&sz=64",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "HP ZBook 8 G2a 14 review highlights 64 GB RAM for AI agents",
-      "url": "https://www.notebookcheck.net/This-laptop-with-64-GB-RAM-is-perfect-for-AI-agents-HP-ZBook-8-G2a-14-review.1350756.0.html",
-      "published_at": "2026-08-18T19:23:00+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "HP",
       "family": "PC competitors",
       "is_dell_story": false
     },
