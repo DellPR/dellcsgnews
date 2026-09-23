@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T00:06:16.365370+00:00",
-  "total_items": 1420,
+  "generated_at": "2026-09-23T12:32:03.487759+00:00",
+  "total_items": 1424,
   "brands": [
     {
       "brand": "Apple",
@@ -73,10 +73,10 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 151,
+      "total": 152,
       "media": 100,
-      "youtube": 51,
-      "reviews": 39,
+      "youtube": 52,
+      "reviews": 40,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 3,
@@ -94,12 +94,12 @@
           "count": 8
         },
         {
-          "source": "VideoCardz",
+          "source": "Crimson Tech",
           "count": 7
         },
         {
-          "source": "Crimson Tech",
-          "count": 6
+          "source": "VideoCardz",
+          "count": 7
         },
         {
           "source": "Lucas Ishii",
@@ -117,7 +117,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 123
+          "count": 124
         },
         {
           "section": "Deals",
@@ -137,9 +137,9 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 145,
+      "total": 146,
       "media": 104,
-      "youtube": 41,
+      "youtube": 42,
       "reviews": 30,
       "sponsored": 2,
       "dell_stories": 0,
@@ -158,11 +158,11 @@
           "count": 6
         },
         {
-          "source": "PC-WELT News",
-          "count": 5
+          "source": "Tech BR",
+          "count": 6
         },
         {
-          "source": "Tech BR",
+          "source": "PC-WELT News",
           "count": 5
         },
         {
@@ -181,7 +181,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 102
+          "count": 103
         },
         {
           "section": "Deals",
@@ -196,7 +196,7 @@
           "count": 1
         }
       ],
-      "avg_score": 61.4
+      "avg_score": 61.5
     },
     {
       "brand": "Microsoft",
@@ -329,13 +329,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 87,
+      "total": 88,
       "media": 56,
-      "youtube": 31,
-      "reviews": 40,
+      "youtube": 32,
+      "reviews": 41,
       "sponsored": 1,
-      "dell_stories": 87,
-      "high_signal": 84,
+      "dell_stories": 88,
+      "high_signal": 85,
       "top_sources": [
         {
           "source": "Tom's Hardware",
@@ -350,12 +350,12 @@
           "count": 5
         },
         {
-          "source": "Techaeris",
+          "source": "Notebookcheck Reviews",
           "count": 5
         },
         {
-          "source": "Notebookcheck Reviews",
-          "count": 4
+          "source": "Techaeris",
+          "count": 5
         },
         {
           "source": "TechRadar",
@@ -373,7 +373,7 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 77
+          "count": 78
         },
         {
           "section": "Deals",
@@ -985,13 +985,13 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 24,
+      "total": 25,
       "media": 17,
-      "youtube": 7,
-      "reviews": 2,
+      "youtube": 8,
+      "reviews": 3,
       "sponsored": 0,
       "dell_stories": 0,
-      "high_signal": 2,
+      "high_signal": 3,
       "top_sources": [
         {
           "source": "VideoCardz",
@@ -1003,6 +1003,10 @@
         },
         {
           "source": "Austin Evans",
+          "count": 2
+        },
+        {
+          "source": "Lipe Mal Estar",
           "count": 2
         },
         {
@@ -1020,16 +1024,12 @@
         {
           "source": "Adrenaline",
           "count": 1
-        },
-        {
-          "source": "Ars Technica",
-          "count": 1
         }
       ],
       "sections": [
         {
           "section": "Market Trends",
-          "count": 21
+          "count": 22
         },
         {
           "section": "Competitor Coverage",
@@ -1044,7 +1044,7 @@
           "count": 1
         }
       ],
-      "avg_score": 68.3
+      "avg_score": 69.2
     },
     {
       "brand": "Google",
@@ -1386,8 +1386,8 @@
       "brands": {
         "Apple": 141,
         "Asus": 84,
+        "Lenovo": 68,
         "Microsoft": 68,
-        "Lenovo": 67,
         "Intel": 62,
         "NVIDIA": 56,
         "HP": 43,
@@ -1408,8 +1408,8 @@
         "Apple": 74,
         "Lenovo": 67,
         "Microsoft": 61,
-        "Asus": 52,
-        "Dell": 40,
+        "Asus": 53,
+        "Dell": 41,
         "HP": 37,
         "Acer": 36,
         "Intel": 33,
@@ -1418,13 +1418,70 @@
         "MSI": 22,
         "AMD": 20,
         "Qualcomm": 13,
-        "Valve": 12,
+        "Valve": 13,
         "Amazon": 9,
         "Google": 9
       }
     }
   ],
   "recent": [
+    {
+      "id": "youtube:168675",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS ZenBook Duo 14 vs Zephorus Duo 16: Gaming vs Portability Showdown",
+      "url": "https://www.youtube.com/watch?v=asQvI7ikC1A",
+      "published_at": "2026-09-23T08:00:00+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:168495",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus Zenbook 14 review: Competes with MacBook Neo and Dell XPS 13",
+      "url": "https://www.youtube.com/watch?v=WRrvHR9xVDQ",
+      "published_at": "2026-09-23T03:03:50+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:168465",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Testing Steam Machine gaming performance",
+      "url": "https://www.youtube.com/watch?v=1tsHp7Sz4E4",
+      "published_at": "2026-09-22T23:36:05+00:00",
+      "score": 90,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:167640",
       "kind": "youtube",
@@ -6117,66 +6174,66 @@
       "brand": "HP",
       "family": "PC competitors",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:488564",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
+      "id": "youtube:168675",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "ASUS launches new TUF Gaming 16 with Intel and RTX 5050/5060",
-      "url": "https://www.adrenaline.com.br/asus/asus-lanca-novo-notebook-gamer-na-linha-tuf-com-cpu-intel-e-rtx-5050-ou-5060/",
-      "published_at": "2026-09-17T17:21:30+00:00",
-      "score": 65,
-      "is_review": false,
+      "title": "ASUS ZenBook Duo 14 vs Zephorus Duo 16: Gaming vs Portability Showdown",
+      "url": "https://www.youtube.com/watch?v=asQvI7ikC1A",
+      "published_at": "2026-09-23T08:00:00+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
       "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:488564",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
+      "id": "youtube:168495",
+      "kind": "youtube",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
+      "country": "DE",
+      "section": "Dell Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "ASUS launches new TUF Gaming 16 with Intel and RTX 5050/5060",
-      "url": "https://www.adrenaline.com.br/asus/asus-lanca-novo-notebook-gamer-na-linha-tuf-com-cpu-intel-e-rtx-5050-ou-5060/",
-      "published_at": "2026-09-17T17:21:30+00:00",
-      "score": 65,
-      "is_review": false,
+      "title": "Asus Zenbook 14 review: Competes with MacBook Neo and Dell XPS 13",
+      "url": "https://www.youtube.com/watch?v=WRrvHR9xVDQ",
+      "published_at": "2026-09-23T03:03:50+00:00",
+      "score": 100,
+      "is_review": true,
       "is_sponsored": false,
-      "brand": "Intel",
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:168465",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Testing Steam Machine gaming performance",
+      "url": "https://www.youtube.com/watch?v=1tsHp7Sz4E4",
+      "published_at": "2026-09-22T23:36:05+00:00",
+      "score": 90,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Valve",
       "family": "Ecosystem",
       "is_dell_story": false
     },
-    {
-      "id": "media:489727",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "HP unveils EliteBook X G3i with Intel Nova Lake processors",
-      "url": "https://www.notebookcheck.com/Neues-HP-EliteBook-X-G3i-zeigt-sich-mit-Intel-Nova-Lake.1402020.0.html",
-      "published_at": "2026-09-17T17:20:00+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    }
-  ],
-  "items": [
     {
       "id": "youtube:167640",
       "kind": "youtube",
@@ -31482,6 +31539,25 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:168553",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Testing Cyberpunk 2077 performance on Lenovo Slim 3 with Ryzen 5",
+      "url": "https://www.youtube.com/shorts/NoRt7Cx_Y0Y",
+      "published_at": "2026-08-08T00:28:39+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
