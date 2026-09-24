@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-24T20:36:24.711643+00:00",
+  "generated_at": "2026-09-24T22:27:53.725934+00:00",
   "total_items": 1411,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 216,
-      "media": 175,
+      "total": 215,
+      "media": 174,
       "youtube": 41,
       "reviews": 26,
       "sponsored": 0,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 173
+          "count": 172
         },
         {
           "section": "Deals",
@@ -73,8 +73,8 @@
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 152,
-      "media": 149,
+      "total": 151,
+      "media": 148,
       "youtube": 3,
       "reviews": 5,
       "sponsored": 0,
@@ -110,18 +110,18 @@
           "count": 6
         },
         {
-          "source": "Adrenaline",
+          "source": "HotHardware",
           "count": 5
         }
       ],
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 95
+          "count": 93
         },
         {
           "section": "Competitor Coverage",
-          "count": 45
+          "count": 46
         },
         {
           "section": "Deals",
@@ -132,7 +132,7 @@
           "count": 1
         }
       ],
-      "avg_score": 53.5
+      "avg_score": 53.6
     },
     {
       "brand": "Asus",
@@ -201,8 +201,8 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 142,
-      "media": 101,
+      "total": 141,
+      "media": 100,
       "youtube": 41,
       "reviews": 30,
       "sponsored": 2,
@@ -211,7 +211,7 @@
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
-          "count": 50
+          "count": 49
         },
         {
           "source": "Futura",
@@ -245,7 +245,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 100
+          "count": 99
         },
         {
           "section": "Deals",
@@ -260,7 +260,67 @@
           "count": 1
         }
       ],
-      "avg_score": 61.4
+      "avg_score": 61.3
+    },
+    {
+      "brand": "HP",
+      "family": "PC competitors",
+      "total": 91,
+      "media": 75,
+      "youtube": 16,
+      "reviews": 20,
+      "sponsored": 1,
+      "dell_stories": 0,
+      "high_signal": 0,
+      "top_sources": [
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 24
+        },
+        {
+          "source": "Futura",
+          "count": 7
+        },
+        {
+          "source": "LaptopMedia",
+          "count": 6
+        },
+        {
+          "source": "Adrenaline",
+          "count": 5
+        },
+        {
+          "source": "Frandroid",
+          "count": 4
+        },
+        {
+          "source": "VideoCardz",
+          "count": 4
+        },
+        {
+          "source": "Notebookcheck Reviews",
+          "count": 3
+        },
+        {
+          "source": "Olhar Digital",
+          "count": 3
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 62
+        },
+        {
+          "section": "Deals",
+          "count": 27
+        },
+        {
+          "section": "Ecosystem",
+          "count": 2
+        }
+      ],
+      "avg_score": 58.6
     },
     {
       "brand": "NVIDIA",
@@ -325,66 +385,6 @@
         }
       ],
       "avg_score": 63.5
-    },
-    {
-      "brand": "HP",
-      "family": "PC competitors",
-      "total": 90,
-      "media": 74,
-      "youtube": 16,
-      "reviews": 20,
-      "sponsored": 1,
-      "dell_stories": 0,
-      "high_signal": 0,
-      "top_sources": [
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 23
-        },
-        {
-          "source": "Futura",
-          "count": 7
-        },
-        {
-          "source": "LaptopMedia",
-          "count": 6
-        },
-        {
-          "source": "Adrenaline",
-          "count": 5
-        },
-        {
-          "source": "Frandroid",
-          "count": 4
-        },
-        {
-          "source": "VideoCardz",
-          "count": 4
-        },
-        {
-          "source": "Notebookcheck Reviews",
-          "count": 3
-        },
-        {
-          "source": "Olhar Digital",
-          "count": 3
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 61
-        },
-        {
-          "section": "Deals",
-          "count": 27
-        },
-        {
-          "section": "Ecosystem",
-          "count": 2
-        }
-      ],
-      "avg_score": 58.6
     },
     {
       "brand": "Dell",
@@ -681,8 +681,8 @@
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 47,
-      "media": 43,
+      "total": 48,
+      "media": 44,
       "youtube": 4,
       "reviews": 4,
       "sponsored": 0,
@@ -733,20 +733,20 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 8
+          "count": 9
         },
         {
           "section": "Market Trends",
           "count": 2
         }
       ],
-      "avg_score": 57.5
+      "avg_score": 57.7
     },
     {
       "brand": "Qualcomm",
       "family": "Ecosystem",
-      "total": 43,
-      "media": 39,
+      "total": 44,
+      "media": 40,
       "youtube": 4,
       "reviews": 4,
       "sponsored": 1,
@@ -778,18 +778,18 @@
           "count": 2
         },
         {
-          "source": "Wccftech",
+          "source": "TechSpot",
           "count": 2
         },
         {
-          "source": "XDA Developers",
+          "source": "Wccftech",
           "count": 2
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 30
+          "count": 31
         },
         {
           "section": "Ecosystem",
@@ -994,11 +994,11 @@
       "high_signal": 0,
       "top_sources": [
         {
-          "source": "Notebookcheck DE - News",
-          "count": 3
+          "source": "TI Inside",
+          "count": 4
         },
         {
-          "source": "TI Inside",
+          "source": "Notebookcheck DE - News",
           "count": 3
         },
         {
@@ -1018,11 +1018,11 @@
           "count": 2
         },
         {
-          "source": "Ars Technica",
+          "source": "HotHardware",
           "count": 1
         },
         {
-          "source": "HotHardware",
+          "source": "Marques Brownlee (MKBHD)",
           "count": 1
         }
       ],
@@ -1040,7 +1040,7 @@
           "count": 1
         }
       ],
-      "avg_score": 66.6
+      "avg_score": 67.1
     },
     {
       "brand": "Google",
@@ -1392,10 +1392,10 @@
     {
       "month": "2026-08",
       "brands": {
-        "Apple": 123,
+        "Apple": 122,
         "Asus": 73,
-        "Microsoft": 60,
-        "Lenovo": 57,
+        "Microsoft": 58,
+        "Lenovo": 56,
         "NVIDIA": 53,
         "Intel": 44,
         "HP": 41,
@@ -1406,26 +1406,26 @@
         "Amazon": 21,
         "Alienware": 20,
         "Acer": 18,
-        "Framework": 17,
+        "Framework": 16,
         "Qualcomm": 12
       }
     },
     {
       "month": "2026-09",
       "brands": {
-        "Microsoft": 91,
+        "Microsoft": 92,
         "Apple": 87,
         "Lenovo": 75,
         "Asus": 58,
         "Dell": 46,
-        "HP": 43,
+        "HP": 44,
         "Acer": 42,
         "Intel": 38,
         "NVIDIA": 36,
-        "Qualcomm": 29,
+        "Qualcomm": 30,
         "Alienware": 28,
         "MSI": 25,
-        "AMD": 20,
+        "AMD": 21,
         "Valve": 16,
         "Amazon": 12,
         "Google": 12
@@ -1433,6 +1433,101 @@
     }
   ],
   "recent": [
+    {
+      "id": "media:551319",
+      "kind": "media",
+      "source": "TechSpot",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft updates Surface Pro and Laptop with Snapdragon chips, higher prices",
+      "url": "https://www.techspot.com/news/113973-microsoft-smaller-surface-pro-surface-laptop-get-faster.html",
+      "published_at": "2026-09-24T21:06:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:551319",
+      "kind": "media",
+      "source": "TechSpot",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft updates Surface Pro and Laptop with Snapdragon chips, higher prices",
+      "url": "https://www.techspot.com/news/113973-microsoft-smaller-surface-pro-surface-laptop-get-faster.html",
+      "published_at": "2026-09-24T21:06:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:551736",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP Launches 16-Inch Workstation with AMD Gorgon Halo and 160 GB VRAM",
+      "url": "https://www.notebookcheck.com/HP-gibt-Preise-fuer-neuen-16-Zoll-Laptop-mit-AMD-Gorgon-Halo-und-160-GB-VRAM-bekannt.1407699.0.html",
+      "published_at": "2026-09-24T19:46:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:551736",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP Launches 16-Inch Workstation with AMD Gorgon Halo and 160 GB VRAM",
+      "url": "https://www.notebookcheck.com/HP-gibt-Preise-fuer-neuen-16-Zoll-Laptop-mit-AMD-Gorgon-Halo-und-160-GB-VRAM-bekannt.1407699.0.html",
+      "published_at": "2026-09-24T19:46:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:551599",
+      "kind": "media",
+      "source": "TI Inside",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Junto Seguros achieves 90% automation in credit analysis with AI",
+      "url": "https://tiinside.com.br/24/09/2026/junto-seguros-alcanca-90-de-automacao-em-analises-de-credito-e-reduz-tempo-de-modernizacao-de-sistemas-legados-pela-metade/",
+      "published_at": "2026-09-24T19:20:25+00:00",
+      "score": 78,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:548091",
       "kind": "media",
@@ -6087,39 +6182,60 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:514372",
+      "id": "media:551319",
       "kind": "media",
-      "source": "CNET",
-      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
+      "source": "TechSpot",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
       "country": "US",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Apple's M6 Mac Mini Offers Enhanced Power in Compact Design",
-      "url": "https://www.cnet.com/tech/computing/m6-mac-mini-first-look-bigger-power-packed-in-same-small-package/",
-      "published_at": "2026-09-21T13:00:00+00:00",
+      "title": "Microsoft updates Surface Pro and Laptop with Snapdragon chips, higher prices",
+      "url": "https://www.techspot.com/news/113973-microsoft-smaller-surface-pro-surface-laptop-get-faster.html",
+      "published_at": "2026-09-24T21:06:00+00:00",
       "score": 65,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Apple",
+      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:514404",
+      "id": "media:551319",
       "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "source": "TechSpot",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
       "country": "US",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Google unveils new Googlebook laptop line with Android integration",
-      "url": "https://www.pcworld.com/article/3238847/googles-new-googlebooks-arent-ai-first-theyre-phone-first.html",
-      "published_at": "2026-09-21T13:00:00+00:00",
-      "score": 78,
+      "title": "Microsoft updates Surface Pro and Laptop with Snapdragon chips, higher prices",
+      "url": "https://www.techspot.com/news/113973-microsoft-smaller-surface-pro-surface-laptop-get-faster.html",
+      "published_at": "2026-09-24T21:06:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:551736",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP Launches 16-Inch Workstation with AMD Gorgon Halo and 160 GB VRAM",
+      "url": "https://www.notebookcheck.com/HP-gibt-Preise-fuer-neuen-16-Zoll-Laptop-mit-AMD-Gorgon-Halo-und-160-GB-VRAM-bekannt.1407699.0.html",
+      "published_at": "2026-09-24T19:46:00+00:00",
+      "score": 65,
       "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
@@ -6127,64 +6243,43 @@
       "is_dell_story": false
     },
     {
-      "id": "media:514404",
+      "id": "media:551736",
       "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Google unveils new Googlebook laptop line with Android integration",
-      "url": "https://www.pcworld.com/article/3238847/googles-new-googlebooks-arent-ai-first-theyre-phone-first.html",
-      "published_at": "2026-09-21T13:00:00+00:00",
+      "title": "HP Launches 16-Inch Workstation with AMD Gorgon Halo and 160 GB VRAM",
+      "url": "https://www.notebookcheck.com/HP-gibt-Preise-fuer-neuen-16-Zoll-Laptop-mit-AMD-Gorgon-Halo-und-160-GB-VRAM-bekannt.1407699.0.html",
+      "published_at": "2026-09-24T19:46:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:551599",
+      "kind": "media",
+      "source": "TI Inside",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Junto Seguros achieves 90% automation in credit analysis with AI",
+      "url": "https://tiinside.com.br/24/09/2026/junto-seguros-alcanca-90-de-automacao-em-analises-de-credito-e-reduz-tempo-de-modernizacao-de-sistemas-legados-pela-metade/",
+      "published_at": "2026-09-24T19:20:25+00:00",
       "score": 78,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Google",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:514469",
-      "kind": "media",
-      "source": "WIRED",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wired.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple refreshes Mac Mini with M6 chip, focuses on AI",
-      "url": "https://www.wired.com/review/apple-mac-mini-m6/",
-      "published_at": "2026-09-21T13:00:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
+      "brand": "Framework",
       "family": "PC competitors",
       "is_dell_story": false
     },
-    {
-      "id": "media:515982",
-      "kind": "media",
-      "source": "Tom's Guide",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple's Mac Studio M5 Ultra reviewed as powerful but expensive",
-      "url": "https://www.tomsguide.com/computing/apple-desktops/apple-mac-studio-m5-ultra-review",
-      "published_at": "2026-09-21T13:00:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    }
-  ],
-  "items": [
     {
       "id": "media:548091",
       "kind": "media",
@@ -30559,101 +30654,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:391009",
-      "kind": "media",
-      "source": "Ars Technica",
-      "source_icon": "",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework addresses Ryzen 7040 BIOS update issues with mainboard replacements",
-      "url": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
-      "published_at": "2026-08-19T20:21:59+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:391255",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo launches ThinkBook Plus G7 Auto Twist with 120Hz OLED and 21h battery",
-      "url": "https://www.notebookcheck.com/Lenovo-veroeffentlicht-ThinkBook-Plus-G7-Auto-Twist-mit-120Hz-OLED-und-ueber-21h-Laufzeit.1373439.0.html",
-      "published_at": "2026-08-19T19:43:00+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:390107",
-      "kind": "media",
-      "source": "Tecnoblog",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Windows 11 to let users block camera/microphone access per app",
-      "url": "https://tecnoblog.net/noticias/windows-11-vai-permitir-bloquear-camera-e-microfone-em-qualquer-aplicativo/",
-      "published_at": "2026-08-19T19:00:31+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:386373",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Windows 11 update removes WMIC tool, shifts to PowerShell for admin queries",
-      "url": "https://www.adrenaline.com.br/microsoft/windows/windows-11-remove-wmic-powershell/",
-      "published_at": "2026-08-19T18:34:44+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:387132",
-      "kind": "media",
-      "source": "TechSpot",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple patches critical macOS flaw allowing passwordless access",
-      "url": "https://www.techspot.com/news/113532-apple-patched-critical-macos-flaw-hackers-break-without.html",
-      "published_at": "2026-08-19T17:42:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
