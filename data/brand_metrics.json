@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-24T22:27:53.725934+00:00",
-  "total_items": 1411,
+  "generated_at": "2026-09-25T00:08:57.315696+00:00",
+  "total_items": 1415,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 215,
+      "total": 219,
       "media": 174,
-      "youtube": 41,
-      "reviews": 26,
+      "youtube": 45,
+      "reviews": 28,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 2,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 172
+          "count": 176
         },
         {
           "section": "Deals",
@@ -68,15 +68,15 @@
           "count": 3
         }
       ],
-      "avg_score": 63.5
+      "avg_score": 63.6
     },
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 151,
+      "total": 150,
       "media": 148,
-      "youtube": 3,
-      "reviews": 5,
+      "youtube": 2,
+      "reviews": 4,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
@@ -121,7 +121,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 46
+          "count": 45
         },
         {
           "section": "Deals",
@@ -132,7 +132,7 @@
           "count": 1
         }
       ],
-      "avg_score": 53.6
+      "avg_score": 53.5
     },
     {
       "brand": "Asus",
@@ -201,10 +201,10 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 141,
+      "total": 140,
       "media": 100,
-      "youtube": 41,
-      "reviews": 30,
+      "youtube": 40,
+      "reviews": 29,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 5,
@@ -230,22 +230,22 @@
           "count": 5
         },
         {
-          "source": "Lipe Mal Estar",
-          "count": 4
-        },
-        {
           "source": "Qual Notebook Comprar?",
           "count": 4
         },
         {
           "source": "Clubic",
           "count": 3
+        },
+        {
+          "source": "Les Numériques",
+          "count": 3
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 99
+          "count": 98
         },
         {
           "section": "Deals",
@@ -861,10 +861,10 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 32,
+      "total": 33,
       "media": 21,
-      "youtube": 11,
-      "reviews": 5,
+      "youtube": 12,
+      "reviews": 6,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
@@ -905,7 +905,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 16
+          "count": 17
         },
         {
           "section": "Deals",
@@ -916,14 +916,14 @@
           "count": 2
         }
       ],
-      "avg_score": 52.6
+      "avg_score": 53.2
     },
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 27,
+      "total": 28,
       "media": 18,
-      "youtube": 9,
+      "youtube": 10,
       "reviews": 3,
       "sponsored": 0,
       "dell_stories": 0,
@@ -939,7 +939,7 @@
         },
         {
           "source": "Lipe Mal Estar",
-          "count": 3
+          "count": 4
         },
         {
           "source": "Austin Evans",
@@ -965,7 +965,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 23
+          "count": 24
         },
         {
           "section": "Deals",
@@ -980,7 +980,7 @@
           "count": 1
         }
       ],
-      "avg_score": 68.5
+      "avg_score": 68.2
     },
     {
       "brand": "Framework",
@@ -1371,7 +1371,6 @@
         "Apple": 1,
         "Asus": 1,
         "MSI": 1,
-        "Microsoft": 1,
         "NVIDIA": 1,
         "Qualcomm": 1,
         "Valve": 1
@@ -1392,10 +1391,10 @@
     {
       "month": "2026-08",
       "brands": {
-        "Apple": 122,
+        "Apple": 123,
         "Asus": 73,
         "Microsoft": 58,
-        "Lenovo": 56,
+        "Lenovo": 55,
         "NVIDIA": 53,
         "Intel": 44,
         "HP": 41,
@@ -1414,7 +1413,7 @@
       "month": "2026-09",
       "brands": {
         "Microsoft": 92,
-        "Apple": 87,
+        "Apple": 90,
         "Lenovo": 75,
         "Asus": 58,
         "Dell": 46,
@@ -1426,13 +1425,51 @@
         "Alienware": 28,
         "MSI": 25,
         "AMD": 21,
-        "Valve": 16,
+        "Valve": 17,
         "Amazon": 12,
         "Google": 12
       }
     }
   ],
   "recent": [
+    {
+      "id": "youtube:172290",
+      "kind": "youtube",
+      "source": "MW Informática",
+      "source_icon": "https://yt3.googleusercontent.com/o8BtikpsYJgccc2is9SvZtZtZ9xgQwesG0PJDWg2zeHWkoltlPThO32qPwo_zi2I_j6TYBGRxA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "New Samsung Galaxy Book 6: Good but There's Still Something Better",
+      "url": "https://www.youtube.com/watch?v=BxXKFylV47w",
+      "published_at": "2026-09-24T21:27:34+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:172290",
+      "kind": "youtube",
+      "source": "MW Informática",
+      "source_icon": "https://yt3.googleusercontent.com/o8BtikpsYJgccc2is9SvZtZtZ9xgQwesG0PJDWg2zeHWkoltlPThO32qPwo_zi2I_j6TYBGRxA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "New Samsung Galaxy Book 6: Good but There's Still Something Better",
+      "url": "https://www.youtube.com/watch?v=BxXKFylV47w",
+      "published_at": "2026-09-24T21:27:34+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:551319",
       "kind": "media",
@@ -1468,6 +1505,44 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:172560",
+      "kind": "youtube",
+      "source": "Micro Center",
+      "source_icon": "https://yt3.googleusercontent.com/DK_uVA19jFp7pf8jCpyzpTJPo1ImEroHlB8pbLbdGEM6llziJfBPcdCAxz-5w8KJobAS4ZR9tQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple's new M6 Mac Mini and M5 Max Mac Studio now available at Micro Center",
+      "url": "https://www.youtube.com/shorts/9jMYKvuP6g4",
+      "published_at": "2026-09-24T21:00:25+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:172200",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "DIY Steam Machine Build and Cost Analysis",
+      "url": "https://www.youtube.com/watch?v=zb01W0erBpU",
+      "published_at": "2026-09-24T21:00:18+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
       "family": "Ecosystem",
       "is_dell_story": false
     },
@@ -1525,6 +1600,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:172110",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Unboxing the 2026 M6 Mac Mini: Choosing the Right One",
+      "url": "https://www.youtube.com/watch?v=HMZy7X9B2kQ",
+      "published_at": "2026-09-24T18:58:25+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -6087,104 +6181,47 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:164493",
-      "kind": "youtube",
-      "source": "CNET",
-      "source_icon": "https://yt3.googleusercontent.com/SGoD0SodPuysPRUSFI8jd_eqR-ZCgvxhZk905338O1NUYI5eUqMZ1lQaekFNiDggJh0lA_5kQg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Unboxing the $899 Mac Mini with M6 Chip",
-      "url": "https://www.youtube.com/shorts/Q1AwKXUyLsc",
-      "published_at": "2026-09-21T13:00:08+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:514266",
-      "kind": "media",
-      "source": "Engadget",
-      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple Mac Studio M5 Ultra review highlights high cost and performance",
-      "url": "https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/",
-      "published_at": "2026-09-21T13:00:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:514282",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple Mac Studio (M5 Ultra) review highlights AI performance",
-      "url": "https://www.tomshardware.com/desktops/mini-pcs/apple-mac-studio-m5-ultra-review",
-      "published_at": "2026-09-21T13:00:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:514284",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple M6 Mac mini review highlights performance boost and price increase",
-      "url": "https://www.tomshardware.com/desktops/mini-pcs/apple-mac-mini-late-2026-review",
-      "published_at": "2026-09-21T13:00:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:514371",
-      "kind": "media",
-      "source": "CNET",
-      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple Mac Studio M5 Ultra Review Highlights Power and Uniqueness",
-      "url": "https://www.cnet.com/tech/computing/apple-mac-studio-m5-ultra-review/",
-      "published_at": "2026-09-21T13:00:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:172290",
+      "kind": "youtube",
+      "source": "MW Informática",
+      "source_icon": "https://yt3.googleusercontent.com/o8BtikpsYJgccc2is9SvZtZtZ9xgQwesG0PJDWg2zeHWkoltlPThO32qPwo_zi2I_j6TYBGRxA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "New Samsung Galaxy Book 6: Good but There's Still Something Better",
+      "url": "https://www.youtube.com/watch?v=BxXKFylV47w",
+      "published_at": "2026-09-24T21:27:34+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:172290",
+      "kind": "youtube",
+      "source": "MW Informática",
+      "source_icon": "https://yt3.googleusercontent.com/o8BtikpsYJgccc2is9SvZtZtZ9xgQwesG0PJDWg2zeHWkoltlPThO32qPwo_zi2I_j6TYBGRxA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "New Samsung Galaxy Book 6: Good but There's Still Something Better",
+      "url": "https://www.youtube.com/watch?v=BxXKFylV47w",
+      "published_at": "2026-09-24T21:27:34+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:551319",
       "kind": "media",
@@ -6220,6 +6257,44 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:172560",
+      "kind": "youtube",
+      "source": "Micro Center",
+      "source_icon": "https://yt3.googleusercontent.com/DK_uVA19jFp7pf8jCpyzpTJPo1ImEroHlB8pbLbdGEM6llziJfBPcdCAxz-5w8KJobAS4ZR9tQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple's new M6 Mac Mini and M5 Max Mac Studio now available at Micro Center",
+      "url": "https://www.youtube.com/shorts/9jMYKvuP6g4",
+      "published_at": "2026-09-24T21:00:25+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:172200",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "DIY Steam Machine Build and Cost Analysis",
+      "url": "https://www.youtube.com/watch?v=zb01W0erBpU",
+      "published_at": "2026-09-24T21:00:18+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
       "family": "Ecosystem",
       "is_dell_story": false
     },
@@ -6277,6 +6352,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:172110",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Unboxing the 2026 M6 Mac Mini: Choosing the Right One",
+      "url": "https://www.youtube.com/watch?v=HMZy7X9B2kQ",
+      "published_at": "2026-09-24T18:58:25+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -31475,21 +31569,21 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:121470",
+      "id": "youtube:168552",
       "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Playing Games on the Lenovo Slim 3 Ryzen 7 - POV",
-      "url": "https://www.youtube.com/watch?v=LWBEEjQkD6Y",
-      "published_at": "2026-08-10T21:17:24+00:00",
+      "title": "How to Choose the Best Laptop in 2026 (Guide to Avoid Mistakes)",
+      "url": "https://www.youtube.com/watch?v=tpIn7ehb5QU",
+      "published_at": "2026-08-08T13:15:39+00:00",
       "score": 72,
       "is_review": true,
       "is_sponsored": false,
-      "brand": "Lenovo",
+      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -31965,25 +32059,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:121394",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft Surface Laptop 8th Edition review: Privacy display, new colors, and Snapdragon X2 Elite",
-      "url": "https://www.youtube.com/watch?v=UOlnKqzGdMM",
-      "published_at": "2026-06-26T13:00:36+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
     },
