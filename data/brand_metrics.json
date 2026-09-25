@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-25T14:46:32.991830+00:00",
+  "generated_at": "2026-09-25T18:35:17.163032+00:00",
   "total_items": 1410,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 219,
+      "total": 220,
       "media": 174,
-      "youtube": 45,
-      "reviews": 28,
+      "youtube": 46,
+      "reviews": 29,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 2,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 178
+          "count": 179
         },
         {
           "section": "Deals",
@@ -68,7 +68,7 @@
           "count": 2
         }
       ],
-      "avg_score": 63.7
+      "avg_score": 63.8
     },
     {
       "brand": "Microsoft",
@@ -509,9 +509,9 @@
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 64,
+      "total": 63,
       "media": 47,
-      "youtube": 17,
+      "youtube": 16,
       "reviews": 14,
       "sponsored": 2,
       "dell_stories": 0,
@@ -557,14 +557,14 @@
         },
         {
           "section": "Deals",
-          "count": 12
+          "count": 11
         },
         {
           "section": "Market Trends",
           "count": 1
         }
       ],
-      "avg_score": 62.0
+      "avg_score": 62.3
     },
     {
       "brand": "Alienware",
@@ -921,14 +921,18 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 27,
+      "total": 28,
       "media": 17,
-      "youtube": 10,
+      "youtube": 11,
       "reviews": 3,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 3,
       "top_sources": [
+        {
+          "source": "Lipe Mal Estar",
+          "count": 5
+        },
         {
           "source": "Notebookcheck DE - News",
           "count": 5
@@ -936,10 +940,6 @@
         {
           "source": "VideoCardz",
           "count": 5
-        },
-        {
-          "source": "Lipe Mal Estar",
-          "count": 4
         },
         {
           "source": "Austin Evans",
@@ -965,7 +965,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 24
+          "count": 25
         },
         {
           "section": "Deals",
@@ -976,14 +976,14 @@
           "count": 1
         }
       ],
-      "avg_score": 67.9
+      "avg_score": 67.6
     },
     {
       "brand": "Framework",
       "family": "PC competitors",
-      "total": 23,
+      "total": 22,
       "media": 16,
-      "youtube": 7,
+      "youtube": 6,
       "reviews": 3,
       "sponsored": 0,
       "dell_stories": 0,
@@ -1006,15 +1006,15 @@
           "count": 2
         },
         {
-          "source": "LMGClips",
-          "count": 2
-        },
-        {
           "source": "PCMag",
           "count": 2
         },
         {
           "source": "HotHardware",
+          "count": 1
+        },
+        {
+          "source": "LMGClips",
           "count": 1
         },
         {
@@ -1025,7 +1025,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 20
+          "count": 19
         },
         {
           "section": "Market Trends",
@@ -1036,7 +1036,7 @@
           "count": 1
         }
       ],
-      "avg_score": 66.9
+      "avg_score": 66.7
     },
     {
       "brand": "Google",
@@ -1360,9 +1360,9 @@
       "month": "2026-06",
       "brands": {
         "Dell": 6,
+        "Lenovo": 3,
         "Acer": 2,
         "Alienware": 2,
-        "Lenovo": 2,
         "AMD": 1,
         "Apple": 1,
         "Asus": 1,
@@ -1390,8 +1390,8 @@
         "Apple": 121,
         "Asus": 70,
         "Microsoft": 55,
-        "Lenovo": 53,
         "NVIDIA": 53,
+        "Lenovo": 52,
         "Intel": 40,
         "HP": 39,
         "Dell": 25,
@@ -1400,8 +1400,8 @@
         "MSI": 23,
         "Alienware": 20,
         "Amazon": 19,
-        "Acer": 18,
-        "Framework": 15,
+        "Acer": 17,
+        "Framework": 14,
         "Qualcomm": 12
       }
     },
@@ -1409,7 +1409,7 @@
       "month": "2026-09",
       "brands": {
         "Microsoft": 99,
-        "Apple": 92,
+        "Apple": 93,
         "Lenovo": 76,
         "Asus": 60,
         "Dell": 46,
@@ -1421,13 +1421,32 @@
         "Alienware": 28,
         "MSI": 25,
         "AMD": 23,
-        "Valve": 17,
+        "Valve": 18,
         "Amazon": 13,
         "Google": 12
       }
     }
   ],
   "recent": [
+    {
+      "id": "youtube:173700",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Upgrading Steam Machine's RAM to 32GB and stability improvements",
+      "url": "https://www.youtube.com/shorts/N8rnv_R5wI4",
+      "published_at": "2026-09-25T13:00:13+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:554982",
       "kind": "media",
@@ -1444,6 +1463,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:173520",
+      "kind": "youtube",
+      "source": "PCMag",
+      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple's 2026 Mac Desktop Lineup Tested in Detailed Lab Report",
+      "url": "https://www.youtube.com/watch?v=2HEnSuUK3-0",
+      "published_at": "2026-09-25T12:00:21+00:00",
+      "score": 75,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -6139,47 +6177,28 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:514866",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Googlebook Laptops with Intel/Snapdragon X Elite now available from Dell and other OEMs",
-      "url": "https://wccftech.com/googlebook-launch-899-usd-pre-order-price-dell-hp-acer-lenovo-asus/",
-      "published_at": "2026-09-21T13:55:16+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:515289",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus launches ExpertBook Air with 120Hz OLED display",
-      "url": "https://www.notebookcheck.com/Neues-Asus-ExpertBook-Air-bietet-120Hz-OLED-Display.1404730.0.html",
-      "published_at": "2026-09-21T13:50:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:173700",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Upgrading Steam Machine's RAM to 32GB and stability improvements",
+      "url": "https://www.youtube.com/shorts/N8rnv_R5wI4",
+      "published_at": "2026-09-25T13:00:13+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:554982",
       "kind": "media",
@@ -6196,6 +6215,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:173520",
+      "kind": "youtube",
+      "source": "PCMag",
+      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple's 2026 Mac Desktop Lineup Tested in Detailed Lab Report",
+      "url": "https://www.youtube.com/watch?v=2HEnSuUK3-0",
+      "published_at": "2026-09-25T12:00:21+00:00",
+      "score": 75,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -31432,63 +31470,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:122595",
-      "kind": "youtube",
-      "source": "Just Josh",
-      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Best laptops under $800: Trade-offs, screen quality, and performance considerations",
-      "url": "https://www.youtube.com/watch?v=FL5OPZzTY2g",
-      "published_at": "2026-08-11T17:16:00+00:00",
-      "score": 45,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:123300",
-      "kind": "youtube",
-      "source": "LMGClips",
-      "source_icon": "https://yt3.googleusercontent.com/NO9_Ek-oyWF-AkGrZVS3kCdWJo7PCjCsY5WUlM-7G-1mPu_8gWDcTfX1asa4tQnWQTI62rZf=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework and Valve Can't Beat the RAM Cartel",
-      "url": "https://www.youtube.com/watch?v=hzyi7eswXR0",
-      "published_at": "2026-08-11T17:00:27+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:123015",
-      "kind": "youtube",
-      "source": "The Tech Chap",
-      "source_icon": "https://yt3.googleusercontent.com/BqQGAGWm03aiyeviWMIjILHE9EInqFQSvKFHGBZcT9M_BBhCh5NdPXrmpbHZb_mmhkhu_C3K=s68-c-k-c0x00ffffff-no-rj",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "of Lenovo IdeaPad Slim 5i Ultra: A Competitor to MacBook",
-      "url": "https://www.youtube.com/shorts/HBu0YO_O9a8",
-      "published_at": "2026-08-11T14:21:12+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:168552",
       "kind": "youtube",
       "source": "Tech BR",
@@ -31962,6 +31943,25 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:173377",
+      "kind": "youtube",
+      "source": "Dave2D",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lltZkOAE5XVIlI8U5QVXmdASgYyJiJps-LkO-uQnTwLMQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo Legion Pro 5i Gaming Laptop for GTA 6 Readiness",
+      "url": "https://www.youtube.com/shorts/mdfTWON2mQs",
+      "published_at": "2026-06-26T16:46:09+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "youtube:171797",
