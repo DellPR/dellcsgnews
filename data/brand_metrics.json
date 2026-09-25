@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T20:26:27.693899+00:00",
-  "total_items": 1409,
+  "generated_at": "2026-09-25T22:21:30.944866+00:00",
+  "total_items": 1406,
   "brands": [
     {
       "brand": "Apple",
@@ -73,8 +73,8 @@
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 155,
-      "media": 153,
+      "total": 154,
+      "media": 152,
       "youtube": 2,
       "reviews": 4,
       "sponsored": 0,
@@ -117,7 +117,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 96
+          "count": 95
         },
         {
           "section": "Competitor Coverage",
@@ -147,7 +147,7 @@
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
-          "count": 25
+          "count": 24
         },
         {
           "source": "Adrenaline",
@@ -181,11 +181,11 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 120
+          "count": 119
         },
         {
           "section": "Deals",
-          "count": 20
+          "count": 21
         },
         {
           "section": "Ecosystem",
@@ -196,13 +196,13 @@
           "count": 1
         }
       ],
-      "avg_score": 65.1
+      "avg_score": 64.8
     },
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 140,
-      "media": 101,
+      "total": 138,
+      "media": 99,
       "youtube": 39,
       "reviews": 29,
       "sponsored": 2,
@@ -211,7 +211,7 @@
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
-          "count": 50
+          "count": 48
         },
         {
           "source": "Notebookcheck Reviews",
@@ -245,7 +245,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 97
+          "count": 95
         },
         {
           "section": "Deals",
@@ -260,7 +260,7 @@
           "count": 1
         }
       ],
-      "avg_score": 61.0
+      "avg_score": 60.9
     },
     {
       "brand": "NVIDIA",
@@ -373,18 +373,18 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 62
+          "count": 63
         },
         {
           "section": "Deals",
-          "count": 27
+          "count": 26
         },
         {
           "section": "Ecosystem",
           "count": 2
         }
       ],
-      "avg_score": 58.9
+      "avg_score": 59.2
     },
     {
       "brand": "Dell",
@@ -445,8 +445,8 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 78,
-      "media": 75,
+      "total": 77,
+      "media": 74,
       "youtube": 3,
       "reviews": 3,
       "sponsored": 0,
@@ -493,7 +493,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 20
+          "count": 19
         },
         {
           "section": "Deals",
@@ -504,7 +504,7 @@
           "count": 1
         }
       ],
-      "avg_score": 61.4
+      "avg_score": 61.3
     },
     {
       "brand": "Acer",
@@ -745,8 +745,8 @@
     {
       "brand": "Qualcomm",
       "family": "Ecosystem",
-      "total": 44,
-      "media": 40,
+      "total": 45,
+      "media": 41,
       "youtube": 4,
       "reviews": 4,
       "sponsored": 1,
@@ -766,16 +766,16 @@
           "count": 3
         },
         {
+          "source": "HotHardware",
+          "count": 3
+        },
+        {
           "source": "TudoCelular",
           "count": 3
         },
         {
           "source": "Windows Central",
           "count": 3
-        },
-        {
-          "source": "HotHardware",
-          "count": 2
         },
         {
           "source": "TechSpot",
@@ -793,7 +793,7 @@
         },
         {
           "section": "Ecosystem",
-          "count": 8
+          "count": 9
         },
         {
           "section": "Deals",
@@ -1392,12 +1392,12 @@
       "month": "2026-08",
       "brands": {
         "Apple": 119,
-        "Asus": 68,
+        "Asus": 66,
         "NVIDIA": 53,
-        "Lenovo": 51,
-        "Microsoft": 50,
-        "HP": 39,
-        "Intel": 38,
+        "Lenovo": 49,
+        "Microsoft": 49,
+        "HP": 38,
+        "Intel": 37,
         "AMD": 24,
         "Dell": 23,
         "Samsung": 22,
@@ -1415,13 +1415,13 @@
         "Microsoft": 105,
         "Apple": 93,
         "Lenovo": 79,
-        "Asus": 63,
+        "Asus": 65,
         "Dell": 47,
-        "HP": 46,
+        "HP": 47,
         "Acer": 42,
         "Intel": 39,
         "NVIDIA": 38,
-        "Qualcomm": 32,
+        "Qualcomm": 33,
         "Alienware": 28,
         "MSI": 25,
         "AMD": 23,
@@ -1432,6 +1432,82 @@
     }
   ],
   "recent": [
+    {
+      "id": "media:561548",
+      "kind": "media",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus lists 9 best laptops for 2026 purchase",
+      "url": "https://tecnoblog.net/guias/melhor-notebook-asus/",
+      "published_at": "2026-09-25T21:29:23+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:562067",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP launches ZBook Ultra G3a with 192GB RAM for AI workloads",
+      "url": "https://www.techradar.com/pro/hp-debuts-usd7-449-ryzen-ai-max-pro-495-laptop-zbook-ultra-g3a-has-192gb-ram-512gb-ssd-and-can-handle-up-to-300b-parameters",
+      "published_at": "2026-09-25T21:20:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:561967",
+      "kind": "media",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Qualcomm introduces Linux support for Snapdragon X2 with NPU/GPU",
+      "url": "https://hothardware.com/news/qualcomm-unleashes-linux-on-snapdragon-x2-with-npu-and-gpu-support",
+      "published_at": "2026-09-25T20:35:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:561553",
+      "kind": "media",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Asus Vivobook Go 15 sees 24% price drop on Mercado Livre",
+      "url": "https://tecnoblog.net/achados/asus-vivobook-go-15-para-estudos-despenca-de-preco-para-melhor-oferta-recente/",
+      "published_at": "2026-09-25T19:17:25+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:559011",
       "kind": "media",
@@ -6105,85 +6181,85 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:514189",
+      "id": "media:561548",
       "kind": "media",
-      "source": "Olhar Digital",
-      "source_icon": "https://www.google.com/s2/favicons?domain=olhardigital.com.br&sz=64",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
       "country": "BR",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "HP reviews laptop with Intel i5 and 16GB RAM",
-      "url": "https://olhardigital.com.br/2026/09/21/reviews/vale-a-pena-analisamos-um-notebook-da-hp-com-processador-intel-e-16-gb-de-ram/",
-      "published_at": "2026-09-21T18:00:00+00:00",
-      "score": 78,
-      "is_review": true,
+      "title": "Asus lists 9 best laptops for 2026 purchase",
+      "url": "https://tecnoblog.net/guias/melhor-notebook-asus/",
+      "published_at": "2026-09-25T21:29:23+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:562067",
+      "kind": "media",
+      "source": "TechRadar",
+      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP launches ZBook Ultra G3a with 192GB RAM for AI workloads",
+      "url": "https://www.techradar.com/pro/hp-debuts-usd7-449-ryzen-ai-max-pro-495-laptop-zbook-ultra-g3a-has-192gb-ram-512gb-ssd-and-can-handle-up-to-300b-parameters",
+      "published_at": "2026-09-25T21:20:00+00:00",
+      "score": 65,
+      "is_review": false,
       "is_sponsored": false,
       "brand": "HP",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:514189",
+      "id": "media:561967",
       "kind": "media",
-      "source": "Olhar Digital",
-      "source_icon": "https://www.google.com/s2/favicons?domain=olhardigital.com.br&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "HP reviews laptop with Intel i5 and 16GB RAM",
-      "url": "https://olhardigital.com.br/2026/09/21/reviews/vale-a-pena-analisamos-um-notebook-da-hp-com-processador-intel-e-16-gb-de-ram/",
-      "published_at": "2026-09-21T18:00:00+00:00",
-      "score": 78,
-      "is_review": true,
+      "title": "Qualcomm introduces Linux support for Snapdragon X2 with NPU/GPU",
+      "url": "https://hothardware.com/news/qualcomm-unleashes-linux-on-snapdragon-x2-with-npu-and-gpu-support",
+      "published_at": "2026-09-25T20:35:00+00:00",
+      "score": 65,
+      "is_review": false,
       "is_sponsored": false,
-      "brand": "Intel",
+      "brand": "Qualcomm",
       "family": "Ecosystem",
       "is_dell_story": false
     },
     {
-      "id": "media:514831",
+      "id": "media:561553",
       "kind": "media",
-      "source": "TechSpot",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple Mac mini M6 debuts with higher price",
-      "url": "https://www.techspot.com/products/desktop-pcs/apple-mac-mini-m6.330931/",
-      "published_at": "2026-09-21T16:52:00+00:00",
-      "score": 75,
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Asus Vivobook Go 15 sees 24% price drop on Mercado Livre",
+      "url": "https://tecnoblog.net/achados/asus-vivobook-go-15-para-estudos-despenca-de-preco-para-melhor-oferta-recente/",
+      "published_at": "2026-09-25T19:17:25+00:00",
+      "score": 35,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Apple",
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
-    {
-      "id": "media:515276",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MSI unveils compact desktop with 128 GB RAM and RTX-Spark graphics",
-      "url": "https://www.notebookcheck.com/MSI-praesentiert-kompakten-Desktop-PC-mit-128-GB-RAM-und-RTX-Spark-Grafik.1404967.0.html",
-      "published_at": "2026-09-21T16:15:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "MSI",
-      "family": "PC competitors",
-      "is_dell_story": false
-    }
-  ],
-  "items": [
     {
       "id": "media:559011",
       "kind": "media",
@@ -30503,139 +30579,6 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "media:398637",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo launches ThinkPad E16 Gen 4 with 24-hour battery life",
-      "url": "https://www.notebookcheck.com/UEber-24h-Laufzeit-Lenovo-veroeffentlicht-neues-ThinkPad-E16-Gen-4-in-Deutschland.1374360.0.html",
-      "published_at": "2026-08-20T18:47:00+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:397988",
-      "kind": "media",
-      "source": "TechRadar",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techradar.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "HP OmniBook X Flip 16 gets $450 discount in Best Buy sale",
-      "url": "https://www.techradar.com/computing/laptops/hp-omnibook-x-flip-16-packs-core-ultra-7-power-into-a-versatile-2-in-1-and-its-a-huge-usd450-off-in-best-buys-60th-anniversary-sale",
-      "published_at": "2026-08-20T18:45:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:398639",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus announces ExpertBook P3 G2 with up to 64GB RAM",
-      "url": "https://www.notebookcheck.com/Asus-kuendigt-ExpertBook-P3-G2-mit-bis-zu-64GB-RAM-an.1374356.0.html",
-      "published_at": "2026-08-20T18:35:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:398640",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo launches new 14-inch laptop with 19+ hour battery life",
-      "url": "https://www.notebookcheck.com/Lenovo-stellt-neuen-14-Zoeller-mit-ueber-19-Stunden-Akkulaufzeit-vor.1374354.0.html",
-      "published_at": "2026-08-20T18:31:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:397532",
-      "kind": "media",
-      "source": "Mundo Conectado",
-      "source_icon": "https://www.google.com/s2/favicons?domain=mundoconectado.com.br&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ASUS launches ExpertBook B3 with Intel Core Ultra and AI features for businesses",
-      "url": "https://www.mundoconectado.com.br/notebooks/asus-lanca-expertbook-b3-com-intel-core-ultra-e-recursos-de-ia-para-empresas/",
-      "published_at": "2026-08-20T17:52:16+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:397532",
-      "kind": "media",
-      "source": "Mundo Conectado",
-      "source_icon": "https://www.google.com/s2/favicons?domain=mundoconectado.com.br&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ASUS launches ExpertBook B3 with Intel Core Ultra and AI features for businesses",
-      "url": "https://www.mundoconectado.com.br/notebooks/asus-lanca-expertbook-b3-com-intel-core-ultra-e-recursos-de-ia-para-empresas/",
-      "published_at": "2026-08-20T17:52:16+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:397590",
-      "kind": "media",
-      "source": "Engadget",
-      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Windows 11 update causes game crashes and other issues",
-      "url": "https://www.engadget.com/2240999/recent-windows-11-update-causing-game-crashes-and-other-problems/",
-      "published_at": "2026-08-20T17:32:51+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
     },
     {
       "id": "youtube:139185",
