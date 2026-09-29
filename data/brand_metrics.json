@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-29T15:04:20.829695+00:00",
-  "total_items": 1391,
+  "generated_at": "2026-09-29T18:22:26.249730+00:00",
+  "total_items": 1396,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 215,
+      "total": 216,
       "media": 164,
-      "youtube": 51,
-      "reviews": 32,
+      "youtube": 52,
+      "reviews": 33,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 2,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 179
+          "count": 180
         },
         {
           "section": "Deals",
@@ -201,11 +201,11 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 133,
+      "total": 134,
       "media": 91,
-      "youtube": 42,
+      "youtube": 43,
       "reviews": 33,
-      "sponsored": 1,
+      "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 2,
       "top_sources": [
@@ -245,7 +245,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 110
+          "count": 111
         },
         {
           "section": "Deals",
@@ -445,11 +445,11 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 80,
+      "total": 81,
       "media": 77,
-      "youtube": 3,
+      "youtube": 4,
       "reviews": 3,
-      "sponsored": 0,
+      "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 1,
       "top_sources": [
@@ -493,7 +493,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 20
+          "count": 21
         },
         {
           "section": "Deals",
@@ -504,14 +504,14 @@
           "count": 1
         }
       ],
-      "avg_score": 62.4
+      "avg_score": 62.6
     },
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 59,
+      "total": 60,
       "media": 43,
-      "youtube": 16,
+      "youtube": 17,
       "reviews": 13,
       "sponsored": 2,
       "dell_stories": 0,
@@ -553,7 +553,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 48
+          "count": 49
         },
         {
           "section": "Deals",
@@ -745,11 +745,11 @@
     {
       "brand": "Qualcomm",
       "family": "Ecosystem",
-      "total": 45,
+      "total": 46,
       "media": 41,
-      "youtube": 4,
+      "youtube": 5,
       "reviews": 4,
-      "sponsored": 1,
+      "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 1,
       "top_sources": [
@@ -778,18 +778,18 @@
           "count": 2
         },
         {
-          "source": "TechSpot",
+          "source": "Andrew Marc David",
           "count": 2
         },
         {
-          "source": "The Verge",
+          "source": "TechSpot",
           "count": 2
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 28
+          "count": 29
         },
         {
           "section": "Ecosystem",
@@ -808,7 +808,7 @@
           "count": 1
         }
       ],
-      "avg_score": 63.8
+      "avg_score": 64.0
     },
     {
       "brand": "Samsung",
@@ -1404,15 +1404,15 @@
       "month": "2026-09",
       "brands": {
         "Microsoft": 126,
-        "Apple": 112,
+        "Apple": 113,
         "Lenovo": 94,
-        "Asus": 73,
+        "Asus": 74,
         "HP": 53,
         "Dell": 52,
-        "Intel": 50,
+        "Intel": 51,
         "NVIDIA": 47,
-        "Acer": 43,
-        "Qualcomm": 36,
+        "Acer": 44,
+        "Qualcomm": 37,
         "AMD": 33,
         "Alienware": 28,
         "MSI": 27,
@@ -1423,6 +1423,101 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:179640",
+      "kind": "youtube",
+      "source": "TecMundo",
+      "source_icon": "https://yt3.googleusercontent.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer's 50-Year Journey from Small Distributor to Tech Giant",
+      "url": "https://www.youtube.com/shorts/Tad6DQdPGjg",
+      "published_at": "2026-09-29T17:50:46+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:179895",
+      "kind": "youtube",
+      "source": "Max Tech",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple's New OLED MacBook Pro Confirmed for Release",
+      "url": "https://www.youtube.com/watch?v=mu1sungkK3Q",
+      "published_at": "2026-09-29T14:00:12+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:179610",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus Zenbook 14: Snapdragon & Intel Powerhouse Revealed!",
+      "url": "https://www.youtube.com/shorts/3ESdhhsVQQI",
+      "published_at": "2026-09-29T13:00:02+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:179610",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus Zenbook 14: Snapdragon & Intel Powerhouse Revealed!",
+      "url": "https://www.youtube.com/shorts/3ESdhhsVQQI",
+      "published_at": "2026-09-29T13:00:02+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:179610",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus Zenbook 14: Snapdragon & Intel Powerhouse Revealed!",
+      "url": "https://www.youtube.com/shorts/3ESdhhsVQQI",
+      "published_at": "2026-09-29T13:00:02+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:585440",
       "kind": "media",
@@ -6077,104 +6172,104 @@
       "brand": "Qualcomm",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:540844",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft unveils new Surface Laptop 13 with brighter display and 18h battery",
-      "url": "https://www.notebookcheck.com/Microsoft-enthuellt-neuen-Surface-Laptop-13-mit-25-hellerem-Display-und-18h-Laufzeit.1407005.0.html",
-      "published_at": "2026-09-23T20:30:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:540845",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft launches silent Surface Pro 12 Gen 2 with 5G",
-      "url": "https://www.notebookcheck.com/Microsoft-veroeffentlicht-lautloses-Surface-Pro-12-Gen-2-mit-5G.1407004.0.html",
-      "published_at": "2026-09-23T20:30:00+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:170206",
-      "kind": "youtube",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Brazilian laptop buying guide for 2026 with price monitoring and comparison tools",
-      "url": "https://www.youtube.com/watch?v=lXIKL_b1GRE",
-      "published_at": "2026-09-23T20:08:14+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "HP",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:540446",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review: Microsoft Surface Pro 12th Gen Tested with Snapdragon X Plus",
-      "url": "https://winfuture.de/videos/Hardware/Microsoft-Surface-Pro-Die-12.-Generation-zeigt-im-Test-was-sie-kann-29089.html",
-      "published_at": "2026-09-23T19:34:20+00:00",
-      "score": 65,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:540667",
-      "kind": "media",
-      "source": "TI Inside",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tiinside.com.br&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "AI adoption requires human governance and data infrastructure overhaul",
-      "url": "https://tiinside.com.br/23/09/2026/adocao-de-ia-e-uma-operacao-continua-de-montagem-com-inteligencia-humana-e-governanca/",
-      "published_at": "2026-09-23T19:32:47+00:00",
-      "score": 78,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:179640",
+      "kind": "youtube",
+      "source": "TecMundo",
+      "source_icon": "https://yt3.googleusercontent.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer's 50-Year Journey from Small Distributor to Tech Giant",
+      "url": "https://www.youtube.com/shorts/Tad6DQdPGjg",
+      "published_at": "2026-09-29T17:50:46+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:179895",
+      "kind": "youtube",
+      "source": "Max Tech",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple's New OLED MacBook Pro Confirmed for Release",
+      "url": "https://www.youtube.com/watch?v=mu1sungkK3Q",
+      "published_at": "2026-09-29T14:00:12+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:179610",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus Zenbook 14: Snapdragon & Intel Powerhouse Revealed!",
+      "url": "https://www.youtube.com/shorts/3ESdhhsVQQI",
+      "published_at": "2026-09-29T13:00:02+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:179610",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus Zenbook 14: Snapdragon & Intel Powerhouse Revealed!",
+      "url": "https://www.youtube.com/shorts/3ESdhhsVQQI",
+      "published_at": "2026-09-29T13:00:02+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Qualcomm",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:179610",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus Zenbook 14: Snapdragon & Intel Powerhouse Revealed!",
+      "url": "https://www.youtube.com/shorts/3ESdhhsVQQI",
+      "published_at": "2026-09-29T13:00:02+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:585440",
       "kind": "media",
