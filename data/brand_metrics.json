@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T23:53:10.058714+00:00",
-  "total_items": 1396,
+  "generated_at": "2026-09-29T12:21:51.771825+00:00",
+  "total_items": 1401,
   "brands": [
     {
       "brand": "Apple",
@@ -137,13 +137,13 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 142,
+      "total": 143,
       "media": 102,
-      "youtube": 40,
-      "reviews": 31,
+      "youtube": 41,
+      "reviews": 32,
       "sponsored": 2,
       "dell_stories": 0,
-      "high_signal": 6,
+      "high_signal": 7,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -181,7 +181,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 99
+          "count": 100
         },
         {
           "section": "Deals",
@@ -196,7 +196,7 @@
           "count": 2
         }
       ],
-      "avg_score": 61.7
+      "avg_score": 62.0
     },
     {
       "brand": "Asus",
@@ -389,13 +389,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 80,
+      "total": 83,
       "media": 50,
-      "youtube": 30,
-      "reviews": 37,
+      "youtube": 33,
+      "reviews": 39,
       "sponsored": 1,
-      "dell_stories": 80,
-      "high_signal": 76,
+      "dell_stories": 83,
+      "high_signal": 79,
       "top_sources": [
         {
           "source": "Tom's Hardware",
@@ -407,6 +407,10 @@
         },
         {
           "source": "Notebookcheck DE - News",
+          "count": 5
+        },
+        {
+          "source": "Techaeris",
           "count": 5
         },
         {
@@ -424,23 +428,19 @@
         {
           "source": "TechRadar",
           "count": 3
-        },
-        {
-          "source": "Tom's Guide",
-          "count": 3
         }
       ],
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 70
+          "count": 73
         },
         {
           "section": "Deals",
           "count": 10
         }
       ],
-      "avg_score": 95.3
+      "avg_score": 95.4
     },
     {
       "brand": "Intel",
@@ -569,13 +569,13 @@
     {
       "brand": "Alienware",
       "family": "Dell family",
-      "total": 51,
+      "total": 52,
       "media": 35,
-      "youtube": 16,
-      "reviews": 23,
+      "youtube": 17,
+      "reviews": 24,
       "sponsored": 0,
-      "dell_stories": 51,
-      "high_signal": 48,
+      "dell_stories": 52,
+      "high_signal": 49,
       "top_sources": [
         {
           "source": "TFTCentral",
@@ -613,14 +613,14 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 46
+          "count": 47
         },
         {
           "section": "Deals",
           "count": 5
         }
       ],
-      "avg_score": 95.8
+      "avg_score": 95.9
     },
     {
       "brand": "AMD",
@@ -1342,7 +1342,7 @@
     {
       "month": "2026-04",
       "brands": {
-        "Dell": 1
+        "Dell": 3
       }
     },
     {
@@ -1355,11 +1355,11 @@
     {
       "month": "2026-06",
       "brands": {
-        "Dell": 5,
+        "Dell": 6,
+        "Lenovo": 3,
         "Acer": 2,
-        "Lenovo": 2,
+        "Alienware": 2,
         "AMD": 1,
-        "Alienware": 1,
         "Apple": 1,
         "MSI": 1,
         "NVIDIA": 1,
@@ -31712,6 +31712,25 @@
       "is_dell_story": false
     },
     {
+      "id": "youtube:178788",
+      "kind": "youtube",
+      "source": "Techaeris",
+      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Alienware 15 2026 preview: design changes, price, and specs",
+      "url": "https://www.youtube.com/watch?v=r2d9VCVibjs",
+      "published_at": "2026-06-29T14:40:10+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
       "id": "youtube:132179",
       "kind": "youtube",
       "source": "Crimson Tech",
@@ -31725,6 +31744,25 @@
       "published_at": "2026-06-28T08:00:26+00:00",
       "score": 100,
       "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:178789",
+      "kind": "youtube",
+      "source": "Techaeris",
+      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell 16S laptop: A practical alternative to XPS with improved ports and display options",
+      "url": "https://www.youtube.com/watch?v=_76ICjcrRIg",
+      "published_at": "2026-06-26T22:40:51+00:00",
+      "score": 90,
+      "is_review": false,
       "is_sponsored": false,
       "brand": "Dell",
       "family": "Dell family",
@@ -31862,6 +31900,25 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
+    },
+    {
+      "id": "youtube:178790",
+      "kind": "youtube",
+      "source": "Techaeris",
+      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo Yoga Pro 9i Aura Edition review: A creator-focused 2-in-1 with Intel 3nm and RTX 5070",
+      "url": "https://www.youtube.com/watch?v=M5EyKe1lELQ",
+      "published_at": "2026-06-13T20:02:22+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
       "id": "youtube:171799",
@@ -32104,6 +32161,44 @@
       "url": "https://www.youtube.com/watch?v=iet5sbncMU4",
       "published_at": "2026-04-23T16:01:12+00:00",
       "score": 85,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:178795",
+      "kind": "youtube",
+      "source": "Techaeris",
+      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell XPS 16 review highlights premium build, OLED display, and performance",
+      "url": "https://www.youtube.com/watch?v=MaHZeM3TB40",
+      "published_at": "2026-04-21T21:20:50+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:178798",
+      "kind": "youtube",
+      "source": "Techaeris",
+      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "2026 Dell XPS 14 Review: Premium Build, Stunning Display, and Powerful Performance",
+      "url": "https://www.youtube.com/watch?v=uHJBos72L1c",
+      "published_at": "2026-04-08T21:05:33+00:00",
+      "score": 100,
       "is_review": true,
       "is_sponsored": false,
       "brand": "Dell",
