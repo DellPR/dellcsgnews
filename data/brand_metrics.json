@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T00:00:58.882480+00:00",
-  "total_items": 1396,
+  "generated_at": "2026-09-30T12:19:01.646583+00:00",
+  "total_items": 1398,
   "brands": [
     {
       "brand": "Apple",
@@ -201,10 +201,10 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 131,
+      "total": 132,
       "media": 88,
-      "youtube": 43,
-      "reviews": 32,
+      "youtube": 44,
+      "reviews": 33,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 2,
@@ -214,11 +214,11 @@
           "count": 26
         },
         {
-          "source": "Adrenaline",
-          "count": 8
+          "source": "Crimson Tech",
+          "count": 9
         },
         {
-          "source": "Crimson Tech",
+          "source": "Adrenaline",
           "count": 8
         },
         {
@@ -245,7 +245,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 108
+          "count": 109
         },
         {
           "section": "Deals",
@@ -633,13 +633,13 @@
     {
       "brand": "Alienware",
       "family": "Dell family",
-      "total": 54,
+      "total": 55,
       "media": 37,
-      "youtube": 17,
+      "youtube": 18,
       "reviews": 25,
       "sponsored": 0,
-      "dell_stories": 54,
-      "high_signal": 51,
+      "dell_stories": 55,
+      "high_signal": 52,
       "top_sources": [
         {
           "source": "TFTCentral",
@@ -677,14 +677,14 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 49
+          "count": 50
         },
         {
           "section": "Deals",
           "count": 5
         }
       ],
-      "avg_score": 96.2
+      "avg_score": 96.0
     },
     {
       "brand": "MSI",
@@ -1389,8 +1389,8 @@
         "Microsoft": 26,
         "Intel": 25,
         "HP": 21,
+        "Alienware": 20,
         "Samsung": 20,
-        "Alienware": 19,
         "Dell": 17,
         "AMD": 16,
         "MSI": 16,
@@ -1406,7 +1406,7 @@
         "Microsoft": 133,
         "Apple": 118,
         "Lenovo": 99,
-        "Asus": 76,
+        "Asus": 77,
         "HP": 57,
         "Dell": 55,
         "Intel": 52,
@@ -1423,6 +1423,25 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:181410",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Unboxing of Asus ROG Strix SCAR 18 (2026) with RTX 5090 and 500W power",
+      "url": "https://www.youtube.com/watch?v=-YNdAdr_XKQ",
+      "published_at": "2026-09-30T08:00:39+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:180420",
       "kind": "youtube",
@@ -6153,28 +6172,28 @@
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:548049",
-      "kind": "media",
-      "source": "PC Gamer",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Major US chipmakers evaluate Intel's new 14A semiconductor node",
-      "url": "https://www.pcgamer.com/hardware/processors/apple-nvidia-google-microsoft-pretty-much-all-the-big-us-players-in-the-chip-business-are-reportedly-evaluating-intels-new-14a-node/",
-      "published_at": "2026-09-24T15:24:48+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Google",
-      "family": "Other",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:181410",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Unboxing of Asus ROG Strix SCAR 18 (2026) with RTX 5090 and 500W power",
+      "url": "https://www.youtube.com/watch?v=-YNdAdr_XKQ",
+      "published_at": "2026-09-30T08:00:39+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:180420",
       "kind": "youtube",
@@ -31159,6 +31178,25 @@
       "brand": "Intel",
       "family": "Ecosystem",
       "is_dell_story": false
+    },
+    {
+      "id": "youtube:181287",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell Aurora 16 laptop malfunction and warranty claim",
+      "url": "https://www.youtube.com/shorts/jOxjGtgT5QU",
+      "published_at": "2026-08-15T17:39:42+00:00",
+      "score": 85,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Alienware",
+      "family": "Dell family",
+      "is_dell_story": true
     },
     {
       "id": "youtube:176173",
