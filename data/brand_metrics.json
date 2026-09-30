@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T22:22:02.606357+00:00",
-  "total_items": 1391,
+  "generated_at": "2026-09-30T23:57:47.072438+00:00",
+  "total_items": 1390,
   "brands": [
     {
       "brand": "Apple",
@@ -137,13 +137,13 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 146,
+      "total": 144,
       "media": 105,
-      "youtube": 41,
-      "reviews": 35,
+      "youtube": 39,
+      "reviews": 34,
       "sponsored": 2,
       "dell_stories": 0,
-      "high_signal": 7,
+      "high_signal": 6,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -154,11 +154,11 @@
           "count": 9
         },
         {
-          "source": "Tech BR",
-          "count": 7
+          "source": "Futura",
+          "count": 6
         },
         {
-          "source": "Futura",
+          "source": "Tech BR",
           "count": 6
         },
         {
@@ -181,7 +181,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 105
+          "count": 104
         },
         {
           "section": "Deals",
@@ -193,18 +193,18 @@
         },
         {
           "section": "Market Trends",
-          "count": 2
+          "count": 1
         }
       ],
-      "avg_score": 62.5
+      "avg_score": 62.2
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 130,
+      "total": 131,
       "media": 86,
-      "youtube": 44,
-      "reviews": 36,
+      "youtube": 45,
+      "reviews": 37,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 2,
@@ -214,12 +214,12 @@
           "count": 27
         },
         {
-          "source": "Crimson Tech",
+          "source": "Adrenaline",
           "count": 9
         },
         {
-          "source": "Adrenaline",
-          "count": 8
+          "source": "Crimson Tech",
+          "count": 9
         },
         {
           "source": "VideoCardz",
@@ -245,7 +245,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 107
+          "count": 108
         },
         {
           "section": "Deals",
@@ -449,7 +449,7 @@
       "media": 68,
       "youtube": 3,
       "reviews": 2,
-      "sponsored": 1,
+      "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 1,
       "top_sources": [
@@ -493,18 +493,18 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 20
+          "count": 19
         },
         {
           "section": "Deals",
-          "count": 6
+          "count": 7
         },
         {
           "section": "Market Trends",
           "count": 1
         }
       ],
-      "avg_score": 63.6
+      "avg_score": 62.7
     },
     {
       "brand": "Acer",
@@ -689,9 +689,9 @@
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 48,
+      "total": 47,
       "media": 34,
-      "youtube": 14,
+      "youtube": 13,
       "reviews": 9,
       "sponsored": 3,
       "dell_stories": 0,
@@ -700,10 +700,6 @@
         {
           "source": "Notebookcheck DE - News",
           "count": 7
-        },
-        {
-          "source": "Crimson Tech",
-          "count": 4
         },
         {
           "source": "Tom's Hardware",
@@ -715,6 +711,10 @@
         },
         {
           "source": "Adrenaline",
+          "count": 3
+        },
+        {
+          "source": "Crimson Tech",
           "count": 3
         },
         {
@@ -733,14 +733,14 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 37
+          "count": 36
         },
         {
           "section": "Deals",
           "count": 11
         }
       ],
-      "avg_score": 59.8
+      "avg_score": 59.6
     },
     {
       "brand": "Qualcomm",
@@ -813,17 +813,17 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 32,
+      "total": 33,
       "media": 19,
-      "youtube": 13,
-      "reviews": 7,
+      "youtube": 14,
+      "reviews": 8,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
       "top_sources": [
         {
           "source": "Escolha Segura",
-          "count": 3
+          "count": 4
         },
         {
           "source": "Clubic",
@@ -857,7 +857,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 18
+          "count": 19
         },
         {
           "section": "Deals",
@@ -868,7 +868,7 @@
           "count": 3
         }
       ],
-      "avg_score": 57.0
+      "avg_score": 57.4
     },
     {
       "brand": "Valve",
@@ -1377,10 +1377,10 @@
         "Dell": 4,
         "Asus": 3,
         "MSI": 3,
-        "Lenovo": 2,
         "Razer": 2,
         "Alienware": 1,
-        "Framework": 1
+        "Framework": 1,
+        "Lenovo": 1
       }
     },
     {
@@ -1389,15 +1389,15 @@
         "Apple": 72,
         "NVIDIA": 38,
         "Asus": 37,
-        "Lenovo": 29,
+        "Lenovo": 28,
         "Microsoft": 23,
         "Alienware": 20,
         "HP": 20,
         "Samsung": 20,
         "Dell": 17,
-        "Intel": 17,
-        "MSI": 14,
+        "Intel": 16,
         "AMD": 13,
+        "MSI": 13,
         "Acer": 12,
         "Amazon": 10,
         "Framework": 7,
@@ -1410,10 +1410,10 @@
         "Microsoft": 140,
         "Apple": 120,
         "Lenovo": 107,
-        "Asus": 81,
+        "Asus": 82,
         "HP": 61,
         "Dell": 55,
-        "Intel": 53,
+        "Intel": 54,
         "NVIDIA": 49,
         "Acer": 48,
         "AMD": 42,
@@ -1427,6 +1427,63 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:182685",
+      "kind": "youtube",
+      "source": "Loop Infinito",
+      "source_icon": "https://yt3.googleusercontent.com/GDHTPQokpmjDxrJbAHuLi1Rhjx1_q75cgDFKboVzzAv8ZcEVi4Wc_HqSIWwwNon5rUXKztkaPA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Intel Gamer Days Offers Start October 1st-11th, 2026",
+      "url": "https://www.youtube.com/shorts/k77X66NZQ0Q",
+      "published_at": "2026-09-30T22:09:12+00:00",
+      "score": 10,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:182805",
+      "kind": "youtube",
+      "source": "Adrenaline",
+      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Red Magic 2 Astra tablet review: PC gaming on ARM with Snapdragon 8 Elite",
+      "url": "https://www.youtube.com/watch?v=dfmF1Y4epaU",
+      "published_at": "2026-09-30T21:54:03+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:182716",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book 6 Pro review after 30 days: runs everything with all-day battery?",
+      "url": "https://www.youtube.com/watch?v=8yYwEfnYNIk",
+      "published_at": "2026-09-30T21:00:08+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:598163",
       "kind": "media",
@@ -6119,66 +6176,66 @@
       "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:173520",
-      "kind": "youtube",
-      "source": "PCMag",
-      "source_icon": "https://yt3.googleusercontent.com/cUp-DHH4z550JI9fdZylUwkWy5ma3UE2oHiLRIF0SwSbRQCVvitot1xDGhoGjDwKH7t9cfwYwg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple's 2026 Mac Desktop Lineup Tested in Detailed Lab Report",
-      "url": "https://www.youtube.com/watch?v=2HEnSuUK3-0",
-      "published_at": "2026-09-25T12:00:21+00:00",
-      "score": 75,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:554376",
-      "kind": "media",
-      "source": "The Verge",
-      "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft unveils Copilot 'super app' with AI chat, coding, and agents",
-      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-      "published_at": "2026-09-25T12:00:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:554384",
-      "kind": "media",
-      "source": "Engadget",
-      "source_icon": "https://www.google.com/s2/favicons?domain=engadget.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft updates Copilot app with Office, coding features",
-      "url": "https://www.engadget.com/2268096/microsofts-copilot-app-adds-office-natural-coding-and-automation/",
-      "published_at": "2026-09-25T12:00:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:182685",
+      "kind": "youtube",
+      "source": "Loop Infinito",
+      "source_icon": "https://yt3.googleusercontent.com/GDHTPQokpmjDxrJbAHuLi1Rhjx1_q75cgDFKboVzzAv8ZcEVi4Wc_HqSIWwwNon5rUXKztkaPA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Intel Gamer Days Offers Start October 1st-11th, 2026",
+      "url": "https://www.youtube.com/shorts/k77X66NZQ0Q",
+      "published_at": "2026-09-30T22:09:12+00:00",
+      "score": 10,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:182805",
+      "kind": "youtube",
+      "source": "Adrenaline",
+      "source_icon": "https://yt3.googleusercontent.com/SMveOOAq3F-AmS7pCeo4WgaD8EXuZMKQi4mUEdatPhfavWCh00YbidvYeaiQI-XOrTEOFkXQrg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Red Magic 2 Astra tablet review: PC gaming on ARM with Snapdragon 8 Elite",
+      "url": "https://www.youtube.com/watch?v=dfmF1Y4epaU",
+      "published_at": "2026-09-30T21:54:03+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:182716",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Samsung Galaxy Book 6 Pro review after 30 days: runs everything with all-day battery?",
+      "url": "https://www.youtube.com/watch?v=8yYwEfnYNIk",
+      "published_at": "2026-09-30T21:00:08+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:598163",
       "kind": "media",
@@ -30994,63 +31051,6 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:131280",
-      "kind": "youtube",
-      "source": "Tech BR",
-      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Comparing Lenovo Lock Essential and standard Lock models",
-      "url": "https://www.youtube.com/watch?v=qt370r6yqfI",
-      "published_at": "2026-08-16T14:15:33+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:131415",
-      "kind": "youtube",
-      "source": "Crimson Tech",
-      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MSI Katana 15 HX (2026) Unboxing - Budget Gaming Laptop with Intel i9",
-      "url": "https://www.youtube.com/watch?v=IaAzikxQYkI",
-      "published_at": "2026-08-16T08:00:38+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "MSI",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:131415",
-      "kind": "youtube",
-      "source": "Crimson Tech",
-      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MSI Katana 15 HX (2026) Unboxing - Budget Gaming Laptop with Intel i9",
-      "url": "https://www.youtube.com/watch?v=IaAzikxQYkI",
-      "published_at": "2026-08-16T08:00:38+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:181287",
       "kind": "youtube",
       "source": "Tech BR",
@@ -31505,25 +31505,6 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "youtube:130961",
-      "kind": "youtube",
-      "source": "Hardware Canucks",
-      "source_icon": "https://yt3.googleusercontent.com/C-HUUT9dZSMpImqVMDuDOJEr_5b1j2_5v5TwXZhEED8qt958ndFDd0mEmdTVs7EaIlK24N3h=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Legion 5i comparison: Arrow Lake HX Plus vs. Panther Lake performance",
-      "url": "https://www.youtube.com/watch?v=9PD1zjC_wUs",
-      "published_at": "2026-07-01T02:16:46+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
     },
     {
       "id": "youtube:178788",
