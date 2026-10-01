@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-01T12:18:50.464308+00:00",
-  "total_items": 1391,
+  "generated_at": "2026-10-01T14:54:35.220332+00:00",
+  "total_items": 1384,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 198,
-      "media": 144,
+      "total": 185,
+      "media": 131,
       "youtube": 54,
       "reviews": 36,
       "sponsored": 0,
@@ -15,45 +15,45 @@
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
-          "count": 17
+          "count": 16
         },
         {
           "source": "Wccftech",
-          "count": 14
+          "count": 12
         },
         {
           "source": "Frandroid",
-          "count": 11
+          "count": 9
+        },
+        {
+          "source": "Les Numériques",
+          "count": 9
         },
         {
           "source": "TechRadar",
           "count": 9
         },
         {
-          "source": "Les Numériques",
-          "count": 8
-        },
-        {
           "source": "Tom's Guide",
           "count": 8
         },
         {
-          "source": "Clubic",
+          "source": "Engadget",
           "count": 7
         },
         {
-          "source": "Engadget",
-          "count": 7
+          "source": "CNET",
+          "count": 6
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 164
+          "count": 150
         },
         {
           "section": "Deals",
-          "count": 22
+          "count": 23
         },
         {
           "section": "Dell Coverage",
@@ -68,13 +68,13 @@
           "count": 4
         }
       ],
-      "avg_score": 64.8
+      "avg_score": 64.6
     },
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 163,
-      "media": 161,
+      "total": 165,
+      "media": 163,
       "youtube": 2,
       "reviews": 4,
       "sponsored": 0,
@@ -95,7 +95,7 @@
         },
         {
           "source": "Clubic",
-          "count": 9
+          "count": 10
         },
         {
           "source": "Les Numériques",
@@ -121,18 +121,18 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 56
+          "count": 57
         },
         {
           "section": "Deals",
-          "count": 11
+          "count": 12
         },
         {
           "section": "Competitor Watch",
           "count": 1
         }
       ],
-      "avg_score": 54.1
+      "avg_score": 53.9
     },
     {
       "brand": "Lenovo",
@@ -201,8 +201,8 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 131,
-      "media": 86,
+      "total": 132,
+      "media": 87,
       "youtube": 45,
       "reviews": 37,
       "sponsored": 2,
@@ -245,7 +245,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 108
+          "count": 109
         },
         {
           "section": "Deals",
@@ -260,77 +260,13 @@
           "count": 1
         }
       ],
-      "avg_score": 64.8
-    },
-    {
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "total": 89,
-      "media": 80,
-      "youtube": 9,
-      "reviews": 6,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 1,
-      "top_sources": [
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 10
-        },
-        {
-          "source": "Wccftech",
-          "count": 7
-        },
-        {
-          "source": "Exame",
-          "count": 6
-        },
-        {
-          "source": "HotHardware",
-          "count": 6
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 6
-        },
-        {
-          "source": "VideoCardz",
-          "count": 5
-        },
-        {
-          "source": "Andrew Marc David",
-          "count": 3
-        },
-        {
-          "source": "Clubic",
-          "count": 3
-        }
-      ],
-      "sections": [
-        {
-          "section": "Ecosystem",
-          "count": 65
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 17
-        },
-        {
-          "section": "Deals",
-          "count": 4
-        },
-        {
-          "section": "Market Trends",
-          "count": 3
-        }
-      ],
-      "avg_score": 63.8
+      "avg_score": 64.9
     },
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 87,
-      "media": 70,
+      "total": 88,
+      "media": 71,
       "youtube": 17,
       "reviews": 20,
       "sponsored": 1,
@@ -339,7 +275,7 @@
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
-          "count": 26
+          "count": 27
         },
         {
           "source": "Adrenaline",
@@ -373,7 +309,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 62
+          "count": 63
         },
         {
           "section": "Deals",
@@ -385,6 +321,70 @@
         }
       ],
       "avg_score": 60.8
+    },
+    {
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "total": 85,
+      "media": 76,
+      "youtube": 9,
+      "reviews": 6,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 1,
+      "top_sources": [
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 10
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 7
+        },
+        {
+          "source": "Exame",
+          "count": 6
+        },
+        {
+          "source": "HotHardware",
+          "count": 6
+        },
+        {
+          "source": "VideoCardz",
+          "count": 5
+        },
+        {
+          "source": "Wccftech",
+          "count": 4
+        },
+        {
+          "source": "Andrew Marc David",
+          "count": 3
+        },
+        {
+          "source": "Les Numériques",
+          "count": 3
+        }
+      ],
+      "sections": [
+        {
+          "section": "Ecosystem",
+          "count": 61
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 17
+        },
+        {
+          "section": "Deals",
+          "count": 4
+        },
+        {
+          "section": "Market Trends",
+          "count": 3
+        }
+      ],
+      "avg_score": 63.6
     },
     {
       "brand": "Dell",
@@ -445,8 +445,8 @@
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 72,
-      "media": 68,
+      "total": 71,
+      "media": 67,
       "youtube": 4,
       "reviews": 3,
       "sponsored": 2,
@@ -475,7 +475,7 @@
         },
         {
           "source": "HotHardware",
-          "count": 4
+          "count": 3
         },
         {
           "source": "WinFuture",
@@ -489,7 +489,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 44
+          "count": 43
         },
         {
           "section": "Competitor Coverage",
@@ -509,10 +509,10 @@
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 64,
-      "media": 47,
+      "total": 63,
+      "media": 46,
       "youtube": 17,
-      "reviews": 15,
+      "reviews": 14,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 0,
@@ -526,11 +526,11 @@
           "count": 5
         },
         {
-          "source": "PCWorld",
-          "count": 4
+          "source": "Clubic",
+          "count": 3
         },
         {
-          "source": "Clubic",
+          "source": "PCWorld",
           "count": 3
         },
         {
@@ -553,7 +553,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 51
+          "count": 50
         },
         {
           "section": "Deals",
@@ -564,13 +564,13 @@
           "count": 1
         }
       ],
-      "avg_score": 62.2
+      "avg_score": 62.0
     },
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 57,
-      "media": 51,
+      "total": 60,
+      "media": 54,
       "youtube": 6,
       "reviews": 5,
       "sponsored": 0,
@@ -587,7 +587,11 @@
         },
         {
           "source": "VideoCardz",
-          "count": 5
+          "count": 6
+        },
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 4
         },
         {
           "source": "TechSpot",
@@ -604,20 +608,16 @@
         {
           "source": "Les Numériques",
           "count": 3
-        },
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 3
         }
       ],
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 28
+          "count": 30
         },
         {
           "section": "Competitor Coverage",
-          "count": 17
+          "count": 18
         },
         {
           "section": "Deals",
@@ -628,7 +628,7 @@
           "count": 3
         }
       ],
-      "avg_score": 60.7
+      "avg_score": 60.9
     },
     {
       "brand": "Alienware",
@@ -689,8 +689,8 @@
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 48,
-      "media": 34,
+      "total": 50,
+      "media": 36,
       "youtube": 14,
       "reviews": 10,
       "sponsored": 3,
@@ -702,11 +702,11 @@
           "count": 7
         },
         {
-          "source": "Crimson Tech",
-          "count": 4
+          "source": "Tom's Hardware",
+          "count": 5
         },
         {
-          "source": "Tom's Hardware",
+          "source": "Crimson Tech",
           "count": 4
         },
         {
@@ -718,15 +718,15 @@
           "count": 3
         },
         {
+          "source": "Frandroid",
+          "count": 3
+        },
+        {
           "source": "Wccftech",
           "count": 3
         },
         {
           "source": "CHIP DE",
-          "count": 2
-        },
-        {
-          "source": "Clubic",
           "count": 2
         }
       ],
@@ -737,16 +737,16 @@
         },
         {
           "section": "Deals",
-          "count": 11
+          "count": 13
         }
       ],
-      "avg_score": 59.8
+      "avg_score": 59.4
     },
     {
       "brand": "Qualcomm",
       "family": "Ecosystem",
-      "total": 47,
-      "media": 43,
+      "total": 48,
+      "media": 44,
       "youtube": 4,
       "reviews": 3,
       "sponsored": 2,
@@ -778,18 +778,18 @@
           "count": 2
         },
         {
-          "source": "TechSpot",
+          "source": "Les Numériques",
           "count": 2
         },
         {
-          "source": "The Verge",
+          "source": "TechSpot",
           "count": 2
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 29
+          "count": 30
         },
         {
           "section": "Ecosystem",
@@ -813,8 +813,8 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 33,
-      "media": 19,
+      "total": 34,
+      "media": 20,
       "youtube": 14,
       "reviews": 8,
       "sponsored": 0,
@@ -824,6 +824,14 @@
         {
           "source": "Escolha Segura",
           "count": 4
+        },
+        {
+          "source": "Tecnoblog",
+          "count": 3
+        },
+        {
+          "source": "CHIP DE",
+          "count": 2
         },
         {
           "source": "Clubic",
@@ -838,20 +846,12 @@
           "count": 2
         },
         {
-          "source": "Tecnoblog",
-          "count": 2
-        },
-        {
           "source": "TudoCelular",
           "count": 2
         },
         {
           "source": "Wccftech",
           "count": 2
-        },
-        {
-          "source": "CHIP DE",
-          "count": 1
         }
       ],
       "sections": [
@@ -861,7 +861,7 @@
         },
         {
           "section": "Deals",
-          "count": 11
+          "count": 12
         },
         {
           "section": "Ecosystem",
@@ -933,8 +933,8 @@
     {
       "brand": "Amazon",
       "family": "Other",
-      "total": 27,
-      "media": 27,
+      "total": 28,
+      "media": 28,
       "youtube": 0,
       "reviews": 0,
       "sponsored": 0,
@@ -962,25 +962,25 @@
           "count": 3
         },
         {
+          "source": "Clubic",
+          "count": 2
+        },
+        {
           "source": "Les Numériques",
           "count": 2
         },
         {
           "source": "PCWorld",
           "count": 2
-        },
-        {
-          "source": "Clubic",
-          "count": 1
         }
       ],
       "sections": [
         {
           "section": "Deals",
-          "count": 27
+          "count": 28
         }
       ],
-      "avg_score": 30.4
+      "avg_score": 30.0
     },
     {
       "brand": "Framework",
@@ -1386,19 +1386,19 @@
     {
       "month": "2026-08",
       "brands": {
-        "Apple": 72,
-        "NVIDIA": 38,
-        "Asus": 37,
-        "Lenovo": 29,
+        "Apple": 56,
+        "Asus": 36,
+        "NVIDIA": 33,
+        "Lenovo": 28,
         "Microsoft": 23,
         "Alienware": 20,
         "HP": 20,
-        "Samsung": 20,
+        "Samsung": 19,
         "Dell": 17,
-        "Intel": 17,
+        "Intel": 16,
         "MSI": 14,
         "AMD": 13,
-        "Acer": 12,
+        "Acer": 11,
         "Amazon": 10,
         "Framework": 7,
         "OpenAI": 5
@@ -1408,25 +1408,344 @@
       "month": "2026-09",
       "brands": {
         "Microsoft": 140,
-        "Apple": 120,
+        "Apple": 121,
         "Lenovo": 107,
-        "Asus": 82,
+        "Asus": 83,
         "HP": 61,
         "Dell": 55,
         "Intel": 54,
         "NVIDIA": 49,
         "Acer": 48,
         "AMD": 42,
-        "Qualcomm": 41,
+        "Qualcomm": 42,
         "Alienware": 31,
         "MSI": 30,
         "Valve": 23,
         "Amazon": 17,
         "Framework": 15
       }
+    },
+    {
+      "month": "2026-10",
+      "brands": {
+        "AMD": 3,
+        "Apple": 2,
+        "MSI": 2,
+        "Microsoft": 2,
+        "Amazon": 1,
+        "Asus": 1,
+        "HP": 1,
+        "Lenovo": 1,
+        "NVIDIA": 1,
+        "Samsung": 1
+      }
     }
   ],
   "recent": [
+    {
+      "id": "media:606598",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "HP Launches OmniBook Ultra with Ryzen AI 9, 32 GB RAM, 2 TB SSD",
+      "url": "https://www.notebookcheck.com/32-GB-RAM-2-TB-SSD-Ryzen-AI-9-HX-HP-Multimedia-Notebook-im-Angebot.1413533.0.html",
+      "published_at": "2026-10-01T12:51:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:605760",
+      "kind": "media",
+      "source": "VideoCardz",
+      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "AMD Ryzen Z3 next-gen handheld series features 4+2 CPU cores and 12 RDNA4m CUs",
+      "url": "https://videocardz.com/newz/amd-ryzen-z3-next-gen-handheld-series-reportedly-features-42-cpu-cores-and-12-rdna4m-cus",
+      "published_at": "2026-10-01T12:33:42+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:606601",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo ThinkPad X13 Gen 7 AMD praised for portability and performance",
+      "url": "https://www.notebookcheck.com/Warum-das-ThinkPad-X13-Gen-7-AMD-perfekt-fuer-den-Aussendienst-ist.1413342.0.html",
+      "published_at": "2026-10-01T12:03:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:606601",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo ThinkPad X13 Gen 7 AMD praised for portability and performance",
+      "url": "https://www.notebookcheck.com/Warum-das-ThinkPad-X13-Gen-7-AMD-perfekt-fuer-den-Aussendienst-ist.1413342.0.html",
+      "published_at": "2026-10-01T12:03:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:605598",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": false,
+      "title": "MSI offers RTX 5090 gaming laptop with 64GB DDR5 and 2TB SSD for $3,779",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/grab-a-huge-usd520-saving-on-this-rtx-5090-gaming-laptop-from-msi-with-64gb-ddr5-and-a-2tb-ssd-stealth-a18-ai-rig-ships-with-12-core-amd-ryzen-ai-9-cpu-along-with-an-18-inch-uhd-display-with-a-120hz-refresh-rate",
+      "published_at": "2026-10-01T11:40:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "MSI",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:605708",
+      "kind": "media",
+      "source": "CNET",
+      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft Surface Laptop Ultra release date expected at Oct. 7 event",
+      "url": "https://www.cnet.com/tech/computing/microsoft-windows-surface-event-2026-what-to-expect-to-see-on/",
+      "published_at": "2026-10-01T11:00:00+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:607437",
+      "kind": "media",
+      "source": "Clubic",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Amazon offers €400 discount on Microsoft Surface Pro during Prime Day",
+      "url": "https://www.clubic.com/bons-plans-632098-pour-son-prime-day-amazon-fait--400-sur-le-microsoft-surface-pro-un-laptop-tablette-qui-tient-une-journee.html",
+      "published_at": "2026-10-01T10:32:00+00:00",
+      "score": 20,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:607437",
+      "kind": "media",
+      "source": "Clubic",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Amazon offers €400 discount on Microsoft Surface Pro during Prime Day",
+      "url": "https://www.clubic.com/bons-plans-632098-pour-son-prime-day-amazon-fait--400-sur-le-microsoft-surface-pro-un-laptop-tablette-qui-tient-une-journee.html",
+      "published_at": "2026-10-01T10:32:00+00:00",
+      "score": 20,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Amazon",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:605601",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Firm tests DeepSeek's API cost claim using four Nvidia H200 GPUs",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-rents-four-nvidia-h200s-to-test-80x-cheaper-deepseek-claim-usd13-200-monthly-gpu-rental-doubles-claude-bill-while-security-flaws-keep-code-offline",
+      "published_at": "2026-10-01T10:30:00+00:00",
+      "score": 55,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:605798",
+      "kind": "media",
+      "source": "WIRED",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wired.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple Mac Studio Review Highlights AI Capabilities",
+      "url": "https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/",
+      "published_at": "2026-10-01T10:00:00+00:00",
+      "score": 75,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:608021",
+      "kind": "media",
+      "source": "CHIP DE",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Samsung offers office-focused notebook in deal",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObTRYZHdUNE1nSUgzc2YwTndYZlhHMy1PYmlvbWtWd3F3T0UtdWlKN2x2aUo3OGg1ZW5iaWFiU0NPSzNHQUp6QjFWWnNmUmxCTElMNTgtWW5oTktZaHU0eDZOcHh4eVZtZjg1ZzZ3eEt6YzhLR2RIall0RzlFel81YkZTSFYxZWVGcTFlZnFlbFllWS0wLTg4TVJRWnQzYlU4XzBtNlNVeERlYTh3Tmh4eFFMeXhZWHVmbm5xRUVWU3RPckNBUzJGdWpMTXNLVGY2WWdOcVF5TDA5LUZNUUxXRjZfU29UcDNnNDBaMUNhU0ZwU1k?oc=5",
+      "published_at": "2026-10-01T09:48:00+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:607312",
+      "kind": "media",
+      "source": "Tom's Guide",
+      "source_icon": "",
+      "country": "GB",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus ROG Zephyrus G14 (2026) review highlights gaming, creator, and AI performance",
+      "url": "https://www.tomsguide.com/computing/gaming-laptops/asus-rog-zephyrus-g14-2026-review",
+      "published_at": "2026-10-01T09:30:00+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:606496",
+      "kind": "media",
+      "source": "Frandroid",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "MSI Gaming PC Price Drop to 949 Euros with RTX 5060",
+      "url": "https://www.frandroid.com/bons-plans/3268533_jouer-aux-aaa-sur-une-tour-pc-a-moins-de-950-e-cest-possible-avec-le-msi-mag-infinite-e1-et-sa-rtx-5060",
+      "published_at": "2026-10-01T09:23:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "MSI",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:605351",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Apple's MacBook Neo on sale for under R$4,500 with Shopee coupon",
+      "url": "https://www.tudocelular.com/apple/noticias/n264224/macbook-neo-entra-em-promocao-por-menos-de-4500.html",
+      "published_at": "2026-10-01T07:37:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:608578",
+      "kind": "media",
+      "source": "ZDNET France",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "AMD unveils Ryzen AI Max+ Pro 400 chips for local AI model execution",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1dubGx0Q1daLWZZbDBSempQUi1pV1hiQ2hJRnlkeGIyNnB3VERKUUFvRTdoOUZHU0VDWEVsWnhlNlEtMkNwQnZhNFpxZFZFZnBDdk5kYXFwQUF2TUVPZnhDMjA0UTZOd0JESlBnbGtONC1JeVpEVHA3ZzA4aHlwOVBoQ21UU01Nd0llUzhMRk5RWnBhVFB1Wjl4bjJFVjREMjRFMHlUSnV2ei0yVXhlRVdzRjc?oc=5",
+      "published_at": "2026-10-01T07:00:47+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:605462",
+      "kind": "media",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Samsung Galaxy Book 6 Ultra gets R$4k discount in Brazil",
+      "url": "https://tecnoblog.net/achados/top-de-linha-galaxy-book-6-ultra-tem-r-4-mil-off-na-melhor-oferta-vista/",
+      "published_at": "2026-09-30T22:14:10+00:00",
+      "score": 30,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:182685",
       "kind": "youtube",
@@ -1443,6 +1762,63 @@
       "is_review": false,
       "is_sponsored": true,
       "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:607397",
+      "kind": "media",
+      "source": "Les Numériques",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus ZenBook 14 with Snapdragon X challenges MacBook Neo",
+      "url": "https://www.lesnumeriques.com/ordinateur-portable/asus-zenbook-14-snapdragon-x-p78380/test.html",
+      "published_at": "2026-09-30T22:01:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:607397",
+      "kind": "media",
+      "source": "Les Numériques",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus ZenBook 14 with Snapdragon X challenges MacBook Neo",
+      "url": "https://www.lesnumeriques.com/ordinateur-portable/asus-zenbook-14-snapdragon-x-p78380/test.html",
+      "published_at": "2026-09-30T22:01:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:607397",
+      "kind": "media",
+      "source": "Les Numériques",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus ZenBook 14 with Snapdragon X challenges MacBook Neo",
+      "url": "https://www.lesnumeriques.com/ordinateur-portable/asus-zenbook-14-snapdragon-x-p78380/test.html",
+      "published_at": "2026-09-30T22:01:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
       "family": "Ecosystem",
       "is_dell_story": false
     },
@@ -5815,28 +6191,11 @@
       "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:558170",
-      "kind": "media",
-      "source": "Gizmodo",
-      "source_icon": "https://www.google.com/s2/favicons?domain=gizmodo.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft unveils revamped Copilot AI 'super app' after multiple rebrands",
-      "url": "https://gizmodo.com/microsoft-thinks-its-finally-figured-out-copilot-this-time-2000817460",
-      "published_at": "2026-09-25T16:40:28+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:559019",
+      "id": "media:606598",
       "kind": "media",
       "source": "Notebookcheck DE - News",
       "source_icon": "",
@@ -5844,256 +6203,9 @@
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Lenovo launches lightweight Xiaoxin 14 SE with Intel Wildcat Lake in China",
-      "url": "https://www.notebookcheck.com/Lenovo-veroeffentlicht-leichten-neuen-Laptop-mit-Intel-Wildcat-Lake.1408655.0.html",
-      "published_at": "2026-09-25T16:21:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:559019",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo launches lightweight Xiaoxin 14 SE with Intel Wildcat Lake in China",
-      "url": "https://www.notebookcheck.com/Lenovo-veroeffentlicht-leichten-neuen-Laptop-mit-Intel-Wildcat-Lake.1408655.0.html",
-      "published_at": "2026-09-25T16:21:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:557850",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ASUS lists ROG Xbox Ally X20 OLED at $1,299 ahead of official launch",
-      "url": "https://www.adrenaline.com.br/asus/rog-xbox-ally-x20-oled-loja-asus-us-1299-preco/",
-      "published_at": "2026-09-25T15:43:51+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:558569",
-      "kind": "media",
-      "source": "TechSpot",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Jensen Huang urges AI labs unable to control systems to shut down",
-      "url": "https://www.techspot.com/news/113987-jensen-huang-ai-labs-cant-control-their-systems.html",
-      "published_at": "2026-09-25T15:35:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:558069",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": false,
-      "title": "Dell XPS 13 becomes more affordable with modest discount",
-      "url": "https://www.windowscentral.com/hardware/dell/dells-xps-13-is-the-perfect-starter-pc-for-anyone-shopping-under-usd800",
-      "published_at": "2026-09-25T14:58:10+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "media:558570",
-      "kind": "media",
-      "source": "TechSpot",
-      "source_icon": "https://www.google.com/s2/favicons?domain=techspot.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": false,
-      "title": "Microsoft stops using 'Copilot+ PC' term for Surface devices",
-      "url": "https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html",
-      "published_at": "2026-09-25T14:49:00+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:559827",
-      "kind": "media",
-      "source": "Numerama",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft reimagines Copilot with new tabs and AI model integrations",
-      "url": "https://www.numerama.com/tech/2340809-le-nouveau-microsoft-copilot-sattaque-a-claude-et-chatgpt-en-utilisant-claude-et-chatgpt.html",
-      "published_at": "2026-09-25T14:06:24+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:559827",
-      "kind": "media",
-      "source": "Numerama",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft reimagines Copilot with new tabs and AI model integrations",
-      "url": "https://www.numerama.com/tech/2340809-le-nouveau-microsoft-copilot-sattaque-a-claude-et-chatgpt-en-utilisant-claude-et-chatgpt.html",
-      "published_at": "2026-09-25T14:06:24+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "OpenAI",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:557856",
-      "kind": "media",
-      "source": "Adrenaline",
-      "source_icon": "https://www.google.com/s2/favicons?domain=adrenaline.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft upgrades Copilot to 'super app' with AI for enterprise and Office integration",
-      "url": "https://www.adrenaline.com.br/microsoft/microsoft-transforma-copilot-em-super-app-com-ia-para-conversar-programar-e-trabalhar-sozinha/",
-      "published_at": "2026-09-25T13:55:24+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:560016",
-      "kind": "media",
-      "source": "Tech Advisor",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Samsung Galaxy S27 Privacy Display limited to Pro and Ultra models",
-      "url": "https://www.techadvisor.com/article/3116211/samsung-galaxy-s27-release-date-price-specs-rumours.html",
-      "published_at": "2026-09-25T13:37:11+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:560016",
-      "kind": "media",
-      "source": "Tech Advisor",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Samsung Galaxy S27 Privacy Display limited to Pro and Ultra models",
-      "url": "https://www.techadvisor.com/article/3116211/samsung-galaxy-s27-release-date-price-specs-rumours.html",
-      "published_at": "2026-09-25T13:37:11+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:558329",
-      "kind": "media",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://www.google.com/s2/favicons?domain=notebookcheck.net&sz=64",
-      "country": "DE",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Lenovo ThinkBook 14x review highlights performance and value under $900",
-      "url": "https://www.notebookcheck.net/A-lightweight-and-powerful-everyday-laptop-for-under-900-The-Lenovo-ThinkBook-14x-review.1407308.0.html",
-      "published_at": "2026-09-25T13:35:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:558628",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft bundles AI features into new Copilot Super-App for workplace",
-      "url": "https://winfuture.de/news,161545.html",
-      "published_at": "2026-09-25T13:27:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:559036",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "HP Prioritizes Performance Over Comfort in EliteBook 8 G2a 16",
-      "url": "https://www.notebookcheck.com/Lauter-Luefter-unter-Last-EliteBook-8-G2a-16-priorisiert-Leistung-ueber-Geraeuschentwicklung.1408412.0.html",
-      "published_at": "2026-09-25T13:09:00+00:00",
+      "title": "HP Launches OmniBook Ultra with Ryzen AI 9, 32 GB RAM, 2 TB SSD",
+      "url": "https://www.notebookcheck.com/32-GB-RAM-2-TB-SSD-Ryzen-AI-9-HX-HP-Multimedia-Notebook-im-Angebot.1413533.0.html",
+      "published_at": "2026-10-01T12:51:00+00:00",
       "score": 65,
       "is_review": false,
       "is_sponsored": false,
@@ -6102,18 +6214,94 @@
       "is_dell_story": false
     },
     {
-      "id": "media:557899",
+      "id": "media:605760",
       "kind": "media",
-      "source": "Tecnoblog",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
-      "country": "BR",
+      "source": "VideoCardz",
+      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "AMD Ryzen Z3 next-gen handheld series features 4+2 CPU cores and 12 RDNA4m CUs",
+      "url": "https://videocardz.com/newz/amd-ryzen-z3-next-gen-handheld-series-reportedly-features-42-cpu-cores-and-12-rdna4m-cus",
+      "published_at": "2026-10-01T12:33:42+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:606601",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Microsoft abandons Copilot+ PC branding in Surface launches",
-      "url": "https://tecnoblog.net/noticias/e-o-fim-do-copilot-pc-microsoft-abandona-silenciosamente-a-marca/",
-      "published_at": "2026-09-25T13:05:30+00:00",
+      "title": "Lenovo ThinkPad X13 Gen 7 AMD praised for portability and performance",
+      "url": "https://www.notebookcheck.com/Warum-das-ThinkPad-X13-Gen-7-AMD-perfekt-fuer-den-Aussendienst-ist.1413342.0.html",
+      "published_at": "2026-10-01T12:03:00+00:00",
       "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Lenovo",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:606601",
+      "kind": "media",
+      "source": "Notebookcheck DE - News",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Lenovo ThinkPad X13 Gen 7 AMD praised for portability and performance",
+      "url": "https://www.notebookcheck.com/Warum-das-ThinkPad-X13-Gen-7-AMD-perfekt-fuer-den-Aussendienst-ist.1413342.0.html",
+      "published_at": "2026-10-01T12:03:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:605598",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": false,
+      "title": "MSI offers RTX 5090 gaming laptop with 64GB DDR5 and 2TB SSD for $3,779",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/grab-a-huge-usd520-saving-on-this-rtx-5090-gaming-laptop-from-msi-with-64gb-ddr5-and-a-2tb-ssd-stealth-a18-ai-rig-ships-with-12-core-amd-ryzen-ai-9-cpu-along-with-an-18-inch-uhd-display-with-a-120hz-refresh-rate",
+      "published_at": "2026-10-01T11:40:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "MSI",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:605708",
+      "kind": "media",
+      "source": "CNET",
+      "source_icon": "https://www.google.com/s2/favicons?domain=cnet.com&sz=64",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft Surface Laptop Ultra release date expected at Oct. 7 event",
+      "url": "https://www.cnet.com/tech/computing/microsoft-windows-surface-event-2026-what-to-expect-to-see-on/",
+      "published_at": "2026-10-01T11:00:00+00:00",
+      "score": 60,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Microsoft",
@@ -6121,64 +6309,195 @@
       "is_dell_story": false
     },
     {
-      "id": "media:558186",
+      "id": "media:607437",
       "kind": "media",
-      "source": "VideoCardz",
-      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ASUS RTX 5090 Edition 20 priced at $11,999 at Micro Center",
-      "url": "https://videocardz.com/newz/asus-rtx-5090-edition-20-costs-11999-at-micro-center-more-than-the-full-rog-bundle",
-      "published_at": "2026-09-25T13:05:17+00:00",
-      "score": 65,
+      "source": "Clubic",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Amazon offers €400 discount on Microsoft Surface Pro during Prime Day",
+      "url": "https://www.clubic.com/bons-plans-632098-pour-son-prime-day-amazon-fait--400-sur-le-microsoft-surface-pro-un-laptop-tablette-qui-tient-une-journee.html",
+      "published_at": "2026-10-01T10:32:00+00:00",
+      "score": 20,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Asus",
+      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "youtube:173700",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Upgrading Steam Machine's RAM to 32GB and stability improvements",
-      "url": "https://www.youtube.com/shorts/N8rnv_R5wI4",
-      "published_at": "2026-09-25T13:00:13+00:00",
-      "score": 60,
+      "id": "media:607437",
+      "kind": "media",
+      "source": "Clubic",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Amazon offers €400 discount on Microsoft Surface Pro during Prime Day",
+      "url": "https://www.clubic.com/bons-plans-632098-pour-son-prime-day-amazon-fait--400-sur-le-microsoft-surface-pro-un-laptop-tablette-qui-tient-une-journee.html",
+      "published_at": "2026-10-01T10:32:00+00:00",
+      "score": 20,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Valve",
+      "brand": "Amazon",
+      "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:605601",
+      "kind": "media",
+      "source": "Tom's Hardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
+      "country": "US",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Firm tests DeepSeek's API cost claim using four Nvidia H200 GPUs",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-rents-four-nvidia-h200s-to-test-80x-cheaper-deepseek-claim-usd13-200-monthly-gpu-rental-doubles-claude-bill-while-security-flaws-keep-code-offline",
+      "published_at": "2026-10-01T10:30:00+00:00",
+      "score": 55,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
     },
     {
-      "id": "media:554982",
+      "id": "media:605798",
       "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "source": "WIRED",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wired.com&sz=64",
       "country": "US",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "ASUS Launches ROG Xbox Ally X20 OLED Handheld at $1,299",
-      "url": "https://wccftech.com/asus-lists-rog-xbox-ally-x20-oled-gaming-handheld-at-1299/",
-      "published_at": "2026-09-25T12:04:54+00:00",
-      "score": 65,
+      "title": "Apple Mac Studio Review Highlights AI Capabilities",
+      "url": "https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/",
+      "published_at": "2026-10-01T10:00:00+00:00",
+      "score": 75,
       "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:608021",
+      "kind": "media",
+      "source": "CHIP DE",
+      "source_icon": "",
+      "country": "DE",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Samsung offers office-focused notebook in deal",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObTRYZHdUNE1nSUgzc2YwTndYZlhHMy1PYmlvbWtWd3F3T0UtdWlKN2x2aUo3OGg1ZW5iaWFiU0NPSzNHQUp6QjFWWnNmUmxCTElMNTgtWW5oTktZaHU0eDZOcHh4eVZtZjg1ZzZ3eEt6YzhLR2RIall0RzlFel81YkZTSFYxZWVGcTFlZnFlbFllWS0wLTg4TVJRWnQzYlU4XzBtNlNVeERlYTh3Tmh4eFFMeXhZWHVmbm5xRUVWU3RPckNBUzJGdWpMTXNLVGY2WWdOcVF5TDA5LUZNUUxXRjZfU29UcDNnNDBaMUNhU0ZwU1k?oc=5",
+      "published_at": "2026-10-01T09:48:00+00:00",
+      "score": 40,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:607312",
+      "kind": "media",
+      "source": "Tom's Guide",
+      "source_icon": "",
+      "country": "GB",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus ROG Zephyrus G14 (2026) review highlights gaming, creator, and AI performance",
+      "url": "https://www.tomsguide.com/computing/gaming-laptops/asus-rog-zephyrus-g14-2026-review",
+      "published_at": "2026-10-01T09:30:00+00:00",
+      "score": 78,
+      "is_review": true,
       "is_sponsored": false,
       "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "media:606496",
+      "kind": "media",
+      "source": "Frandroid",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "MSI Gaming PC Price Drop to 949 Euros with RTX 5060",
+      "url": "https://www.frandroid.com/bons-plans/3268533_jouer-aux-aaa-sur-une-tour-pc-a-moins-de-950-e-cest-possible-avec-le-msi-mag-infinite-e1-et-sa-rtx-5060",
+      "published_at": "2026-10-01T09:23:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "MSI",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:605351",
+      "kind": "media",
+      "source": "TudoCelular",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tudocelular.com&sz=64",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Apple's MacBook Neo on sale for under R$4,500 with Shopee coupon",
+      "url": "https://www.tudocelular.com/apple/noticias/n264224/macbook-neo-entra-em-promocao-por-menos-de-4500.html",
+      "published_at": "2026-10-01T07:37:00+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:608578",
+      "kind": "media",
+      "source": "ZDNET France",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "AMD unveils Ryzen AI Max+ Pro 400 chips for local AI model execution",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1dubGx0Q1daLWZZbDBSempQUi1pV1hiQ2hJRnlkeGIyNnB3VERKUUFvRTdoOUZHU0VDWEVsWnhlNlEtMkNwQnZhNFpxZFZFZnBDdk5kYXFwQUF2TUVPZnhDMjA0UTZOd0JESlBnbGtONC1JeVpEVHA3ZzA4aHlwOVBoQ21UU01Nd0llUzhMRk5RWnBhVFB1Wjl4bjJFVjREMjRFMHlUSnV2ei0yVXhlRVdzRjc?oc=5",
+      "published_at": "2026-10-01T07:00:47+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:605462",
+      "kind": "media",
+      "source": "Tecnoblog",
+      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Samsung Galaxy Book 6 Ultra gets R$4k discount in Brazil",
+      "url": "https://tecnoblog.net/achados/top-de-linha-galaxy-book-6-ultra-tem-r-4-mil-off-na-melhor-oferta-vista/",
+      "published_at": "2026-09-30T22:14:10+00:00",
+      "score": 30,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Samsung",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:182685",
       "kind": "youtube",
@@ -6195,6 +6514,63 @@
       "is_review": false,
       "is_sponsored": true,
       "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:607397",
+      "kind": "media",
+      "source": "Les Numériques",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus ZenBook 14 with Snapdragon X challenges MacBook Neo",
+      "url": "https://www.lesnumeriques.com/ordinateur-portable/asus-zenbook-14-snapdragon-x-p78380/test.html",
+      "published_at": "2026-09-30T22:01:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:607397",
+      "kind": "media",
+      "source": "Les Numériques",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus ZenBook 14 with Snapdragon X challenges MacBook Neo",
+      "url": "https://www.lesnumeriques.com/ordinateur-portable/asus-zenbook-14-snapdragon-x-p78380/test.html",
+      "published_at": "2026-09-30T22:01:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:607397",
+      "kind": "media",
+      "source": "Les Numériques",
+      "source_icon": "",
+      "country": "FR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Asus ZenBook 14 with Snapdragon X challenges MacBook Neo",
+      "url": "https://www.lesnumeriques.com/ordinateur-portable/asus-zenbook-14-snapdragon-x-p78380/test.html",
+      "published_at": "2026-09-30T22:01:00+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Qualcomm",
       "family": "Ecosystem",
       "is_dell_story": false
     },
@@ -30063,44 +30439,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:437848",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Samsung's 32-inch gaming monitor hits $199 all-time low",
-      "url": "https://www.pcworld.com/article/3220128/samsungs-32-inch-1440p-gaming-monitor-hits-new-best-price-199.html",
-      "published_at": "2026-08-25T15:33:23+00:00",
-      "score": 15,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:437876",
-      "kind": "media",
-      "source": "Gizmodo",
-      "source_icon": "https://www.google.com/s2/favicons?domain=gizmodo.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Nvidia's RTX Spark and ARM support expand gaming on future PCs",
-      "url": "https://gizmodo.com/i-hate-to-say-it-but-nvidias-doing-a-huge-thing-for-gaming-on-future-pcs-2000802410",
-      "published_at": "2026-08-25T15:30:41+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:147735",
       "kind": "youtube",
       "source": "Notebookcheck Reviews",
@@ -30120,196 +30458,6 @@
       "is_dell_story": false
     },
     {
-      "id": "media:438301",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "NVIDIA's RTX Spark PCs gain EA and Ubisoft support for gaming titles",
-      "url": "https://wccftech.com/nvidia-rtx-spark-pcs-ea-ubisoft-support-apex-arc-raiders-the-finals-many-more-games/",
-      "published_at": "2026-08-25T15:30:09+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:438302",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "NVIDIA bundles Control Resonant with RTX 5070+ GPUs and updates NVIDIA App",
-      "url": "https://wccftech.com/nvidia-bundles-control-resonant-with-geforce-rtx-5070-above-gpus-new-app-updates/",
-      "published_at": "2026-08-25T15:30:06+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:439537",
-      "kind": "media",
-      "source": "Clubic",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "NVIDIA Deploys DLSS 4.5 Ray Reconstruction at Gamescom",
-      "url": "https://www.clubic.com/actualite-626434-a-la-gamescom-nvidia-deploie-le-dlss-4-5-ray-reconstruction.html",
-      "published_at": "2026-08-25T15:30:00+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:438315",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple unveils Mac Mini 2026 with M6 and M5 Pro chips",
-      "url": "https://winfuture.de/news,160843.html",
-      "published_at": "2026-08-25T15:20:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:439612",
-      "kind": "media",
-      "source": "ITPro",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple launches M6 Mac Mini and M5 Ultra Mac Studio with enhanced AI performance",
-      "url": "https://www.itpro.com/software/apple/apple-targets-developer-ai-performance-gains-with-new-m6-mac-mini-and-m5-ultra-mac-studio-devices",
-      "published_at": "2026-08-25T15:15:02+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:445330",
-      "kind": "media",
-      "source": "Trusted Reviews",
-      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple compares Mac Mini M6 and M4 upgrades",
-      "url": "https://www.trustedreviews.com/versus/apple-mac-mini-m6-vs-mac-mini-m4",
-      "published_at": "2026-08-25T15:14:41+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:439411",
-      "kind": "media",
-      "source": "Tom's Guide",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus ROG Swift OLED PG259QWS ACE review highlights motion clarity in gaming",
-      "url": "https://www.tomsguide.com/computing/monitors/i-just-went-eyes-on-with-the-worlds-fastest-oled-gaming-monitor-and-motion-blur-is-officially-dead",
-      "published_at": "2026-08-25T15:13:52+00:00",
-      "score": 65,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:440228",
-      "kind": "media",
-      "source": "Netzwelt",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "New Mac mini release may face test note issues according to Netzwelt",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUdNM0FCRHc1SHFfQkd6UF8yTF85ellhMlVLbFJQWGotUGs0ZE1zTzR5cGdLbllEZFR1SzloaExiOXJyWUFsY0NnMVlqMVI4WkhONVpISTNPZnFPdEIzcVhzbmRDX3NacnRzY0lOeWc5RkVCeTNaZDA4RC14RkN1Q3ktN3A5SVZ3R3RLRzJCTDVVRkkxeFg4Zm9mckZDbkRHbF9ydll1N0R6M2c1?oc=5",
-      "published_at": "2026-08-25T15:11:39+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:438303",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "NVIDIA upgrades Jetson Orin Nano 2 with 2x performance and 40% lower power use",
-      "url": "https://wccftech.com/nvidia-jetson-orin-nano-2-boosts-robotics-edge-ai-by-2x/",
-      "published_at": "2026-08-25T15:00:50+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:438003",
-      "kind": "media",
-      "source": "XDA Developers",
-      "source_icon": "https://www.google.com/s2/favicons?domain=xda-developers.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple launches M5 Ultra Mac Studio and M6 Mac mini with new prices",
-      "url": "https://www.xda-developers.com/apple-new-m5-ultra-mac-studio-packs-its-most-powerful-chip-ever-m6-mac-mini/",
-      "published_at": "2026-08-25T15:00:38+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
       "id": "youtube:148036",
       "kind": "youtube",
       "source": "LMGClips",
@@ -30325,272 +30473,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:438601",
-      "kind": "media",
-      "source": "Frandroid",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple unveils M6 chip, new Mac mini and Mac Studio with local AI focus",
-      "url": "https://www.frandroid.com/marques/apple/3221329_puce-m6-mac-mini-mac-studio-le-vrai-sujet-dapple-cest-lia-locale",
-      "published_at": "2026-08-25T14:47:43+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:437726",
-      "kind": "media",
-      "source": "Tom's Hardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tomshardware.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple raises Mac mini and Mac Studio prices with steeper memory/storage upgrades",
-      "url": "https://www.tomshardware.com/desktops/mini-pcs/apple-price-hikes-continue-as-mac-mini-with-16gb-ram-and-256gb-is-now-usd899-1tb-storage-option-adds-usd500-to-entry-level-headless-system",
-      "published_at": "2026-08-25T14:37:55+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:438602",
-      "kind": "media",
-      "source": "Frandroid",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple unveils M5 Ultra chip for local AI on Macs",
-      "url": "https://www.frandroid.com/marques/apple/3221535_apple-presente-la-puce-m5-ultra-un-monstre-de-puissance-taille-pour-lia-en-local",
-      "published_at": "2026-08-25T14:34:47+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:439543",
-      "kind": "media",
-      "source": "Clubic",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple launches new Mac mini M6 and Mac Studio M5 Ultra",
-      "url": "https://www.clubic.com/actualite-626701-surprise-apple-lance-ses-nouveaux-mac-mini-m6-et-mac-studio-m5-ultra.html",
-      "published_at": "2026-08-25T14:34:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:438733",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo's new gaming laptop lacks dedicated GPU amid DRAM crisis",
-      "url": "https://www.notebookcheck.com/DRAM-Dystopie-Lenovos-neuester-Gaming-Laptop-bietet-fuer-1-599EUR-keine-dGPU.1378038.0.html",
-      "published_at": "2026-08-25T14:32:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:437696",
-      "kind": "media",
-      "source": "The Verge",
-      "source_icon": "https://www.google.com/s2/favicons?domain=theverge.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple lowers price of polishing cloth, no product changes",
-      "url": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
-      "published_at": "2026-08-25T14:25:52+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:438011",
-      "kind": "media",
-      "source": "HotHardware",
-      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Intel's Wildcat Lake reduces compute die size by 38% vs Panther Lake",
-      "url": "https://hothardware.com/news/intel-details-wildcat-lake-trimmed-compute-die-area-38-percent",
-      "published_at": "2026-08-25T14:15:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:439360",
-      "kind": "media",
-      "source": "T3",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple launches new M6 Mac mini with enhanced performance",
-      "url": "https://www.t3.com/tech/computers-pcs/return-of-the-mac-mini-apple-hopes-to-take-back-the-mini-pc-crown-with-the-new-m6-chip-and-more",
-      "published_at": "2026-08-25T14:14:49+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:438306",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple unveils M6 2nm chipset powering new Mac mini with enhanced CPU, GPU, and AI cores",
-      "url": "https://wccftech.com/apple-m6-2nm-chip-mac-mini-launch/",
-      "published_at": "2026-08-25T14:12:33+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:437561",
-      "kind": "media",
-      "source": "TecMundo",
-      "source_icon": "",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple launches new Mac mini and Mac Studio with details and prices",
-      "url": "https://www.tecmundo.com.br/produto/415535-apple-lanca-novos-computadores-mac-mini-e-mac-studio-saiba-detalhes-e-precos.htm",
-      "published_at": "2026-08-25T14:10:39+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:437852",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer Swift Go 16 AI laptop review highlights performance and battery issues",
-      "url": "https://www.pcworld.com/article/3205282/acer-swift-go-16-ai-review.html",
-      "published_at": "2026-08-25T14:00:00+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:439362",
-      "kind": "media",
-      "source": "T3",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple launches Mac Studio with M5 Max/Ultra for AI performance",
-      "url": "https://www.t3.com/tech/computers-pcs/new-apple-mac-studio-goes-straight-to-m5-max-and-m5-ultra-with-significant-performance-gains",
-      "published_at": "2026-08-25T13:51:04+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:438736",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple unveils Mac Studio with M5 Ultra and up to 512 GB RAM",
-      "url": "https://www.notebookcheck.com/Apple-enthuellt-Mac-Studio-mit-Apple-M5-Ultra-und-bis-zu-512-GB-RAM-bei-1-2-TB-s.1378044.0.html",
-      "published_at": "2026-08-25T13:51:00+00:00",
-      "score": 70,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:438308",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple unveils M5 Ultra SoC and Mac Studio refresh with 4.4TB/s interconnect",
-      "url": "https://wccftech.com/apple-m5-ultra-mac-studio-refresh-quad-die-chip/",
-      "published_at": "2026-08-25T13:45:30+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
