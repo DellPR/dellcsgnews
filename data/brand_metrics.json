@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-01T14:54:35.220332+00:00",
-  "total_items": 1384,
+  "generated_at": "2026-10-01T18:27:07.915157+00:00",
+  "total_items": 1386,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 185,
+      "total": 184,
       "media": 131,
-      "youtube": 54,
+      "youtube": 53,
       "reviews": 36,
       "sponsored": 0,
       "dell_stories": 0,
@@ -34,11 +34,11 @@
           "count": 9
         },
         {
-          "source": "Tom's Guide",
-          "count": 8
+          "source": "Engadget",
+          "count": 7
         },
         {
-          "source": "Engadget",
+          "source": "Tom's Guide",
           "count": 7
         },
         {
@@ -56,16 +56,16 @@
           "count": 23
         },
         {
-          "section": "Dell Coverage",
-          "count": 4
-        },
-        {
           "section": "Ecosystem",
           "count": 4
         },
         {
           "section": "Market Trends",
           "count": 4
+        },
+        {
+          "section": "Dell Coverage",
+          "count": 3
         }
       ],
       "avg_score": 64.6
@@ -201,11 +201,11 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 132,
+      "total": 133,
       "media": 87,
-      "youtube": 45,
+      "youtube": 46,
       "reviews": 37,
-      "sponsored": 2,
+      "sponsored": 3,
       "dell_stories": 0,
       "high_signal": 2,
       "top_sources": [
@@ -245,7 +245,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 109
+          "count": 110
         },
         {
           "section": "Deals",
@@ -260,15 +260,15 @@
           "count": 1
         }
       ],
-      "avg_score": 64.9
+      "avg_score": 65.0
     },
     {
       "brand": "HP",
       "family": "PC competitors",
-      "total": 88,
+      "total": 89,
       "media": 71,
-      "youtube": 17,
-      "reviews": 20,
+      "youtube": 18,
+      "reviews": 21,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 0,
@@ -309,7 +309,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 63
+          "count": 64
         },
         {
           "section": "Deals",
@@ -320,7 +320,7 @@
           "count": 2
         }
       ],
-      "avg_score": 60.8
+      "avg_score": 61.0
     },
     {
       "brand": "NVIDIA",
@@ -509,10 +509,10 @@
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 63,
+      "total": 62,
       "media": 46,
-      "youtube": 17,
-      "reviews": 14,
+      "youtube": 16,
+      "reviews": 13,
       "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 0,
@@ -553,7 +553,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 50
+          "count": 49
         },
         {
           "section": "Deals",
@@ -564,14 +564,14 @@
           "count": 1
         }
       ],
-      "avg_score": 62.0
+      "avg_score": 61.9
     },
     {
       "brand": "AMD",
       "family": "Ecosystem",
-      "total": 60,
+      "total": 61,
       "media": 54,
-      "youtube": 6,
+      "youtube": 7,
       "reviews": 5,
       "sponsored": 0,
       "dell_stories": 0,
@@ -625,7 +625,7 @@
         },
         {
           "section": "Market Trends",
-          "count": 3
+          "count": 4
         }
       ],
       "avg_score": 60.9
@@ -873,9 +873,9 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 29,
+      "total": 30,
       "media": 18,
-      "youtube": 11,
+      "youtube": 12,
       "reviews": 3,
       "sponsored": 0,
       "dell_stories": 0,
@@ -894,6 +894,10 @@
           "count": 5
         },
         {
+          "source": "Austin Evans",
+          "count": 2
+        },
+        {
           "source": "TechRadar",
           "count": 2
         },
@@ -906,10 +910,6 @@
           "count": 1
         },
         {
-          "source": "Austin Evans",
-          "count": 1
-        },
-        {
           "source": "Dave2D",
           "count": 1
         }
@@ -917,7 +917,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 26
+          "count": 27
         },
         {
           "section": "Deals",
@@ -928,7 +928,7 @@
           "count": 1
         }
       ],
-      "avg_score": 69.4
+      "avg_score": 69.1
     },
     {
       "brand": "Amazon",
@@ -1386,7 +1386,7 @@
     {
       "month": "2026-08",
       "brands": {
-        "Apple": 56,
+        "Apple": 55,
         "Asus": 36,
         "NVIDIA": 33,
         "Lenovo": 28,
@@ -1398,7 +1398,7 @@
         "Intel": 16,
         "MSI": 14,
         "AMD": 13,
-        "Acer": 11,
+        "Acer": 10,
         "Amazon": 10,
         "Framework": 7,
         "OpenAI": 5
@@ -1428,20 +1428,97 @@
     {
       "month": "2026-10",
       "brands": {
-        "AMD": 3,
+        "AMD": 4,
         "Apple": 2,
+        "Asus": 2,
+        "HP": 2,
         "MSI": 2,
         "Microsoft": 2,
         "Amazon": 1,
-        "Asus": 1,
-        "HP": 1,
         "Lenovo": 1,
         "NVIDIA": 1,
-        "Samsung": 1
+        "Samsung": 1,
+        "Valve": 1
       }
     }
   ],
   "recent": [
+    {
+      "id": "youtube:184380",
+      "kind": "youtube",
+      "source": "UrAvgConsumer",
+      "source_icon": "https://yt3.googleusercontent.com/8-YFq0watPvwsxWIUpCusG9TotYWxcgmaAgMRmeUB2vUBIart9TfVx_jIIFYn9fZEs5pkE-D_Q=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS ROG G1000 gaming PC review highlights insane cooling and performance",
+      "url": "https://www.youtube.com/watch?v=daa6e3wyjFA",
+      "published_at": "2026-10-01T15:38:40+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:184365",
+      "kind": "youtube",
+      "source": "Austin Evans",
+      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Affordable PC build rivaling Steam Machine and PS5 Pro",
+      "url": "https://www.youtube.com/watch?v=APY2TTjVg5E",
+      "published_at": "2026-10-01T15:01:14+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:184365",
+      "kind": "youtube",
+      "source": "Austin Evans",
+      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Affordable PC build rivaling Steam Machine and PS5 Pro",
+      "url": "https://www.youtube.com/watch?v=APY2TTjVg5E",
+      "published_at": "2026-10-01T15:01:14+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:184200",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Best OLED Monitor for the Price",
+      "url": "https://www.youtube.com/watch?v=cEhaXeMiPaM",
+      "published_at": "2026-10-01T13:28:03+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "HP",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:606598",
       "kind": "media",
@@ -6115,85 +6192,85 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
+    }
+  ],
+  "items": [
+    {
+      "id": "youtube:184380",
+      "kind": "youtube",
+      "source": "UrAvgConsumer",
+      "source_icon": "https://yt3.googleusercontent.com/8-YFq0watPvwsxWIUpCusG9TotYWxcgmaAgMRmeUB2vUBIart9TfVx_jIIFYn9fZEs5pkE-D_Q=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS ROG G1000 gaming PC review highlights insane cooling and performance",
+      "url": "https://www.youtube.com/watch?v=daa6e3wyjFA",
+      "published_at": "2026-10-01T15:38:40+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
     },
     {
-      "id": "media:559011",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Lenovo's IdeaCentre Mini features Snapdragon X Plus, 32 GB RAM, and dual 1-TB SSDs",
-      "url": "https://www.notebookcheck.com/32-GB-RAM-2-TB-SSD-Snapdragon-X-Lenovo-Mini-PC-im-Angebot.1408673.0.html",
-      "published_at": "2026-09-25T18:55:00+00:00",
-      "score": 35,
+      "id": "youtube:184365",
+      "kind": "youtube",
+      "source": "Austin Evans",
+      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Affordable PC build rivaling Steam Machine and PS5 Pro",
+      "url": "https://www.youtube.com/watch?v=APY2TTjVg5E",
+      "published_at": "2026-10-01T15:01:14+00:00",
+      "score": 60,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Qualcomm",
+      "brand": "Valve",
       "family": "Ecosystem",
       "is_dell_story": false
     },
     {
-      "id": "youtube:174480",
+      "id": "youtube:184365",
       "kind": "youtube",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft's Fanless Surface Pro and Laptop 13 Challenge MacBook Air",
-      "url": "https://www.youtube.com/watch?v=tF8lDOyfPw8",
-      "published_at": "2026-09-25T18:25:51+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:174480",
-      "kind": "youtube",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft's Fanless Surface Pro and Laptop 13 Challenge MacBook Air",
-      "url": "https://www.youtube.com/watch?v=tF8lDOyfPw8",
-      "published_at": "2026-09-25T18:25:51+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:558144",
-      "kind": "media",
-      "source": "PCWorld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "source": "Austin Evans",
+      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
       "country": "US",
-      "section": "Deals",
-      "is_deal": true,
+      "section": "Market Trends",
+      "is_deal": false,
       "deal_metric_only": false,
-      "title": "Gaming Laptop Buyers Guide: CPU Cores, GPU Importance, Battery Life",
-      "url": "https://www.pcworld.com/article/407493/best-gaming-laptops.html",
-      "published_at": "2026-09-25T17:00:00+00:00",
-      "score": 72,
+      "title": "Affordable PC build rivaling Steam Machine and PS5 Pro",
+      "url": "https://www.youtube.com/watch?v=APY2TTjVg5E",
+      "published_at": "2026-10-01T15:01:14+00:00",
+      "score": 60,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Asus",
+      "brand": "AMD",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:184200",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Best OLED Monitor for the Price",
+      "url": "https://www.youtube.com/watch?v=cEhaXeMiPaM",
+      "published_at": "2026-10-01T13:28:03+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "HP",
       "family": "PC competitors",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "media:606598",
       "kind": "media",
@@ -30889,44 +30966,6 @@
       "published_at": "2026-08-17T18:55:52+00:00",
       "score": 72,
       "is_review": false,
-      "is_sponsored": false,
-      "brand": "Acer",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:132436",
-      "kind": "youtube",
-      "source": "Tom's Guide",
-      "source_icon": "https://yt3.googleusercontent.com/m0KEA7gA78Kd62z1tCZUilHY2h2Dm-4c6rrjgZ1njB4yQd6urXWqBowyakiiQ1IjR8Hll5vtyw=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "2026 budget laptop guide compares MacBook Neo, Dell XPS 13, and others",
-      "url": "https://www.youtube.com/watch?v=Z19P7M-JAOo",
-      "published_at": "2026-08-17T15:00:00+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:132720",
-      "kind": "youtube",
-      "source": "Escolha Segura",
-      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer TravelMate P2 Review: Durable, Secure, and Long-Lasting Business Laptop",
-      "url": "https://www.youtube.com/watch?v=BcMFGD7tznE",
-      "published_at": "2026-08-17T14:00:36+00:00",
-      "score": 72,
-      "is_review": true,
       "is_sponsored": false,
       "brand": "Acer",
       "family": "PC competitors",
