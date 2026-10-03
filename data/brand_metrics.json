@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-02T23:53:28.216932+00:00",
-  "total_items": 1397,
+  "generated_at": "2026-10-03T19:21:30.027258+00:00",
+  "total_items": 1400,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 173,
+      "total": 174,
       "media": 120,
-      "youtube": 53,
-      "reviews": 36,
+      "youtube": 54,
+      "reviews": 37,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 3,
@@ -34,22 +34,22 @@
           "count": 7
         },
         {
+          "source": "Max Tech",
+          "count": 7
+        },
+        {
           "source": "TechRadar",
           "count": 7
         },
         {
           "source": "Tom's Guide",
           "count": 7
-        },
-        {
-          "source": "WinFuture",
-          "count": 7
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 140
+          "count": 141
         },
         {
           "section": "Deals",
@@ -68,7 +68,7 @@
           "count": 3
         }
       ],
-      "avg_score": 64.7
+      "avg_score": 64.8
     },
     {
       "brand": "Microsoft",
@@ -321,10 +321,10 @@
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 88,
+      "total": 89,
       "media": 79,
-      "youtube": 9,
-      "reviews": 6,
+      "youtube": 10,
+      "reviews": 7,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 1,
@@ -369,7 +369,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 17
+          "count": 18
         },
         {
           "section": "Deals",
@@ -380,18 +380,18 @@
           "count": 3
         }
       ],
-      "avg_score": 63.2
+      "avg_score": 63.3
     },
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 84,
+      "total": 85,
       "media": 53,
-      "youtube": 31,
-      "reviews": 34,
+      "youtube": 32,
+      "reviews": 35,
       "sponsored": 1,
-      "dell_stories": 84,
-      "high_signal": 79,
+      "dell_stories": 85,
+      "high_signal": 80,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -429,14 +429,14 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 71
+          "count": 72
         },
         {
           "section": "Deals",
           "count": 13
         }
       ],
-      "avg_score": 94.6
+      "avg_score": 94.7
     },
     {
       "brand": "Intel",
@@ -1417,15 +1417,15 @@
       "month": "2026-10",
       "brands": {
         "HP": 19,
-        "Apple": 17,
+        "Apple": 18,
         "Intel": 16,
         "Microsoft": 12,
-        "NVIDIA": 9,
+        "NVIDIA": 10,
         "Asus": 8,
         "AMD": 6,
+        "Dell": 6,
         "Lenovo": 6,
         "Qualcomm": 6,
-        "Dell": 5,
         "Samsung": 4,
         "Acer": 3,
         "Amazon": 3,
@@ -1436,6 +1436,63 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:188025",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Review of Amazon's top-selling notebooks, including Dell Inspiron 15",
+      "url": "https://www.youtube.com/watch?v=KNu82sp9RGU",
+      "published_at": "2026-10-03T16:45:10+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:188145",
+      "kind": "youtube",
+      "source": "Max Tech",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple M5 Ultra Mac Studio defeats Nvidia RTX 5090 in benchmark review",
+      "url": "https://www.youtube.com/watch?v=nMS-8RkB4fQ",
+      "published_at": "2026-10-03T14:33:57+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:188145",
+      "kind": "youtube",
+      "source": "Max Tech",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple M5 Ultra Mac Studio defeats Nvidia RTX 5090 in benchmark review",
+      "url": "https://www.youtube.com/watch?v=nMS-8RkB4fQ",
+      "published_at": "2026-10-03T14:33:57+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "youtube:187305",
       "kind": "youtube",
@@ -6128,66 +6185,66 @@
       "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:584333",
-      "kind": "media",
-      "source": "The Register",
-      "source_icon": "https://www.google.com/s2/favicons?domain=theregister.com&sz=64",
-      "country": "GB",
-      "section": "Ecosystem",
+      "id": "youtube:188025",
+      "kind": "youtube",
+      "source": "Tech BR",
+      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "AMD invests $8.2B in spatial AI research with World Labs",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/28/amd-bets-82b-that-worlds-matter-more-than-words-in-ai/5299609",
-      "published_at": "2026-09-28T22:01:33+00:00",
-      "score": 60,
-      "is_review": false,
+      "title": "Review of Amazon's top-selling notebooks, including Dell Inspiron 15",
+      "url": "https://www.youtube.com/watch?v=KNu82sp9RGU",
+      "published_at": "2026-10-03T16:45:10+00:00",
+      "score": 100,
+      "is_review": true,
       "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
     },
     {
-      "id": "media:579803",
-      "kind": "media",
-      "source": "Tecnoblog",
-      "source_icon": "https://www.google.com/s2/favicons?domain=tecnoblog.net&sz=64",
-      "country": "BR",
+      "id": "youtube:188145",
+      "kind": "youtube",
+      "source": "Max Tech",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Top 10 Lenovo notebooks for 2026 reviewed for work, gaming, and study",
-      "url": "https://tecnoblog.net/guias/melhor-notebook-lenovo/",
-      "published_at": "2026-09-28T21:26:49+00:00",
-      "score": 65,
+      "title": "Apple M5 Ultra Mac Studio defeats Nvidia RTX 5090 in benchmark review",
+      "url": "https://www.youtube.com/watch?v=nMS-8RkB4fQ",
+      "published_at": "2026-10-03T14:33:57+00:00",
+      "score": 72,
       "is_review": true,
       "is_sponsored": false,
-      "brand": "Lenovo",
+      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:580810",
-      "kind": "media",
-      "source": "Veja",
-      "source_icon": "https://www.google.com/s2/favicons?domain=veja.abril.com.br&sz=64",
-      "country": "BR",
-      "section": "Ecosystem",
+      "id": "youtube:188145",
+      "kind": "youtube",
+      "source": "Max Tech",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Nvidia unveils new AI security tools amid industry challenges",
-      "url": "https://veja.abril.com.br/tecnologia/o-novo-sistema-de-seguranca-contra-ataques-de-ia-da-nvidia/",
-      "published_at": "2026-09-28T21:09:28+00:00",
-      "score": 65,
-      "is_review": false,
+      "title": "Apple M5 Ultra Mac Studio defeats Nvidia RTX 5090 in benchmark review",
+      "url": "https://www.youtube.com/watch?v=nMS-8RkB4fQ",
+      "published_at": "2026-10-03T14:33:57+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "youtube:187305",
       "kind": "youtube",
