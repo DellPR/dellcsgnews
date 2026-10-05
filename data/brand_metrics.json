@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-05T20:37:59.824165+00:00",
-  "total_items": 1409,
+  "generated_at": "2026-10-05T22:22:14.835350+00:00",
+  "total_items": 1408,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 191,
-      "media": 136,
+      "total": 190,
+      "media": 135,
       "youtube": 55,
       "reviews": 28,
       "sponsored": 0,
@@ -19,11 +19,11 @@
         },
         {
           "source": "Wccftech",
-          "count": 11
+          "count": 12
         },
         {
           "source": "Clubic",
-          "count": 10
+          "count": 9
         },
         {
           "source": "Les Numériques",
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 157
+          "count": 156
         },
         {
           "section": "Deals",
@@ -68,7 +68,7 @@
           "count": 3
         }
       ],
-      "avg_score": 64.6
+      "avg_score": 64.5
     },
     {
       "brand": "Microsoft",
@@ -76,14 +76,14 @@
       "total": 176,
       "media": 173,
       "youtube": 3,
-      "reviews": 2,
+      "reviews": 3,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
       "top_sources": [
         {
           "source": "WinFuture",
-          "count": 26
+          "count": 25
         },
         {
           "source": "Windows Central",
@@ -117,11 +117,11 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 100
+          "count": 99
         },
         {
           "section": "Competitor Coverage",
-          "count": 64
+          "count": 65
         },
         {
           "section": "Deals",
@@ -132,7 +132,7 @@
           "count": 1
         }
       ],
-      "avg_score": 55.2
+      "avg_score": 55.3
     },
     {
       "brand": "Lenovo",
@@ -321,13 +321,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 88,
-      "media": 61,
+      "total": 89,
+      "media": 62,
       "youtube": 27,
       "reviews": 28,
       "sponsored": 1,
-      "dell_stories": 88,
-      "high_signal": 79,
+      "dell_stories": 89,
+      "high_signal": 80,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -365,22 +365,22 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 69
+          "count": 70
         },
         {
           "section": "Deals",
           "count": 19
         }
       ],
-      "avg_score": 92.0
+      "avg_score": 92.1
     },
     {
       "brand": "Intel",
       "family": "Ecosystem",
-      "total": 83,
-      "media": 77,
+      "total": 84,
+      "media": 78,
       "youtube": 6,
-      "reviews": 2,
+      "reviews": 3,
       "sponsored": 3,
       "dell_stories": 0,
       "high_signal": 1,
@@ -425,7 +425,7 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 26
+          "count": 27
         },
         {
           "section": "Deals",
@@ -436,13 +436,13 @@
           "count": 1
         }
       ],
-      "avg_score": 62.5
+      "avg_score": 62.7
     },
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 70,
-      "media": 60,
+      "total": 69,
+      "media": 59,
       "youtube": 10,
       "reviews": 6,
       "sponsored": 0,
@@ -485,7 +485,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 46
+          "count": 45
         },
         {
           "section": "Competitor Coverage",
@@ -505,8 +505,8 @@
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 63,
-      "media": 49,
+      "total": 62,
+      "media": 48,
       "youtube": 14,
       "reviews": 10,
       "sponsored": 2,
@@ -549,7 +549,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 48
+          "count": 47
         },
         {
           "section": "Deals",
@@ -560,7 +560,7 @@
           "count": 1
         }
       ],
-      "avg_score": 61.2
+      "avg_score": 61.1
     },
     {
       "brand": "AMD",
@@ -830,16 +830,12 @@
           "count": 4
         },
         {
+          "source": "Wccftech",
+          "count": 4
+        },
+        {
           "source": "TechRadar",
           "count": 3
-        },
-        {
-          "source": "Wccftech",
-          "count": 3
-        },
-        {
-          "source": "Clubic",
-          "count": 2
         },
         {
           "source": "Frandroid",
@@ -847,6 +843,10 @@
         },
         {
           "source": "Les Numériques",
+          "count": 2
+        },
+        {
+          "source": "PCWorld",
           "count": 2
         }
       ],
@@ -1365,20 +1365,20 @@
     {
       "month": "2026-08",
       "brands": {
-        "Apple": 22,
+        "Apple": 20,
         "Asus": 18,
         "Lenovo": 16,
         "MSI": 12,
         "HP": 11,
         "Samsung": 11,
-        "NVIDIA": 9,
         "Alienware": 8,
-        "Microsoft": 8,
-        "Amazon": 7,
+        "NVIDIA": 8,
         "Intel": 7,
-        "Acer": 6,
+        "Microsoft": 7,
+        "Amazon": 6,
         "Dell": 6,
         "Framework": 6,
+        "Acer": 5,
         "AMD": 4,
         "Valve": 4
       }
@@ -1407,16 +1407,16 @@
     {
       "month": "2026-10",
       "brands": {
-        "Apple": 44,
-        "Microsoft": 32,
+        "Apple": 45,
+        "Microsoft": 33,
         "HP": 23,
-        "Intel": 21,
+        "Intel": 22,
         "Asus": 19,
-        "Dell": 16,
+        "Dell": 17,
         "Lenovo": 16,
         "AMD": 13,
         "NVIDIA": 10,
-        "Amazon": 8,
+        "Amazon": 9,
         "Qualcomm": 7,
         "MSI": 6,
         "Acer": 5,
@@ -1427,6 +1427,101 @@
     }
   ],
   "recent": [
+    {
+      "id": "media:642233",
+      "kind": "media",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://www.google.com/s2/favicons?domain=notebookcheck.net&sz=64",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft reviews Surface Laptop 15 Gen 8 with Intel Core Ultra X CPU",
+      "url": "https://www.notebookcheck.net/Microsoft-s-best-laptop-uses-an-Intel-CPU-Surface-Laptop-15-Gen-8-Review.1413537.0.html",
+      "published_at": "2026-10-05T21:41:00+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:642233",
+      "kind": "media",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://www.google.com/s2/favicons?domain=notebookcheck.net&sz=64",
+      "country": "DE",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft reviews Surface Laptop 15 Gen 8 with Intel Core Ultra X CPU",
+      "url": "https://www.notebookcheck.net/Microsoft-s-best-laptop-uses-an-Intel-CPU-Surface-Laptop-15-Gen-8-Review.1413537.0.html",
+      "published_at": "2026-10-05T21:41:00+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:642199",
+      "kind": "media",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Googlebooks available now from $899: Dell XPS, HP, Lenovo and more",
+      "url": "https://hothardware.com/news/googlebooks-are-available-now-from-899-dell-xps-hp-lenovo-and-more-here",
+      "published_at": "2026-10-05T20:15:00+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "media:642469",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Apple's M5 MacBook Air models discounted by $200 on Amazon",
+      "url": "https://wccftech.com/m5-macbook-air-200-off-amazon/",
+      "published_at": "2026-10-05T20:05:16+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:642469",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Apple's M5 MacBook Air models discounted by $200 on Amazon",
+      "url": "https://wccftech.com/m5-macbook-air-200-off-amazon/",
+      "published_at": "2026-10-05T20:05:16+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Amazon",
+      "family": "Other",
+      "is_dell_story": false
+    },
     {
       "id": "media:638688",
       "kind": "media",
@@ -6081,104 +6176,104 @@
       "brand": "Qualcomm",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:598414",
+      "id": "media:642233",
       "kind": "media",
-      "source": "VideoCardz",
-      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
-      "country": "US",
-      "section": "Market Trends",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://www.google.com/s2/favicons?domain=notebookcheck.net&sz=64",
+      "country": "DE",
+      "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "EmuDeck 2.7 adds 1080p/4K emulator presets for SteamOS and Windows",
-      "url": "https://videocardz.com/newz/emudeck-2-7-expands-steam-machine-support-with-1080p-and-4k-emulator-presets",
-      "published_at": "2026-09-30T16:20:20+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Valve",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:598685",
-      "kind": "media",
-      "source": "CRN",
-      "source_icon": "https://www.google.com/s2/favicons?domain=crn.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Microsoft introduces usage-based billing for Copilot Business",
-      "url": "https://www.crn.com/news/ai/2026/microsoft-enables-consumption-billing-by-default-for-copilot-business-5-things-to-know",
-      "published_at": "2026-09-30T16:00:00+00:00",
-      "score": 50,
-      "is_review": false,
+      "title": "Microsoft reviews Surface Laptop 15 Gen 8 with Intel Core Ultra X CPU",
+      "url": "https://www.notebookcheck.net/Microsoft-s-best-laptop-uses-an-Intel-CPU-Surface-Laptop-15-Gen-8-Review.1413537.0.html",
+      "published_at": "2026-10-05T21:41:00+00:00",
+      "score": 78,
+      "is_review": true,
       "is_sponsored": false,
       "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:599257",
+      "id": "media:642233",
       "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
+      "source": "Notebookcheck Reviews",
+      "source_icon": "https://www.google.com/s2/favicons?domain=notebookcheck.net&sz=64",
       "country": "DE",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Lenovo ThinkStation P3 with Core Ultra 9, 128 GB RAM, 2 TB SSD Offered",
-      "url": "https://www.notebookcheck.com/128-GB-RAM-2-TB-SSD-Core-Ultra-9-Lenovo-Mini-PC-im-Angebot.1412537.0.html",
-      "published_at": "2026-09-30T15:42:00+00:00",
-      "score": 65,
+      "title": "Microsoft reviews Surface Laptop 15 Gen 8 with Intel Core Ultra X CPU",
+      "url": "https://www.notebookcheck.net/Microsoft-s-best-laptop-uses-an-Intel-CPU-Surface-Laptop-15-Gen-8-Review.1413537.0.html",
+      "published_at": "2026-10-05T21:41:00+00:00",
+      "score": 78,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "media:642199",
+      "kind": "media",
+      "source": "HotHardware",
+      "source_icon": "https://www.google.com/s2/favicons?domain=hothardware.com&sz=64",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Googlebooks available now from $899: Dell XPS, HP, Lenovo and more",
+      "url": "https://hothardware.com/news/googlebooks-are-available-now-from-899-dell-xps-hp-lenovo-and-more-here",
+      "published_at": "2026-10-05T20:15:00+00:00",
+      "score": 100,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Lenovo",
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "media:642469",
+      "kind": "media",
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Apple's M5 MacBook Air models discounted by $200 on Amazon",
+      "url": "https://wccftech.com/m5-macbook-air-200-off-amazon/",
+      "published_at": "2026-10-05T20:05:16+00:00",
+      "score": 35,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:599203",
+      "id": "media:642469",
       "kind": "media",
-      "source": "PC Gamer",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus TUF Gaming A16 gaming laptop review",
-      "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-review/",
-      "published_at": "2026-09-30T15:21:13+00:00",
-      "score": 78,
-      "is_review": true,
+      "source": "Wccftech",
+      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
+      "country": "US",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Apple's M5 MacBook Air models discounted by $200 on Amazon",
+      "url": "https://wccftech.com/m5-macbook-air-200-off-amazon/",
+      "published_at": "2026-10-05T20:05:16+00:00",
+      "score": 35,
+      "is_review": false,
       "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
+      "brand": "Amazon",
+      "family": "Other",
       "is_dell_story": false
     },
-    {
-      "id": "media:599204",
-      "kind": "media",
-      "source": "PC Gamer",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MSI Katana 15 HX B14W gaming laptop review",
-      "url": "https://www.pcgamer.com/hardware/gaming-laptops/msi-katana-15-hx-b14w-review/",
-      "published_at": "2026-09-30T15:21:11+00:00",
-      "score": 78,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "MSI",
-      "family": "PC competitors",
-      "is_dell_story": false
-    }
-  ],
-  "items": [
     {
       "id": "media:638688",
       "kind": "media",
@@ -30800,120 +30895,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:468620",
-      "kind": "media",
-      "source": "Clubic",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Apple upgrades Mac mini to M6; Amazon sells M4 model at 699€",
-      "url": "https://www.clubic.com/bons-plans-627163-le-mac-mini-m4-est-encore-a-699-chez-amazon-la-derniere-fenetre-avant-l-arrivee-du-m6.html",
-      "published_at": "2026-08-28T08:51:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:468620",
-      "kind": "media",
-      "source": "Clubic",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Apple upgrades Mac mini to M6; Amazon sells M4 model at 699€",
-      "url": "https://www.clubic.com/bons-plans-627163-le-mac-mini-m4-est-encore-a-699-chez-amazon-la-derniere-fenetre-avant-l-arrivee-du-m6.html",
-      "published_at": "2026-08-28T08:51:00+00:00",
-      "score": 35,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Amazon",
-      "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:467091",
-      "kind": "media",
-      "source": "Trusted Reviews",
-      "source_icon": "https://www.google.com/s2/favicons?domain=trustedreviews.com&sz=64",
-      "country": "GB",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple's new Macs to ship with next macOS version next month",
-      "url": "https://www.trustedreviews.com/news/apples-new-macs-will-ship-with-the-next-version-of-macos",
-      "published_at": "2026-08-28T08:43:30+00:00",
-      "score": 75,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:467405",
-      "kind": "media",
-      "source": "WinFuture",
-      "source_icon": "https://www.google.com/s2/favicons?domain=winfuture.de&sz=64",
-      "country": "DE",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Windows 11 Update Adds Movable Taskbar and Flexible Start Menu",
-      "url": "https://winfuture.de/news,160911.html",
-      "published_at": "2026-08-28T08:38:00+00:00",
-      "score": 50,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:468681",
-      "kind": "media",
-      "source": "ITPro",
-      "source_icon": "",
-      "country": "GB",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Nvidia acquires Hugging Face, potentially impacting AI workload deployment",
-      "url": "https://www.itpro.com/business/acquisition/nvidias-hugging-face-acquisition-could-pose-a-big-threat-to-hyperscalers",
-      "published_at": "2026-08-28T08:06:25+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:470008",
-      "kind": "media",
-      "source": "Futura",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Acer laptop under 220€ for school season",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLVViVFhXWWljMk5BSzFzT3JjRUtqb2M4MDN1aHZzVkkxajJOeTNoU2VoMENEUEI4YTNwWk5fX2pqYW9pWTMzN2lrdHB1WVFZel9takRyNndnb0hxQmRoYWtvR0x3TWVKMWd1YmlaRWUxYXhBX3NLM2FlckMtMXVxTkRIUnpUMGphaDB1TnV3MnJBS2JVOFcxaVY2RUNwVHBINTgySmJsTlhOelROY0lZT2haaHZXZHJXZ05xQVpOcHpvOEZvbjNubFBpdFkyOTZuV0VQQmp1N3F3cVk?oc=5",
-      "published_at": "2026-08-28T08:00:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Acer",
       "family": "PC competitors",
       "is_dell_story": false
     },
