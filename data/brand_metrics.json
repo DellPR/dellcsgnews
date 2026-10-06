@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-06T22:27:24.808584+00:00",
-  "total_items": 1430,
+  "generated_at": "2026-10-06T23:52:51.563540+00:00",
+  "total_items": 1432,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 195,
+      "total": 197,
       "media": 139,
-      "youtube": 56,
-      "reviews": 29,
+      "youtube": 58,
+      "reviews": 30,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 3,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 158
+          "count": 160
         },
         {
           "section": "Deals",
@@ -133,9 +133,9 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 148,
+      "total": 147,
       "media": 106,
-      "youtube": 42,
+      "youtube": 41,
       "reviews": 28,
       "sponsored": 3,
       "dell_stories": 0,
@@ -151,7 +151,7 @@
         },
         {
           "source": "Lipe Mal Estar",
-          "count": 7
+          "count": 6
         },
         {
           "source": "Notebookcheck Reviews",
@@ -177,7 +177,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 110
+          "count": 109
         },
         {
           "section": "Deals",
@@ -192,7 +192,7 @@
           "count": 1
         }
       ],
-      "avg_score": 62.4
+      "avg_score": 62.3
     },
     {
       "brand": "Asus",
@@ -317,13 +317,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 92,
+      "total": 93,
       "media": 66,
-      "youtube": 26,
+      "youtube": 27,
       "reviews": 27,
       "sponsored": 1,
-      "dell_stories": 92,
-      "high_signal": 83,
+      "dell_stories": 93,
+      "high_signal": 84,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -332,6 +332,10 @@
         {
           "source": "TechRadar",
           "count": 6
+        },
+        {
+          "source": "Andrew Marc David",
+          "count": 5
         },
         {
           "source": "Clubic",
@@ -346,10 +350,6 @@
           "count": 5
         },
         {
-          "source": "Andrew Marc David",
-          "count": 4
-        },
-        {
           "source": "ITPro",
           "count": 4
         },
@@ -361,14 +361,14 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 74
+          "count": 75
         },
         {
           "section": "Deals",
           "count": 18
         }
       ],
-      "avg_score": 92.3
+      "avg_score": 92.4
     },
     {
       "brand": "Intel",
@@ -1359,7 +1359,7 @@
       "brands": {
         "Apple": 13,
         "Asus": 13,
-        "Lenovo": 12,
+        "Lenovo": 11,
         "MSI": 9,
         "Samsung": 9,
         "Framework": 6,
@@ -1399,12 +1399,12 @@
     {
       "month": "2026-10",
       "brands": {
-        "Apple": 57,
+        "Apple": 59,
         "Microsoft": 40,
         "Asus": 27,
         "HP": 24,
         "Intel": 24,
-        "Dell": 22,
+        "Dell": 23,
         "Lenovo": 21,
         "Amazon": 20,
         "AMD": 16,
@@ -1419,6 +1419,25 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:193200",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "MacBook Neo vs MacBook Air M5: Months-Long Comparison",
+      "url": "https://www.youtube.com/watch?v=LMB0HTWUyKU",
+      "published_at": "2026-10-06T21:36:46+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:652473",
       "kind": "media",
@@ -1436,6 +1455,25 @@
       "is_sponsored": false,
       "brand": "Amazon",
       "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:193425",
+      "kind": "youtube",
+      "source": "Canaltech",
+      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple suspends Vision Pro production; discusses future plans",
+      "url": "https://www.youtube.com/shorts/gKr7hUy-6y0",
+      "published_at": "2026-10-06T21:01:58+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -1475,6 +1513,25 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
+    },
+    {
+      "id": "youtube:193110",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Review of the Dell XPS Googlebook with unboxing and performance analysis",
+      "url": "https://www.youtube.com/watch?v=Jqn5mplk02Y",
+      "published_at": "2026-10-06T20:15:03+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
     },
     {
       "id": "media:653547",
@@ -6111,66 +6168,28 @@
       "brand": "AMD",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "youtube:185040",
+      "id": "youtube:193200",
       "kind": "youtube",
-      "source": "MW Informática",
-      "source_icon": "https://yt3.googleusercontent.com/o8BtikpsYJgccc2is9SvZtZtZ9xgQwesG0PJDWg2zeHWkoltlPThO32qPwo_zi2I_j6TYBGRxA=s68-c-k-c0x00ffffff-no-rj",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
       "country": "BR",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Used MacBook Pro 16 found for R$3,500 in Brazil",
-      "url": "https://www.youtube.com/watch?v=pqaHPGhJxj4",
-      "published_at": "2026-10-01T21:00:10+00:00",
-      "score": 65,
-      "is_review": false,
+      "title": "MacBook Neo vs MacBook Air M5: Months-Long Comparison",
+      "url": "https://www.youtube.com/watch?v=LMB0HTWUyKU",
+      "published_at": "2026-10-06T21:36:46+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
     },
-    {
-      "id": "youtube:184906",
-      "kind": "youtube",
-      "source": "TudoCelular",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_kLxUVQDnPaMByr20iK1JsJiMjDHuiB7KDIhTzl7cdDu6Y=s900-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "PC component upgrade journey with Ryzen 9 9900X3D and RTX 5080",
-      "url": "https://www.youtube.com/watch?v=ac4XXogadr4",
-      "published_at": "2026-10-01T19:03:58+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:609320",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Qualcomm's Snapdragon X2 outperforms Intel in CPU, AI, battery, and price",
-      "url": "https://www.windowscentral.com/hardware/qualcomm/qualcomms-snapdragon-x2-doesnt-need-the-extreme-badge-to-beat-intel-signal65-study",
-      "published_at": "2026-10-01T18:38:23+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    }
-  ],
-  "items": [
     {
       "id": "media:652473",
       "kind": "media",
@@ -6188,6 +6207,25 @@
       "is_sponsored": false,
       "brand": "Amazon",
       "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:193425",
+      "kind": "youtube",
+      "source": "Canaltech",
+      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple suspends Vision Pro production; discusses future plans",
+      "url": "https://www.youtube.com/shorts/gKr7hUy-6y0",
+      "published_at": "2026-10-06T21:01:58+00:00",
+      "score": 65,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -6227,6 +6265,25 @@
       "brand": "Apple",
       "family": "PC competitors",
       "is_dell_story": false
+    },
+    {
+      "id": "youtube:193110",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Review of the Dell XPS Googlebook with unboxing and performance analysis",
+      "url": "https://www.youtube.com/watch?v=Jqn5mplk02Y",
+      "published_at": "2026-10-06T20:15:03+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
     },
     {
       "id": "media:653547",
@@ -31799,25 +31856,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "MSI",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:143205",
-      "kind": "youtube",
-      "source": "Lipe Mal Estar",
-      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo Ideapad Slim 3 Core 3 Review: Surprising Performance and Value",
-      "url": "https://www.youtube.com/watch?v=49W7jA-WWW0",
-      "published_at": "2026-08-22T13:45:32+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
