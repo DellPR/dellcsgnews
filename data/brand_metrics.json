@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-05T22:22:14.835350+00:00",
-  "total_items": 1408,
+  "generated_at": "2026-10-06T00:04:04.524744+00:00",
+  "total_items": 1409,
   "brands": [
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 190,
+      "total": 191,
       "media": 135,
-      "youtube": 55,
-      "reviews": 28,
+      "youtube": 56,
+      "reviews": 29,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 3,
@@ -49,7 +49,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 156
+          "count": 157
         },
         {
           "section": "Deals",
@@ -68,7 +68,7 @@
           "count": 3
         }
       ],
-      "avg_score": 64.5
+      "avg_score": 64.6
     },
     {
       "brand": "Microsoft",
@@ -137,11 +137,11 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 147,
+      "total": 148,
       "media": 106,
-      "youtube": 41,
+      "youtube": 42,
       "reviews": 29,
-      "sponsored": 2,
+      "sponsored": 3,
       "dell_stories": 0,
       "high_signal": 6,
       "top_sources": [
@@ -154,12 +154,12 @@
           "count": 8
         },
         {
-          "source": "Notebookcheck Reviews",
+          "source": "Lipe Mal Estar",
           "count": 7
         },
         {
-          "source": "Lipe Mal Estar",
-          "count": 6
+          "source": "Notebookcheck Reviews",
+          "count": 7
         },
         {
           "source": "Futura",
@@ -181,7 +181,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 109
+          "count": 110
         },
         {
           "section": "Deals",
@@ -196,14 +196,14 @@
           "count": 1
         }
       ],
-      "avg_score": 62.5
+      "avg_score": 62.6
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 131,
+      "total": 132,
       "media": 83,
-      "youtube": 48,
+      "youtube": 49,
       "reviews": 33,
       "sponsored": 3,
       "dell_stories": 0,
@@ -245,7 +245,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 111
+          "count": 112
         },
         {
           "section": "Deals",
@@ -256,7 +256,7 @@
           "count": 1
         }
       ],
-      "avg_score": 65.0
+      "avg_score": 65.1
     },
     {
       "brand": "HP",
@@ -321,13 +321,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 89,
+      "total": 88,
       "media": 62,
-      "youtube": 27,
-      "reviews": 28,
+      "youtube": 26,
+      "reviews": 27,
       "sponsored": 1,
-      "dell_stories": 89,
-      "high_signal": 80,
+      "dell_stories": 88,
+      "high_signal": 79,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -365,14 +365,14 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 70
+          "count": 69
         },
         {
           "section": "Deals",
           "count": 19
         }
       ],
-      "avg_score": 92.1
+      "avg_score": 92.0
     },
     {
       "brand": "Intel",
@@ -1201,17 +1201,17 @@
     {
       "brand": "LG",
       "family": "PC competitors",
-      "total": 4,
+      "total": 3,
       "media": 0,
-      "youtube": 4,
-      "reviews": 2,
+      "youtube": 3,
+      "reviews": 1,
       "sponsored": 1,
       "dell_stories": 0,
       "high_signal": 0,
       "top_sources": [
         {
           "source": "Hardware Canucks",
-          "count": 3
+          "count": 2
         },
         {
           "source": "Adrenaline",
@@ -1221,7 +1221,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 4
+          "count": 3
         }
       ],
       "avg_score": 72.0
@@ -1376,9 +1376,9 @@
         "Intel": 7,
         "Microsoft": 7,
         "Amazon": 6,
-        "Dell": 6,
         "Framework": 6,
         "Acer": 5,
+        "Dell": 5,
         "AMD": 4,
         "Valve": 4
       }
@@ -1407,13 +1407,13 @@
     {
       "month": "2026-10",
       "brands": {
-        "Apple": 45,
+        "Apple": 46,
         "Microsoft": 33,
         "HP": 23,
         "Intel": 22,
-        "Asus": 19,
+        "Asus": 20,
         "Dell": 17,
-        "Lenovo": 16,
+        "Lenovo": 17,
         "AMD": 13,
         "NVIDIA": 10,
         "Amazon": 9,
@@ -1520,6 +1520,25 @@
       "is_sponsored": false,
       "brand": "Amazon",
       "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:191205",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS Vivobook 15 unboxing and first impressions preview",
+      "url": "https://www.youtube.com/shorts/1vIJZFYCqB4",
+      "published_at": "2026-10-05T19:52:28+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -1862,25 +1881,6 @@
       "is_sponsored": false,
       "brand": "Google",
       "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:189945",
-      "kind": "youtube",
-      "source": "Hardware Canucks",
-      "source_icon": "https://yt3.googleusercontent.com/C-HUUT9dZSMpImqVMDuDOJEr_5b1j2_5v5TwXZhEED8qt958ndFDd0mEmdTVs7EaIlK24N3h=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "LG Gram Pro 16/17 review: High prices, poor input devices, and LG's controversies",
-      "url": "https://www.youtube.com/watch?v=-dDxxlCmaWM",
-      "published_at": "2026-10-05T15:00:36+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "LG",
-      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -2734,6 +2734,25 @@
       "score": 72,
       "is_review": true,
       "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:188715",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "30-day review of Samsung Galaxy Book6 Ultra: best Windows laptop of the year?",
+      "url": "https://www.youtube.com/watch?v=r3migtYlra4",
+      "published_at": "2026-10-04T17:03:27+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
       "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
@@ -3058,6 +3077,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:188700",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Review of top 5 best-selling gaming laptops in Brazil: Acer, Lenovo, Alienware, Asus, and Acer Predator",
+      "url": "https://www.youtube.com/watch?v=Z0nfGN43yLY",
+      "published_at": "2026-10-03T23:29:57+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -6138,44 +6176,6 @@
       "brand": "Framework",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:599254",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo unveils affordable 15-inch laptop with Snapdragon chipset",
-      "url": "https://www.notebookcheck.com/Lenovo-enthuellt-guenstiges-neues-15-Zoll-Notebook-mit-Snapdragon-Chipsatz.1412593.0.html",
-      "published_at": "2026-09-30T16:21:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:599254",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo unveils affordable 15-inch laptop with Snapdragon chipset",
-      "url": "https://www.notebookcheck.com/Lenovo-enthuellt-guenstiges-neues-15-Zoll-Notebook-mit-Snapdragon-Chipsatz.1412593.0.html",
-      "published_at": "2026-09-30T16:21:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Qualcomm",
-      "family": "Ecosystem",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6272,6 +6272,25 @@
       "is_sponsored": false,
       "brand": "Amazon",
       "family": "Other",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:191205",
+      "kind": "youtube",
+      "source": "Qual Notebook Comprar?",
+      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS Vivobook 15 unboxing and first impressions preview",
+      "url": "https://www.youtube.com/shorts/1vIJZFYCqB4",
+      "published_at": "2026-10-05T19:52:28+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -6614,25 +6633,6 @@
       "is_sponsored": false,
       "brand": "Google",
       "family": "Other",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:189945",
-      "kind": "youtube",
-      "source": "Hardware Canucks",
-      "source_icon": "https://yt3.googleusercontent.com/C-HUUT9dZSMpImqVMDuDOJEr_5b1j2_5v5TwXZhEED8qt958ndFDd0mEmdTVs7EaIlK24N3h=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "LG Gram Pro 16/17 review: High prices, poor input devices, and LG's controversies",
-      "url": "https://www.youtube.com/watch?v=-dDxxlCmaWM",
-      "published_at": "2026-10-05T15:00:36+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "LG",
-      "family": "PC competitors",
       "is_dell_story": false
     },
     {
@@ -7486,6 +7486,25 @@
       "score": 72,
       "is_review": true,
       "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:188715",
+      "kind": "youtube",
+      "source": "Escolha Segura",
+      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "30-day review of Samsung Galaxy Book6 Ultra: best Windows laptop of the year?",
+      "url": "https://www.youtube.com/watch?v=r3migtYlra4",
+      "published_at": "2026-10-04T17:03:27+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
       "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
@@ -7810,6 +7829,25 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:188700",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Review of top 5 best-selling gaming laptops in Brazil: Acer, Lenovo, Alienware, Asus, and Acer Predator",
+      "url": "https://www.youtube.com/watch?v=Z0nfGN43yLY",
+      "published_at": "2026-10-03T23:29:57+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -31391,25 +31429,6 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:142111",
-      "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review of Dell's 32-inch 4K QD OLED monitor with professional color calibration",
-      "url": "https://www.youtube.com/watch?v=2qlV1KN_67Q",
-      "published_at": "2026-08-21T19:55:24+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
     },
     {
       "id": "youtube:190266",
