@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-07T23:55:47.623144+00:00",
-  "total_items": 1458,
+  "generated_at": "2026-10-08T12:18:56.819338+00:00",
+  "total_items": 1457,
   "brands": [
     {
       "brand": "Microsoft",
       "family": "PC competitors",
-      "total": 212,
+      "total": 213,
       "media": 209,
-      "youtube": 3,
+      "youtube": 4,
       "reviews": 3,
       "sponsored": 0,
       "dell_stories": 0,
@@ -27,7 +27,7 @@
         },
         {
           "source": "Engadget",
-          "count": 10
+          "count": 11
         },
         {
           "source": "The Verge",
@@ -53,14 +53,14 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 97
+          "count": 98
         },
         {
           "section": "Deals",
           "count": 11
         }
       ],
-      "avg_score": 56.3
+      "avg_score": 56.4
     },
     {
       "brand": "Apple",
@@ -317,13 +317,13 @@
     {
       "brand": "Dell",
       "family": "Dell family",
-      "total": 91,
+      "total": 90,
       "media": 63,
-      "youtube": 28,
+      "youtube": 27,
       "reviews": 24,
       "sponsored": 1,
-      "dell_stories": 91,
-      "high_signal": 83,
+      "dell_stories": 90,
+      "high_signal": 82,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -346,12 +346,12 @@
           "count": 5
         },
         {
-          "source": "Techaeris",
+          "source": "Tom's Hardware",
           "count": 5
         },
         {
-          "source": "Tom's Hardware",
-          "count": 5
+          "source": "Techaeris",
+          "count": 4
         },
         {
           "source": "Windows Central",
@@ -361,14 +361,14 @@
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 74
+          "count": 73
         },
         {
           "section": "Deals",
           "count": 17
         }
       ],
-      "avg_score": 93.0
+      "avg_score": 92.9
     },
     {
       "brand": "Intel",
@@ -751,62 +751,6 @@
       "avg_score": 57.5
     },
     {
-      "brand": "Alienware",
-      "family": "Dell family",
-      "total": 45,
-      "media": 25,
-      "youtube": 20,
-      "reviews": 13,
-      "sponsored": 1,
-      "dell_stories": 45,
-      "high_signal": 42,
-      "top_sources": [
-        {
-          "source": "Adrenaline",
-          "count": 5
-        },
-        {
-          "source": "Lucas Ishii",
-          "count": 4
-        },
-        {
-          "source": "Notebookcheck Reviews",
-          "count": 3
-        },
-        {
-          "source": "Clubic",
-          "count": 2
-        },
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 2
-        },
-        {
-          "source": "Qual Notebook Comprar?",
-          "count": 2
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 2
-        },
-        {
-          "source": "VideoCardz",
-          "count": 2
-        }
-      ],
-      "sections": [
-        {
-          "section": "Dell Coverage",
-          "count": 40
-        },
-        {
-          "section": "Deals",
-          "count": 5
-        }
-      ],
-      "avg_score": 95.1
-    },
-    {
       "brand": "Amazon",
       "family": "Other",
       "total": 45,
@@ -857,6 +801,62 @@
         }
       ],
       "avg_score": 29.8
+    },
+    {
+      "brand": "Alienware",
+      "family": "Dell family",
+      "total": 44,
+      "media": 25,
+      "youtube": 19,
+      "reviews": 12,
+      "sponsored": 1,
+      "dell_stories": 44,
+      "high_signal": 41,
+      "top_sources": [
+        {
+          "source": "Adrenaline",
+          "count": 5
+        },
+        {
+          "source": "Lucas Ishii",
+          "count": 4
+        },
+        {
+          "source": "Clubic",
+          "count": 2
+        },
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 2
+        },
+        {
+          "source": "Notebookcheck Reviews",
+          "count": 2
+        },
+        {
+          "source": "Qual Notebook Comprar?",
+          "count": 2
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 2
+        },
+        {
+          "source": "VideoCardz",
+          "count": 2
+        }
+      ],
+      "sections": [
+        {
+          "section": "Dell Coverage",
+          "count": 39
+        },
+        {
+          "section": "Deals",
+          "count": 5
+        }
+      ],
+      "avg_score": 95.0
     },
     {
       "brand": "Samsung",
@@ -1376,8 +1376,7 @@
       "brands": {
         "MSI": 3,
         "Asus": 2,
-        "Dell": 2,
-        "Alienware": 1,
+        "Dell": 1,
         "Framework": 1,
         "Razer": 1
       }
@@ -1426,7 +1425,7 @@
     {
       "month": "2026-10",
       "brands": {
-        "Microsoft": 78,
+        "Microsoft": 79,
         "Apple": 63,
         "Asus": 32,
         "Amazon": 29,
@@ -1446,6 +1445,25 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:195900",
+      "kind": "youtube",
+      "source": "Engadget",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_nAJAaCJcqqNW790kTYUsStZJ1hmC_84Z8sBFPmE-9ld7jz=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Microsoft Surface Laptop Ultra hands-on: A beautiful beast",
+      "url": "https://www.youtube.com/shorts/Lqe-1zTfOjQ",
+      "published_at": "2026-10-08T01:15:12+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Microsoft",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:663814",
       "kind": "media",
@@ -6176,28 +6194,28 @@
       "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "youtube:188418",
+      "id": "youtube:195900",
       "kind": "youtube",
-      "source": "Tom's Hardware",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_lC4na952wlOcbCAVYIyEDaGRFYdefZNaysabiZDGLlfxk=s68-c-k-c0x00ffffff-no-rj",
+      "source": "Engadget",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_nAJAaCJcqqNW790kTYUsStZJ1hmC_84Z8sBFPmE-9ld7jz=s68-c-k-c0x00ffffff-no-rj",
       "country": "US",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "of the new Apple Mac Mini M6 with 2nm chip and performance improvements",
-      "url": "https://www.youtube.com/shorts/mrihrd3Buj8",
-      "published_at": "2026-10-04T14:13:21+00:00",
-      "score": 75,
+      "title": "Microsoft Surface Laptop Ultra hands-on: A beautiful beast",
+      "url": "https://www.youtube.com/shorts/Lqe-1zTfOjQ",
+      "published_at": "2026-10-08T01:15:12+00:00",
+      "score": 72,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Apple",
+      "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "media:663814",
       "kind": "media",
@@ -32797,44 +32815,6 @@
       "brand": "MSI",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "youtube:144744",
-      "kind": "youtube",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
-      "country": "DE",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Affordable Ultrawide Gaming Monitor Review",
-      "url": "https://www.youtube.com/watch?v=MrQuoIY_If0",
-      "published_at": "2026-07-09T13:03:05+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:144541",
-      "kind": "youtube",
-      "source": "Techaeris",
-      "source_icon": "https://yt3.googleusercontent.com/xUXv9L-VEbKW5qWX5fFBAm_f2StBIBpib_Sps7WuuBN0FqkDzLpRuNRETt5rYhTzhCbte-Mr=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Why older Dell XPS 15 9500 hardware is better for Linux",
-      "url": "https://www.youtube.com/watch?v=umh1FCEIKvA",
-      "published_at": "2026-07-09T12:18:38+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
     },
     {
       "id": "youtube:178788",
