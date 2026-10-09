@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T14:38:04.961316+00:00",
-  "total_items": 1480,
+  "generated_at": "2026-10-09T18:21:31.827449+00:00",
+  "total_items": 1479,
   "brands": [
     {
       "brand": "Microsoft",
@@ -69,13 +69,13 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 203,
+      "total": 204,
       "media": 143,
-      "youtube": 60,
-      "reviews": 30,
+      "youtube": 61,
+      "reviews": 31,
       "sponsored": 0,
       "dell_stories": 0,
-      "high_signal": 4,
+      "high_signal": 5,
       "top_sources": [
         {
           "source": "Notebookcheck DE - News",
@@ -113,7 +113,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 168
+          "count": 169
         },
         {
           "section": "Deals",
@@ -132,7 +132,7 @@
           "count": 3
         }
       ],
-      "avg_score": 64.7
+      "avg_score": 64.9
     },
     {
       "brand": "Asus",
@@ -319,6 +319,70 @@
       "avg_score": 63.5
     },
     {
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "total": 82,
+      "media": 74,
+      "youtube": 8,
+      "reviews": 3,
+      "sponsored": 4,
+      "dell_stories": 0,
+      "high_signal": 1,
+      "top_sources": [
+        {
+          "source": "VideoCardz",
+          "count": 14
+        },
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 10
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 10
+        },
+        {
+          "source": "Adrenaline",
+          "count": 7
+        },
+        {
+          "source": "Wccftech",
+          "count": 6
+        },
+        {
+          "source": "HotHardware",
+          "count": 5
+        },
+        {
+          "source": "TudoCelular",
+          "count": 3
+        },
+        {
+          "source": "WinFuture",
+          "count": 3
+        }
+      ],
+      "sections": [
+        {
+          "section": "Ecosystem",
+          "count": 45
+        },
+        {
+          "section": "Competitor Coverage",
+          "count": 26
+        },
+        {
+          "section": "Deals",
+          "count": 10
+        },
+        {
+          "section": "Market Trends",
+          "count": 1
+        }
+      ],
+      "avg_score": 61.7
+    },
+    {
       "brand": "Dell",
       "family": "Dell family",
       "total": 81,
@@ -375,76 +439,12 @@
       "avg_score": 91.4
     },
     {
-      "brand": "Intel",
-      "family": "Ecosystem",
-      "total": 81,
-      "media": 74,
-      "youtube": 7,
-      "reviews": 3,
-      "sponsored": 3,
-      "dell_stories": 0,
-      "high_signal": 1,
-      "top_sources": [
-        {
-          "source": "VideoCardz",
-          "count": 14
-        },
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 10
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 10
-        },
-        {
-          "source": "Adrenaline",
-          "count": 7
-        },
-        {
-          "source": "Wccftech",
-          "count": 6
-        },
-        {
-          "source": "HotHardware",
-          "count": 5
-        },
-        {
-          "source": "TudoCelular",
-          "count": 3
-        },
-        {
-          "source": "WinFuture",
-          "count": 3
-        }
-      ],
-      "sections": [
-        {
-          "section": "Ecosystem",
-          "count": 45
-        },
-        {
-          "section": "Competitor Coverage",
-          "count": 26
-        },
-        {
-          "section": "Deals",
-          "count": 9
-        },
-        {
-          "section": "Market Trends",
-          "count": 1
-        }
-      ],
-      "avg_score": 62.3
-    },
-    {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 80,
+      "total": 79,
       "media": 69,
-      "youtube": 11,
-      "reviews": 7,
+      "youtube": 10,
+      "reviews": 6,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 1,
@@ -496,15 +496,15 @@
           "count": 5
         },
         {
-          "section": "Market Trends",
-          "count": 3
+          "section": "Dell Coverage",
+          "count": 2
         },
         {
-          "section": "Dell Coverage",
+          "section": "Market Trends",
           "count": 2
         }
       ],
-      "avg_score": 62.8
+      "avg_score": 62.7
     },
     {
       "brand": "AMD",
@@ -987,66 +987,6 @@
       "avg_score": 70.3
     },
     {
-      "brand": "Framework",
-      "family": "PC competitors",
-      "total": 17,
-      "media": 13,
-      "youtube": 4,
-      "reviews": 2,
-      "sponsored": 0,
-      "dell_stories": 0,
-      "high_signal": 0,
-      "top_sources": [
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 3
-        },
-        {
-          "source": "Austin Evans",
-          "count": 2
-        },
-        {
-          "source": "TI Inside",
-          "count": 2
-        },
-        {
-          "source": "Clubic",
-          "count": 1
-        },
-        {
-          "source": "Computerworld",
-          "count": 1
-        },
-        {
-          "source": "Gizmodo",
-          "count": 1
-        },
-        {
-          "source": "HotHardware",
-          "count": 1
-        },
-        {
-          "source": "LMGClips",
-          "count": 1
-        }
-      ],
-      "sections": [
-        {
-          "section": "Competitor Coverage",
-          "count": 14
-        },
-        {
-          "section": "Market Trends",
-          "count": 2
-        },
-        {
-          "section": "Deals",
-          "count": 1
-        }
-      ],
-      "avg_score": 65.1
-    },
-    {
       "brand": "Google",
       "family": "Other",
       "total": 16,
@@ -1109,6 +1049,66 @@
         }
       ],
       "avg_score": 73.7
+    },
+    {
+      "brand": "Framework",
+      "family": "PC competitors",
+      "total": 15,
+      "media": 13,
+      "youtube": 2,
+      "reviews": 1,
+      "sponsored": 0,
+      "dell_stories": 0,
+      "high_signal": 0,
+      "top_sources": [
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 3
+        },
+        {
+          "source": "TI Inside",
+          "count": 2
+        },
+        {
+          "source": "Austin Evans",
+          "count": 1
+        },
+        {
+          "source": "Clubic",
+          "count": 1
+        },
+        {
+          "source": "Computerworld",
+          "count": 1
+        },
+        {
+          "source": "Gizmodo",
+          "count": 1
+        },
+        {
+          "source": "HotHardware",
+          "count": 1
+        },
+        {
+          "source": "Marques Brownlee (MKBHD)",
+          "count": 1
+        }
+      ],
+      "sections": [
+        {
+          "section": "Competitor Coverage",
+          "count": 13
+        },
+        {
+          "section": "Deals",
+          "count": 1
+        },
+        {
+          "section": "Market Trends",
+          "count": 1
+        }
+      ],
+      "avg_score": 65.0
     },
     {
       "brand": "OpenAI",
@@ -1394,14 +1394,12 @@
         "Lenovo": 6,
         "Alienware": 3,
         "Acer": 2,
-        "Framework": 2,
         "HP": 2,
         "MSI": 2,
         "AMD": 1,
         "Dell": 1,
         "Intel": 1,
         "LG": 1,
-        "NVIDIA": 1,
         "Valve": 1
       }
     },
@@ -1430,13 +1428,13 @@
       "month": "2026-10",
       "brands": {
         "Microsoft": 121,
-        "Apple": 83,
+        "Apple": 84,
         "Asus": 40,
         "Amazon": 36,
         "Lenovo": 34,
         "NVIDIA": 32,
         "HP": 31,
-        "Intel": 30,
+        "Intel": 31,
         "AMD": 27,
         "Dell": 27,
         "Samsung": 21,
@@ -1449,6 +1447,44 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:199185",
+      "kind": "youtube",
+      "source": "Loop Infinito",
+      "source_icon": "https://yt3.googleusercontent.com/GDHTPQokpmjDxrJbAHuLi1Rhjx1_q75cgDFKboVzzAv8ZcEVi4Wc_HqSIWwwNon5rUXKztkaPA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Intel Gamer Days promotion offers free AAA game bundles with eligible hardware purchases",
+      "url": "https://www.youtube.com/shorts/KFk2jfdic_I",
+      "published_at": "2026-10-09T17:59:12+00:00",
+      "score": 15,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:198855",
+      "kind": "youtube",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple Mac Mini M6 review: display setup issues and performance testing",
+      "url": "https://www.youtube.com/watch?v=dP91f2ZTcVo",
+      "published_at": "2026-10-09T14:39:55+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:677998",
       "kind": "media",
@@ -6160,47 +6196,47 @@
       "brand": "Alienware",
       "family": "Dell family",
       "is_dell_story": true
-    },
-    {
-      "id": "media:650043",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Lenovo launches ThinkStation P4 with up to 256GB RAM and 48TB storage",
-      "url": "https://www.notebookcheck.com/Lenovo-veroeffentlicht-Desktop-Rechner-mit-bis-zu-256GB-RAM-und-48TB-Speicher.1417442.0.html",
-      "published_at": "2026-10-06T16:46:00+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:651996",
-      "kind": "media",
-      "source": "ZDNET France",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "XPS 13 mobility impact analysis by ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHREVWp0eTJYWkg5WXFsOGxlb0J6aE9OSU9zRXB2T0FtWW5NQ0JLaFdtZDUwNzhROUU2N0M3ck0ySnVhRTZzZ1BrMUpzdUtpdUF2aC1jdGFoTWVkVTZMMzdSMnAxUDJ5V2d0NzRIYjJ0TjhqVlhyV2tocVJyUk1QLWJSWWNHU0d4QnFYNG85MjVYNUU1VkZUMjZ6N3VFalBEV2VZcmtJSmhMbHUwQmdiUWk0Y2FzaUxGY0E?oc=5",
-      "published_at": "2026-10-06T16:30:00+00:00",
-      "score": 100,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Dell",
-      "family": "Dell family",
-      "is_dell_story": true
     }
   ],
   "items": [
+    {
+      "id": "youtube:199185",
+      "kind": "youtube",
+      "source": "Loop Infinito",
+      "source_icon": "https://yt3.googleusercontent.com/GDHTPQokpmjDxrJbAHuLi1Rhjx1_q75cgDFKboVzzAv8ZcEVi4Wc_HqSIWwwNon5rUXKztkaPA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": true,
+      "title": "Intel Gamer Days promotion offers free AAA game bundles with eligible hardware purchases",
+      "url": "https://www.youtube.com/shorts/KFk2jfdic_I",
+      "published_at": "2026-10-09T17:59:12+00:00",
+      "score": 15,
+      "is_review": false,
+      "is_sponsored": true,
+      "brand": "Intel",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:198855",
+      "kind": "youtube",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Apple Mac Mini M6 review: display setup issues and performance testing",
+      "url": "https://www.youtube.com/watch?v=dP91f2ZTcVo",
+      "published_at": "2026-10-09T14:39:55+00:00",
+      "score": 100,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Apple",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:677998",
       "kind": "media",
@@ -32760,63 +32796,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:147870",
-      "kind": "youtube",
-      "source": "Austin Evans",
-      "source_icon": "https://yt3.googleusercontent.com/bJFry2IjWTvfFjpg3Cg4lY6n-7Qcp-sHUB3zCFZnQ0AzyBN56tW3LMqryA8EAAHH24VZCrWh7xI=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Installing SteamOS on a Framework Laptop",
-      "url": "https://www.youtube.com/shorts/aSMBL0Iukls",
-      "published_at": "2026-08-25T16:38:10+00:00",
-      "score": 60,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Framework",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:147735",
-      "kind": "youtube",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
-      "country": "DE",
-      "section": "Market Trends",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "NVIDIA DLSS 4.5 Ray Reconstruction Explained",
-      "url": "https://www.youtube.com/watch?v=bM7a7rkkYBY",
-      "published_at": "2026-08-25T15:30:12+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "NVIDIA",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:148036",
-      "kind": "youtube",
-      "source": "LMGClips",
-      "source_icon": "https://yt3.googleusercontent.com/NO9_Ek-oyWF-AkGrZVS3kCdWJo7PCjCsY5WUlM-7G-1mPu_8gWDcTfX1asa4tQnWQTI62rZf=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Framework Addresses BIOS Update Issues",
-      "url": "https://www.youtube.com/watch?v=JN2tYdl52OI",
-      "published_at": "2026-08-25T15:00:23+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Framework",
       "family": "PC competitors",
       "is_dell_story": false
     },
