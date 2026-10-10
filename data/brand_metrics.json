@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T22:19:56.253613+00:00",
-  "total_items": 1472,
+  "generated_at": "2026-10-10T00:05:19.539829+00:00",
+  "total_items": 1475,
   "brands": [
     {
       "brand": "Microsoft",
@@ -103,7 +103,7 @@
         },
         {
           "source": "The Verge",
-          "count": 8
+          "count": 7
         },
         {
           "source": "Tom's Hardware",
@@ -132,7 +132,7 @@
           "count": 3
         }
       ],
-      "avg_score": 65.0
+      "avg_score": 65.1
     },
     {
       "brand": "Asus",
@@ -200,7 +200,7 @@
       "total": 126,
       "media": 84,
       "youtube": 42,
-      "reviews": 28,
+      "reviews": 27,
       "sponsored": 3,
       "dell_stories": 0,
       "high_signal": 6,
@@ -256,7 +256,7 @@
           "count": 1
         }
       ],
-      "avg_score": 62.4
+      "avg_score": 62.5
     },
     {
       "brand": "HP",
@@ -317,6 +317,62 @@
         }
       ],
       "avg_score": 63.4
+    },
+    {
+      "brand": "Dell",
+      "family": "Dell family",
+      "total": 84,
+      "media": 55,
+      "youtube": 29,
+      "reviews": 22,
+      "sponsored": 1,
+      "dell_stories": 84,
+      "high_signal": 75,
+      "top_sources": [
+        {
+          "source": "Notebookcheck DE - News",
+          "count": 7
+        },
+        {
+          "source": "Andrew Marc David",
+          "count": 5
+        },
+        {
+          "source": "Clubic",
+          "count": 5
+        },
+        {
+          "source": "TechRadar",
+          "count": 5
+        },
+        {
+          "source": "Techaeris",
+          "count": 5
+        },
+        {
+          "source": "Tom's Hardware",
+          "count": 4
+        },
+        {
+          "source": "Windows Central",
+          "count": 4
+        },
+        {
+          "source": "CRN",
+          "count": 3
+        }
+      ],
+      "sections": [
+        {
+          "section": "Dell Coverage",
+          "count": 65
+        },
+        {
+          "section": "Deals",
+          "count": 19
+        }
+      ],
+      "avg_score": 91.5
     },
     {
       "brand": "Intel",
@@ -381,62 +437,6 @@
         }
       ],
       "avg_score": 61.9
-    },
-    {
-      "brand": "Dell",
-      "family": "Dell family",
-      "total": 82,
-      "media": 55,
-      "youtube": 27,
-      "reviews": 22,
-      "sponsored": 1,
-      "dell_stories": 82,
-      "high_signal": 73,
-      "top_sources": [
-        {
-          "source": "Notebookcheck DE - News",
-          "count": 7
-        },
-        {
-          "source": "Andrew Marc David",
-          "count": 5
-        },
-        {
-          "source": "Clubic",
-          "count": 5
-        },
-        {
-          "source": "TechRadar",
-          "count": 5
-        },
-        {
-          "source": "Techaeris",
-          "count": 5
-        },
-        {
-          "source": "Tom's Hardware",
-          "count": 4
-        },
-        {
-          "source": "Windows Central",
-          "count": 4
-        },
-        {
-          "source": "CRN",
-          "count": 3
-        }
-      ],
-      "sections": [
-        {
-          "section": "Dell Coverage",
-          "count": 64
-        },
-        {
-          "section": "Deals",
-          "count": 18
-        }
-      ],
-      "avg_score": 91.5
     },
     {
       "brand": "NVIDIA",
@@ -929,9 +929,9 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 27,
+      "total": 28,
       "media": 15,
-      "youtube": 12,
+      "youtube": 13,
       "reviews": 3,
       "sponsored": 0,
       "dell_stories": 0,
@@ -939,7 +939,7 @@
       "top_sources": [
         {
           "source": "Lipe Mal Estar",
-          "count": 6
+          "count": 7
         },
         {
           "source": "VideoCardz",
@@ -973,7 +973,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 25
+          "count": 26
         },
         {
           "section": "Competitor Coverage",
@@ -984,7 +984,7 @@
           "count": 1
         }
       ],
-      "avg_score": 70.6
+      "avg_score": 70.2
     },
     {
       "brand": "Google",
@@ -1435,18 +1435,75 @@
         "Lenovo": 35,
         "NVIDIA": 34,
         "HP": 33,
-        "Dell": 28,
+        "Dell": 30,
         "AMD": 27,
         "Samsung": 21,
         "MSI": 20,
         "Acer": 14,
         "Qualcomm": 12,
         "Alienware": 9,
-        "Valve": 5
+        "Valve": 6
       }
     }
   ],
   "recent": [
+    {
+      "id": "youtube:200175",
+      "kind": "youtube",
+      "source": "Canaltech",
+      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Deals",
+      "is_deal": true,
+      "deal_metric_only": false,
+      "title": "Dell Laptops for Students, Families, and Home Offices",
+      "url": "https://www.youtube.com/shorts/Djb7VfEI8WM",
+      "published_at": "2026-10-09T23:09:48+00:00",
+      "score": 90,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
+    {
+      "id": "youtube:199950",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Built a budget Steam Machine using AliExpress components",
+      "url": "https://www.youtube.com/watch?v=XaorUfhqAVI",
+      "published_at": "2026-10-09T22:36:36+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:200177",
+      "kind": "youtube",
+      "source": "Canaltech",
+      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell Latitude laptops reviewed for college, family, and home office use",
+      "url": "https://www.youtube.com/watch?v=utNBF36lTpE",
+      "published_at": "2026-10-09T21:00:37+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
     {
       "id": "media:684446",
       "kind": "media",
@@ -6139,66 +6196,66 @@
       "brand": "MSI",
       "family": "PC competitors",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:657857",
-      "kind": "media",
-      "source": "Les Numériques",
-      "source_icon": "",
-      "country": "FR",
+      "id": "youtube:200175",
+      "kind": "youtube",
+      "source": "Canaltech",
+      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
       "section": "Deals",
       "is_deal": true,
-      "deal_metric_only": true,
-      "title": "AMD Radeon RX 7900 XT GPU discounted 33% on Amazon Prime Day",
-      "url": "https://www.lesnumeriques.com/carte-graphique/prime-day-la-carte-graphique-amd-radeon-rx-7900-xt-a-899-00-33-n262974.html",
-      "published_at": "2026-10-07T07:00:00+00:00",
-      "score": 34,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "AMD",
-      "family": "Ecosystem",
-      "is_dell_story": false
-    },
-    {
-      "id": "media:656306",
-      "kind": "media",
-      "source": "VideoCardz",
-      "source_icon": "https://www.google.com/s2/favicons?domain=videocardz.com&sz=64",
-      "country": "US",
-      "section": "Dell Coverage",
-      "is_deal": false,
       "deal_metric_only": false,
-      "title": "Alienware 4K OLED monitor now available for $699.99",
-      "url": "https://videocardz.com/newz/alienware-32-inch-4k-rgb-tandem-oled-monitor-now-available-for-699",
-      "published_at": "2026-10-07T06:53:27+00:00",
-      "score": 100,
+      "title": "Dell Laptops for Students, Families, and Home Offices",
+      "url": "https://www.youtube.com/shorts/Djb7VfEI8WM",
+      "published_at": "2026-10-09T23:09:48+00:00",
+      "score": 90,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Alienware",
+      "brand": "Dell",
       "family": "Dell family",
       "is_dell_story": true
     },
     {
-      "id": "media:656702",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "M5 MacBook Air spotted at pawn shop for $550 with red flags",
-      "url": "https://wccftech.com/m5-macbook-air-spotted-pawn-shop-550-red-flags/",
-      "published_at": "2026-10-07T06:13:58+00:00",
-      "score": 35,
+      "id": "youtube:199950",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Built a budget Steam Machine using AliExpress components",
+      "url": "https://www.youtube.com/watch?v=XaorUfhqAVI",
+      "published_at": "2026-10-09T22:36:36+00:00",
+      "score": 60,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
+      "brand": "Valve",
+      "family": "Ecosystem",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "youtube:200177",
+      "kind": "youtube",
+      "source": "Canaltech",
+      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Dell Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Dell Latitude laptops reviewed for college, family, and home office use",
+      "url": "https://www.youtube.com/watch?v=utNBF36lTpE",
+      "published_at": "2026-10-09T21:00:37+00:00",
+      "score": 100,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Dell",
+      "family": "Dell family",
+      "is_dell_story": true
+    },
     {
       "id": "media:684446",
       "kind": "media",
@@ -32629,37 +32686,37 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:148710",
+      "id": "youtube:199709",
       "kind": "youtube",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
+      "source": "Hardware Canucks",
+      "source_icon": "https://yt3.googleusercontent.com/C-HUUT9dZSMpImqVMDuDOJEr_5b1j2_5v5TwXZhEED8qt958ndFDd0mEmdTVs7EaIlK24N3h=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Why the Lenovo IdeaPad Slim 3 is popular and which models to avoid in 2026",
-      "url": "https://www.youtube.com/watch?v=EFKKVSEyon0",
-      "published_at": "2026-08-25T22:13:28+00:00",
-      "score": 72,
-      "is_review": true,
+      "title": "Student laptop recommendations: MacBook vs Windows options",
+      "url": "https://www.youtube.com/watch?v=298oyHuXJXo",
+      "published_at": "2026-08-25T15:30:25+00:00",
+      "score": 75,
+      "is_review": false,
       "is_sponsored": false,
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "youtube:148140",
+      "id": "youtube:199709",
       "kind": "youtube",
-      "source": "The Verge",
-      "source_icon": "https://yt3.googleusercontent.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "US",
+      "source": "Hardware Canucks",
+      "source_icon": "https://yt3.googleusercontent.com/C-HUUT9dZSMpImqVMDuDOJEr_5b1j2_5v5TwXZhEED8qt958ndFDd0mEmdTVs7EaIlK24N3h=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Apple unveils new Mac mini with M6/M5 Pro chips and price hikes",
-      "url": "https://www.youtube.com/shorts/PFrN_CgVw5Q",
-      "published_at": "2026-08-25T22:09:46+00:00",
-      "score": 65,
+      "title": "Student laptop recommendations: MacBook vs Windows options",
+      "url": "https://www.youtube.com/watch?v=298oyHuXJXo",
+      "published_at": "2026-08-25T15:30:25+00:00",
+      "score": 75,
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
