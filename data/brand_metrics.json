@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T20:31:02.595781+00:00",
-  "total_items": 1478,
+  "generated_at": "2026-10-11T19:20:48.353400+00:00",
+  "total_items": 1474,
   "brands": [
     {
       "brand": "Microsoft",
@@ -69,9 +69,9 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 205,
+      "total": 203,
       "media": 144,
-      "youtube": 61,
+      "youtube": 59,
       "reviews": 31,
       "sponsored": 0,
       "dell_stories": 0,
@@ -113,7 +113,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 170
+          "count": 168
         },
         {
           "section": "Deals",
@@ -132,14 +132,14 @@
           "count": 3
         }
       ],
-      "avg_score": 65.2
+      "avg_score": 65.1
     },
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 132,
+      "total": 134,
       "media": 83,
-      "youtube": 49,
+      "youtube": 51,
       "reviews": 33,
       "sponsored": 3,
       "dell_stories": 0,
@@ -151,7 +151,7 @@
         },
         {
           "source": "Crimson Tech",
-          "count": 10
+          "count": 12
         },
         {
           "source": "Adrenaline",
@@ -181,7 +181,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 105
+          "count": 107
         },
         {
           "section": "Deals",
@@ -192,7 +192,7 @@
           "count": 1
         }
       ],
-      "avg_score": 63.3
+      "avg_score": 63.5
     },
     {
       "brand": "Lenovo",
@@ -757,9 +757,9 @@
     {
       "brand": "MSI",
       "family": "PC competitors",
-      "total": 51,
+      "total": 50,
       "media": 37,
-      "youtube": 14,
+      "youtube": 13,
       "reviews": 9,
       "sponsored": 4,
       "dell_stories": 0,
@@ -771,10 +771,6 @@
         },
         {
           "source": "Clubic",
-          "count": 4
-        },
-        {
-          "source": "Crimson Tech",
           "count": 4
         },
         {
@@ -790,6 +786,10 @@
           "count": 4
         },
         {
+          "source": "Crimson Tech",
+          "count": 3
+        },
+        {
           "source": "Loop Infinito",
           "count": 3
         },
@@ -801,21 +801,21 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 35
+          "count": 34
         },
         {
           "section": "Deals",
           "count": 16
         }
       ],
-      "avg_score": 58.1
+      "avg_score": 57.8
     },
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 42,
+      "total": 40,
       "media": 30,
-      "youtube": 12,
+      "youtube": 10,
       "reviews": 6,
       "sponsored": 0,
       "dell_stories": 0,
@@ -861,25 +861,25 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 15
+          "count": 13
         },
         {
           "section": "Ecosystem",
           "count": 4
         }
       ],
-      "avg_score": 49.2
+      "avg_score": 48.0
     },
     {
       "brand": "Alienware",
       "family": "Dell family",
-      "total": 34,
+      "total": 33,
       "media": 15,
-      "youtube": 19,
-      "reviews": 11,
+      "youtube": 18,
+      "reviews": 10,
       "sponsored": 1,
-      "dell_stories": 34,
-      "high_signal": 32,
+      "dell_stories": 33,
+      "high_signal": 31,
       "top_sources": [
         {
           "source": "Lucas Ishii",
@@ -891,10 +891,6 @@
         },
         {
           "source": "Clubic",
-          "count": 2
-        },
-        {
-          "source": "Notebookcheck Reviews",
           "count": 2
         },
         {
@@ -912,19 +908,23 @@
         {
           "source": "GamesRadar+",
           "count": 1
+        },
+        {
+          "source": "Gizmodo",
+          "count": 1
         }
       ],
       "sections": [
         {
           "section": "Dell Coverage",
-          "count": 30
+          "count": 29
         },
         {
           "section": "Deals",
           "count": 4
         }
       ],
-      "avg_score": 95.4
+      "avg_score": 95.3
     },
     {
       "brand": "Valve",
@@ -1378,9 +1378,9 @@
     {
       "month": "2026-07",
       "brands": {
-        "MSI": 3,
         "Asus": 2,
         "Dell": 2,
+        "MSI": 2,
         "Framework": 1,
         "Razer": 1
       }
@@ -1388,14 +1388,14 @@
     {
       "month": "2026-08",
       "brands": {
-        "Apple": 6,
         "Lenovo": 6,
+        "Apple": 4,
         "Asus": 4,
-        "Samsung": 4,
-        "Alienware": 3,
         "Acer": 2,
+        "Alienware": 2,
         "HP": 2,
         "MSI": 2,
+        "Samsung": 2,
         "AMD": 1,
         "Dell": 1,
         "Intel": 1,
@@ -1429,7 +1429,7 @@
       "brands": {
         "Microsoft": 132,
         "Apple": 92,
-        "Asus": 42,
+        "Asus": 44,
         "Amazon": 38,
         "HP": 38,
         "Intel": 38,
@@ -1447,6 +1447,44 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:201600",
+      "kind": "youtube",
+      "source": "JayzTwoCents",
+      "source_icon": "https://yt3.googleusercontent.com/60ZHdHfspX1q6YI8_RW8Zz8fyR8Ne5aDHIwQ0TGN-vFkBWp5J1htI2VsLQQsnVoQbGhIxmJ3lQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Corsair Warthog Case Review: Military-Inspired Design and Build Challenges",
+      "url": "https://www.youtube.com/watch?v=jU5Ki1s1F44",
+      "published_at": "2026-10-11T16:00:16+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:201660",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS Strix G16 gaming laptop review: Power, ports, and poor battery life",
+      "url": "https://www.youtube.com/watch?v=_YnKCg_QuXg",
+      "published_at": "2026-10-11T08:00:18+00:00",
+      "score": 72,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Asus",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:691556",
       "kind": "media",
@@ -6158,47 +6196,47 @@
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:661428",
-      "kind": "media",
-      "source": "Clubic",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Lenovo Yoga Slim 7 with OLED and Ryzen AI 7 on sale for under €900 on Amazon",
-      "url": "https://www.clubic.com/bons-plans-633049-jours-flash-prime-ce-pc-portable-lenovo-yoga-slim-7-associe-oled-et-ryzen-ai-7-pour-moins-de-900-chez-amazon.html",
-      "published_at": "2026-10-07T13:22:00+00:00",
-      "score": 35,
+      "id": "youtube:201600",
+      "kind": "youtube",
+      "source": "JayzTwoCents",
+      "source_icon": "https://yt3.googleusercontent.com/60ZHdHfspX1q6YI8_RW8Zz8fyR8Ne5aDHIwQ0TGN-vFkBWp5J1htI2VsLQQsnVoQbGhIxmJ3lQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Corsair Warthog Case Review: Military-Inspired Design and Build Challenges",
+      "url": "https://www.youtube.com/watch?v=jU5Ki1s1F44",
+      "published_at": "2026-10-11T16:00:16+00:00",
+      "score": 72,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Lenovo",
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:661428",
-      "kind": "media",
-      "source": "Clubic",
-      "source_icon": "",
-      "country": "FR",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "Lenovo Yoga Slim 7 with OLED and Ryzen AI 7 on sale for under €900 on Amazon",
-      "url": "https://www.clubic.com/bons-plans-633049-jours-flash-prime-ce-pc-portable-lenovo-yoga-slim-7-associe-oled-et-ryzen-ai-7-pour-moins-de-900-chez-amazon.html",
-      "published_at": "2026-10-07T13:22:00+00:00",
-      "score": 35,
-      "is_review": false,
+      "id": "youtube:201660",
+      "kind": "youtube",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "ASUS Strix G16 gaming laptop review: Power, ports, and poor battery life",
+      "url": "https://www.youtube.com/watch?v=_YnKCg_QuXg",
+      "published_at": "2026-10-11T08:00:18+00:00",
+      "score": 72,
+      "is_review": true,
       "is_sponsored": false,
-      "brand": "Amazon",
-      "family": "Other",
+      "brand": "Asus",
+      "family": "PC competitors",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "media:691556",
       "kind": "media",
@@ -32629,116 +32667,21 @@
       "is_dell_story": false
     },
     {
-      "id": "youtube:151860",
+      "id": "youtube:201673",
       "kind": "youtube",
-      "source": "Short Circuit",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Review of Intricate's Magic Screen prototype for MacBooks",
-      "url": "https://www.youtube.com/watch?v=P5WzhbRbWKQ",
-      "published_at": "2026-08-27T14:10:28+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:152235",
-      "kind": "youtube",
-      "source": "Notebookcheck Reviews",
-      "source_icon": "https://yt3.googleusercontent.com/nGvS1m1r3lbkU5aZ9hkUs1sRnHyxxsgkKWmb2loJT1N8L4VJnNN4XnpvZI9bCdVf_cIfSrJkf9Y=s68-c-k-c0x00ffffff-no-rj",
-      "country": "DE",
-      "section": "Dell Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Alienware's 39-inch 5K OLED monitor reviewed for gaming and productivity",
-      "url": "https://www.youtube.com/watch?v=G5_ukLtSbT0",
-      "published_at": "2026-08-27T13:00:43+00:00",
-      "score": 100,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Alienware",
-      "family": "Dell family",
-      "is_dell_story": true
-    },
-    {
-      "id": "youtube:151440",
-      "kind": "youtube",
-      "source": "Loop Infinito",
-      "source_icon": "https://yt3.googleusercontent.com/GDHTPQokpmjDxrJbAHuLi1Rhjx1_q75cgDFKboVzzAv8ZcEVi4Wc_HqSIWwwNon5rUXKztkaPA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Samsung Galaxy Book6 Pro Unboxing!",
-      "url": "https://www.youtube.com/watch?v=8m2bS-HNwWc",
-      "published_at": "2026-08-27T00:58:01+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:150931",
-      "kind": "youtube",
-      "source": "Canaltech",
-      "source_icon": "https://yt3.googleusercontent.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s900-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "ASUS Zenbook A14 review highlights battery efficiency and Snapdragon X performance",
-      "url": "https://www.youtube.com/watch?v=-MhKhkJX4Jk",
-      "published_at": "2026-08-26T21:00:04+00:00",
-      "score": 72,
-      "is_review": true,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:150961",
-      "kind": "youtube",
-      "source": "Qual Notebook Comprar?",
-      "source_icon": "https://yt3.googleusercontent.com/T2B6n8_gNBUFnnxDVnGMFYB3DJpcHzCRL6ZIqgInMytIx38Q8HBDQtxUHtxwmqbMydm49KDV=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Unboxing Samsung Galaxy Book6 Pro",
-      "url": "https://www.youtube.com/shorts/HrhEaqx1WAk",
-      "published_at": "2026-08-26T18:51:31+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Samsung",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:150615",
-      "kind": "youtube",
-      "source": "Andrew Marc David",
-      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "source": "Crimson Tech",
+      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
       "country": "US",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "Apple Unveils New M6 Mac Mini and Mac Studio",
-      "url": "https://www.youtube.com/watch?v=r4xX8gr6UPs",
-      "published_at": "2026-08-26T18:22:57+00:00",
+      "title": "Asus Zenbook 14 (2026) Unboxing and Review",
+      "url": "https://www.youtube.com/watch?v=bYC8cc8qf1k",
+      "published_at": "2026-08-26T08:00:33+00:00",
       "score": 72,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "Apple",
+      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
@@ -33172,25 +33115,6 @@
       "title": "MSI Claw 8 EX Launch Edition unboxing - more than just a handheld!",
       "url": "https://www.youtube.com/shorts/5NKMtsky4g0",
       "published_at": "2026-07-14T15:30:42+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "MSI",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:151678",
-      "kind": "youtube",
-      "source": "Crimson Tech",
-      "source_icon": "https://yt3.googleusercontent.com/GjwFyzV5nZOqJ0Ikp1uqQOzaGMedKxqbs4E1dWoGpEIVtVuP5VBOyYrcHu5EbGR1O8t0qJivKQ=s900-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "MSI Stealth 16 (2026) Unboxing - Premium Thin-and-Light Gaming Laptop",
-      "url": "https://www.youtube.com/watch?v=L8Qq4_7eip4",
-      "published_at": "2026-07-12T08:00:07+00:00",
       "score": 72,
       "is_review": false,
       "is_sponsored": false,
