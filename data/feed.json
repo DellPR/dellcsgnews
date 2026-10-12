@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-12T03:06:33.521511+00:00",
+  "generated_at": "2026-10-12T03:10:33.708311+00:00",
   "trigger": "manual",
-  "total": 1435,
+  "total": 1434,
   "counts": {
-    "media": 998,
+    "media": 997,
     "youtube": 297,
     "x": 140
   },
   "section_counts": {
-    "Competitor Coverage": 606,
-    "Deals": 271,
-    "Ecosystem": 254,
+    "Competitor Coverage": 605,
+    "Deals": 272,
+    "Ecosystem": 253,
     "X Watch": 140,
     "Dell Coverage": 116,
     "Market Trends": 48
@@ -3740,7 +3740,7 @@
       "is_deal": true,
       "company": "AOC",
       "product": "",
-      "score": 25,
+      "score": 45,
       "summary": "The article discusses the AOC Agon Pro gaming monitor featuring a QD-OLED panel, QHD resolution, 240 Hz refresh rate, and an adjustable stand, now available at a discounted price of 359 euros.",
       "why_it_matters": "",
       "tags": [
@@ -3756,7 +3756,7 @@
       "has_dell_mention": false,
       "is_competitor_story": false,
       "is_market_story": false,
-      "market_interest": "high"
+      "market_interest": "medium"
     },
     {
       "id": "media:670770",
@@ -4250,40 +4250,6 @@
       "has_dell_mention": false,
       "is_competitor_story": false,
       "is_market_story": true,
-      "market_interest": "high"
-    },
-    {
-      "id": "media:670436",
-      "kind": "media",
-      "source": "Windows Central",
-      "source_icon": "https://www.google.com/s2/favicons?domain=windowscentral.com&sz=64",
-      "country": "US",
-      "title": "Microsoft unveils Surface Laptop Ultra",
-      "display_title": "Microsoft unveils Surface Laptop Ultra",
-      "original_title": "Surface Laptop Ultra",
-      "url": "https://www.windowscentral.com/tag/surface-laptop-ultra",
-      "published_at": "2026-10-08T14:35:40+00:00",
-      "captured_at": "2026-10-08 19:00:09",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "company": "Microsoft",
-      "product": "",
-      "score": 65,
-      "summary": "Article discusses the launch of Microsoft's new Surface Laptop Ultra, highlighting its design, performance, and target audience.",
-      "why_it_matters": "",
-      "tags": [
-        "Windows Central",
-        "US",
-        "Microsoft",
-        "Competitor Coverage"
-      ],
-      "is_review": false,
-      "is_short": false,
-      "is_sponsored": false,
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": true,
-      "is_market_story": false,
       "market_interest": "high"
     },
     {
@@ -9282,40 +9248,6 @@
       "also_competitor_story": true,
       "review_type": "shorts",
       "tone": "unclear"
-    },
-    {
-      "id": "media:655432",
-      "kind": "media",
-      "source": "ZDNET France",
-      "source_icon": "",
-      "country": "FR",
-      "title": "Copilot News, Practical Guides, and Buying Guides on Page 45",
-      "display_title": "Copilot News, Practical Guides, and Buying Guides on Page 45",
-      "original_title": "Copilot Actualité, guides pratiques et guides d'achat - Page 45 - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxdjg1M2JhSmFTdjBIYThXNUQ1aThiTGFPMGpqUFYwQWQzel9uTDRvVkI1cFpVcHlBQ3k0bUpGQ1paUHQ3SExGVXd2SWE4b0M0eE9GRmdmbEUwUQ?oc=5",
-      "published_at": "2026-10-06T20:26:41+00:00",
-      "captured_at": "2026-10-06 22:01:33",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "company": "Microsoft",
-      "product": "",
-      "score": 50,
-      "summary": "ZDNET's page 45 features articles and guides on using Microsoft Copilot, including practical tips and buying advice for products that integrate with the feature.",
-      "why_it_matters": "",
-      "tags": [
-        "ZDNET France",
-        "FR",
-        "Microsoft",
-        "Ecosystem"
-      ],
-      "is_review": false,
-      "is_short": false,
-      "is_sponsored": false,
-      "is_dell_story": false,
-      "has_dell_mention": false,
-      "is_competitor_story": false,
-      "is_market_story": true,
-      "market_interest": "high"
     },
     {
       "id": "media:652531",
@@ -41729,6 +41661,40 @@
       "is_dell_story": false,
       "has_dell_mention": false,
       "is_competitor_story": true,
+      "is_market_story": false,
+      "market_interest": "high"
+    },
+    {
+      "id": "media:485239",
+      "kind": "media",
+      "source": "PCWorld",
+      "source_icon": "https://www.google.com/s2/favicons?domain=pcworld.com&sz=64",
+      "country": "US",
+      "title": "Retro-styled Ryzen 7 mini PC with 16GB RAM now on sale at Amazon",
+      "display_title": "Retro-styled Ryzen 7 mini PC with 16GB RAM now on sale at Amazon",
+      "original_title": "This retro-styled Ryzen 7 mini PC with 16GB RAM is now $518 at Amazon",
+      "url": "https://www.pcworld.com/article/3236984/this-retro-styled-ryzen-7-mini-pc-with-16gb-ram-is-now-518.html",
+      "published_at": "2026-09-16T14:47:10+00:00",
+      "captured_at": "2026-09-17 13:00:16",
+      "section": "Deals",
+      "is_deal": true,
+      "company": "Acemagic",
+      "product": "",
+      "score": 20,
+      "summary": "Acer's Retro X3 mini PC, featuring a Ryzen 7 processor and 16GB RAM, is now available on Amazon with a current discount. The article highlights its retro design and performance specs.",
+      "why_it_matters": "",
+      "tags": [
+        "PCWorld",
+        "US",
+        "Acemagic",
+        "Deals"
+      ],
+      "is_review": false,
+      "is_short": false,
+      "is_sponsored": false,
+      "is_dell_story": false,
+      "has_dell_mention": false,
+      "is_competitor_story": false,
       "is_market_story": false,
       "market_interest": "high"
     },
