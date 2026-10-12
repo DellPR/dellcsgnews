@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T03:10:33.708279+00:00",
+  "generated_at": "2026-10-12T12:17:02.519968+00:00",
   "total_items": 1429,
   "brands": [
     {
@@ -577,9 +577,9 @@
     {
       "brand": "Acer",
       "family": "PC competitors",
-      "total": 59,
+      "total": 60,
       "media": 45,
-      "youtube": 14,
+      "youtube": 15,
       "reviews": 11,
       "sponsored": 2,
       "dell_stories": 0,
@@ -621,7 +621,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 38
+          "count": 39
         },
         {
           "section": "Deals",
@@ -636,7 +636,7 @@
           "count": 1
         }
       ],
-      "avg_score": 59.4
+      "avg_score": 59.6
     },
     {
       "brand": "Qualcomm",
@@ -817,24 +817,24 @@
     {
       "brand": "Samsung",
       "family": "PC competitors",
-      "total": 36,
+      "total": 35,
       "media": 27,
-      "youtube": 9,
+      "youtube": 8,
       "reviews": 7,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 1,
       "top_sources": [
         {
-          "source": "Escolha Segura",
-          "count": 4
-        },
-        {
           "source": "Wccftech",
           "count": 4
         },
         {
           "source": "Clubic",
+          "count": 3
+        },
+        {
+          "source": "Escolha Segura",
           "count": 3
         },
         {
@@ -865,14 +865,14 @@
         },
         {
           "section": "Competitor Coverage",
-          "count": 12
+          "count": 11
         },
         {
           "section": "Ecosystem",
           "count": 4
         }
       ],
-      "avg_score": 50.7
+      "avg_score": 50.1
     },
     {
       "brand": "Alienware",
@@ -1399,11 +1399,11 @@
         "Alienware": 2,
         "HP": 2,
         "MSI": 2,
-        "Samsung": 2,
         "AMD": 1,
         "Dell": 1,
         "Intel": 1,
         "LG": 1,
+        "Samsung": 1,
         "Valve": 1
       }
     },
@@ -1442,8 +1442,8 @@
         "AMD": 27,
         "Dell": 24,
         "Samsung": 21,
+        "Acer": 18,
         "MSI": 18,
-        "Acer": 17,
         "Qualcomm": 14,
         "Alienware": 9,
         "Google": 4
@@ -1451,6 +1451,25 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:202110",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer Googlebook 14 Review: Key Features and Verdict",
+      "url": "https://www.youtube.com/watch?v=mtSlVTeTVKo",
+      "published_at": "2026-10-11T20:15:32+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:692359",
       "kind": "media",
@@ -6181,28 +6200,28 @@
       "brand": "Lenovo",
       "family": "PC competitors",
       "is_dell_story": false
-    },
-    {
-      "id": "media:657115",
-      "kind": "media",
-      "source": "Notebookcheck DE - News",
-      "source_icon": "",
-      "country": "DE",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus introduces fanless NUC 14 Essential mini PC",
-      "url": "https://www.notebookcheck.com/Energieeffizienter-Asus-NUC-14-kommt-mit-2-5-GbE-und-Unterstuetzung-fuer-drei-4K-Monitore.1418130.0.html",
-      "published_at": "2026-10-07T11:44:00+00:00",
-      "score": 68,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
+    {
+      "id": "youtube:202110",
+      "kind": "youtube",
+      "source": "Andrew Marc David",
+      "source_icon": "https://yt3.googleusercontent.com/Xne76Lu9i-ZlTYpXr1DwvayuF2eUjgpJL8BM-hOPj4WHo-yAT3lAp8CmU1TwkaoVJajkpzmB=s68-c-k-c0x00ffffff-no-rj",
+      "country": "US",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Acer Googlebook 14 Review: Key Features and Verdict",
+      "url": "https://www.youtube.com/watch?v=mtSlVTeTVKo",
+      "published_at": "2026-10-11T20:15:32+00:00",
+      "score": 72,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Acer",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
     {
       "id": "media:692359",
       "kind": "media",
@@ -31793,25 +31812,6 @@
       "is_review": false,
       "is_sponsored": false,
       "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:152970",
-      "kind": "youtube",
-      "source": "Escolha Segura",
-      "source_icon": "https://yt3.googleusercontent.com/icMmv_x31OEZupWHlrPAoe4H_aM7KKJFY4JAaS3acV6Dxyo2qbnU9YX6BE5hVW8r1EbuoA6gXg=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Samsung Galaxy Book 6 Pro Unboxing and Performance",
-      "url": "https://www.youtube.com/shorts/EC_Gaa5bfpo",
-      "published_at": "2026-08-27T23:10:30+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Samsung",
       "family": "PC competitors",
       "is_dell_story": false
     },
