@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:34:16.980624+00:00",
+  "generated_at": "2026-10-13T16:36:09.841398+00:00",
   "trigger": "manual",
   "total": 1477,
   "counts": {
@@ -8,11 +8,11 @@
     "x": 142
   },
   "section_counts": {
-    "Competitor Coverage": 603,
+    "Competitor Coverage": 604,
     "Deals": 284,
     "Ecosystem": 283,
     "X Watch": 142,
-    "Dell Coverage": 112,
+    "Dell Coverage": 111,
     "Market Trends": 53
   },
   "brand_metrics": "data/brand_metrics.json",
@@ -35130,21 +35130,22 @@
       "url": "https://www.youtube.com/watch?v=WRrvHR9xVDQ",
       "published_at": "2026-09-23T03:03:50+00:00",
       "captured_at": "2026-09-23 12:00:16",
-      "section": "Dell Coverage",
+      "section": "Competitor Coverage",
       "is_deal": false,
-      "company": "Dell",
+      "company": "Asus",
       "product": "Asus Zenbook 14",
-      "score": 100,
+      "score": 65,
       "summary": "The Asus Zenbook 14 is reviewed as a direct competitor to the MacBook Neo and Dell XPS 13, featuring a Ceraluminum chassis, OLED display, and robust port selection. The review highlights its lightweight design, vibrant OLED screen (300 nits), and upgradable NVMe SSD, but notes concerns about display brightness and a potential SSD bug impacting battery life. The Zenbook 14 is praised for its portability and value, though it faces trade-offs like a glossy screen and lower brightness compared to some rivals.",
       "why_it_matters": "",
       "thumbnail": "https://i4.ytimg.com/vi/WRrvHR9xVDQ/hqdefault.jpg",
       "tags": [
         "Notebookcheck Reviews",
         "DE",
-        "Dell",
+        "Asus",
         "Asus Zenbook 14",
         "Review",
-        "Dell Coverage"
+        "Competitor Coverage",
+        "Dell"
       ],
       "is_review": true,
       "is_short": false,
@@ -35152,9 +35153,9 @@
       "sponsor_brand": "",
       "is_dell_story": true,
       "has_dell_mention": true,
-      "is_competitor_story": false,
+      "is_competitor_story": true,
       "is_market_story": false,
-      "also_competitor_story": false,
+      "also_competitor_story": true,
       "review_type": "review",
       "tone": ""
     },
