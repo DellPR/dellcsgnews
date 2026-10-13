@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T16:36:09.841371+00:00",
-  "total_items": 1460,
+  "generated_at": "2026-10-13T18:07:26.216573+00:00",
+  "total_items": 1464,
   "brands": [
     {
       "brand": "Microsoft",
@@ -393,10 +393,10 @@
     {
       "brand": "NVIDIA",
       "family": "Ecosystem",
-      "total": 77,
+      "total": 78,
       "media": 66,
-      "youtube": 11,
-      "reviews": 6,
+      "youtube": 12,
+      "reviews": 7,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 16,
@@ -437,7 +437,7 @@
       "sections": [
         {
           "section": "Ecosystem",
-          "count": 45
+          "count": 46
         },
         {
           "section": "Competitor Coverage",
@@ -452,7 +452,7 @@
           "count": 2
         }
       ],
-      "avg_score": 67.5
+      "avg_score": 67.4
     },
     {
       "brand": "Dell",
@@ -945,9 +945,9 @@
     {
       "brand": "Valve",
       "family": "Ecosystem",
-      "total": 25,
+      "total": 26,
       "media": 12,
-      "youtube": 13,
+      "youtube": 14,
       "reviews": 4,
       "sponsored": 0,
       "dell_stories": 0,
@@ -955,7 +955,7 @@
       "top_sources": [
         {
           "source": "Lipe Mal Estar",
-          "count": 7
+          "count": 8
         },
         {
           "source": "VideoCardz",
@@ -989,7 +989,7 @@
       "sections": [
         {
           "section": "Market Trends",
-          "count": 23
+          "count": 24
         },
         {
           "section": "Competitor Coverage",
@@ -1000,7 +1000,7 @@
           "count": 1
         }
       ],
-      "avg_score": 70.4
+      "avg_score": 70.0
     },
     {
       "brand": "Google",
@@ -1069,10 +1069,10 @@
     {
       "brand": "Framework",
       "family": "PC competitors",
-      "total": 14,
+      "total": 16,
       "media": 12,
-      "youtube": 2,
-      "reviews": 2,
+      "youtube": 4,
+      "reviews": 4,
       "sponsored": 0,
       "dell_stories": 0,
       "high_signal": 0,
@@ -1102,21 +1102,25 @@
           "count": 1
         },
         {
-          "source": "Marques Brownlee (MKBHD)",
+          "source": "Jarrod's Tech",
           "count": 1
         },
         {
-          "source": "Tech Advisor",
+          "source": "Marques Brownlee (MKBHD)",
           "count": 1
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 12
+          "count": 13
         },
         {
           "section": "Deals",
+          "count": 1
+        },
+        {
+          "section": "Ecosystem",
           "count": 1
         },
         {
@@ -1124,7 +1128,7 @@
           "count": 1
         }
       ],
-      "avg_score": 64.5
+      "avg_score": 64.7
     },
     {
       "brand": "OpenAI",
@@ -1421,8 +1425,10 @@
         "MSI": 2,
         "AMD": 1,
         "Dell": 1,
+        "Framework": 1,
         "Intel": 1,
         "LG": 1,
+        "NVIDIA": 1,
         "Samsung": 1,
         "Valve": 1
       }
@@ -1471,6 +1477,44 @@
     }
   ],
   "recent": [
+    {
+      "id": "youtube:204300",
+      "kind": "youtube",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Framework Laptop 12 refresh fixes battery life",
+      "url": "https://www.youtube.com/watch?v=tmIQr4gVrgo",
+      "published_at": "2026-10-13T15:00:19+00:00",
+      "score": 74,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:204645",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Running SteamOS and PC games on an Android phone",
+      "url": "https://www.youtube.com/watch?v=fkWqD1q-Qdw",
+      "published_at": "2026-10-13T12:45:26+00:00",
+      "score": 60,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Valve",
+      "family": "Ecosystem",
+      "is_dell_story": false
+    },
     {
       "id": "media:707931",
       "kind": "media",
@@ -6182,47 +6226,47 @@
       "brand": "Microsoft",
       "family": "PC competitors",
       "is_dell_story": false
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "media:667346",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
+      "id": "youtube:204300",
+      "kind": "youtube",
+      "source": "Short Circuit",
+      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
       "section": "Competitor Coverage",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "MSI launches first RTX Spark Prestige laptop",
-      "url": "https://wccftech.com/msi-prestige-n16-flip-ai-brings-nvidia-rtx-spark/",
-      "published_at": "2026-10-08T11:49:29+00:00",
-      "score": 82,
-      "is_review": false,
+      "title": "Framework Laptop 12 refresh fixes battery life",
+      "url": "https://www.youtube.com/watch?v=tmIQr4gVrgo",
+      "published_at": "2026-10-13T15:00:19+00:00",
+      "score": 74,
+      "is_review": true,
       "is_sponsored": false,
-      "brand": "MSI",
+      "brand": "Framework",
       "family": "PC competitors",
       "is_dell_story": false
     },
     {
-      "id": "media:667346",
-      "kind": "media",
-      "source": "Wccftech",
-      "source_icon": "https://www.google.com/s2/favicons?domain=wccftech.com&sz=64",
-      "country": "US",
-      "section": "Competitor Coverage",
+      "id": "youtube:204645",
+      "kind": "youtube",
+      "source": "Lipe Mal Estar",
+      "source_icon": "https://yt3.googleusercontent.com/Aev7wglw5Ppug4R97-LpBA9W47biSlmNifR90xMNgsNtjB0-mw6e3yt3GKKlPlvTojbf02sprA=s68-c-k-c0x00ffffff-no-rj",
+      "country": "BR",
+      "section": "Market Trends",
       "is_deal": false,
       "deal_metric_only": false,
-      "title": "MSI launches first RTX Spark Prestige laptop",
-      "url": "https://wccftech.com/msi-prestige-n16-flip-ai-brings-nvidia-rtx-spark/",
-      "published_at": "2026-10-08T11:49:29+00:00",
-      "score": 82,
+      "title": "Running SteamOS and PC games on an Android phone",
+      "url": "https://www.youtube.com/watch?v=fkWqD1q-Qdw",
+      "published_at": "2026-10-13T12:45:26+00:00",
+      "score": 60,
       "is_review": false,
       "is_sponsored": false,
-      "brand": "NVIDIA",
+      "brand": "Valve",
       "family": "Ecosystem",
       "is_dell_story": false
-    }
-  ],
-  "items": [
+    },
     {
       "id": "media:707931",
       "kind": "media",
@@ -32441,6 +32485,44 @@
       "is_sponsored": false,
       "brand": "Asus",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:204711",
+      "kind": "youtube",
+      "source": "Jarrod's Tech",
+      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "AU",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "RTX 5070 12GB improves demanding games but costs more",
+      "url": "https://www.youtube.com/watch?v=RfNhVDS_QFo",
+      "published_at": "2026-08-28T11:30:04+00:00",
+      "score": 58,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "Framework",
+      "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:204711",
+      "kind": "youtube",
+      "source": "Jarrod's Tech",
+      "source_icon": "https://yt3.googleusercontent.com/TzRzdpfOxRMnJOtfLyghMgcQIiwxXtrvhB6soBqWMl7O_Oqc9NIDUpKUGMYk79zem7sqP5bTZg=s68-c-k-c0x00ffffff-no-rj",
+      "country": "AU",
+      "section": "Ecosystem",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "RTX 5070 12GB improves demanding games but costs more",
+      "url": "https://www.youtube.com/watch?v=RfNhVDS_QFo",
+      "published_at": "2026-08-28T11:30:04+00:00",
+      "score": 58,
+      "is_review": true,
+      "is_sponsored": false,
+      "brand": "NVIDIA",
+      "family": "Ecosystem",
       "is_dell_story": false
     },
     {
