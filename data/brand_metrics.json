@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T22:08:35.206854+00:00",
-  "total_items": 1472,
+  "generated_at": "2026-10-13T23:32:38.687824+00:00",
+  "total_items": 1469,
   "brands": [
     {
       "brand": "Microsoft",
@@ -69,9 +69,9 @@
     {
       "brand": "Apple",
       "family": "PC competitors",
-      "total": 200,
+      "total": 199,
       "media": 146,
-      "youtube": 54,
+      "youtube": 53,
       "reviews": 44,
       "sponsored": 0,
       "dell_stories": 0,
@@ -98,15 +98,15 @@
           "count": 8
         },
         {
-          "source": "Max Tech",
-          "count": 8
-        },
-        {
           "source": "Engadget",
           "count": 7
         },
         {
           "source": "Frandroid",
+          "count": 7
+        },
+        {
+          "source": "Max Tech",
           "count": 7
         }
       ],
@@ -121,7 +121,7 @@
         },
         {
           "section": "Ecosystem",
-          "count": 5
+          "count": 4
         },
         {
           "section": "Dell Coverage",
@@ -137,11 +137,11 @@
     {
       "brand": "Asus",
       "family": "PC competitors",
-      "total": 126,
+      "total": 124,
       "media": 76,
-      "youtube": 50,
+      "youtube": 48,
       "reviews": 35,
-      "sponsored": 3,
+      "sponsored": 2,
       "dell_stories": 0,
       "high_signal": 3,
       "top_sources": [
@@ -181,7 +181,7 @@
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 97
+          "count": 95
         },
         {
           "section": "Deals",
@@ -201,9 +201,9 @@
     {
       "brand": "Lenovo",
       "family": "PC competitors",
-      "total": 124,
+      "total": 123,
       "media": 82,
-      "youtube": 42,
+      "youtube": 41,
       "reviews": 28,
       "sponsored": 3,
       "dell_stories": 0,
@@ -249,7 +249,7 @@
         },
         {
           "section": "Deals",
-          "count": 36
+          "count": 35
         },
         {
           "section": "Dell Coverage",
@@ -264,7 +264,7 @@
           "count": 1
         }
       ],
-      "avg_score": 65.2
+      "avg_score": 65.7
     },
     {
       "brand": "HP",
@@ -1005,9 +1005,9 @@
     {
       "brand": "Google",
       "family": "Other",
-      "total": 22,
+      "total": 23,
       "media": 16,
-      "youtube": 6,
+      "youtube": 7,
       "reviews": 4,
       "sponsored": 0,
       "dell_stories": 0,
@@ -1042,14 +1042,14 @@
           "count": 1
         },
         {
-          "source": "Marques Brownlee (MKBHD)",
+          "source": "LMGClips",
           "count": 1
         }
       ],
       "sections": [
         {
           "section": "Competitor Coverage",
-          "count": 9
+          "count": 10
         },
         {
           "section": "Ecosystem",
@@ -1416,11 +1416,11 @@
     {
       "month": "2026-08",
       "brands": {
-        "Lenovo": 6,
-        "Asus": 4,
-        "Apple": 3,
+        "Lenovo": 5,
         "Acer": 2,
         "Alienware": 2,
+        "Apple": 2,
+        "Asus": 2,
         "HP": 2,
         "MSI": 2,
         "AMD": 1,
@@ -1472,7 +1472,7 @@
         "Acer": 20,
         "Qualcomm": 16,
         "Alienware": 10,
-        "Google": 8
+        "Google": 9
       }
     }
   ],
@@ -1570,6 +1570,25 @@
       "is_sponsored": false,
       "brand": "Apple",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:205156",
+      "kind": "youtube",
+      "source": "LMGClips",
+      "source_icon": "https://yt3.googleusercontent.com/NO9_Ek-oyWF-AkGrZVS3kCdWJo7PCjCsY5WUlM-7G-1mPu_8gWDcTfX1asa4tQnWQTI62rZf=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Googlebook failures nearly derail the WAN Show",
+      "url": "https://www.youtube.com/watch?v=ahXB3n5uAKA",
+      "published_at": "2026-10-13T19:15:59+00:00",
+      "score": 68,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Google",
+      "family": "Other",
       "is_dell_story": false
     },
     {
@@ -6207,25 +6226,6 @@
       "brand": "NVIDIA",
       "family": "Ecosystem",
       "is_dell_story": false
-    },
-    {
-      "id": "media:670745",
-      "kind": "media",
-      "source": "Computerworld",
-      "source_icon": "https://www.google.com/s2/favicons?domain=computerworld.com&sz=64",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Copilot gains local file actions and on-device AI",
-      "url": "https://www.computerworld.com/article/4232487/microsoft-will-let-copilot-act-on-local-files-on-windows-pcs.html",
-      "published_at": "2026-10-08T16:02:26+00:00",
-      "score": 84,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Microsoft",
-      "family": "PC competitors",
-      "is_dell_story": false
     }
   ],
   "items": [
@@ -6322,6 +6322,25 @@
       "is_sponsored": false,
       "brand": "Apple",
       "family": "PC competitors",
+      "is_dell_story": false
+    },
+    {
+      "id": "youtube:205156",
+      "kind": "youtube",
+      "source": "LMGClips",
+      "source_icon": "https://yt3.googleusercontent.com/NO9_Ek-oyWF-AkGrZVS3kCdWJo7PCjCsY5WUlM-7G-1mPu_8gWDcTfX1asa4tQnWQTI62rZf=s68-c-k-c0x00ffffff-no-rj",
+      "country": "CA",
+      "section": "Competitor Coverage",
+      "is_deal": false,
+      "deal_metric_only": false,
+      "title": "Googlebook failures nearly derail the WAN Show",
+      "url": "https://www.youtube.com/watch?v=ahXB3n5uAKA",
+      "published_at": "2026-10-13T19:15:59+00:00",
+      "score": 68,
+      "is_review": false,
+      "is_sponsored": false,
+      "brand": "Google",
+      "family": "Other",
       "is_dell_story": false
     },
     {
@@ -32560,82 +32579,6 @@
       "is_review": true,
       "is_sponsored": false,
       "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:155190",
-      "kind": "youtube",
-      "source": "Loop Infinito",
-      "source_icon": "https://yt3.googleusercontent.com/GDHTPQokpmjDxrJbAHuLi1Rhjx1_q75cgDFKboVzzAv8ZcEVi4Wc_HqSIWwwNon5rUXKztkaPA=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Asus Zenbook Duo Price in Brazil: Is It Expensive?",
-      "url": "https://www.youtube.com/shorts/3QzgRSzyFaA",
-      "published_at": "2026-08-29T16:09:52+00:00",
-      "score": 65,
-      "is_review": false,
-      "is_sponsored": true,
-      "brand": "Asus",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:154830",
-      "kind": "youtube",
-      "source": "Just Josh",
-      "source_icon": "https://yt3.googleusercontent.com/CvfPo0rqVUpJ_BKrmZ_kTFkCgIQgrZfQSvnqUIz4xLjIl8nz5MrGuAqfHh4PJki6z_vK8zDK_g=s68-c-k-c0x00ffffff-no-rj",
-      "country": "CA",
-      "section": "Deals",
-      "is_deal": true,
-      "deal_metric_only": true,
-      "title": "2026 student laptop recommendations comparing Apple, HP, Lenovo, and Gigabyte models",
-      "url": "https://www.youtube.com/shorts/VHkXphRFRBo",
-      "published_at": "2026-08-29T15:00:08+00:00",
-      "score": 0,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Lenovo",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:155400",
-      "kind": "youtube",
-      "source": "Max Tech",
-      "source_icon": "https://yt3.googleusercontent.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s900-c-k-c0x00ffffff-no-rj",
-      "country": "US",
-      "section": "Ecosystem",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Apple unveils M5 Max and M5 Ultra chips with performance upgrades and new features",
-      "url": "https://www.youtube.com/watch?v=7UcSploiSp4",
-      "published_at": "2026-08-29T14:00:39+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Apple",
-      "family": "PC competitors",
-      "is_dell_story": false
-    },
-    {
-      "id": "youtube:155280",
-      "kind": "youtube",
-      "source": "Tech BR",
-      "source_icon": "https://yt3.googleusercontent.com/V1PULXfo6tHFzuxte_VvYd6he6ZrjVxuauu3w43IFtVD6DJOvxfjjvI0qBbblg0eJ-PnQaet=s68-c-k-c0x00ffffff-no-rj",
-      "country": "BR",
-      "section": "Competitor Coverage",
-      "is_deal": false,
-      "deal_metric_only": false,
-      "title": "Best Value Laptops for Work and Study 2026",
-      "url": "https://www.youtube.com/watch?v=eire4JYRZO0",
-      "published_at": "2026-08-29T13:45:04+00:00",
-      "score": 72,
-      "is_review": false,
-      "is_sponsored": false,
-      "brand": "Asus",
       "family": "PC competitors",
       "is_dell_story": false
     },
